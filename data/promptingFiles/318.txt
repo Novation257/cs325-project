@@ -1,0 +1,24 @@
+Nvidia And These Surprise AI Darlings Are 2024’s Best Stocks
+
+Jul 04, 2024, 04:15am EDT
+
+Belle of the ball Nvidia was the S&P 500’s best-performing stock during the first half of 2024, but there were several perhaps less predictable winners as the S&P rose to a record high, including a sector typically viewed as an underperformer during macroeconomic periods similar to today’s.
+Nvidia’s 150% return since the end of last year is the best of the roughly 490 S&P components listed on the benchmark American equity index for the entirety of 2024 (data storage leader Super Micro Computer, General Electric spinoff GE Vernova and private equity giant KKR were among the about 10 midyear additions).
+Growing its market value from $1.2 trillion to over $3 trillion, Nvidia rode its 600% annual profit growth and the potential to further capitalize on its graphics processing units (GPUs) which power mush of the generative AI revolution, repeating its success as the S&P’s biggest first-half and full-year winner in 2023.
+Super Micro is the S&P’s top year-to-date returner among today’s constituents at 188%, but all of its gains came before it joined the index March 18, as its stock is down more than 15% since its inclusion.
+After Super Micro and Nvidia, the S&P’s top 10 also include fellow AI tech names Micron (No. 7, 55% return) and CrowdStrike (No. 9, 51% return), and GLP-1 weight loss drug heavyweight Eli Lilly (No. 5, 57% return).
+It’s also been a good year for a trio of lesser-known power providers: Vistra (No. 3, 119% return), Constellation Energy (No. 4, 73% return) and NRG Energy (No. 8, 52% return).
+Constellation, NRG and Vistra are all classified as utilities, providing remarkable returns in a sector which conventional wisdom pegs as a poor bet during high interest-rate environments due to utility companies’ reliance on debt financing to fund their capital-draining operations.
+Management at each of Constellation, NRG, and Vistra alluded to demand for their services among power-hungry AI data centers as a boon for their businesses, showcasing the offshoot effects of the AI boom starting to seep into the stock market.
+Get Forbes Breaking News Text Alerts: We’re launching text message alerts so you'll always know the biggest stories shaping the day’s headlines. Text “Alerts” to (201) 335-0739 or sign up here.
+
+
+The S&P’s utilities sector is the third-best performer this year of the index’s 13 sectors, returning nearly 11%. That trails only the information technology sector, which includes Nvidia and Super Micro, and the communication services sector, which covers stocks like Netflix and Meta, both groups comprised of the stocks most heavily exposed to AI.
+Utilities’ renaissance comes after it was by far the biggest loser of 2023, losing 10.6% as the S&P gained 26%. Interest rates, which are at their highest level in the U.S. since 2001, dampened earnings across the sector, with titans like NextEra Energy’s first-quarter earnings before interest, taxes, depreciation and amortization (EBITDA) down some 30% compared to 2022’s first quarter. Higher rates also lure investors away from the high dividend payouts often offered by utility companies, as higher-yielding government bonds offer a higher sense of security. The stock market broadly has defied conventional wisdom that higher interest rates bring lagging returns, as the S&P, tech-heavy Nasdaq and Dow Jones Industrial Average all notched all-time highs in 2024.
+The Wells Fargo Investment Institute downgraded its rating on the utilities sector to unfavorable in its midyear outlook published in June. Sameer Samana, the Wells Fargo wealth management division’s senior global market strategist, explained to Forbes that the utilities sector is “toward the bottom” of industries that would benefit from the second-order effects of the AI boom. It would take several years for utility companies to actually provide more power to account for any new demand tied to AI applications, Samana added, concluding there are ”more direct and more immediate ways to play” AI.
+
+NVDA price 3 days before article release: 123.48046112060548
+
+NVDA price 1 day before article release: 122.6108856201172
+
+NVDA price the day of article release: 128.21817016601562

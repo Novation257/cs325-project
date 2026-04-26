@@ -1,0 +1,29 @@
+Nvidia RTX 40 Super Series Graphics Cards: Everything We Know So Far
+
+Jan 07, 2024, 07:28am EST
+
+Nvidia is expected to launch three new graphics cards this month, starting with the GeForce RTX 4070 Super and followed by the RTX 4070 Ti Super and RTX 4080 Super, all of which have been rumored for months, but recently confirmed by a series of leaked information from manufacturers and retailers.
+The most exciting part so far is the pricing. Nvidia has seemingly adopted a more aggressive pricing structure for the new Super series, which will sit alongside or replace their original 40-series counterparts. Various sources have claimed the same pricing structure with YouTube channel Moore's Law is Dead rounding up the details as follows.
+Starting at the top, the RTX 4080 Super is rumored to retail for $999, which is a $200 climb down from the launch price of the RTX 4080.  However, rumors are that thanks to an upgraded specification, it will sit much closer towards RTX 4090 performance, which may infuriate owners of that card given it costs significantly more and could explain the need for a rumored RTX 4090 Super.
+That's still a lot of money to pay for a graphics card, but more performance for less cash is never a bad thing so if the RTX 4080 Super does come in at $999, it's step in the right direction. The RTX 4080 won't be around for long after the launch of the Super model, which is going to replace it.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+The RTX 4070 Ti Super is meant to retail for $799, which is a little above what you can pick up a standard RTX 4070 Ti for right now. It boasts perhaps the biggest upgrade, though, with more memory, which you can read about in the specifications below, and is meant to offer performance closer to the RTX 4080 and like that card, the Super version will replace the original RTX 4070 Ti.
+Finally there's the RTX 4070 Super, which has a rumored $599 launch price. This is $50 higher than the standard version, but the newer card is meant to have performance closer to the $750 RTX 4070 Ti.  Unlike the other two cards, though, the RTX 4070 Super will sit alongside the RTX 4070, with the latter likely getting a price cut.
+The RTX 4080 Super is rumored to get more CUDA cores, rising from 9,728 to 10,240, a higher core boost clock and while it will have the same 16GB of GDDR6X memory, this will be faster than the standard version too at 23Gbps compared to 22.4Gbps.
+The RTX 4070 Ti Super is meant to use a cut-down AD103 GPU core that's the same as that under the hood of the RTX 4080, gets a big memory upgrade from 12GB to 16GB and also get s a 256-bit memory bus - the same as the RTX 4080 -  compared to 192-bit. There's also a big increase in CUDA cores from 7,680 to 8,448. This is still a way off the 9,728 included with the RTX 4080, but the RTX 4070 Ti Super does also have a higher boost frequency than the RTX 4080, adding weight to rumors it will perform close to that card in games. The extra memory will also bolster its credentials against AMD, which has 16GB of memory on most of its mid-range and high-end cards.
+The RTX 4070 Super gets a sizable increase in CUDA cores from 5,888 to 7,168, but so far that's the only rumored significant upgrade. This should give it a decent lead in games, though, given the CUDA core count sits close to that of the RTX 4070 Ti.
+Nvidia is reversing it's usual launch process of most expensive card first, this time beginning with the RTX 4070 Super on January 17th. A week later the RTX 4070 Super will land on 24th and finally the RTX 4080 Super will out on January 31st. This could be to allow stocks of both the RTX 4070 Ti and RTX 4080 to be sold seeing as both those cards will be replaced by the new Super models so watch for price cuts of both these cards over the next few weeks and also for the RTX 4070 once the RTX 4070 Super has launched.
+I’ll be reviewing all three cards this month so make sure you follow me here on Forbes for the latest on Nvidia's January graphics card bonanza or find me on Facebook.
+
+NVDA price 3 days before article release: 48.13856887817383
+
+NVDA price 1 day before article release: 47.96867752075195
+
+NVDA price the day of article release: 49.0670051574707

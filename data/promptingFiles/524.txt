@@ -1,0 +1,20 @@
+Battlefield 2042’s Nvidia PC Trailer Has Some Big Problems
+
+Nov 02, 2021, 08:00am EDT
+
+EA and Nvidia have teamed up to show off Battlefield 2042’s PC features in a trailer designed to wow us with ray-tracing, DLSS and the latency-optimizing Nvidia Reflex technology.
+These are all terrific bonuses for owners of an Nvidia GPU. Ray-tracing can seriously enhance lighting effects. DLSS (Deep Learning Super Sampling) can give games a major performance boost, and anyone who plays competitive first-person shooters can get behind improved latency.
+But—and this is a very big but—this Battlefield 2042 trailer does not do these technologies justice. As of the time of this writing, the trailer has just under 200,000 views with 4.1k likes and 4.3k dislikes. The commenters are amused and baffled and generally unhappy.
+Give the video a watch before we go further:
+Two things.
+First, a good chunk of this trailer is just pre-rendered cinematics, some of which we’ve seen before, none of which ought to be in a trailer about real-time graphics. We want to see how gameplay looks using an RTX graphics card, not how cinematics look.
+Second, the actual gameplay on display here isn’t particularly impressive. Framerate drops are clearly visible at times. At no point during this trailer did I find myself thinking “Wow, that ray-tracing sure is nice, just look at that ambient occlusion!” Nvidia has put out much more compelling advertisements for its impressive GPU tech.
+This is simply not what I would have chosen to market the game or the RTX line of graphics cards. Surely a more impressive, gameplay-forward trailer could have been cobbled together? One that really shows off the tech without those pesky FPS drops. One that gives us some actually impressive lighting (though ray-tracing is not as high on my priorities as smooth 60fps+ gameplay and low-latency).
+Battlefield 2042 releases on November 19th on PC, Xbox and PlayStation with early access beginning on November 12th.
+Follow me on Twitter and Facebook. You can support my work on Patreon and sign up for my newsletter on Substack. Subscribe to my YouTube channel here.
+
+NVDA price 3 days before article release: 24.888383865356445
+
+NVDA price 1 day before article release: 25.772520065307617
+
+NVDA price the day of article release: 26.345304489135746

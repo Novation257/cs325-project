@@ -1,0 +1,19 @@
+Coinbase, Robinhood Shares Jump As Ethereum Merge Holds Growth Prospects, Nvidia Steady
+
+Sep 15, 2022, 11:20am EDT
+
+Coinbase and Robinhood, two stocks expected to benefit from Ethereum replacing its energy-intensive proof-of-work setup for a carbon-efficient proof-of-stake alternative surged after as trading began on Thursday.
+Coinbase is up 4.29%, with Robinhood at 3.96% as broader stock indexes declined by as much as 1%. By comparison, ether is up only 0.33% since the stock market opened and remains negative since The Merge occurred at 2:42 am EDT.
+The brokerage equities were expected to benefit from the companies’ unique positions as the only major publicly traded firms that offer exposure to ether. Coinbase went public last April via a direct listing on the New York Stock Exchange at a record $86 billion valuation. Robhinood debuted on Nasdaq late last year and has been steadily increasing its crypto offerings since their launch in 2018.
+The gains come after both stocks struggled mightily this year as part of the overall market climbdown. Coinbase has been hurt particularly hard–it is still down 67% for 2022–as investors punished it as crypto sentiment plummeted as crypto’s market value has lost $2 trillion and bitcoin fell to just north of $20,000 from about $47,000 at the end of 2021.
+Ether has been a growing driver of trading volume and revenue for Coinbase over the past three quarters. In addition, according to a research note from Oppenheimer & Co, the trading firm could be expected to add an additional $439 million in annual revenue from its ether staking services. Staking allows users to earn additional yield on their holdings by posting them as collateral to the network in exchange for processing transactions for financial reward. The process can be complicated so exchanges such as Coinbase offer simple services to facilitate staking by customers in exchange for a percentage of the yield.
+“We believe The Merge will have a long-term benefit to COIN,” Oppenheimer wrote, referring to the Coinbase ticker symbol.” Assuming ETH price of $2,000, 30% staked ratio, 4% yield, and 15% market share for COIN, we estimate that COIN can generate $439M gross revenue and $68M net revenue from ETH staking. These numbers can increase meaningfully if ETH price goes up and with increased penetration of ETH and non-ETH staking.”
+Robinhood does not offer staking services along with its commission-free brokerage offerings, but according to its latest 10-K accompanying its Q2 earnings, the firm has $2.2 billion worth of ether under custody.
+Whether these trends persist in the immediate future depends on if the platforms see a surge in staking activity and trading revenue. According to data from Glassnode, ether was flooding into exchanges right before the Merge, a potential harbinger of trading activity. Trading volume appears to be slightly above average for the past few months, according to the latest data from Coinbase.
+Finally, it is worth taking note of Nvidia. The inventor of the graphics processing unit (GPU) computer chip, which was essential to mining Ethereum, is a potential loser from The Merge. GPU demand accounted for up to 30% of demand for Nvidia chips according to some estimates, so the shift away from Ethereum mining threatened to put a major dent into its revenue. However, the stock is up slightly this morning, suggesting that this change in demand was already priced into the asset, which has fallen about 56% this year.
+
+NVDA price 3 days before article release: 14.486004829406738
+
+NVDA price 1 day before article release: 13.110807418823242
+
+NVDA price the day of article release: 12.912068367004396

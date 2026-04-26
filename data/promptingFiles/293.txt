@@ -1,0 +1,51 @@
+Nvidia Stock Could Fall Due To Startup’s 20 Times Faster Chip
+
+Sep 02, 2024, 07:58am EDT
+
+Nvidia stock declined in August after the company forecasted a drop in its revenue growth rate, according my recent Forbes post.
+The AI chip designer dominates the fast-growing market for such chips with a share of more than 80%. So, Nvidia’s slower growth — from 122% in the second quarter to 80% forecast in the third — raises questions for investors:
+
+
+The short answers are yes, no, and maybe.
+
+
+What does this mean for the AI chip designer’s stock? If the company resumes the triple-digit growth rates it achieved in recent quarters, Nvidia stock could rise. If investors think the company’s growth will keep decelerating, now could be a good time to sell the stock.
+Two drivers — especially in combination — could accelerate Nvidia’s growth. These include an increase in the rate of demand growth for AI chips and Nvidia’s successful launch of new chips that deliver a much higher return on investment for customers than previous versions.
+The growth in demand for AI chips depends on whether a generative AI killer app emerges. While some companies initially feared they would miss out on the promise of AI chatbots, there now also are fears of lawsuits if the technology hallucinates.
+That is making them hesitant to deploy their AI investments. “Boards are going bipolar,” Yoav Shoham, co-founder of AI21 Labs, an AI software maker competing with OpenAI, told me in an August interview.
+Of 200 to 300 generative AI experiments the typical large company is undertaking, a mere 10 to 15 have been rolled out internally, and perhaps one or two have been released to customers, according to my June interview with Liran Hason, CEO of Aporia, a startup offering guardrails to protect companies from AI hallucinations.
+To unlock further demand, a generative AI killer app — that gives many people an overwhelming need to use a new technology because it saves them so much time and money — must emerge. For example, the killer app for the personal computer was the electronic spreadsheet while the iPod’s was the iTunes store.
+Customers are enjoying a fast return on investment on the company’s chips. “The people who are investing in Nvidia infrastructure are getting returns on it right away,” Nvidia CEO Jensen Huang said on an August 29 call with analysts. “It’s the best ROI infrastructure, computing infrastructure investment you can make today.”
+What is the source of Nvidia’s return on investment? Despite charging a higher price than competitors do, the company’s chips perform better and cost less to run — which more than offsets their higher price due to their lowest total cost of ownership, according to my new book, Brain Rush.
+Demand for Nvidia’s Blackwell chips is “incredible,” Huang said in an August 29 press release. “Global data centers are in full throttle to modernize the entire computing stack with accelerated computing and generative AI,” he added.
+Nvidia said it shipped samples of Blackwell chips during the quarter and changed the product to make it more efficient to manufacture. “In the fourth quarter, we expect to ship several billion dollars in Blackwell revenue,” Nvidia CFO Colette Kress said in an August 29 statement.
+Compared to AMD and Intel, Nvidia is growing faster and earning more profit. Nvidia’s most recent growth rate — 122% in the second quarter — outpaced AMD (8.9%) and Intel (-1%). Nvidia’s 71.8% gross margin was also higher than AMD’s (49%) and Intel’s (35%), according to Yahoo! Finance.
+Nvidia’s relatively high margins are due to higher prices and higher demand. “I was in a meeting at one of NVD’s competitors once and the CFO said to a room filled with C level executives, ‘If your products are so damn good, why is the GM so damn low?’ ” Peddie wrote me in an August 30 email.
+“And the answer was, although no one dared say it, ‘We don’t really think we’re as good as they are so our differentiation is price’, ” he added.
+Two essential capabilities enable Nvidia to outgrow and outearn rivals:
+
+
+Despite these advantages, Nvidia’s revenue growth is clearly slowing down. Technical problems with Blackwell may have contributed to that slowdown. If rivals can deliver chips that work faster and cost less, perhaps coders will write software for competing chips — costing Nvidia market share.
+Nvidia said product issues were largely responsible for a decline in gross profit margins between the first and second quarters of 2024, noted the Wall Street Journal. More specifically, the company’s second-quarter gross margin of 75.1% declined 3.3 percentage points from the previous period.
+While Nvidia did not provide details of the product issues, analysts and industry executives said the large size of the Blackwell chips led to manufacturing challenges. That’s because Nvidia’s design requires the joining of “two advanced new Nvidia processors and numerous memory components in a single, delicate mesh of silicon, metal and plastic,” noted the Journal.
+The complexity of the chips complicates the odds that they will not operate properly. Defects in and heat from any component can cause the whole chip to fail — lowering the percentage of usable $40,000 Blackwell chips coming out of the manufacturing process, the Journal wrote.
+Nvidia has significant experience dealing with such challenges. The technical challenges include “race problems – speed is everything and moving data from one part to another creates timing challenges,” noted Peddie’s email.
+“Zillions of hours in a simulator are spent trying to find them all and correct, and still once the silicon is made, new ones show up. NVD (and other semi companies) know this and design in compensations and redundancies to work around it if an issue pops up,” he added.
+It will take time before it becomes clear whether Nvidia will overcome these technical challenges.
+Cerebras Systems is a $4.2 billion (2021 private market valuation, according to PitchBook), 430-employee Sunnyvale, Calif-based chip-making startup that competes with Nvidia. The company has taken a different approach to designing Blackwell-like chips — which enables its chip to process information faster and less expensively than Nvidia’s.
+“To do meaningful work in AI, you need a huge amount of compute, and that converts to many transistors, many more than can fit on a single chip,” Andrew Feldman, a Cerebras founder, told the Journal. “The technology to get to two [chips] is difficult to develop, the technology to get to four is harder, and to get to eight, even harder,” he added.
+Cerebras — whose customers include AstraZeneca and the Mayo Clinic — “figured out how to connect and operate as one huge chip,” noted the Journal. Moreover, last week the startup launched a cloud-computing service for AI inferencing — namely responding to natural language user queries — after the AI chatbot has been trained.
+Cerebras — which filed confidentially for an IPO in April and could go public in October 2024 — claims the inferencing service operates “with 20 times the speed at a fraction of the cost” of competing chips, according to AI News.
+Using the company’s Wafer-Scale Engine, Cerebras claims its service is 20 times faster — achieving speeds of 1,800 output tokens per second — than the usual hyperscale cloud products using Nvidia’s GPUs, AI News wrote. What’s more, the Cerebras-powered service is “also more cost-efficient,” sources told AI News.
+While large companies might opt for Cerebras to save time and money, smaller ones are likely to stick with Nvidia. “The key question is whether enterprises are willing to adapt their engineering processes to work with Cerebras’ system,” David Nicholson, an analyst at Futurum Group, told AI News.
+Since Nvidia already offers established solutions, smaller companies lacking the larger firms’ capital may consider it worth changing their engineering processes, noted Nicholson.
+While it could be years before such systems work flawlessly, the future of generative AI could be serving as agents — for example, enabling consumers to pick an itinerary and delegating to the AI agent the process of searching for flights and buying the best ones at the lowest price, Brain Rush explained.
+Cerebras’ technology is well-suited for powering such AI agents which “must operate rapidly, repeatedly, and in real-time,” AI News noted, due to “Cerebras’ 16-bit accuracy and faster inference capabilities.”
+If Nvidia concludes Cerebras has built a better mousetrap, the AI chip leader could build something like the startup’s WSE. “If a giant chip like Cerebras was the best answer, don’t think Nvd could and would build one too? What can any startup do that Nvd hasn’t done or could easily replicate?” Peddie concluded.
+Cerebras — which is operating its own data centers t0 provide the inference service — aims to win Microsoft and Amazon as customers, noted Bloomberg. Could Cerebras take market share from Nvidia? “Enough to make them angry,” Feldman told Bloomberg.
+
+NVDA price 3 days before article release: 128.23817443847656
+
+NVDA price 1 day before article release: 117.5333251953125
+
+NVDA price the day of article release: 119.3124771118164

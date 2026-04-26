@@ -1,0 +1,32 @@
+Nvidia Expands Into Quantum Computing And Fusion Power
+
+Oct 31, 2025, 02:01pm EDT
+
+In this week’s edition of The Prototype, we look at Nvidia’s moves in emerging tech, why AI models struggle with finance, a revolutionary superconducting discovery and more. To get The Prototype in your inbox, sign up here.
+Hardware giant Nvidia held its annual GTC conference this week, where the $5 trillion company announced a set of partnerships related to a variety of emerging technologies.
+One is with Oracle and the Department of Energy to build two AI supercomputers, networked and powered by over 100,000 GPUs. They’ll be located ,at the Argonne National Laboratory, where the DOE plans to use them to accelerate research with AI agents that can carry out scientific tasks.
+Nvidia announced another set of partnerships to build “digital twins.” It will work with industrial manufacturers including Caterpillar, Toyota, TSMC and others to build hyper-accurate factory simulations of manufacturing facilities to let engineers test new ideas–like moving equipment around to different areas–before trying them in the real world. Nvidia also built a digital twin for a fusion reactor with partner General Atomics. The project uses Nvidia’s software and hardware to power the simulation, in hopes of enabling engineers and scientists to speed up fusion development.
+Finally, Nvidia introduced “NVQLink,” a computing architecture that enables conventional AI supercomputers to be integrated with quantum processors. Significantly, the company said this solution is hardware agnostic, which is important because there are multiple, distinct quantum tech approaches in the industry. Nvidia is working with 17 different quantum computing partners on NVQLink, as well as nine U.S. national laboratories.
+The AI spending spree continues apace with no end in sight. In earnings calls Wednesday, Meta, Google and Microsoft all said they would hike their capital expenditures next year to build out AI data centers, on top of the $400 billion that’s already been spent this year.
+But so far, return on investment for AI use cases has been weak. A recent MIT study found that 95% of generative AI pilots at companies have failed to develop beyond the proof-of-concept stage. Leading AI labs like OpenAI are still having trouble with getting their AI to do ‘grunt work’ tasks of entry-level investment bankers. Generative AI seems to be heading towards its “trough of disillusionment” moment.
+Chatbots like ChatGPT and Gemini can draft a perfect sonnet in a few seconds. They can code and write movie scripts. So why is AI still so far behind in actually being able to take over white collar work?
+The answer: training data, specifically specialized real world workflows. Turns out that while there is an abundance of publicly available data for how to generate language or code, there is significantly less for how to manage an IPO or merger. That data is largely private.
+“Large language models do well when you collect a lot of data, and we don’t have nearly as much data for real-world tasks, meaning the AI hasn’t seen the examples it needs to master these specific skillsets,” said Robert Nishihara, co-founder of Anyscale, a company that provides AI software infrastructure, for example companies training their models on large datasets.
+Read more at Forbes.
+Semiconductors are crucial for electronics, because their structures can be modified as needed to control how electricity moves through them. Now they’ve gotten one step more powerful: in a new paper this week, researchers demonstrated they were able to turn germanium—a semiconductor used in computers and fiberoptics—into a superconductor. This allows electricity to flow without resistance, boosting energy efficiency. Superconductivity also enables quantum computation, so this could pave the way for the next generation of quantum machines.
+In my other newsletter, InnovationRx, Amy Feldman and I looked at what to know about President Trump’s cognitive test, Nvidia’s collaborations in life sciences and drug development, hospital robots and more.
+I filled in this week on my colleague Thomas Brewster’s cybersecurity newsletter, The Wiretap, where I looked at alleged hacking techniques used in Mafia-run poker games, a startup that aims to keep AI agents secure, Apple’s big bug bounty bonus and more.
+Researchers at ETH Zurich developed artificial muscles that can be wirelessly controlled with ultrasound, enabling smoother and gentler movements than conventional robotics.
+Mars may be able support microscopic life thanks to liquid water flowing through its permafrost, new findings suggest.
+AI company SandboxAQ released a quantitative AI model focused on discovering new catalysts for energy, chemical, agricultural and other applications; it was trained on more than 13 million quantum chemistry calculations.
+The Japanese space agency’s new HTV-X spacecraft delivered cargo to the International Space Station for the first time.
+SpaceX is set to receive a $2 billion federal contract to develop satellites for the Trump Administration’s “Golden Dome” system, which aims to thwart missile attacks, according to the Wall Street Journal.
+A perfect storm of market conditions may make electric vehicles cheaper than their gas-powered counterparts in the near future.
+If you’re not getting a good night’s sleep, try adding some more fruits and vegetables into your diet. That’s according to a new study, which found people who increased their fruit and vegetable intake to the full daily recommendation resulted in a better night’s sleep (for context, that’s about five cups, something only about 10% of Americans manage to do). This is likely because carbohydrates found in fruits and vegetables cause your body to produce more melatonin, which promotes better sleep.
+I confess every time I used Google today and yesterday, I’ve been distracted by the Doodle–because clicking on it lets me play a version of Pac-Man celebrating the game’s 45th anniversary. This version also features new, Halloween-themed levels. I’ve been playing Pac-Man off and on my whole life, so this is a fun nostalgia hit.
+
+NVDA price 3 days before article release: 201.0079345703125
+
+NVDA price 1 day before article release: 202.8677215576172
+
+NVDA price the day of article release: 202.4677734375

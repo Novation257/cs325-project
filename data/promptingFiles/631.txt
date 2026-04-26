@@ -1,0 +1,21 @@
+NVIDIA Buys Mellanox To Bring HPC Scaling To Data Centers
+
+Mar 12, 2019, 06:14pm EDT
+
+The 2019 semiconductor merger and acquisition season has officially been kicked off with a blockbuster $6.9B deal for networking chipset and technology provider Mellanox. Graphic chip maker NVIDIA made the offer after a number of companies, rumored to include Intel, Microsoft, and Xilinx, had bid on buying the company. NVIDIA CEO Jensen Huang said in an analyst call that Mellanox management had invited him to bid on the company and he was happy to do so. By acquiring long-time data center partner Mellanox, Jensen is doubling down on the high-performance data center market.
+
+
+The synergies of NVIDIA and Mellanox will come from their leading positions in high-performance computers (HPC) and long-term partnership. Between the two companies, they are in 250 of the Top 500 Supercomputers. NVIDIA is already a leader in GPU-assisted HPC with its Tesla accelerator cards connected using the company’s NVLINK technology within a server and using Mellanox technology to connect between servers. Huang believes that more and more cloud and enterprise data centers will take on HPC characteristics as new workloads, such as advanced data analytics, deep learning, and AI, become more pervasive. As such, these data centers will have to have racks of servers that work in close cooperation; sharing resources across the data center. This requires highly scalable networking components. For example, Huang said that Kubernetes stack puts more pressure on east and west networking traffic that is growing exponentially. Machine learning and data analytics need multiple servers working together – examples include SPARK and Databricks. Huang believes that Mellanox has the opportunity to grow its business during this change.
+Making the Acquisition Work
+This is the biggest acquisition in the history of NVIDIA. The closest relative deal might have been the 2000 acquisition of the IP and about 100 employees of rival graphics chip supplier 3dfx. At the time NVIDIA was a much smaller company and integrating the team from 3dfx was a major undertaking. But NVIDIA did not acquire all the 3dfx corporation assets. The 3dfx IP and employee deal was clearly a merging of two teams in the same field and in the same geography (Silicon Valley). Mellanox is a networking company based in Israel – a very different kind of merger. It will be a challenge for NVIDIA to strike the right balance of guidance and independence with the Mellanox team.
+Mellanox also gives NVIDIA a new base of operations – Israel. Huang believes he will be able to tap into the strong technology talent and culture in Israel, and probably in more areas than just networking. This acquisition still has to be approved by the usual government agencies in countries around the world, but Huang was optimistic that the deal would get approved, even by China. The real challenge for NVIDIA begins after the merger. Can it find the right balance of pushing Mellanox forward more aggressively without becoming overbearing? The deal should make the Mellanox investors happy, but will the employees also share that feeling? Together, the companies fill in two key pieces of the HPC performance and scaling components. The only key piece missing (besides memory) is the CPU. Could that be next on Huang’s shopping list or are other performance accelerators in the future?
+Kevin Krewell
+Principal Analyst, TIRIAS Research
+Twitter: @Krewell
+The author and members of the TIRIAS Research staff do not typically hold equity positions in any of the companies mentioned. TIRIAS Research tracks and consults for companies throughout the electronics ecosystem from semiconductors to systems and sensors to the cloud.
+
+NVDA price 3 days before article release: 3.70406723022461
+
+NVDA price 1 day before article release: 3.9988834857940674
+
+NVDA price the day of article release: 4.033131122589111

@@ -1,0 +1,44 @@
+Forbes Daily: Nvidia Surge  Boosts CEO Jensen Huang’s Fortune
+
+Jul 16, 2025, 07:55am EDT
+
+andForbes Daily,
+Forbes Staff.
+As bitcoin reaches new heights, it’s enriching some of the world’s wealthiest.
+The cryptocurrency’s price reached an all-time high of $122,838 Monday, nearly 100% higher than last July. No one would benefit from bitcoin’s gain more than its elusive founder, Satoshi Nakamoto—if he or she exists. Satoshi’s holdings could be worth over $135 billion, making them the world’s 11th richest person, but no one has been able to definitively prove their identity.
+The record price comes as the House of Representatives considers several regulatory bills in what some are calling “Crypto Week,” though House Republicans blocked them from advancing Tuesday. President Donald Trump later said nearly all of the holdouts had agreed to vote in favor of them.
+Nvidia CEO Jensen Huang became the sixth-richest person in the world Tuesday after the company said it would soon resume chip sales to China, leading shares of the AI juggernaut to surge 4%. The company said Huang met with President Donald Trump and Chinese leadership earlier this month, and that the U.S. would grant Nvidia licenses to sell its H20 chips in China, despite previous restrictions.
+MP Materials’ stock closed up 20% on Tuesday, surging after the mining company announced a $500 million deal with Apple to develop a recycling line for the rare Earth materials that are increasingly in demand. The deal comes just a week after the mining company announced a $400 million stock investment from the Defense Department designed to boost rare earth magnet supplies in the U.S.
+The search for a new Federal Reserve chair is already underway, according to Treasury Secretary Scott Bessent, as current chairman Jerome Powell is set to wrap up his term in May 2026. Among the reported possible successors are National Economic Council Director Kevin Hassett, former Fed governor and Powell critic Kevin Warsh, former Trump Administration official and ex-World Bank president David Malpass, and Fed Governor Christopher Waller.
+In a sign that Trump’s tariffs are starting to translate to price hikes for everyday Americans, inflation was higher than expected in June, with consumer prices up 2.7% year-over-year. Experts have warned the levies on key trading partners will lead to larger cost increases this year, though the “precise timing and extent” of tariff impacts is “uncertain,” according to JPMorgan Chase’s chief U.S. economist Michael Feroli.
+Michelle Xia used her experience in the U.S. pharmaceutical sector to launch Akeso, a Chinese biotech firm whose lung cancer drug outperformed Merck’s Keytruda, the world’s best-seller, in a Phase 3 trial last year. Its success has made Xia a billionaire, worth $1.2 billion—one of just nine Chinese women billionaires in healthcare.
+Billionaire Ken Langone, cofounder of Home Depot, has reversed course on President Donald Trump, telling CNBC that he could go down as “one of our best presidents ever.” Langone, who backed Trump in 2016 but has slammed him over tariffs and the Jan. 6 riot, praised the president’s strikes on Iran and suggested his recent spending package would spur economic expansion.
+The Trump administration announced it will withdraw half of the roughly 4,000 National Guard troops deployed to Los Angeles last month amid immigration raid protests, weeks after California Gov. Gavin Newsom unsuccessfully tried to block their deployment. It is not clear how much longer remaining troops would stay in Los Angeles, and some National Guardsmen and Marines reportedly expressed doubt over their deployment to the city.
+In a new survey, nearly half of doctors and nurses said they had used AI in a clinical setting, and expressed optimism about its ability to save them time. But one of their biggest concerns was patients’ use of ChatGPT and other AI tools to diagnose their health issues, since these models are frequently wrong.
+As confusion swirls over new tax policies in the One Big Beautiful Bill Act, the IRS has issued guidance on some of the new provisions. For instance, the agency says the temporary deduction for tip income can be claimed whether or not you itemize, and that a new $6,000 deduction for taxpayers age 65 and older is in addition to the current additional standard deduction for seniors.
+A team of engineers from self-driving robotaxi leader Waymo is eyeing another huge market to automate: construction equipment.
+Last year, Boris Sofman, previously a star engineer at Waymo, teamed up with two former Waymo colleagues along with Tom Eliaz, an engineering leader at Segment, to start Bedrock Robotics.
+They’re starting with excavators, the ubiquitous machines that do the heavy digging. The San Francisco-based startup plans to modify existing equipment with cameras, lidar, computers and AI software that enables them to work around the clock. Bedrock is emerging from stealth with $80 million in new funding and plans to begin commercial operations in 2026.
+It’s a tricky time for the massive U.S. construction industry. There’s huge demand for new housing, data centers and factories, but the Trump Administration’s tariffs and its aggressive immigration crackdown are boosting materials costs and exacerbating an already tight supply of skilled workers.
+“When you look at construction it’s this fascinating situation where you have an astronomical macroeconomic tail and a need to reindustrialize the U.S.,” Sofman told Forbes. “At the same time, the labor pool, even more aggressively than what we saw in trucking, is going the opposite direction.”
+WHY IT MATTERS Sofman isn’t yet providing revenue targets, but the market is a big one. Infrastructure upgrades aided by the passage of Biden’s Bipartisan Infrastructure law, combined with higher demand for new warehouses, data centers and factories, will likely boost U.S. excavator contract revenue to $145 billion this year, up 2.5%, according to an IBISWorld report. Bedrock isn’t sharing a valuation yet but will likely raise additional funding within a year.
+MORE Forget Tesla. Amazon’s Zoox Is On Track To Be Waymo’s Biggest Robotaxi Rival
+Several hit shows drove streaming domination in June and pushed traditional broadcast viewing to its lowest-ever share of TV use. Netflix saw a boost from programs like Ginny & Georgia and Squid Game, while Love Island became Peacock’s most-watched entertainment series of all time:
+46%: The share of all TV use in June that streaming accounted for
+4.4 billion: The number of minutes Love Island was streamed for last month
+18.5%: How much broadcast viewing made up of total TV, its first time ever below a 20% share
+Employee engagement is falling, which has a real impact on productivity, turnover and an organization’s overall culture. But some companies are turning to AI to help solve the problem: For instance, the technology can help analyze employee feedback at a larger scale, which allows for greater responsiveness and ultimately employee retention.
+A major celebrity will star in the film adaptation of Dr. Seuss’s Oh, The Places You’ll Go, joining the $1 billion Seuss movie franchise. Who is it?
+A. Scarlett Johansson
+B. Ariana Grande
+C. Lady Gaga
+D. Anne Hathaway
+Check your answer.
+Thanks for reading! This edition of Forbes Daily was edited by Sarah Whitmire and Chris Dobstaff.
+We've updated this newsletter edition to correct background for Bedrock's founders.
+
+NVDA price 3 days before article release: 164.89259338378906
+
+NVDA price 1 day before article release: 170.671630859375
+
+NVDA price the day of article release: 171.34152221679688

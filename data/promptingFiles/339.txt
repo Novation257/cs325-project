@@ -1,0 +1,56 @@
+Snowflake Stock Is 65% Below Peak But Nvidia Deal Fuels Optimism
+
+Jun 05, 2024, 03:19pm EDT
+
+Shares of data cloud service provider Snowflake have fallen hard since Frank Slootman — who led the company’s boffo 2020 IPO — handed the CEO job to Sridhar Ramaswamy.
+Does the 28% drop in Snowflake’s stock this year make it a bargain? I think investors should hold off on buying the shares for a few reasons:
+
+
+Ramaswamy has been busy since he became CEO in February. “It has been three months since I became CEO,” he told me in a May 29 interview.
+“I spent my time meeting with about 100 customers — listening and learning,” he added. “I prepared the announcements for our sixth summit meeting; and I worked with the business teams to help them sell AI. We are rolling out a different company model with an emphasis on getting the first deal versus up-selling.”
+One reason for optimism is the company’s partnership with Nvidia. “Pairing Nvidia’s full stack accelerated computing and software with Snowflake’s state-of-the-art AI capabilities in Cortex AI is game-changing,” Ramaswamy said in a June 4 statement.
+“Together, we are unlocking a new era of AI where customers from every industry and every skill level can build custom AI applications on their enterprise data with ease, efficiency, and trust,” he added.
+Snowflake stock has never come close to the peak it reached in November 2021 before the Federal Reserve began to raise interest rates. Since then the stock has lost 65% of its value.
+Despite Snowflake’s moribund stock price performance, investors were less than thrilled when Slootman took his leave in February 2024. His departure was unpleasant news.
+Slootman’s February 28 announcement he was retiring came as a shock to investors. How so? In June 2023, he had denied a report he was planning to retire. Yet in the February announcement, he issued a disappointing product revenue forecast for the new fiscal year, according to my new book, Brain Rush: How to Invest and Compete in the Real World of Generative AI.
+Snowflake stock promptly shed 20% of its value.
+Ramaswamy is a former Google executive who joined in 2023 after Snowflake acquired Neeva, his AI-focused startup. “2023 is the year of AI,” Ramaswamy told me in December 2023, according to my Forbes post. “First we have the ability to synthesize information in a fluid conversation through ChatGPT using Neeva,” he added.
+Snowflake was developing this vision in stages. First, search can be done through frequently asked questions. Next, the company is offering Copilot to make it easier for people to write SQL code to provide faster access to the data. “We are building out the capability to query data in real time,” Ramaswamy concluded.
+On May 22, Ramaswamy presided over his first quarterly earnings report as Snowflake CEO. Results for the company’s fiscal year 2025 first quarter ending April 2024 were mixed.
+While exceeding revenue expectations, Snowflake “missed on the bottom line in its Q1 and gave disappointing full-year guidance,” noted Kiplinger.
+Here are the key numbers:
+
+
+Snowflake was pleased with the results. “In our quarterly earnings we reported 34% year on year growth, remaining performance obligations grew 46% to $5 billion, and free cash flow was excellent,” Ramaswamy told me in May.
+“We invested more in AI,” he added. “Gross margins declined as we invested ahead of the curve. It was a solid beat and raise.”
+Needham analyst Mike Cikos cited lowered full fiscal year guidance for the post-earnings drop in Snowflake’s stock. This is likely “a short-term view,” he told Kiplinger.
+Needham is bullish on Snowflake. The company "is investing in a rapidly evolving market to ensure long-term positioning, and has a number of new products coming to market later this year,” he said.
+“At the same time, SNOW is investing in AI initiatives like Cortex and Arctic, which is bolstered by its acquisition of TruEra,” Needham added. “We remain Buy-rated.”
+Snowflake views AI as a capability which will be infused in all its products — not a distinct source of revenue. “We don’t have AI licensing revenue,” Ramaswamy told me. “We are a consumption based company.”
+Snowflake offers various AI-related services. ”We are helping companies migrate from legacy, on-premises platforms to the AI cloud with Snowpark Container Services. We offer Document AI which lets customers find value in extracting features on the fly from piles of documents,” Ramaswamy told investors in May’s earnings call.
+Snowflake says partners are working with Snowpark — which the company aims to make available in the second half of 2024. “Dozens of partners are already building solutions that will leverage container services to serve their end customers,” he told investors last month.
+Snowflake is also excited about Cortex AI — a service that enables companies to build customized AI chatbots. “Cortex AI is bridging between structured and unstructured data,” he told me. “We let customers put data in the hands of the people through Cortex AI so they can create chatbots quickly.”
+Customer adoption of Cortex AI has been good. As of mid-May, “Over 750 customers are using these capabilities,” Ramaswamy told investors last month. “Cortex can increase productivity by reducing time consuming tasks. For example, Sigma Computing uses Cortex language models to summarize and categorize customer communications from their CRM.”
+Snowflake is also seeking to build AI capabilities through acquisitions. Rivals such as Databricks, Microsoft and Amazon are vying for AI technology and talent. To compete, in May, Snowflake announced it would hire “about 35 employees from TruEra, which last raised $25 million in 2022,” noted Bloomberg.
+Competition for top AI talent who can train the best large language models is fierce. “We will be on the lookout for acquisitions opportunistically,” Ramaswamy told Bloomberg. “The number of people, in my opinion, that can train truly world-class foundation models right now is vanishingly small — I would say like a couple hundred people.”
+Databricks — whose data warehousing product competes with Snowflake’s — has enjoyed a 200% revenue increase.
+To fight back, Snowflake needs to enable customers to use data stored in different places more easily, Ramaswamy said. Nevertheless, Snowflake’s product is a much easier solution for customers seeking to store and get insight from data compared to Databricks’ product, he told Bloomberg.
+If Snowflake’s AI products drive higher user consumption, Snowflake might be able to set its prices above their operating costs. If so, perhaps Snowflake will achieve profitable growth.
+Ramaswamy is not focused on beating expectations and raising guidance every quarter. “When it comes to earnings reports, we have a large team,” he says.
+“We did it together. I am comfortable as CEO and enjoying it,” he adds. “Google’s ad business grew at 36% year over year for 15 years. We have the larger vision of the true data cloud as the nervous systems of the enterprise.”
+How does he feel being CEO of a public company for the first time? “As for being CEO of a public company the closest I got to it was at Google,” Ramaswamy noted.
+“I managed a very large team in technology, product, and partnerships,” he added. “It was a more multi-faceted job. Neeva was wonderful but I am better suited to leading a team, technology and product vision, and operational excellence.”
+Snowflake’s partnership with Nvidia could be a significant source of growth. Their collaboration combines Nvidia AI Enterprise software with Cortex AI, Snowflake’s LLM and vector search service.
+On June 3, Ramaswamy and Nvidia CEO Jensen Huang said companies must “take all the most important processes they do, capture them in a data flywheel, and turn that into the company’s AI to drive that flywheel even further,” reported Fortune.
+Last December, Slootman described what struck me as a compelling vision of how generative AI could help business decision makers. “Now the work is going to the data,” Slootman said.
+“It is easy to inquire about what is happening now in the business,” Slootman added. “We are working towards enabling users to ask ‘What will happen next quarter? Why? Will it happen again? What should we do about it?’”
+Ramaswamy bristled at this vision. “I see customers being pragmatic,” he told me May 29. “They will use an application that passes three tests: Is it easy? Is it reliable? Is it not too expensive?”
+Wall Street sees considerable upside in Snowflake’s stock. Based on 35 Wall Street analysts offering 12-month price targets, Snowflake stock would need to rise 55.48% to reach the average price target of $207.57, noted TipRanks.
+My take? There is room for a wait-and-see attitude toward the stock. After all, the company’s full year outlook for product revenue growth, gross margin, and free cash flow margin are all lower than the first quarter result. On the other hand, lowering expectations could make it more likely Snowflake can exceed them.
+If Ramaswamy’s vision results in much faster growth, Snowflake bulls will prevail.
+
+NVDA price 3 days before article release: 109.57115936279295
+
+NVDA price 1 day before article release: 116.37133026123048
+
+NVDA price the day of article release: 122.3709487915039

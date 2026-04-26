@@ -1,0 +1,23 @@
+Nvidia Releases NeMo Microservices To Streamline AI Agent Development
+
+Apr 25, 2025, 01:56am EDT
+
+Nvidia unveiled the general availability of its NeMo microservices, equipping enterprises with tools to build AI agents that integrate with business systems and continually improve through data interactions. These microservices are being launched at a time when organizations are seeking concrete AI implementation strategies that can provide measurable returns on significant technology investments.
+Enterprise AI adoption faces a critical challenge: building systems that remain accurate and useful by continuously learning from business data. The NeMo microservices address this by creating what Nvidia describes as a “data flywheel,” allowing AI systems to maintain relevance through ongoing exposure to enterprise information and user interactions.
+The newly available toolkit includes five key microservices:
+These components work together to build AI agents that function as digital teammates, capable of performing tasks with minimal human supervision. Unlike standard chatbots, these agents can take autonomous actions and make decisions based on enterprise data. They connect to existing systems to access current information stored within organizational boundaries.
+The distinction between NeMo and Nvidia’s Inference Microservices, branded as NIMs, lies in their complementary functions. According to Joey Conway, Nvidia’s senior director of generative AI software for enterprise, “NIMs is used for inference deployments – running the model, questions-in, responses-out. NeMo is focused on how to improve that model: Data preparation, training techniques, evaluation.” When NeMo finishes optimizing a model, it can be deployed through a NIM for production use.
+Early implementations demonstrate practical business impacts. Telecommunications software provider Amdocs developed three specialized agents using NeMo microservices.  AT&T collaborated with Arize and Quantiphi to build an agent that processes nearly 10,000 documents updated weekly. Cisco’s Outshift unit partnered with Galileo to create a coding assistant that delivers faster responses  than comparable tools.
+The microservices run as Docker containers orchestrated through Kubernetes, allowing deployment across various computing environments. They support multiple AI models including Meta’s Llama, Microsoft’s Phi family, Google’s Gemma and Mistral. Nvidia’s own Llama Nemotron Ultra, which focuses on reasoning capabilities, is also compatible with the system.
+This release enters a competitive landscape where enterprises have numerous AI development options. Alternatives include Amazon’s Bedrock, Microsoft’s Azure AI Foundry, Google’s Vertex AI, Mistral AI, Cohere and Meta’s Llama stack. Nvidia differentiates its offering through integration with its hardware ecosystem and enterprise-grade support through the AI Enterprise software platform.
+Nvidia Nemo and Enterprise AI Adoption
+For technical teams, the microservices provide infrastructure that reduces implementation complexity. The containerized approach allows deployment on premises or in cloud environments with enterprise security and stability features. This flexibility addresses data sovereignty and regulatory compliance concerns that often accompany AI implementations.
+Organizations evaluating these tools should consider their existing GPU infrastructure investments, data governance requirements and integration needs with current systems. The need for AI agents that maintain accuracy with changing business data will drive adoption of platforms that support continuous learning cycles.
+The microservices approach reflects a broader industry shift toward modular AI systems that can be customized for specific business domains without rebuilding fundamental components. For technology decision makers, the release represents another step in the maturation of enterprise AI tooling that narrows the gap between research capabilities and practical business implementations.
+As enterprises move beyond experimentation toward production AI systems, tools that simplify the creation of continually improving models become increasingly valuable. The data flywheel concept represents an architecture pattern where AI systems remain aligned with business needs through ongoing exposure to organizational information.
+
+NVDA price 3 days before article release: 96.88717651367188
+
+NVDA price 1 day before article release: 102.68579864501952
+
+NVDA price the day of article release: 106.40492248535156

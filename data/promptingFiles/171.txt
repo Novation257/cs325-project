@@ -1,0 +1,20 @@
+Nvidia To Surge 20% With Earnings?
+
+Feb 22, 2025, 11:30pm EST
+
+
+Nvidia (NASDAQ:NVDA) is scheduled to announce its earnings on Feb. 26, 2025, after the market closes. The semiconductor leader currently holds a market capitalization of $3.3 trillion. Over the past 12 months, Nvidia reported revenue of $113 billion, with operating profits of $71 billion and a net income of $63 billion. The stock’s reaction post-earnings will largely depend on how the results and future outlook align with investor expectations. Analyzing historical performance can be beneficial for event-driven traders: either by understanding past trends to position themselves before the earnings release or by examining the correlation between immediate and medium-term returns post-earnings to make informed trades the day after the announcement. Specifically, past data suggests the maximum positive one-day movement post earnings, was a little over 20%. Full analysis below. Separately, see our counter scenario on – Nvidia’s 50% Downside. Indeed, we believe this broad range of upside and downside potential represents a simple fact, that Nvidia is a pretty volatile stock.
+Over the past five years, there have been 20 earnings reports, with 11 positive and 9 negative one-day returns, indicating positive 1D returns approximately 55% of the time.This percentage increases to 58% when considering data from the last three years.The median of the 11 positive returns is 4.9%, while the median of the 9 negative returns is -5.9%.
+Additional data for observed returns 5-days (5D) and 30-days (30D) post-earnings are summarized in the table below.
+A potentially less risky strategy (though its effectiveness depends on the strength of the correlation) involves understanding the relationship between short-term and medium-term returns post-earnings. Identifying pairs with the highest correlation can guide trading decisions. For instance, if 1D and 5D returns exhibit the highest correlation, a trader might consider a "long" position for the next five days if the 1D post-earnings return is positive. Below is correlation data based on five-year and three-year (more recent) histories. Note that "1D_5D" refers to the correlation between 1D post-earnings returns and subsequent 5D returns.
+At times, the performance of peer companies can influence a stock’s post-earnings reaction, with market adjustments potentially beginning before the earnings announcement. The table below presents historical data comparing Nvidia post-earnings performance with that of peers who reported earnings just before Nvidia. For a fair comparison, peer stock returns also represent post-earnings 1D returns.
+Not too happy about the volatile nature of NVDA stock? The Trefis High Quality (HQ) Portfolio, with a collection of 30 stocks, has a track record of comfortably outperforming the S&P 500 over the last 4-year period. Why is that? As a group, HQ Portfolio stocks provided better returns with less risk versus the benchmark index; less of a roller-coaster ride as evident in HQ Portfolio performance metrics.
+Learn more about Trefis RV strategy, which has outperformed its all-cap stocks benchmark (a combination of the S&P 500, S&P MidCap 400, and Russell 2000), delivering strong returns for investors. Alternatively, if you’re seeking upside potential with less volatility than an individual stock like Nvidia, consider the High Quality portfolio, which has outperformed the S&P 500, achieving over 91% returns since inception.
+Invest with Trefis
+Market Beating Portfolios | Rules-Based Wealth
+
+NVDA price 3 days before article release: 139.35433959960938
+
+NVDA price 1 day before article release: 140.06410217285156
+
+NVDA price the day of article release: 134.38595581054688

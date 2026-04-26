@@ -1,0 +1,20 @@
+Nvidia Warning Left Room For Added Crypto Slack
+
+Aug 24, 2022, 01:25pm EDT
+
+Nvidia investors are already braced for weak Q2 results after the stock market closes today, but an August 8 preannouncement that sales for the period would be lower than it had estimated in May did not necessarily contain all the bad news about reduced demand from cryptocurrency miners.
+The company said revenue would come in at about $6.7 billion, 17% below a May forecast, primarily because of reduced demand for its graphics chips from makers of gaming hardware, citing “macroeconomic headwinds” as the probable cause.
+The announcement, however, did not directly address the matter of demand for its graphics processing units (GPUs) from cryptocurrency miners. While the company said in recent filings with the U.S. Securities and Exchange Commission that there are too many variables for it to accurately forecast miner demand, there’s one big change coming that it does know about.
+Next month, Ethereum, the blockchain underpinning the second-largest cryptocurrency by market capitalization, is expected to undergo perhaps the most significant change in its seven-year history: a shift to a model for securing the network called proof of stake. As a result, miners, currently responsible for generating new coins and maintaining the network, will not only have a vastly reduced need for the GPUs, they will likely look to sell them, glutting the market and pressuring prices.
+Ethereum miners have been widely using Nvidia’s flagship gaming GPUs to mine ether, putting pressure on the company’s ability to face gamers’ demands and prompting Nvidia to launch a specialized Cryptocurrency Mining Processor (CMP) line last year but the interest in the product has been fading. CMPs accounted for “an insignificant amount” of the first quarter revenue compared to $155 million in the prior year, according to Nvidia’s last quarterly report.
+In its preannouncement of Q2 results, Nvidia said gaming revenue accounted for $2.04 billion of sales, down 33% from the prior year and 44% from Q1, while the data-center segment has been impacted by supply-chain disruptions, with preliminary revenue of $3.81 billion, making it the firm’s largest segment. That’s below the company’s expectations, but still a record and up 61% from the 2021 quarter.
+“Clearly there has been some impact from both softer crypto demand and the shift of Ethereum to proof of stake and these factors, more so than changes in gaming, are the reason behind their lower expectation for gaming GPUs in the July quarter,” says Matt Bryson, senior vice president of equity research at Wedbush. “Whether the downtick in July fully accounts for those changes or whether there is still more room for sales to decline is one of the primary questions heading into the earnings call.”
+He believes the company “has worked out most of the distortion of the crypto bubble”, estimating that Ethereum miners could have been responsible for 20–25% of Nvidia’s gaming revenue, but also that “sales might dip modestly for one more quarter before stabilizing.” Bryson reiterated his ‘neutral’ rating for the stock with a price target of $190, citing “outstanding queries about forward demand.”
+Fortunes have reversed swiftly for the Santa Clara, California-based giant and other chipmakers in recent months as growing inventory collides with shrinking demand. Micron Technology, Intel, and Advanced Micro Devices have warned of fading export orders. Citigroup has recently said it is expecting “the worst semiconductor downturn in at least a decade, and possibly since 2001 given the expectation of a recession and inventory build.”
+Despite the sales warning, NVDA is currently priced at 35 times the firm’s projected trailing 12-month earnings, well above its competitors. Intel is trading around 14 times forward earnings. The Philadelphia Stock Exchange Semiconductor Index is priced at roughly 16 times.
+
+NVDA price 3 days before article release: 17.820329666137695
+
+NVDA price 1 day before article release: 17.153400421142578
+
+NVDA price the day of article release: 17.194337844848633

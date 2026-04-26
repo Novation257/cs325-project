@@ -1,0 +1,23 @@
+Intel Stock Surges 25% As AI Alliance With Nvidia Confirms America’s Chip Strategy
+
+Sep 19, 2025, 11:12am EDT
+
+I’ve argued all year that Intel wasn’t a dead dog; it was a strategic asset. Back then, I wrote that the Trump administration’s policy push and capital commitment to on-shore chipmaking made failure politically and economically “impossible.” That wasn’t bravado: it was reading the map.
+I explained the thesis in a five-minute rant on YouTube on August 15.
+Why does any of this matter? Because semiconductors are the beating heart of modern industry. The U.S.-China contest is no longer academic or diplomatic; it’s industrial. Most advanced fabs sit in Taiwan and China, and that concentration is a single point of failure for everything from phones to fighter jets. The moment geopolitics turns “spicy”, supply chains fracture, and companies that rely on offshore fabrication – think the current Apple configuration – have to scramble to adapt or fail. U.S. policy is now explicitly about re-industrialization: rebuild “the workshop of the world” onshore, and you regain leverage. That is the context in which Intel’s strategic role becomes obvious.
+This is a chart I drew in a YouTube video on August 23:
+Here we are now:
+Intel is one of the only large-scale chipmakers with the current capacity and footprint to be a backbone of on-shore fabrication in the U.S. and Europe. It takes years to build factories that can make chips. For years, the market treated Intel as a stodgy legacy business. I took a contrarian view: Intel is a $53 billion manufacturer of some of the most technically complex artifacts homo sapiens have ever made. Its challenge was – and is – execution; its opportunity is geopolitics and AI. Those two forces change the valuation landscape overnight.
+Evidence arrived fast: first, it was a SoftBank investment; then a U.S. government buy-in; then, on September 18, 2025, Intel and Nvidia announced a collaboration on AI infrastructure and solutions. Intel’s share price exploded, up 25% in a single session. That move crystallizes the narrative: Intel is now squarely in the AI infrastructure story, not just a commodity fabs operator.
+When the narrative changes, so do the hedges. For years, funds shorted Intel as a hedge against Nvidia or other long tech positions. That market structure kept Intel low – you might say artificially – but the market does what it does because it knows best. However, when the underlying strategic game changes, when governments underwrite capacity and AI demand explodes, those hedges unwind and reprice the business.
+Look at the valuation gap. Intel trades at roughly 2x price-to-sales. Compare that with AMD at roughly 10x, ARM 35x, and Nvidia 33x. Even modest multiple convergence delivers substantial upside. At 4x sales, Intel doubles; at the “new normal” of 10x, it becomes transformational wealth creation. That’s the dream, but it’s backed by a shift in macro policy and industrial dynamics, as well as the fundamentals of clearly stated U.S. policies.
+This is not merely a trade idea; it’s a thesis based on the strategic reasoning unfolding everywhere, from shipbuilding to strategic minerals. The U.S. needs secure onshore fabs. The strategy aims at investing in capacity, supply-chain resilience, and aspects like rare earth access. Intel sits at the intersection of two mega-trends: the AI revolution and the U.S.-China clash of superpowers. The result is a rare asymmetric payoff: a beaten-down giant with structural cash flows, on the front line of national policy, and with a valuation gap large enough to trigger a rapid re-rating.
+When Intel was $20, I sounded crazy. Now the White House is talking about industrial policy, and the market is finally catching up. Something for nervous investors to remember: when governments decide a sector is strategic, markets follow. And when markets follow, old hedges break and new winners appear.
+“Look, I’ve made some great investments in my life – the BEST. And Intel? Intel is one of the greatest. Absolutely phenomenal…”
+Who might say that? The question for me is not who, but when.
+
+NVDA price 3 days before article release: 174.86080932617188
+
+NVDA price 1 day before article release: 176.2206573486328
+
+NVDA price the day of article release: 176.6505889892578

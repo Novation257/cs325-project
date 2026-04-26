@@ -1,0 +1,16 @@
+PC Gamers Have A Long Wait For Nvidia RTX 5000 Graphics Cards
+
+Jun 30, 2023, 12:43pm EDT
+
+Nvidia (NASDAQ: NVDA) has revealed it has no plans to release a new GPU architecture for PC gamers until at least 2025. The news comes as a blow to PC gamers hoping future upgrades might land sooner than that and offer more of a performance increase than current RTX 40-series graphics cards.
+The latter are suffering from slow sales, in part due to higher prices for some models compared to previous generations, but many suspect the average performance gains over older models to be a reason too. Nvidia has touted its frame rate-boosting DLSS technology as a major feature, and in game titles it's available for, it does provide great performance.
+However, the vast majority of games out there do not support it and with the modest gains in some instances over previous generation cards outside of DLSS, the RTX 40-series cards such as the RTX 4060, RTX 4060 Ti and RTX 4070 don't always offer huge gains over the RTX 30-series.
+This is where future architectures come in, but according to the above slide shared by Hardwareluxx.de, we could be in for a long wait when it comes to an architecture-based performance boost. It clearly shows Ada Lovelace-Next, which is the next GPU architecture, will not arrive until 2025. With a usual time span of two years between architectures pointing at a fall 2024 launch, 2025 is a lot longer than gamers are used to.
+However, this likely won't mean zero launches from Nvidia till then. First and foremost we have more launches for the RTX 40-series inbound, starting with the RTX 4060 Ti 16GB in July, followed by what will likely be an RTX 4050. There may also be refreshes of current models too, like we saw with the RTX 20-series 'Super' models as well as a rumored RTX 4090 Ti.
+Whether its down to sluggish sales or attempts to meet sales targets, we can't be sure yet, but in the meantime GPU prices are at least starting to fall as the pressure of new models sits on older ones with the hope that those holding out for upgrades may take the plunge over the summer. We have yet to see AMD plug the huge gap between the RX 7600 and RX 7900 XT too, which should put further pressure on prices.
+
+NVDA price 3 days before article release: 41.84328842163086
+
+NVDA price 1 day before article release: 40.79011535644531
+
+NVDA price the day of article release: 42.26895904541016

@@ -1,0 +1,17 @@
+Nvidia Can Approach $5 Trillion Valuation With ‘Generational’ AI Opportunity Still Ahead, BofA Says
+
+Oct 18, 2024, 03:50pm EDT
+
+Nvidia stock has much more room to run up its all-time high share price set this week, argue Bank of America analysts, who just meaningfully upped their price target for the artificial intelligence poster child Nvidia due to a highly favorable growth horizon.
+The Bank of America group led by Vivek Arya raised their Nvidia target from $165 to $190, indicating 37% upside from Nvidia’s $138 share price Friday, a fresh weekly closing high.
+Arya and company argued a “generational opportunity” is still ahead for Nvidia in AI accelerators, the full-stack semiconductor systems necessary for generative AI applications of which Nvidia captures roughly 80% of the market as its big-ticket customers like Alphabet, Meta and OpenAI invest heavily in Nvidia’s graphics processing units (GPUs) to train large-language models.
+Bank of America projects the total addressable market for this AI technology will grow from $45 billion in 2023 to $117 billion this year to $363 billion by year’s end, while Nvidia maintains a 75% market share, translating to a whopping $272 billion in AI computing revenues for Nvidia by 2030.
+For reference, Apple generated $204 billion of revenue from iPhones in 2023.
+Other positive catalysts named by Bank of America include significantly higher profit margins than its peers, with its free cash flow margin of roughly 50% over the next two years forecasted at twice as much as the average of the other five trillion-dollar American technology giants, and its “underappreciated” income streams outside of selling its custom GPUs, including lucrative partnerships with consultancy Accenture and Microsoft.
+$4.7 trillion. That’s the Nvidia market capitalization implied by Bank of America analysts’ $190 price target. That’s much higher than the market value of any public company ever, a title held by Apple at $3.6 trillion.
+
+NVDA price 3 days before article release: 131.54783630371094
+
+NVDA price 1 day before article release: 136.87571716308594
+
+NVDA price the day of article release: 137.94529724121094

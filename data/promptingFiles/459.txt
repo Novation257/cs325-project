@@ -1,0 +1,21 @@
+Nvidia Announces RTX 4060 And 4060 Ti Including Surprise 16GB Model
+
+May 18, 2023, 09:02am EDT
+
+Nvidia has officially announced three new RTX 4060 series graphics cards - the RTX 4060, RTX 4060 Ti 8GB and RTX 4060 16GB - yes there will be a 16GB version of the RTX 4060 Ti.
+The RTX 4060 Ti models will launch first, starting with the RTX 4060 Ti 8GB, which will be available in both Founders Edition and third party partner card models and will be available from 24th May.
+However, anyone waiting for the 16GB model will be disappointed to know it will not be available until July. It will not be offered in Founders Edition form.
+The 8GB variant of the RTX 4060 Ti will retail for $399 while the 16GB model coming in July will cost $499, which is $100 short of the RTX 4070.
+The standard RTX 4060 has no release date yet, but will also ship with 8GB memory. Nvidia is gunning for 1080 performance here and looking to tempt owners of current Steam hardware survey top cards such as the RTX 3060, GTX 1060 and GTX 1660.
+The power consumption is a stand-out feature for the RTX 4060, with the RTX 4070 already offering superb efficiency. The RTX 4060 Ti has a TDP of just 160W, so it's unlikely anyone upgrading from previous generation cards will need a new power supply.
+The 128-bit bus is likely to raise eyebrows given the £399 and $499 price tags for the 8GB and 16GB models respectively, but Nvidia was keen to stress the far larger L2 cache available to RTX 4060 GPUs compared to previous generations, sitting at nearly 33MB for both models. However, even thought the RTX 4060 Ti 16GB has more memory than the RTX 4070, the latter has a wider memory bus as well as much higher specifications elsewhere so will still be the faster card in most situations.
+The launch sits right along side AMD's Radeon RX 7600 with Nvidia stating its new models are a direct competitor in price and performance. That sounds like gloves off then.
+This is a key battleground for both companies as the sub $500 market is where the vast majority of sales are and with plenty of people holding on to older cards due to high prices, especially during the pandemic, the launch of new mid-range cards could finally see PC gamers upgrade.
+Nvidia is also pushing ray tracing and DLSS 3 support with its RTX 4060 models that has received positive reviews and offers significant frame rate boosts even in CPU-bound systems thanks to frame generation. These will be the cheapest graphics cards so far to offer DLSS 3 support.
+I'll be reviewing the new RTX 4060 Ti and RTX 4060 models when they launch soon so follow me here on Forbes or find me on YouTube to see the benchmark results when they land.
+
+NVDA price 3 days before article release: 28.92738914489746
+
+NVDA price 1 day before article release: 30.151309967041016
+
+NVDA price the day of article release: 31.649980545043945

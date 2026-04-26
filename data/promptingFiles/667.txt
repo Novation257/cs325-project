@@ -1,0 +1,30 @@
+NVIDIA Pushes Its GPU Technology To The Front And Center Of Artificial Intelligence
+
+Apr 02, 2018, 06:29am EDT
+
+At the GPU Technology Conference (GTC) in Santa Clara, NVIDIA has unveiled a series of new products that accelerate the research and development of artificial intelligence.  The new features and products cement the leadership position of Nvidia in the field of machine learning, deep learning and artificial intelligence.
+NVIDIA GPUs are a hit with the AI research community. Popular deep learning frameworks are optimized for NVIDIA CUDA and CuDNN technologies. The company is now pushing the limits through the announcement of the most powerful GPU, Kubernetes integration, and accelerated inference capabilities.
+Here are the major announcements made by NVIDIA at the GTC event last week:
+Project Clara – a medical imaging supercomputer
+NVIDIA wants to breathe new life into existing medical imaging instruments through the power of AI. It has partnered with multiple healthcare equipment companies to enhance medical imaging.
+Project Clara is a virtual, scalable, high-performance computing platform that can connect to a variety of instruments including CT, MR, ultrasound, X-ray or Mammography. The platform leverages NVIDIA’s GPU clusters running in the cloud.
+Project Clara aims to modernize legacy imaging scanners that can't be updated with the latest technology based on GPUs or high-performance computers. These systems have very limited access to AI and image processing technologies when compared to the recent versions.
+Though Project Clara, NVIDIA and its partners are bringing the most powerful AI technology to millions of existing medical imaging equipment. For example, this integration will result in shortening acquisition time of MRI while boosting image quality.
+NVIDIA DGX-2 - world’s largest GPU
+According to NVIDIA, the new DGX-2 system reached the two-petaflop milestone by drawing from a wide range of industry-leading technology advances developed by NVIDIA at all levels of the computing stack. Costing $399,000, DGX-2 is a server rack with 16 Volta GPUs and Dual Xeon Platinum processors. The server comes with a total of 81,920 CUDA Cores with 512 GB HBM2 memory and a 14.4 TB/s aggregate bandwidth and 300 GB/s GPU to GPU. The total power consumption of the rack is 10,000 watts and weighs 350 pounds.
+Combined with a fully optimized, updated suite of NVIDIA deep learning software, DGX-2 is purpose-built for data scientists pushing the outer limits of deep learning research and computing.
+To put things into perspective, let’s compare DGX-2 performance with an early incarnation of the GPU. Back in 2012, 2 NVIDIA GTX 580s GPUs took six days to train the popular CNN model, AlexNet. The same model is trained in flat 18 minutes with DGX-2.
+NVIDIA and ARM partnership – AI-powered consumer devices
+NVIDIA and ARM are partnering to bring deep learning inferencing to the billions of mobile, consumer electronics and Internet of Things devices that will enter the global marketplace.
+NVIDIA and ARM will integrate the open-source NVIDIA Deep Learning Accelerator (NVDLA) architecture into ARM’s Project Trillium platform for machine learning.
+This partnership will enable millions of IoT and mobile devices to gain inference capabilities. Large models will be trained and tuned on GPU-based platforms while running the trained model on consumer devices for inference. With ARM dominating the consumer electronics and mobile device market, developers will be able to quickly build intelligent applications that take advantage of the embedded AI capabilities.
+GPUs meet Kubernetes – machine learning at scale
+NVIDIA announced GPU acceleration for Kubernetes to facilitate enterprise inference deployment on multi-cloud GPU clusters. NVIDIA is contributing GPU enhancements to the open-source community to support the Kubernetes ecosystem.
+With GPU support for Kubernetes, enterprises can take advantage of hybrid cloud architectures where machine learning models can be trained either on-premises on in the public cloud.
+NVIDIA is raising the bar for implementing AI solutions. GTC 2018 witnessed some of the game-changing technologies that will revolutionize the industry.
+
+NVDA price 3 days before article release: 5.578697204589844
+
+NVDA price 1 day before article release: 5.728850841522217
+
+NVDA price the day of article release: 5.468122959136963

@@ -1,0 +1,27 @@
+NVIDIA's New Tesla M10 Could Drive Enterprise VDI Reassessment
+
+May 18, 2016, 12:00pm EDT
+
+NVIDIA
+ is well known for its leadership in graphics processors (GPUs) for gaming, but their business is quickly diversifying with significant growth in other areas like their datacenter and automotive businesses.  Within the datacenter, NVIDIA has been evangelizing a vision for a number of years about the benefits of GPUs for accelerating workloads in high-performance computing and web-scale datacenters.  The company has recently started to see traction for GPU acceleration in the datacenter business for applications like deep learning and artificial intelligence.
+While these application areas are certainly growing, the market opportunity is still a relative niche within the overall datacenter market. In parallel to these efforts, NVIDIA looks to capitalize on a vision to target mainstream enterprise datacenters with their NVIDIA GRID solution for virtualized desktop infrastructure (VDI) through partnerships with virtualization software vendors like 
+Citrix Systems
+, 
+Microsoft
+, and 
+VMware
+. With NVIDIA's new Tesla M10, they are doing just that.
+VDI is a virtualization technique that allows access to a virtualized desktop, which is hosted on a remote service over the Internet, by a client device. While this market has been around for a number of years, VDI could be a growth opportunity over the next few years driven by several key factors.  Here are just a few of the important market drivers I see today.
+First, a massive movement by enterprise IT to private clouds means a move away from a traditional client server model to a model where heavy computation and data storage happen in a central resource accessible by many users rather than just one.  With this in mind, enterprise IT may consider VDI as an extension of the cloud model for certain uses cases.
+Second, there is a direct relationship between acceptance of a VDI experience and the speed of the Internet. Look at what is happening with the 4G and LTE roll out. And also look at the backhaul improvements. Increased internet speeds equate to a better VDI experience, all things equal.
+And last but certainly not least, there is a cultural shift in the workplace that is driving IT to do things differently.  Millennials have entered the workforce in droves and have climbed the corporate ladder into key management positions.  This generation expects to use any device from any location to access corporate information, which has accelerated the BYOD movement. Also, millennials have grown up in a technology centric world and will work or not work for a company based on how good their IT services and equipment are. This means that users want to access to technologies that provide the best user experience for their applications.
+A few years ago, NVIDIA GRID was launched as a platform that allowed IT to bring virtualized graphics capability to more business users.  When NVIDIA GRID was launched, graphics processing for business was a relative niche market for applications that required high-fidelity 3D graphics like EDA, CAD, simulation tools, and video editing workloads. But now, use of graphics acceleration is expanding to improve the experience of office productivity applications like Outlook, Office 2016, web browsers, Adobe Photoshop, and the Windows 10 operating system. And by some estimates, more than half of enterprise users access at least one graphics accelerated application. But providing client devices with dedicated GPU capability to large groups of knowledge workers does not make economic sense for enterprise IT.
+One of the key drivers for the use of GPU acceleration in a VDI environment will be giving mainstream IT organizations the right economic models to provide this capability to business users. With this in mind, NVIDIA GRID uses a “good, better, best” approach that allows IT to carve up the GPU resources based on need in a way that makes economic sense, with different offerings to target different user levels (knowledge workers, power users, designers).  Today’s GRID announcement enhances this approach by bringing Tesla M10 as an offering in the GRID this fall, which will let IT provide more employees with virtualized graphics (up to 128 users per server) at a lower cost per user. In addition, NVIDIA is providing a new annual subscription pricing model for GRID that includes access to software upgrades for the life of the subscription.  The annual subscription has the potential to provide a lower overall cost for IT over the traditional perpetual pricing model with starting costs as low as $2 per user per month for the basic service.
+I think the time is right for IT organizations to reassess their VDI strategy.  And NVIDIA's “graphics for all” strategy with the NVIDIA GRID makes sense to help IT organizations use low-risk economic models to provide GPU acceleration capability to a wider range of business users.
+
+
+NVDA price 3 days before article release: 1.0031957626342771
+
+NVDA price 1 day before article release: 1.0350193977355957
+
+NVDA price the day of article release: 1.0614583492279053

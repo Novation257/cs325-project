@@ -1,0 +1,20 @@
+Enhanced Memory Grace Hopper Superchip Could Shift Demand To NVIDIA CPU And Away From X86
+
+Aug 08, 2023, 04:50pm EDT
+
+The company’s new high bandwidth memory version is only available with the CPU-GPU Superchip. In addition, a new dual Grace-Hopper MGX Board offers 282GB of fast memory for large model inferencing.
+The AI landscape continues to change rapidly, and fast memory (HBM) capacity has emerged as a critical driver of the costs of Large Language Model (LLM) inference processing where these big models are put to use. AMD has touted their upcoming MI300 HBM capacity as helping lower these costs, but now this advantage over NVIDIA may be fleeting at best.  NVIDIA  will upgrade memory for the Grace Hopper superchip first, increasing NVIDIA' share of wallet and Grace's adoption at the expense of x86. Let’s dive in.
+NVIDIA CEO Jensen Huang announced an enhanced GH200 (Grace CPU and Hopper GPU) and a dual GH200 system during his keynote address at the annual SIGGRAPH conference. Inference processing for large models like GPT3/4 and ChatGPT in particular are starved for memory bandwidth and capacity, requiring 8 or 16 GPUs to contain the massive models in the GPU's fast memory. By adding 70% more memory capacity and 50% more bandwidth per GPU, NVIDIA hopes to lower the massive cost of deploying these disruptive large models while increasing performance.
+The new dual GH200 board takes this advantage to the next level, combining two Grace Hopper superchips connected by NVLink on a single board, including the fast LPDDR5 memory which is lower cost and consumes far less energy compared to an x86 server. And of course this platform can scale to 256 GPUs over NVLink.
+First and foremost, this will reduce the number of GPUs needed for inference by some 60%. NVIDIA is fine with this, as they cannot meet demand for the latest GPUs anyway in a reasonable timeframe. But more strategically for NVIDIA, it should increase demand for the Arm-powered Grace CPU.
+Instead of purchasing two dual x86 CPUs and 16 $30,000 GPUs, one could buy only 10 GH200’s. So, the customer saves money (CAPEX), gets faster inference processing, and lowers energy consumption (OPEX).  And NVIDIA replaces 4 high-end Intel Xeon CPUs with 10 Grace CPUs. Multiply that by many thousands, and you quickly realize this could be a very big deal for NVIDIA. We doubt many customers will opt for  CPU-less standalone H100 for inference processing once this configuration becomes available in Q2 2024.
+The dual  MGX configuration — which delivers up to 3.5x more memory capacity and 3x more bandwidth than the current generation offering — comprises a single server with 144 Arm Neoverse cores, eight petaflops of AI performance and 282GB of the latest HBM3e memory technology. Note that NVIDIA is reported to be one of the lead investors in Arm’s upcoming IPO.
+We believe this product will steer more data center operators to select and deploy the  Grace Hopper superchip, since they can deploy some 60% fewer GPUs to get the same memory capacity, and getting the Grace CPU essentially for free. NVIDIA is solving a major industry pain point inLLMs, closing a future competitive gap with AMD, and driving more Grace CPU adoption at X86 vendors’ expense.
+Nice.
+Disclosures: This article expresses the opinions of the author, and is not to be taken as advice to purchase from nor invest in the companies mentioned. My firm, Cambrian-AI Research, is fortunate to have many semiconductor firms as our clients, including BrainChip, Cadence, Cerebras Systems, Esperanto, IBM, Intel, NVIDIA, Qualcomm, Graphcore, SImA,ai, Synopsys, Tenstorrent and Ventana Microsystems. We have no investment positions in any of the companies mentioned in this article. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 44.480228424072266
+
+NVDA price 1 day before article release: 45.38152694702149
+
+NVDA price the day of article release: 44.62911605834961

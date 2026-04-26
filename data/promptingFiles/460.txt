@@ -1,0 +1,18 @@
+Nvidia RTX 4060 And 4060 Ti To Have 8GB Of Memory Leaked Specs Reveal
+
+Apr 29, 2023, 02:07pm EDT
+
+Retailers have leaked specifications for motherboard manufacturer MSI's pre-built systems and accidentally revealed specifications for Nvidia's highly anticipated GeForce RTX 4060 and 4060 Ti. The key information exposed is that they will have just 8GB of memory.
+Both RTX 4060 and RTX 4060 Ti models were listed in a variety of pre-built system options from MSI, including at retailer 2Compute spotted by Videocardz. The fact they  have just 8GB of VRAM means they don't offer an upgrade in the memory department over their precessors - the RTX 3060 and RTX 3060 Ti, which had either 8GB or in the case of the RTX 3060, up to 12GB of GDDR6 memory.
+The move will likely inflame already tense views over Nvidia's lack of VRAM compared to AMD's current and previous generations. For example, AMD's Sasa Marinkovic recently proclaimed on Twitter that the company's Radeon GPUs offer a much healthier 16GB of VRAM from just $499, thanks to its Radeon RX 6800.
+The concern is that with many modern titles already seeing benefits from more than 8GB, gamers are concerned about the longevity of a new 8GB GPU bought in 2023, which could struggle with tomorrow's games. With GPU prices at record highs, gamers are well withing their rights to want a a bit of futureproofing thrown in to their expensive purchases.
+In part, this is due to the width of the memory bus on the graphics cards. The expected 128-bit memory bus on the RTX 4060 and RTX 4060 Ti dictates either an 8GB or 16GB configuration with one 1GB or 2GB memory module per 32 bits (128 bits allowing for four memory modules of either 1GB or 2GB capacity). Raising this to 192-bit allows for either 6GB or 12GB, with the RTX 4070 using the latter thanks to its 192-bit bus.
+The problem for Nvidia is that the RTX 4080 only has 16GB of VRAM and it has been reluctant to use more than 12GB on cheaper models for fear of hurting RTX 4080 sales. The 12GB included with the RTX 4070 Ti and RTX 4070 is reasonable, but still less you'd expect for $800 GPUs in the case of the former. Of course, the massively boosted L2 cache with Nvidia's RTX 4000 series will help, but it doesn't stop potential owners wanting as much VRAM as possible.
+That said, these cards are aiming for 1080p gamers who are likely using low to mid-range systems and monitors where smaller amounts of VRAM are typically not that beneficial. Also, while AMD is boasting about having 16GB of VRAM at a $499 price point, both RTX 4060 models will likely cost a lot less than this which AMD's own RX 7600 XT, which will likely compete with the RTX 4060 and 4060 Ti, is also rumored to have the same 8GB of VRAM.
+I'll be looking at the new cards when they arrive so don't forget to follow me here on Forbes or comment on the article below.
+
+NVDA price 3 days before article release: 26.217788696289062
+
+NVDA price 1 day before article release: 27.201919555664062
+
+NVDA price the day of article release: 27.724458694458008

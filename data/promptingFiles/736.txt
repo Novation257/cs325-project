@@ -1,0 +1,26 @@
+Nvidia: Intel Should Build Our Chips In Its Factories
+
+Mar 22, 2012, 05:08pm EDT
+
+Nvidia Chief Executive Jen-Hsun Huang is nothing if not bold. He drives a red Ferrari. He wears a leather jacket. And just ask him sometime about the fried chicken business...
+Huang’s latest suggestion: rather than trying to keep up, Intel should put its cutting-edge semiconductor factories to work building chips from companies such as Nvidia, Qualcomm, Apple, and Texas Instruments .
+“Why not be a foundry for all the mobile companies?” Huang told a group of reporters Wednesday evening. “There’s no shame in that.”
+Intel’s response: thanks but no thanks.
+“We have a small nascent foundry business, but our focus with our SOCs (systems on a chip) is really on Intel based platforms,” said Intel spokesman Jon Carvill. “Our process technology is a huge advantage going forward in 2012 and 2013, so our focus at this time is on building Intel products, not on building products for our competitors.”
+Huang’s remarks come as Intel is preparing an all out assault on the smartphone processor business. Last year, smartphone sales surpassed personal computer sales for the first time -- and Intel needs all the volume it can get to keep its factories at the cutting edge.
+Meanwhile Intel is quietly moving to build chips based on designs from other companies. Earlier this year semiconductor designer Tabula said Intel will build the company’s 3D programmable logic devices using Intel’s latest 22-nanometer manufacturing process.
+That move edges Intel towards territory long-dominated by chip foundries such as TSMC and Globalfoundries.
+Companies building mobile processors based on ARM’s designs at such foundries are getting close to the point where they can do serious damage to Intel, Huang argues.
+Microsoft's latest operating system, Windows 8, which arrives later this year, will run on tablets built around Nvidia’s mobile processors as well as chips from Intel and Advanced Micro devices, Huang pointed out.
+The problem, for Intel, is that Nvidia’s Tegra 3 mobile processors are cheap. Meanwhile, Intel has an enormous manufacturing infrastructure to maintain.
+“It’s a business model problem, it’s not a performance problems,” Huang says.  “We are willing to build the most amazing chip in the world and sell it for $40, that is the bottom of Intel’s range.”
+Over the long-term, Huang sees personal computers evaporating into thin devices with powerful mobile processors that can be tucked into pockets and larger machines stashed away in server rooms. “[One day] I might not even have a PC anymore -- I’ll have a tablet and a PC on a cloud,” Huang says.
+To be sure, Intel has plenty of engineering resources it can throw at the same problem. Intel can dedicate thousands of engineers to the job of tuning Google’s Android software to work well on Intel’s mobile chips.
+Huang’s response: Nvidia, Qualcomm, Samsung, Texas Instruments and ARM’s other licensees can throw thousands more at the problem. “If they have 4,000 engineers working on it, they’re only 10x short,” Huang says.
+Bold words coming from the leader of a company with less than one-tenth of Intel’s sales.
+
+NVDA price 3 days before article release: 0.3355432152748108
+
+NVDA price 1 day before article release: 0.3314177393913269
+
+NVDA price the day of article release: 0.3309593200683594

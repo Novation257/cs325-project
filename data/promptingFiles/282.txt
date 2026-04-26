@@ -1,0 +1,17 @@
+Buy A Nvidia RTX 4090 Before It’s Too Late: Shortages Predicted
+
+Sep 21, 2024, 01:29pm EDT
+
+Nvidia looks set to discontinue production of its flagship GeForce RTX 4090 graphics card range next month to set the scene for an expected RTX 5000 launch including an RTX 5090 and likely RTX 5080 in late 2024 or early 2025. (Wccftech The move is expected to allow add in board (AIB) partners to clear stock of the now two year old model, but could result in shortages of the highly desirable high-end graphics card in the lead up to Christmas as supplies run dry.
+Despite it's high price, which still sees most variations from board partners such as Asus, Gigabyte, MSI and Palit rarely dip much below $2,000, The RTX 4090 still sells well making up one percent of the Steam Hardware Survey's count of GPUs, with that count having risen over the last three months and eclipsing that of the RTX 4080. That is likely thanks to the RTX 4080 being discontinued after the RTX 4080 Super launched earlier this year.
+In the past Nvidia has opted to launch is recent GPUs between summer and Christmas, though, so unless some other forces are at play that force the company's hand to going with an early 2025 launch instead, a pre Christmas launch would definitely fit with the usual launch windows as well as giving the PC hardware community something else to look forward to in the run up to end of the year.
+This would also be a useful coalition of upgrade potential thanks to Intel and AMD launching new processors and motherboards starting from October. AMD will see X870 chipset motherboards hitting shelves that month with its highly anticipated Ryzen 9000X3D CPUs expected around January. Intel meanwhile, as well as releasing its new Lunar Lake mobile CPUs, which impressed at their launch in Germany recently, will also be fully announcing its desktop Arrow Lake-S processors.
+These will use a new CPU socket and require DDR5 memory, but it's hoped that Intel can avoid AMD's lacklustre Ryzen 9000 launch, which was marred by delays and disappointing performance as well as Windows fixes. It's an important time of year for all three companies, then, although indications are that AMD will likely not be joining the race for the flagship gaming graphics card crown and will instead be focussing on the mid-range in a similar way to we've seen it do in the past, for example with the RX 5700 XT. This can help to lower costs and afterall, even the mighty RTX 4090 only accounts for one percent of the Steam Hardware Survey GPU count.
+The RTX 5000 series will be based on Nvidia's Blackwell architecture using a rumored refined rather than entirely new manufacturing process called N4P. The Blackwell desktop GPU architecture should see a significant boost to transistor count, and could also make the move to PCIe 5 where motherboard support beckons, even if this will not likely see any significant benefits.
+For more PC news and reviews including those for AMD, Intel and Nvidia's upcoming launches, don't forget to follow me here on Forbes using the blue button below, on Facebook or my YouTube channel.
+
+NVDA price 3 days before article release: 115.54417419433594
+
+NVDA price 1 day before article release: 117.82327270507812
+
+NVDA price the day of article release: 115.95401000976562

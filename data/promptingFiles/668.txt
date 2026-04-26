@@ -1,0 +1,28 @@
+Nvidia CEO: 'We're Not Anywhere Near' Meeting GPU Demand
+
+Mar 27, 2018, 06:07am EDT
+
+In an uncharacteristically frank comment during a recent interview with TechCrunch, Nvidia CEO and co-founder Jen-Hsun Huang called out the surging demand for graphics cards, and admitted that Nvidia is struggling to get enough hardware into circulation to quench that demand.
+"We're sold out of many of our high-end SKUs, and so it's a real challenge keeping [graphic cards] in the marketplace for games ... we have to build a whole lot more [...]," Mr. Huang said. "We've got to come closer to the demand of the market. And right now we're not anywhere near close to that and so we're just going to have to keep running."
+Initially I thought this comment was foolish, but upon further examination it's shrewd as hell. Mr. Huang accepts blame without assigning any, while at the same time injecting a humble brag about the popularity and performance of Nvidia's high-end graphics card. The man knows what he's doing.
+The Real Problems Behind GPU Supply
+Nvidia has taken tepid steps toward boosting sales to gamers by encouraging retailers to impose quantity restrictions at checkout, but it's not uncommon for larger mining operations to flash cash in front of a retailer and buy out their entire stock, often before it's arrived on the shelves. Sometimes those mining farms will also go directly to GPU board partners who design custom versions of AMD and Nvidia graphics cards and buy directly.
+Nvidia shares the supply problem with AMD. Both companies have stated they're willing and able to manufacture as much as the market can bear, but the core issue is a global DRAM shortage which affects availability of video memory types like GDDR5 and HBM2. One key reason for this is that in 2017 the leading memory manufacturers diverted a large portion of their resources to producing DDR4 memory for smartphones. As ExtremeTech's Joel Hruska points out, that demand has "stripped the market bare" and we're still recovering.
+That's something Nvidia and AMD have no control over. As a result, we've seen graphics cards selling for sometimes double their MSRP. It's been this way for months, and even last-generation GPUs are fetching a decent price in the used market.
+To Nvidia's credit, they also sell Founders Edition SKUs of their 10-Series graphics cards directly from their website at MSRP, although it's rare to find them in stock. It'd be great to see AMD doing the same thing with their reference designs.
+Recently we've seen signs of select GPU prices falling back down to earth, and that could be an indication of demand slipping while the cryptocurrency market struggles to recapture the same explosive growth it had during Q4 2017. I believe that demand will fluctuate, but never die.
+Opposing Views
+That said, Nvidia and AMD seem to hold slightly opposing opinions about the lifespan and sustained strength of cryptocurrency mining.
+AMD's stance seems excessively cautious based on their annual report, filed February 2018, in which they state: “The cryptocurrency market is unstable and demand could change quickly. For example, China and South Korea have recently instituted restrictions on cryptocurrency trading, If we are unable to manage the risks related to a decrease in the demand for cryptocurrency mining, our GPU business could be materially adversely affected.”
+Also in February 2018 Nvidia's Mr. Huang stated that it's "not going away" and added "[...] crypto was a real part of our business this past quarter, even though small, overall." In fact, another portion of his interview with TechCrunch reveals his personal philosophy on cryptocurrency and why he believes it's here to stay. "[...] there are supercomputers in the hands of almost everybody in the world so that no singular force or entity can control the currency."
+The word "demand" can have different implications depending on which company it's coming from. I believe AMD has the most to lose because it's historically considered the champ in terms of raw compute power as it relates to mining the most popular coins.
+Ethereum, for example, is heavily dominated by AMD-based miners. But rumors are swirling that specialized hardware (ASICs) is finally being developed which would take those profits away from AMD -- and mining profits away from Ethereum GPU miners -- and into the hands of leading ASIC makers like Bitmain.
+This is what happened to Bitcoin years ago, and is why consumer graphics cards can no longer be used to profitably mine it. Privacy coin Monero is in the midst of fighting a similar battle.
+The takeaway here is that Nvidia is setting expectations, which is smart. And it's certainly doing everything in its power to ramp up production to whatever levels are needed, but is handicapped by factors like memory shortages. Ramping up production in that sector is not an overnight process. Assuming that the cryptocurrency market remains flat -- or continues slowly dipping -- and the leading manufacturers of memory can vastly increase production, we should see GPU supply begin to quench the demand by Q4 2018.
+  For PC gamers, it could be a very long wait.
+
+NVDA price 3 days before article release: 5.982651710510254
+
+NVDA price 1 day before article release: 6.047711372375488
+
+NVDA price the day of article release: 5.578697204589844

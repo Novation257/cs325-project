@@ -1,0 +1,55 @@
+AI Industry May Never Earn Back Its $150 Billion Nvidia Chip Spend
+
+Jul 09, 2024, 02:15pm EDT
+
+Updated, July 10, 2024: This post has been adjusted to correct David Cahn's title to partner.
+Companies are spending as if money was going out of style to buy the hardware needed to build and operate generative AI chatbots.
+How so? Cloud services providers and others could invest $300 billion into AI hardware in 2024, according to an analysis by Sequoia Capital featured in Tom’s Hardware. Nvidia gets about half of this investment and providers of servers, cooling hardware, energy and other data center components get the other half,
+Can these investments ever pay off? The answer depends mostly on two things:
+
+
+If the payoff is defined as earning enough profit to offset the investment — which Sequoia estimates would require the likes of AWS and other tech giants to generate $600 billion in generative AI revenue — such a payoff could be decades away.
+To put Cahn’s estimates in perspective, the largest tech companies — Alphabet, Amazon, Apple, Meta and Microsoft — are budgeting an estimated $400 billion in capital expenditures, mostly on AI-related hardware and R&D, according to The Economist.
+In light of the $2 trillion in market capitalization these five technology giants have added in the last year, investors are projecting the companies will add between $300 billion and $400 billion to their top lines, The Economist reported.
+There is a huge gap between the additional generative AI-driven revenue implied by the rise in their stock market capitalization and what the five companies will deliver in 2024. “Even bullish analysts think Microsoft will make only about $10bn from generative-ai-related sales this year,” noted The Economist.
+If the payoff is defined as adding enough revenue to sustain expectations-beating growth that boosts the tech giants’ stock prices, this could happen in the next few years.
+In my view, this outcome will only happen if a killer app — as the electronic spreadsheet was for personal computers or the iTunes store was for the iPod — emerges for generative AI.
+AI companies will have to generate about $600 billion a year in revenue to pay for their AI hardware, according to an estimate from Sequoia Capital Partner David Cahn.
+The AI companies making the investment include “AWS, Google, Meta, Microsoft, and many others” that spent money on AI hardware for applications such as OpenAI's ChatGPT, noted Tom’s Hardware.
+To arrive at his $600 billion revenue figure, Cahn made the following assumptions:
+
+
+While this model is a useful start, I see room for improvement. Here are some suggestions:
+
+
+Having said that, Cahn estimates AI revenue falls $500 billion short of what he thinks is required to payback the $600 billion AI hardware investment.
+This gap assumes there is $100 billion in AI revenue being generated in 2024. Google, Microsoft, Apple and Meta are each estimated to generate $10 billion in annual revenue from AI while companies including Oracle, ByteDance, Alibaba, Tencent, X, and Tesla are forecast to generate $5 billion each, according to Tom’s Hardware.
+Based on The Economist’s generative AI revenue estimates, the actual gap may be larger.
+Finally, Cahn assumed that this $500 billion gap — if not closed — would result in a bubble poised to burst.
+Since the companies investing in AI hardware are not financing the purchases with debt, they face no urgency to repay the investment. Simply put, AWS and the other cloud services providers are paying cash for their AI hardware.
+The companies are not facing investor pressure to earn back the cash because many of them —notably Microsoft and Meta Platforms — are so profitable that investors are likely not worried about them running low on dough.
+Instead, the market could be more eager for these companies to dodge the risk of failing to create or keep up with the fastest-growing market opportunities.
+Various companies in the generative AI value network are buying AI hardware. These include:
+
+
+Each of these groups has different levels of investment in AI hardware, varying cash positions, and a range of average profit margins. For example, in 2023 Microsoft and Meta had high cash positions ($111 billion and $66 billion, respectively), fat profit margins (34% and 29%, respectively), and relatively modest debt, according to the Wall Street Journal.
+Amazon — whose AWS generated $25 billion in revenue and enjoyed a 38% operating margin in 2024’s first quarter, according to The Register — has a good cash position but a much lower net margin and significant long-term debt. Specifically, in 2023 Amazon had $87 billion in cash, a net margin of 5.3%, and $136 billion in long-term debt, noted the Journal.
+Due to the wide differences in the companies’ relative profitability, the additional generative AI revenue Amazon will require to pay back its AI hardware investment is likely to be far greater than the revenue Microsoft and Meta will need to generate.
+While some of these companies report how much capital they are investing in AI hardware and other assets, they do not quantify their AI revenue in dollar terms. It could be a long time before their AI revenue is high enough to report as a distinct line item.
+If history is any guide, it could be years before a killer app for generative AI emerges to drive significant revenue. For example, the first PC, the Kenback 1, was introduced in 1971 and it was not until 1979 that Visicalc — the first electronic spreadsheet — hit the market and gave many more people a compelling reason to buy a PC.
+Another killer app was the iTunes store. In 2001, Apple launched the iPod — which did not enjoy significant demand until the iTunes store launched in April 2003, CNN noted.
+A killer app for generative AI will be at the top of the value pyramid, about which I wrote in a June 2024 Forbes post. The pyramid consists of three levels:
+
+
+There is much more real activity going on in the first and second levels of the pyramid than in the third, Brain Rush notes.
+Bubbles are much worse when companies borrow money to expand them. So far, the most significant kind of debt companies are taking on for generative AI is so-called technical debt — meaning “all of the anticipated (and unanticipated) costs businesses incur when deploying new technology,” noted theWorks.
+Examples include “fixing software bugs that couldn’t be dealt with at launch; installing patches after unknown vulnerabilities emerge; and the costs of modernizing legacy tech infrastructure,” theWorks reported.
+While there does not seem to be a meaningful amount of financial debt being taken on to buy generative AI hardware, investors should be concerned about what I call revenue expectations debt.
+Simply put, companies will fall short of investors’ expectations unless the billions they are investing in AI hardware result in significantly higher revenue growth rates.
+Such disappointment could drive down the stock prices of Microsoft, Google, Amazon and Meta Platforms — along with shares of their GPU supplier, Nvidia.
+
+NVDA price 3 days before article release: 128.21817016601562
+
+NVDA price 1 day before article release: 128.13819885253906
+
+NVDA price the day of article release: 131.3166961669922

@@ -1,0 +1,20 @@
+Stock Prices Finish Week Lower After Put Filing On Nvidia, Palantir
+
+Nov 07, 2025, 06:30pm EST
+
+U.S. stocks retreated this week after investor Michael Burry reported that his hedge fund bet against AI stocks Nvidia (NVDA) and Palantir (PLTR) with put options. Investors responded negatively to the news, driving losses for the two AI stocks and three major stock indexes.
+Between the close last week and the close on Nov. 7, NVDA declined 7% and PLTR dropped 11.2%. The large-cap S&P 500 index fell 1.6% and the blue-chip-focused Dow Jones Industrial Average retreated 1.2%. The technology-heavy Nasdaq Composite saw the largest decline, at 3%.
+Burry is known for correctly betting against the housing market before the 2008 crash. The move reportedly earned $100 million for himself and $725 million for his investors. The story was retold in the Michael Lewis book “The Big Short” and the film of the same name, starring Christian Bale.
+Other bets by Burry included a bearish position on Tesla and a bullish stance on Estee Lauder. The Tesla position was reported as of March 31, 2021. TSLA stock nearly doubled by November of the same year, before falling dramatically by the end of 2022. Burry’s hedge fund Scion Asset Management reported doubling its long position on Estee Lauder as of March 31, 2025 and then divesting it before September 30, 2025. Between those two dates, EL stock rose 36.4%.
+On Oct. 30, Burry posted on a cryptic warning on X about bubbles, indicating he is likely concerned that the high valuations of AI stocks may be driven more by investor enthusiasm rather than business value.
+Palantir CEO Alex Karp was critical of Burry’s strategy in an interview with CNBC. “The two companies he’s shorting are the ones making all the money, which is super weird,” Karp said.
+A put option is a contract that gives you the right to sell a stock at a specific price, called the strike price, within a stated time frame. You pay a premium for buying the option, which is far less than you’d pay to buy the actual stock. The worst-case scenario is that your option becomes worthless, and you lose the premium you paid for it. When that happens, the seller of the option keeps the premium as profit.
+The contract loses value when the stock price rises above the strike price. When the stock price falls below the strike price, the option becomes more valuable—because it now allows the holder to sell the stock for more than its market value. To liquidate the contract, you can sell it or exercise it by selling the stock at the strike price on the expiration date.
+One options contract represents 100 shares of stock.
+Scion Asset Management reported owning put options on 1 million shares of NVDA and 5 million shares of PLTR as of Sept. 30.
+
+NVDA price 3 days before article release: 198.66818237304688
+
+NVDA price 1 day before article release: 188.05935668945312
+
+NVDA price the day of article release: 188.1293487548828

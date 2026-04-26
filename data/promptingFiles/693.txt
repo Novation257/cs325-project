@@ -1,0 +1,21 @@
+How Artificial Intelligence Is Making Nvidia CEO Jen-Hsun Huang Richer
+
+Dec 01, 2016, 08:21pm EST
+
+You can add Nvidia CEO Jen-Hsun Huang to the list of tech geniuses profiting from the rise of the robots.
+A 40% surge in Nvidia stock in the past three months has pushed Huang’s net worth up to $2.3 billion, a 35% jump over that time period. Nvidia, whose core business is to make the chips that power cutting-edge graphics for PCs, has found a market for its processors in the booming artificial-intelligence field. For starters, Tesla recently announced its self-driving cars would feature Nvidia accelerators, which use a technology known as parallel computing to process multiple tasks at the same time. (Read the FORBES story on Nvidia's AI business here.)
+Nvidia shares slumped about 5% Tuesday, but they are still up 170% from their price a year ago. That jump "reflects the market’s realization Nvidia is not a monthly, quarterly, PC-shipment driven company, but a platform with compelling offerings in auto, data centers and gaming,” says Craig Ellis, a senior managing director of research at investment firm B. Riley & Co.
+Huang, who has been Nvidia's CEO since the company's inception in 1993, is credited with steering it into the lucrative AI field. The 53-year-old executive owns about 4.2% of the company's stock and has Nvidia's logo tattooed on his upper-left bicep.
+“Jen-Hsun is a very effective leader,” says Ellis. “He’s been a very good visionary. He’s done a very good job realizing that Nvidia’s parallel processing capabilities are ideally situated to tackle some of the most difficult computing challenges of the next 5 to 10 years.”
+Huang has sure made mistakes during his 23-year-old tenure, but he's also dug himself out of them. About four years ago, Nvidia tried to harness the smartphone revolution by releasing its own mobile chip and modem, but the product failed to gain footing against offerings by mobile veterans such as Qualcomm. So Huang took some of technology in the mobile chips and used for self-driving cars processors. “He doesn’t kill his darlings -- he repurposes them," says longtime tech analyst Jon Peddie.
+Born in Taiwan, Huang move to Thailand as a child with his family. His parents sent him and his brother to the U.S. to live with their aunt and uncle, who had recently immigrated here. The two boys ended up in a rural Kentucky boarding school for problem kids that his aunt and uncle had mistaken for a prep academy. Huang, who fell in love with computers in high school, eventually reunited with his parents in Oregon. He went on to major in computer science and chip design at Oregon State University.
+After graduation, he took a job with AMD, a chip-maker that is now Nvidia’s rival. He later obtained a master’s in electrical engineering from Stanford. Huang and fellow electrical engineers Curtis Priem and Chris Malachowsky founded Nvidia in 1993, leaping on the chance to create sharper graphics for PC games.
+Nvidia now controls 70% of the PC graphics card market, and its sales have skyrocketed 41% to $5 billion in the past five years. In Peddie's view, some of that momentum could be hard to sustain. “Nvidia has defied gravity by increasing their sales in units and in dollars in the PC market while the PC market was declining. You can’t keep that up," he says.
+But AI could save the day if PCs flounder. Ellis at B. Riley & Co says Nvidia's revenue growth for products related to self-driving cars, virtual reality and data centers could increase earnings per share to $5 by fiscal year 2021. EPS for the year ending January 2016 was $1.08.
+Ian Ing, an executive director at trading firm MKM Partners, expects Nvidia to snatch a sizable chunk of the AI market, which he says will be valued at $15 billion by 2025. In addition, Ing thinks Nvidia shares could rise to as much as $106, which could grow Huang’s net worth by about $380 million. Talk about an AI boost.
+
+NVDA price 3 days before article release: 2.317528009414673
+
+NVDA price 1 day before article release: 2.270493268966675
+
+NVDA price the day of article release: 2.158199548721313

@@ -1,0 +1,21 @@
+SIGGRAPH 2015: Nvidia Expands Professional Workstation Software Portfolio With DesignWorks Suite
+
+Aug 10, 2015, 09:04pm EDT
+
+At this year’s SIGGRAPH 2015 conference in Los Angeles, California, 
+NVIDIA
+ showed off their latest contribution to the professional graphics market, NVIDIA DesignWorks - a new software suite that makes using an NVIDIA GPU in your work flow and design pipeline faster and easier for a multitude of professional applications.
+Bringing more features to NVIDIA hardware
+NVIDIA's new DesignWorks announcement builds on their moves to strengthen their position in both the professional market and the consumer market with their GameWorks suite of software. GameWorks operates in a manner that is designed to give game designers an opportunity to easily implement complex and visually appealing graphical features at a higher frame rate with an NVIDIA GPU. DesignWorks looks to give professional application developers similar capabilities that ultimately result in NVIDIA’s GPUs gaining more features and hopefully more performance in already existing ones.
+NVIDIA is officially launching the DesignWorks suite of tools and technologies in order to bring many new features to the professional market. The DesignWorks suite combines rendering, materials, display technology, VR and live video capabilities. This means that professional application developers and professional designers can utilize high quality material designs and physically based rendering on their NVIDIA GPUs at little to no extra cost. NVIDIA currently has massive marketshare in the professional graphics market and this move appears to be Nvidia’s own move to ensure that they are able to maintain their lead into the next generation and as technologies like VR start to take hold, even in the professional market.
+Building on established technologies, while betting on the future
+NVIDIA is building on their whole portfolio of technologies including multi-display and GRID technologies to build a suite that gives professionals full access to the power of their GPUs. NVIDIA is also heavily betting on VR with their DesignWorks VR in order to create a more immersive experience for designers and their clients. VR is also a great way for NVIDIA's core professional market to need more powerful GPUs, much like in the consumer market, driving them towards more powerful, more expensive GPU configurations (single or SLI). Ultimately, VR is a great selling tool for someone who is a designer and wants to show their clients exactly what something will look like other than just showing them on a monitor.
+Wrapping Up
+NVIDIA’s DesignWorks is a strong move by NVIDIA to solidify their position in the professional graphics market and to ensure that their already loyal customers have even more reasons to stay with them. With DesignWorks NVIDIA is also encouraging more use of their GPUs than ever before with more GPU features that add realism and make their software and hardware platforms the most attractive to professional designers and those that create the software that is looking to create photo-realistic imagery within their own existing pipelines. Photorealism is becoming the ultimate goal of many in the professional space and NVIDIA is looking to deliver that while also supposedly being efficient on their own GPUs.
+Disclosure: My firm, Moor Insights & Strategy, like all research and analyst firms, provides or had provided research, analysis, advising, and/or consulting to many high-tech companies in the industry, including NVIDIA, cited this article. No employees at the firm hold any equity positions with any companies cited in this column.
+
+NVDA price 3 days before article release: 0.4979778528213501
+
+NVDA price 1 day before article release: 0.55605149269104
+
+NVDA price the day of article release: 0.575408935546875

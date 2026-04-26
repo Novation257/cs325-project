@@ -1,0 +1,33 @@
+Nvidia Stock Could Jump 15% To Regain Early-2021 High
+
+Mar 17, 2021, 07:00am EDT
+
+Despite rising around 2.5x from its low in March 2020, we believe Nvidia stock (NASDAQ: NVDA) has room for a further 15% upside to levels it reached in February 2021. The company’s stock trades at $527 currently and is, in fact, roughly unchanged so far this year. Also, it traded at $315 in February 2020 – just before the outbreak of coronavirus – and is up more than 65% from that level. However, with the rise in gaming device and data center demand, the need for Nvidia’s data center and GPU products is expected to rise further. We believe that the stock has the potential to gain around 15% from its current levels, on the back of steady demand growth and strong FY 2021 results (Nvidia’s fiscal year ends in January). Our conclusion is based on our comparative analysis of Nvidia stock performance during the current crisis with that during the 2008 recession in our interactive dashboard.
+2020 Coronavirus Crisis
+Timeline of 2020 Crisis So Far:
+
+
+In contrast, here is how NVDA stock and the broader market fared during the 2007-08 crisis.
+Timeline of 2007-08 Crisis
+
+
+NVDA and S&P 500 Performance Over 2007-08 Financial Crisis
+We see Nvidia stock declined from levels of around $12 in September 2008 (pre-crisis peak) to levels of around $8 in March 2009 (as the markets bottomed out), implying NVDA stock lost around 33% from its approximate pre-crisis peak. It recovered post the 2008 crisis, to levels of just above $18 in early 2010, rising by around 2.2x between March 2009 and January 2010. The S&P 500 Index saw a decline of 51%, falling from levels of 1,540 in September 2007 to 757 in March 2009. It then rallied to levels of 1,124, rising by about 48% between March 2009 and January 2010.
+NVDA Fundamentals Over Recent Years
+Nvidia revenues increased strongly from $9.7 billion in 2018 to $16.7 billion in 2021, due to higher revenues across all revenue segments driven by strong data center and GPU demand. Along with higher revenue, earnings also rose steadily, with EPS rising from $5.09 to $7.02 during this period.
+Does NVDA Have Enough Cash Cushion To Meet Its Obligations Through The Coronavirus Crisis?
+Nvidia’s total debt stands at $7 billion currently, up from $2 billion in FY 2020. However, Nvidia’s cash cushion of $11.6 billion, combined with $5.8 billion in cash from operations in FY ’21, is more than enough to cover its debt obligations and ride out the current crisis.
+Conclusion
+Phases of Covid-19 Crisis:
+
+
+With the number of new Covid-19 cases in the U.S. gradually dropping, we see the rise in gaming device and data center demand continuing, driving up demand for Nvidia’s products. This is evident from Nvidia’s full-year 2021 results, where revenues jumped to $16.7 billion from $10.9 billion in FY 2020. This also boosted EPS to $7.02 from $4.59 over this period. We believe that Nvidia stock has potential upside in the near term, and with the lockdowns being gradually lifted, data center demand could rise further. This could see Nvidia stock potentially rise around 15% from its current level, to its February 2021 high of $615.
+What if you’re looking for a more balanced portfolio instead? Here’s a high quality portfolio to beat the market, with over 100% return since 2016, versus 55% for the S&P 500. Comprised of companies with strong revenue growth, healthy profits, lots of cash, and low risk, it has outperformed the broader market year after year, consistently.
+See all Trefis Price Estimates and Download Trefis Data here
+What’s behind Trefis? See How It’s Powering New Collaboration and What-Ifs For CFOs and Finance Teams | Product, R&D, and Marketing Teams
+
+NVDA price 3 days before article release: 12.823678970336914
+
+NVDA price 1 day before article release: 13.25783634185791
+
+NVDA price the day of article release: 13.307708740234377

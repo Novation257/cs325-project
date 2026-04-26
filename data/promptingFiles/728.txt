@@ -1,0 +1,29 @@
+Nvidia's GPU Business Outperforms PCs For Various Reasons
+
+Dec 02, 2013, 01:36pm EST
+
+
+Nvidia designs and develops Graphics Processing Units (GPUs), which are high performance processors that generate realistic and interactive graphics on PCs. Despite the company’s high dependence on the PC market, it has managed to grow its GPU business in the last few quarters. While PC shipments declined by 3.7% in 2012 (fiscal year 2013 for Nvidia), Nvidia’s GPU segment expanded by 2% and it reported a 7% rise in its total revenue. Year-to date the PC market is down 11%, but Nvidia’s GPU business is up 4%, compared to the same period last year.
+During the UBS Global Technology Conference this month, Nvidia declared that the primary reason that it has managed to outpace the PC market is that it does not, and has not ever, addressed the bottom 70% of the market. Its main focus has been on those vertical segments within a broader computing market where visual computing matters the most, including gaming, PC gaming, professional visualization and design, high-performance computing, and big data analytics. [1] Nvidia?s growing presence in the specialty PC and Compute markets (gaming PCs, workstation PCs, and high performance computing) is offsetting the declining trend in the mainstream PC market.
+With rising revenue contribution from the non-PC business segment and its dominance in the GPU market, Nvidia has strong long term growth potential, in our view. Additionally, the company continues to have a solid balance sheet with a strong cash position and no debt.
+Our price estimate of $16.42 for Nvidia is almost in line with the current market price.
+See our complete analysis for Nvidia
+PC Gaming Is Driving GPU Growth In Desktops & Notebooks
+Nvidia sells its PC graphics to two key segments: 1) PC Original Equipment Manufacturers (OEMs), who use Nvidia GPUs to manufacture the final product; and, 2) gaming enthusiasts, who use GPUs in high-end and custom PCs to generate realistic and interactive graphics. While lower-end PC shipments to OEMs have slowed, the robust PC gaming market has contributed to higher GPU shipments, starting in fiscal 2013 and continuing in fiscal 2014 as well.
+Nvidia's GPU gaming revenues are up 6% year to date compared to the same period last year, while mobile GPU gaming has more than doubled in the last two years. Even as overall notebook shipments have declined, Nvidia’s gaming notebook revenue more than doubled in the last two years. The company claims that notebook gaming is the fastest growing PC SKU that it currently serves. [1]
+In Q3 2014, Nvidia launched a number of products specifically targeted at the gaming market. It recently unveiled its fastest gaming GPU ever (the GeForce GTX 780 Ti) and launched NVIDIA G-SYNC technology, which enables near-perfect synchronization between the GPU and the display, solving the decade- old problem of on-screen tearing, stuttering and lag. It also introduced GeForce ShadowPlay, a software platform that lets gamers record, stream and share their best gaming moments.
+PC gaming represents almost 40% of the worldwide gaming market, which is higher than consoles, phones, tablets or any other individual gaming segment, and we believe it will continue to drive Nvidia's GPU shipments. [2]
+Leadership In Professional Graphics – Tesla & Quadro
+Driven by the release of new Kepler-based GPUs, Quadro enterprise revenues and Tesla revenues are up by 12 % and 43% year to date, respectively. Kepler is Nvidia's most efficient GPU architecture to date and is now available top to bottom for workstations and servers. The company claims that the introduction of Kepler has translated into higher market share and margins for the company. Accounting for 80% of the market, Nvidia remains the dominant player in professional GPUs.
+The growth in High Performance Computing is driving demand For Nvidia’s Tesla GPUs as Co-Processors or Accelerators in high performance systems. In the last year, the percentage of high performance computers with accelerators has almost doubled and Nvidia accounts for 85% of the increase. [1] The company has been investing in advanced computing and its own CUDA technologies for years and its business at the high end is at last gaining momentum.
+Nvidia recently was showcased at a Supercomputing industry event with its Tesla GPUs in a Twitter Big Data analytics deployment. More notably, earlier this month, the company announced that IBM will include Tesla accelerators in its its next generation supercomputers and will be developing accelerated versions of IBM enterprise software applications with Nvidia CUDA GPUs. Note that IBM dominates the commercial end of the Supercomuting market. So this is a major win. Finally, Nvidia has launched the Tesla K40, which is the world’s fastest accelerator for Supercomputing and Big Data analytics. In fact, it is included in the world's current number one supercomputer and will likely be included in future high-end systems now in development.
+
+See our complete analysis for Nvidia’s stock
+Notes:
+Like our charts? Embed them in your own posts using the Trefis WordPress Plugin.
+
+NVDA price 3 days before article release: 0.3686578869819641
+
+NVDA price 1 day before article release: 0.3677151501178741
+
+NVDA price the day of article release: 0.3712508380413055

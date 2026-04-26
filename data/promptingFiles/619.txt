@@ -1,0 +1,44 @@
+NVIDIA Dominates The Market For Cloud AI Accelerators More Than You Think
+
+Jun 17, 2019, 03:15pm EDT
+
+Many companies want to compete with 
+NVIDIA
+ in the cloud. They all want a chunk of the AI-based “Inference-as-a-Service” applications that NVIDIA has enabled over the past few years. Gaining significant market share against NVIDIA is going to be more difficult than most of them realize. 
+Xilinx
+ seems to be in the best position to capture share of cloud instance types with dedicated accelerators in 2019.
+Dozens of dedicated AI accelerator chips are in development at companies like AWS, Graphcore, Gyrfalcon, 
+Intel
+, Mythic and Wave Computing, plus FPGA chips at Intel, Xilinx and new entrant Achronix. Many of these chips are gunning to compete with NVIDIA to support cloud delivery of the deep learning models that underly consumer-facing services such as ad placement, retail recommendation engines, smart speakers and language translation.
+Share of Instance Types
+How far do NVIDIA’s competitors have to go to make a dent in NVIDIA’s general-purpose GPU business? In May 2019, the top four clouds deployed NVIDIA GPUs in 97.4% of Infrastructure-as-a-Service (IaaS) compute instance types with dedicated accelerators (Table 1). IaaS compute instance types define the specifications for each unique configuration of fractional server that clouds rent to IT customers.
+The top four public clouds worldwide are Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure and Alibaba Cloud (also known as “Aliyun”). Canalys Cloud Analysis service estimates that these four clouds accounted for 62.3% of combined cloud IaaS and Platform-as-a-Service (PaaS) revenue in Q1 2019.
+Cloud AI Accelerator Implications
+What this means, in a practical sense, is that AI accelerator market entrants are not going to be competing with all of NVIDIA. They will each be competing with a specific NVIDIA product, such as NVIDIA’s older Tesla K80 or its recently introduced Tesla T4.
+In May 2019, the top four clouds offered almost 12,000 instance types, of which about 2,000 contained dedicated accelerators. Of those instance types with dedicated accelerators, only a small number today are not based on NVIDIA GPUs (Table 1):
+Of the top four clouds, only Alibaba Cloud and AWS offer customers a choice of non-NVIDIA GPU or FPGA dedicated accelerator instance types (Figure 1). Within AWS, instance types using Xilinx FPGAs are significantly outnumbered by each of the three NVIDIA GPUs that AWS deploys. Alibaba Cloud has a more nuanced story, but NVIDIA Tesla P100 instance types still account for over half of Alibaba Cloud’s available instance types with dedicated accelerator.
+Figure 1: Share of Dedicated Accelerator Instance Types at Top Four Clouds
+For a detailed definition of "Dedicated Accelerator Instance Share" click here.
+FPGAs are Heating Up
+Xilinx announced its next-generation Versal “adaptive compute acceleration platform” (ACAP) in October 2018. Xilinx wants to move away from using the venerable “field programmable gate array” (FPGA) designation for Versal, because Versal solutions will contain a mix of programmable logic (the heart of FPGAs) plus dedicated logic for configurable on-chip interconnects, off-chip connectivity, processor cores and specialized accelerators for signal processing and AI tasks. Versal will be enabled by a new software development environment created by Xilinx.
+Xilinx had previously announced that AI Core and Versal Prime series chips will be generally available in the second half of 2019, and on June 18 it announced that its Versal chips have started shipping. I expect Xilinx to update its ALVEO cards soon and that Versal chips will be deployed for most IaaS instances via Xilinx ALVEO add-in accelerator cards.
+In December 2018, Intel announce its “One API” project plans. One API is an ambitious project to provide a common set of APIs to program processors, GPUs, FPGAs, dedicated AI processors and any other accelerators Intel might design. Intel said “a public project release is expected to be available in 2019,” which hedges its bets for releasing pre-production code by the end of this year.
+Intel announced its Agilex FPGA family in April 2019. Agilex is based on chiplets—many smaller chips in a multi-chip package, where each chip focuses on doing a specific task. Intel focused its Agilex messaging on hardware flexibility and performance, including memory coherent off-chip links to processors, hardened bfloat16 DSP support for deep learning acceleration, advanced memory support and other deep technical specs.
+Agilex will be enabled by Intel’s Quartus Prime Design Software. Intel currently ships several “Intel Programmable Acceleration Card” versions using both its current Arria and Stratix FPGAs and its older Programmable Acceleration Card (PAC) for telecom suppliers. However, Intel has not provided target dates for general availability of Agilex chips or cards.
+AMD is still following distantly behind NVIDIA’s GPU computing software enablement and marketing. AMD is able to engage with open source efforts like the Singularity high-performance container runtime with OCm GPU computing platform and HIP translation for NVIDIA CUDA code to C++. But these efforts have not moved the needle for AMD's GPUs in larger cloud service providers' share of dedicated accelerator instance types.
+NVIDIA is not Sitting Still
+On June 17, NVIDIA announced it will make its full stack of AI and high-performance computing (HPC) software available to the Arm ecosystem by the end of 2019, including Ampere’s eMAG, Huawei’s Kunpeng (given a resolution to international trade disputes) and Marvell’s (formerly Cavium) ThunderX series of server processors. NVIDIA already supports x86 (AMD and Intel) and POWER (IBM) processor architectures. Adding Arm support will complete NVIDIA’s coverage of all the server processor architectures currently (publicly) planned for cloud deployment over the next few years.
+Take-Away
+Given NVIDIA’s software ecosystem depth and singular commitment to accelerating AI, successfully competing with a single NVIDIA product across a few clouds is by itself a difficult task. Competing with NVIDIA across multiple products and across multiple clouds will be challenging, especially for smaller competitors.
+I believe  Xilinx has an edge over Intel in their competition to claim second-place to NVIDIA GPUs in the cloud.   Xilinx has created a competitive ecosystem around its Alveo branded add-in cards. That ecosystem should navigate the transition from Xilinx FPGAs to its Versal architecture. But, above all, Xillinx isn’t Intel. Clouds are already buying an enormous share of their processors from Intel, plus some are also buying Intel Optane storage and memory products. Having a competitive product offering and enabling cloud accelerator supply chain diversity should play well for Xilinx. Smaller accelerator vendors should look to Xilinx as an example, but that is a long road to follow.
+AI acceleration not just about a chip, it’s about fielding a complete and usable deep learning enablement solution without vendor lock-in. For the next few quarters, it looks like Xilinx is in the best position to gain share of compute instances with dedicated accelerators.
+--
+Minor update at 12:30pm Central 18 June 2019 to include Xilinx announcement of Versal availability and clarification regarding Xilinx software tools.
+The author is an employee of DoubleHorn; Liftr Cloud Insights is a service of DoubleHorn.
+The author and entities with which the author is affiliated may, from time to time, engage in business transactions involving the companies and/or the products mentioned in this post. The author has not made an investment in any company mentioned in this post. The views expressed in this post are solely those of the author and do not represent the views or opinions of any entity with which the author may be affiliated.
+
+NVDA price 3 days before article release: 3.632271051406861
+
+NVDA price 1 day before article release: 3.593512773513794
+
+NVDA price the day of article release: 3.60320258140564

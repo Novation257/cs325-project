@@ -1,0 +1,25 @@
+Nvidia Employees Become Multi-Millionaires—But At What Price?
+
+Sep 04, 2024, 10:18am EDT
+
+Nvidia's meteoric rise in the artificial intelligence chip market has created a wave of millionaires among its workforce. This unprecedented wealth creation stems from the company's extraordinary stock performance, which has surged by 3,776% since early 2019.
+Nvidia's employee stock purchase program that allows staff to buy shares at a 15% discount has transformed the lives of many employees, with the stock price soaring from $14 in October 2022 to nearly $107 at the time of publication.
+However, despite their newfound wealth, Nvidia staff find themselves caught in a "pressure-cooker" atmosphere of long hours, intense meetings, relentless expectations and alleged micromanagement, according to a recent Bloomberg report.
+Current and former employees at Nvidia describe their lucrative compensation packages as akin to "golden handcuffs," indicating that while they enjoy substantial financial rewards, these benefits also trap them in a demanding work environment.
+Nvidia CEO Jensen Huang has adopted a controversial leadership style that emphasizes pushing employees to their limits rather than resorting to layoffs.
+During a fireside chat with Stripe cofounder Patrick Collison in April, Huang quipped that he prefers to "torture employees into greatness," a statement that seems less hyperbolic in light of the Bloomberg report detailing Nvidia's intense work culture.
+According to one employee account, they were expected to work seven days a week, with  their shift ending around 1 or 2 a.m. Another staff member described being regularly pulled into between seven to 10 meetings in a single day, which would escalate into heated arguments. Both individuals said that they would have departed from the company sooner if it weren't for the requirement to wait for their stock grants to fully vest.
+Employee stock grants that vest over four years create a strong financial incentive for workers to remain at the company, even in a high-stress environment.
+The chip giant becoming one of the world’s most valuable companies has created an unexpected and unique challenge for Nvidia: motivating long-term employees who have become multi-millionaires through stock appreciation.
+Many long-tenured staff find themselves in a state of "semi-retirement" due to their substantial wealth from stock options. This phenomenon has led to internal tensions, as these employees’ engagement levels have reportedly diminished, Business Insider reported.
+This issue came to a head at a December companywide meeting, where Huang addressed concerns about "semi-retired" workers. In response, he urged all employees to take ownership of their work, encouraging them to act as "CEOs of their time."
+When managers observe declining performance or engagement from their team, they often feel compelled to increase oversight and control as a way to try to improve results. This can manifest as micromanagement behaviors.
+Low productivity may cause supervisors to lose trust in employees' abilities to work independently, leading them to monitor work more closely and provide excessive direction. Additionally, disengaged employees who aren't communicating proactively could prompt managers to check in more frequently and request constant meetings and updates.
+Despite reports of overwork and a stressful work environment at Nvidia, the company has a remarkably low turnover rate of 2.7%, compared to the semiconductor industry average of 17.7%. Moreover, it ranked No. 2 on Glassdoor’s annual “Best Places To Work” list in 2024, marking its fourth consecutive year among the top five companies.
+A spokesperson for Nvidia declined to comment on the matter.
+
+NVDA price 3 days before article release: 117.5333251953125
+
+NVDA price 1 day before article release: 107.9479522705078
+
+NVDA price the day of article release: 106.1588134765625

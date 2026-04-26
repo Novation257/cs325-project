@@ -1,0 +1,41 @@
+Nvidia RTX 4070 Ti Vs AMD Radeon RX 7900 XT: Which Should You Buy?
+
+Jan 04, 2023, 09:00am EST
+
+Today Nvidia (NASDAQ: NVDA) has lifted the veil on its latest graphics card - the RTX 4070 Ti and we'll be looking at whether it's worth its $800 price tag or whether you should opt for AMD's RX 7900 XT instead.
+It comes at a time of high graphics card prices, although the RTX 4070 Ti's launch price is a whopping $400 below that of the RTX 4080 and maybe a little lower than some were expecting. It also undercuts the RX 7900 XT from AMD by $100 too, at least on paper. You can see a YouTube video below.
+
+It's also worth noting the price of the RTX 3080 too. At launch it cost $700 so it's a $100 mark up for the RTX 4070 Ti. The latter has to offer signigificantly better performance than that card as a result, seeing as it costs less than that now, but the new card having a similar launch price.
+Test system
+The test system uses the Nvidia release driver for the RTX 4070 and the latest drivers as of December 27th for other Nvidia and AMD cards along with a fully up to date version of Windows 11. I used an Intel Core i9-12900K, Asus ROG Strix Z690 Apex motherboard, Kingston 6,000MHz Fury DDR5 memory, a Kingston Fury Renegade SSD and Thermaltake Toughpower GF3 1350W PSU.
+Below we can see a mixed result for the RTX 4070 Ti, with a higher average frame rate over the RX 7900 XT, but the latter offering a higher minimum 99th percentile. You'd maybe go with the Nvidia card here given it costs $100 less but its a close call.
+At 4K it's the same situation again with a higher average frame rate for the RTX 4070 Ti and even with FSR enabled the RX 7900 XT isn't able to better it, but is faster on the minimin 99th percenile. AMD maybe has more of a lead here, just edging out the Nvidia card overall. I'll be updating these results with DLSS figures for Nvidia soon.
+Rainbow Six Extraction below at 1440p is an easy game to run smoothly and here, the RX 7900 XT generally justifies the extra outlay, especially on the minimum 99th percentile frame rate.
+The same is true at 4K, with the AMD card offering a decent lead over the RTX 4070 Ti, but so far the RTX 4070 Ti has also shown big leads over the RTX 3080 too.
+
+Below this time with DLSS enabled, the RTX 4070 Ti gains a massive improvement here, nearly doubling both frame rates and comfortably leapfrogging the RX 7900 XT. However, it wasn't able to offer much more performance than the RTX 3080 Ti with or without DLSS.
+Metro Exodus at 1440p with ray tracing enabled was another mixed result with a slower minimum 99th percentile than the RX 7900 XT but faster average frame rate. You'd probably just about opt for the RX 7900 XT here so long as you weren't paying much more than $100 extra.
+At 4K, though, the situation changes and the RTX 4070 Ti was the better option by far, outstripping the pricier RX 7900 XT overall.
+With DLSS enabled, the TX 4070 Ti was significantly faster than the RX 7900 XT and here there's no FSR coming to the rescue for AMD either. The RTX 4070 Ti was also quicker than the RTX 3090 Ti.
+Watch Dogs: Legion at 1440p looks like a win for Nvidia with the RTX 4070 Ti able to keep pace with the more expensive RX 7900 XT and also offered decent gains over the RTX 4080 and even matched the RTX 3090.
+At 4K the situation was the same - you'd pick the cheaper RTX 4070 Ti and this time it even managed to beat the RTX 3090 Ti which is a big scalp, offering a sizeable upgrade from an RTX 3080 too.
+With DLSS enabled, the RTX 4070 Ti added a decent amount to its frame rates, although here it slipped back against its 3000-series siblings.
+Far Cry 6 is very much an AMD-favoring game so it was no suprise to see the RX 7900 XT retake the lead. However, it mostly sat where you'd expect a card that costs $100 more to sit in terms of performance.
+At 4K it extended this lead giving it a clear win over the RTX 4070 Ti given the modest price difference and with FSR enabled, the AMD card extended its lead.
+With DXR enabled at 4K, AMD still has the advantage over the RTX 4070 Ti although the latter was able to better the RTX 3090 Ti.
+The tables were turned in Halo, though, with the campaign mode seeing the RTX 4070 Ti offer much higher frame rates than the pricier RX 7900 XT and also good gains over the RTX 3080, while offering a higher average frame rate than the RTX 3090 Ti.
+At 4K it was still a win for the RTX 4070 Ti over the RX 7900 XT and the Nvidia card even managed to beat the RTX 3090 Ti here too, weirdly also matching the minimim 99th percentile of the RTX 4080.
+Flight Simulator is a tough game to get high frame rates in some situations but the RTX 4070 Ti was a little faster than the RX 7900 XT here and sat within the bottlenecked area at the top of the graph, limited by other areas of the system.
+There was more scaling at 4K, although here it wasn't able to better the RX 7900 XT's average frame rate. You'd still pick the Nvidia card though as it was much higher on the minimum 99th percentile.
+With DLSS enabled, the bottleneck reapears and again the RTX 4070 Ti manages to beat the more expensive RX 7900 XT
+Below is the latest version of the game in beta form so previous results are comparable (DLSS 3.0 is now a default option, but I've used the same version of the game for consistency). Here we can compare standard, DLSS 3.0 and FSR results for the cards and again DLSS 3.0 offers a signficiant advantage in Flight Simulator, getting around those system bottlenecks with frame generation. The RX 7900 XT put in a decent effort with FSR but with DLSS 3.0 the RTX 4070 Ti was signficiantly quicker still.
+Efficiency seems to trail off with the RX 7900 XT and RTX 4070 Ti, with both much slower than the likes of the RTX 4080, but not drawing much less power. Still, at least with the RTX 4070 Ti, most models only resuire two 8-pin power connectors and the Gigabyte RTX 4070 Ti Gaming OC 12GB proved to be very quiet in games and was quick to drop its fan speeds to zero RPM to reduce noise.
+Overall Nvidia has done enough to make the RTX 4070 Ti a better buy than the RX 7900 XT, although there are, as usual, exceptions so you'll do well to look at benchmarks for the games you play to work out which is best for you.
+In addition to sitiuations where it was faster at standard settings, DLSS and especially DLSS 3.0 with frame generation can offer a huge boost to performance - again not all games support it but Flight Simulator fans need look no further than the RTX 4070 Ti for the most affordable GPU to tap into the power of DLSS 3.0.
+The RX 7900 XTX is faster in a lot of tests, but its $200 pricier, at least with its launch price and while the RTX 4080 is quicker still, the $400 gulf between it and the card we're lookin at today makes it a whole other level in terms of budgets. It's not the affordable mid-range king that the RTX 3070 was, but for now, this is the cheapest RTX 4000 series card and is your best option for below $900 if you want a current generation GPU, especially if you're looking to dabble with DLSS or ray tracing, or both.
+
+NVDA price 3 days before article release: 14.587605476379396
+
+NVDA price 1 day before article release: 14.299909591674805
+
+NVDA price the day of article release: 14.733452796936035

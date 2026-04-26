@@ -1,0 +1,17 @@
+Nvidia Joins $4 Million Seed Round In Taiwan’s AI-Powered Simulation Startup MetAI
+
+Jan 15, 2025, 05:30am EST
+
+MetAI Technology, a Taipei-based startup that makes 3D simulations for logistics and manufacturing industries, said on Wednesday it had raised $4 million from investors including billionaire Jensen Huang’s chip giant Nvidia.
+Other investors who joined the seed round include Taiwanese electronic manufacturing company Kenmec Mechanical Engineering and industrial automation software provider Solomon Technology, as well as local venture capital firms Addin Ventures, SparkLabs Taiwan and Upstream Ventures, MetAI said in a press release. MetAI is “the first Taiwanese company in Nvidia’s portfolio,” according to SparkLabs Taiwan cofounder Edgar Chiu in a Linkedin post.
+Established in 2023, MetAI said it has developed a software that uses AI to convert 2D floor plans of automated warehouses into 3D simulations in a few minutes, compared to about 300 hours using other methods. Such simulations, known as digital twins, allow logistics companies to test the efficiency of their warehouses and facilities before real-world deployment. MetAI’s software can be used within Nvidia’s Omniverse digital twin platform.
+MetAI said it will use the funds on research and development and hiring. It will also expand into the U.S. to target clients such as semiconductor manufacturers, automated warehouse operators and robotics companies.
+“Developing physically accurate digital twins is seen as a barrier to entry for those looking to develop physical AI at scale," said Daniel Yu, cofounder and CEO of MetAI, in the press release. “We’re changing that narrative by enabling businesses to instantly train AI systems—whether for robotics, logistics, or manufacturing—in physics-based virtual environments with unprecedented efficiency and scalability.”
+MetAI said its digital twin technology can be used to build the so-called “large world models”—a type of AI model that simulates the real world so that autonomous machines like robots and self-driving cars can be trained and tested.
+Among the startups that are looking to build “large world models” include San Francisco-based World Labs. Cofounded by Fei-Fei Li, former chief scientist of AI at Google Cloud, World Labs is backed by NVentures, the venture capital arm of Nvidia, among others.
+
+NVDA price 3 days before article release: 135.86549377441406
+
+NVDA price 1 day before article release: 131.71682739257812
+
+NVDA price the day of article release: 136.1953887939453

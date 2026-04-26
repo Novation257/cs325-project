@@ -1,0 +1,61 @@
+Pop OS 18.10 Linux Gaming Report: System76 Nails It For Nvidia And AMD Users
+
+Mar 20, 2019, 09:40am EDT
+
+This article is the second in a series on Linux-powered gaming that aims to capture the various nuances in setup, as well as uncover potential performance variations between nine different desktop Linux operating systems. But it's more than that. It's my hope that it will guide the future development of popular Linux distributions, and serve as a roadmap for newcomers. Part 1 focused on Fedora 29. Next up we'll take a closer look at the gaming setup and user experience of Pop!_OS 18.10, an Ubuntu-based distribution from Colorado boutique PC builder System76.
+
+About Pop!_OS
+Pop!_OS is, in my opinion, a seriously underappreciated Ubuntu-based operating that distinguishes itself in a couple major areas -- in addition to its utter simplicity and slick installer. It was created primarily to be the accompanying OS for the variety of custom Linux desktops and laptops produced by System76, and they've added some features I prefer not to live without regardless of what hardware I'm using.
+First, Pop!_OS is one of the only distros I've tried that elegantly handles Hybrid graphics (that's Intel CPU + Nvidia GPU as seen in laptops like the ThinkPad X1 Extreme) out of the box. Moreover, System76 ships two versions of Pop!_OS: one designed for Intel/AMD, and one designed for Nvidia GPUs. The Nvidia ISO installs the proprietary driver so that users don't need to add a repository by hand and install it later.
+Pop!_OS also has a CPU Power Manager extension, developed in-house by System76, that lets you change various power envelopes on the fly and throttle back your CPU's minimum and maximum frequencies. It also controls hybrid graphics switching. I haven't done extensive comparison testing (yet), but it's a blessing for laptop users.
+It's currently my top recommendation for Linux newcomers. Especially those of you who want to just install your OS, fire up Steam and play.
+Report Introduction
+Gaming on Linux. Depending on who you talk to, getting stuff like Steam up and running and graphics drivers installed can be a tedious exercise, or ridiculously straightforward. That's because people don't really game on Linux. They game on Fedora, Manjaro, Ubuntu, Deepin, Solus. They game on Debian-based distributions or Arch-based distributions (among others). Each with their own philosophies on free (as in open source and freely distributed) versus non-free (Steam and proprietary Nvidia drivers) software. Each with their own approaches to stability, affecting which versions of drivers are available out of the box.
+While there are certain procedures and best practices that persist across any distro, the variances can be daunting for new users. And that's the jumping-off point for this series.
+Recap: My 3 Goals For This Project
+The Linux Distros Being Tested:
+Part 1a: Which Version Of Steam?
+With Pop!_OS (typing that quickly really takes some finger gymnastics!) there's no need to consider the FlatHub or Snap versions of Steam. No need to enable additional 3rd-party repositories (software sources). It's available inside the Software Center, and there's a good reason I highly recommend the package from System76 -- primarily for AMD users using the open source MESA graphics drivers.
+Pop!_OS maintainer and System76 engineer told me the secret sauce via Twitter: "To reduce friction for open source drivers, we modified the steam package to install the 32-bit & 64-bit Vulkan [libraries]," he says. "64-bit Vulkan [libraries] are installed by default on Pop, though."
+This is important because in order to use Vulkan properly on Steam Proton titles, you need those 32-bit libraries. This solution removes a step required on most Ubuntu-based operating systems, which would be firing up the Terminal and typing "sudo apt install mesa-vulkan-drivers mesa-vulkan-drivers:i386." Yes, a simple procedure, but not one a beginner would know about. It's these little efforts to increase simplicity that makes me recommend both this Steam option and Pop!_OS overall.
+So, getting up and running with Steam on Pop!_OS -- for both Radeon and Nvidia gamers -- is as easy as installing the OS, running the usual system updates, and installing Steam. Then if you want to play the thousands of Windows-exclusive games available inside Steam for Linux, all that's left is checking the "Enable steam Play for all other titles" box in the Steam Play options section.
+CONTROLLER SUPPORT:
+Getting most controllers recognized here remains unchanged from Fedora 29 in my experience. As always I tried a generic USB Xbox 360-style controller, an Xbox One controller and an Xbox One S controller with Bluetooth. As you can see, both Xbox controller work out of the box when plugged in, but a workaround is needed to connect to the Xbox One S controller via Bluetooth.
+It's a fairly simple -- though not necessarily intuitive -- solution. Here's what to do.
+In Terminal, type:
+sudo sh -c 'echo 1 > /sys/module/bluetooth/parameters/disable_ertm'
+That command disables a Bluetooth protocol known as "Enhanced Re-Transmission Mode" which causes issues on Linux with the Xbox One S controller.
+You'll probably want to make this change permanent, so edit (or create) this file using your text editor of choice:  /etc/modprobe.d/bluetooth.conf.d by entering:
+sudo gedit /etc/modprobe.d/bluetooth.conf
+That command opens up a Gnome text editor. Now put the following line in the config file:
+options bluetooth disable_ertm=1
+After that you can pair and use your Xbox One S controller via Bluetooth, and the changes you made will persist across reboots.
+
+Radeon gamers have an advantage across several Linux distributions: the open source driver is part of the kernel (and thus ready to use immediately), well maintained and quite performant. This typically means less steps to get up and running with Steam and Steam Proton. One distinct difference between Pop!_OS and Fedora, however, is that Fedora runs with a much newer MESA driver. Specifically, Fedora 29 uses MESA 18.3.4 while Pop uses MESA 18.2.8.
+You'll notice in the benchmarking section, though, that I noticed a slight performance increase with Pop over Fedora. The native and Proton games I tested "just worked" with no visible artifacting or anything else that would detract from the experience. The kernel on Pop is also a bit older, but again I noticed no disadvantage on the gaming side save for one: updating your kernel to 5.0 will add Freesync support which is a feature I can't live without. It is quite literally a game-changer.
+
+If you're an NVIDIA user, good news: Pop!_OS has a separate installer image for you which automatically installs the proprietary (and far more performant) graphics driver. Again, there's no need to enable alternative software sources or hit the command line. The moment your OS is installed you're ready to start gaming.
+You'll be using the latest and greatest stable driver, Nvidia 418.43.
+And look, I know many of you would prefer to use the open source "Nouveau" driver, which is maintained by a very passionate and talented community of developers. For non-gaming purposes, that driver is perfectly fine. But for gaming, let me show you something.
+I ran a benchmark of Dirt Rally at 1080p on the Ultra quality preset using the open source driver. The result? An average of 16fps. Then I ran the same benchmark with Nvidia 418.43, yielding an average 82fps. That is literally a 412% increase in performance. It's not the example illustrating this point. Here's one of many benchmarks from Phoronix illustrating roughly the same thing:
+Convinced? Stick with proprietary on this one.
+Seriously though, both Radeon and Nvidia gamers benefit from not even having to install a graphics driver to start gaming! You can't say that about Windows!
+
+My test bench remains the same throughout this series. Here are the specs alongside the specific driver, Steam and kernel versions used on Pop!_OS:
+
+With The Radeon RX 580:
+In my Unigine and Native tests, we see results that are within margin of error. Consider also that Pop!_OS uses Xorg as its default display server while Fedora uses Wayland. These are also different kernels. Still, I'm not sure how to explain the wider variance when it comes to Proton titles. I even went back and re-ran my Fedora 29 benchmarks for a sanity check and got the same results. This is another one of those oddities that may reveal itself more clearly as additional distros are tested.IMPORTANT UPDATE: About 9 days after publishing this report, Phoronix alerted us to the fact that Fedora had been briefly been running a debug build of the Radeon MESA drivers. This affected performance and overlapped with my time using Fedora 29! As a result, I will re-run the Radeon gaming benchmarks before the final report.
+With The Nvidia GTX 1080:
+On the Nvidia side of the house, the results between Pop and Fedora are within margins of error across the board. There's not much variance here, and any performance gaps can likely be attributed to kernel versions or the differences in Steam versions or display servers (Wayland vs Xorg).
+Conclusion
+Since this series is based on getting drivers installed, and Steam up and running for both native and Proton (Steam Play) titles, there's only one possible conclusion: Pop!_OS 18.10 is dead simple.
+Particularly for Nvidia users new to Linux, I recommend Pop!_OS over a more popular distro like Ubuntu. In fact, I recommend Pop!_OS over just about anything these days. The above simplicity is why I've started using as my daily driver. But you should definitely try it for yourself and draw your own conclusion.
+The only thing I dislike about this fantastic distribution from System76 is typing it!
+Next up: Solus 4. See you then!
+LINUX GAMING REPORT TIMELINE:
+
+NVDA price 3 days before article release: 4.214041233062744
+
+NVDA price 1 day before article release: 4.360456466674805
+
+NVDA price the day of article release: 4.32794713973999

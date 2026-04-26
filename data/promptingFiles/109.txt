@@ -1,0 +1,30 @@
+Rigetti Computing Stock Down 37% As Nvidia CEO Sees ‘Inflection Point’
+
+Jun 12, 2025, 11:39am EDT
+
+Nvidia CEO says quantum computing is reaching “an inflection point” and Rigetti Computing stock is up slightly — but down 37% in 2025. Should you buy?
+Nvidia CEO Jensen Huang is now a quantum computing booster after a March conversion.
+Actively traded Rigetti Computing enjoyed a slight boost to its stock price which is down 37% in 2025 — after a 970% increase since June 2024.
+The company’s recent earnings report does not support a bull case for Rigetti stock.
+Yet the longer-term opportunity for quantum computing could be significant, according to my June 10 interview with MIT expert Jonathan Ruane.
+Quantum computing — which uses super-cooled metal to power more calculations per circuit than classical computing can perform — is capturing the attention of investors.
+How so? Publicly traded quantum computing stocks soared Wednesday before reversing direction later in the day. For example, according to Yahoo! Finance:
+The reason? “Quantum computing is reaching an inflection point,” Nvidia CEO Jensen Huang told a crowd at Nvidia GTC Paris on Wednesday, reported Yahoo! Finance. “We are within reach” of using quantum computers for “areas that can solve some interesting problems in the coming years,” Huang added.
+This brings up an important observation about the industry: When Jensen Huang talks about quantum computing, people listen. That’s my modern-day twist on the old catchphrase — “When E.F. Hutton talks, people listen” — from a TV commercial for the late brokerage firm.
+Rigetti is among the most heavily traded public companies on the stock exchange — but should it be? The arguments opposing investor interest seem compelling: The company’s stock has fallen 37% so far in 2025 and its first quarter 2025 financial results fell short of expectations.
+Yet if prognosticators such as MIT Lecturer John Ruane are correct, the future of quantum computing could be very bright if certain problems are solved in the next five to 10 years, he told me in a June 10 interview.
+Meanwhile Rigetti sees a bright future by around 2030. “That’s where the market is really supposed to grow and be large enough where things like sales and EPS start becoming much more critical,“ Rigetti CEO Subodh Kulkarni told Yahoo! Finance’s Asking For A Trend.
+“At this point, it’s all about technology development and how we are getting the milestones done so that we enable this large $100 plus billion market in the future,” he added.
+Huang’s views on QC have evolved significantly this year. He went from saying in January that QC could be 15 to 30 years away from offering practical solutions to business problems, noted Investopedia, to seeing QC at an inflection point on June 11.
+During the interim, in March, Huang announced a bet on a Boston-area research center to help Nvidia overcome the impediments to realizing the technology’s potential, I wrote in my March Forbes post.
+At the moment, QC is based on fragile hardware and error rates that are unacceptably high for most practical applications. Classical computers rely on linear algebra, noted Yahoo! Finance.
+QCs, however, have far more processing capability because they apply quantum mechanics and advanced mathematics — making them amenable to solving problems in “cybersecurity, cryptography, and chemistry,” reported Yahoo! Finance.
+Perhaps Huang was motivated to make his Wednesday remarks by IBM — which on June 10 announced plans to launch in 2029 a large-scale QC capable of “operating without errors,” according to IEEE Spectrum.
+Google released a quantum computing chip called Willow in December, saying the technology "paves the way to a useful, large-scale quantum computer," noted Yahoo! Finance. Meanwhile Amazon and Microsoft announced two quantum chips in February.
+Compared to these recent announcements, Huang’s remarks were relatively content free.
+
+NVDA price 3 days before article release: 142.59640502929688
+
+NVDA price 1 day before article release: 142.80625915527344
+
+NVDA price the day of article release: 144.9759063720703

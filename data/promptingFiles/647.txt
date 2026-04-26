@@ -1,0 +1,66 @@
+Xilinx To Compete With Intel, NVIDIA On Datacenter AI Acceleration
+
+Oct 15, 2018, 03:49pm EDT
+
+(This post was corrected at 6pm CDT on 10/16/2018 to reflect NVIDIA's membership in ONNX.)
+NVIDIA
+ and 
+Intel
+ are dominant players in datacenter artificial intelligence (AI) acceleration. 
+Xilinx
+ intends to compete against them in the growing field of machine learning as a service (MLaaS). At its 2018 developer forum (XDF), Xilinx announced its new SDAccel integrated development environment (IDE), enabling a larger FPGA development and deployment ecosystem. Xilinx’s SDAccel is up against NVIDIA’s GPU Cloud (NGC) software ecosystem and with Intel’s FPGA products.
+In addition, Xilinx announced its new “Versal” advanced computing acceleration platform (ACAP) architecture, “Alveo” branded FPGA accelerator add-in boards (AIB) and Versal’s 7nm manufacturing at TSMC.
+Xilinx Ecosystem
+Xilinx’s SDAccel IDE is the key product that will make or break Xilinx in the MLaaS market. Xilinx’s goal is for FPGA software developers to have the same FPGA development experience across its cloud service provider (CSP) customers, 
+Amazon Web Services
+, 
+Alibaba
+, 
+Baidu
+, 
+Huawei
+, Nimbix, Tencent and potentially other clouds.
+NVIDIA did the same thing years ago, using CUDA to enable a larger GPU ecosystem in the high-performance computing market. In business as in art, imitation is the sincerest form of flattery. Xilinx is specifically targeting SDAccel to achieve a GPU-like ecosystem:
+The first release of SDAccel supports deep learning frameworks Caffe, MXNet and TensorFlow through Python APIs.
+Xilinx Alveo Server Add-In Boards
+Alveo AIBs are the first delivery target for SDAccel. SDAccel will be Xilinx’s only fully-supported development environment for Alveo AIBs. Datacenter software developers will know which IDE to use for an Alveo AIB and which Xilinx product line to use in a CSP’s datacenter. This will help focus Xilinx’s CSP customers on a unified cloud development and deployment ecosystem.
+Two of the top CSPs are missing from the above table: 
+Google
+ and 
+Microsoft
+. Google is using its own in-house TPU v1 design for internal delivery of inference MLaaS. Microsoft does not disclose which models of Intel FPGAs internally to accelerate its Bing search service or externally in its preview Brainwave service for deploying pre-trained deep learning models.
+Publicly announced server manufacturer partners for Xilinx Alveo include 
+Dell
+ EMC, Fujitsu, 
+Hewlett Packard Enterprise
+ (HPE) and 
+IBM
+. With Huawei Cloud supporting a preview of Alveo, we suspect that Huawei server support is not far behind.
+The Xilinx FPGA chips on its first-generation Alveo boards have 2-3% more usable logic than corresponding Virtex Ultrascale+ chips. They are probably the same designs Xilinx is currently shipping, but more aggressively sorted:
+AMD Acceleration & Cooperation
+Advanced Micro Devices
+ (AMD) might eventually challenge NVIDIA GPU dominance in the deep learning training market. But without a strong GPU presence in deep learning today, AMD chose to back Xilinx for deploying inference MLaaS at scale.
+Looking through an “enemy of my enemy is my friend” lens, AMD and Xilinx have decided to help each other compete both with Intel and with NVIDIA in the CSP MLaaS market.
+Intel (formerly Altera) FPGAs
+Intel recently announced its Programmable Acceleration Card (PAC). The two Intel PAC models host either an Arria 10 GX or a Stratix 10 SX FPGA. Intel is shipping engineering samples of both boards. Intel PAC AIBs are supported by server manufacturers Dell EMC, Fujitsu and HPE.
+A year ago, Intel kicked-off its FPGA software development tools for datacenters initiative, but without an identified FPGA or AIB target. Intel’s Acceleration Stack for Xeon CPU with FPGAs is not directly coupled to Intel’s PAC, and it supports many different Intel FPGA chips. Intel’s acceleration stack is focused on design engineers who know enough about FPGA tools to develop solutions, but not on broader cloud-based software developer audiences.
+Intel’s challenge is that it is trying to cover too many deep learning acceleration options simultaneously, using processors, FPGAs and yet-to-ship dedicated deep learning chips (discounting the additional Xeon Phi product line as an evolutionary dead-end). Intel has historically not been hugely successful in integrating acquisitions, especially when they account for a small fraction of revenue—as with its Altera FPGA acquisition.
+From its recent actions, Intel appears to be leaning toward using either Xeon processors or its upcoming specialty machine learning chips for inferencing MLaaS. Either direction looks like a win for Xilinx in the short-term.
+NVIDIA Playing Defense in Inference MLaaS
+NVIDIA’s challenge for inference MLaaS is that its core MLaaS market is training deep learning models. NVIDIA has a commanding lead supplying its GPUs into deep learning training deployments and is a member of both the  Open Neural Network Exchange (ONNX) initiative and the emerging ML Perf deep learning performance evaluation suite.
+NVIDIA’s TensorRT is aimed at optimizing and deploying trained models for inferencing workloads. Because of its commanding lead in training deployments, NVIDIA has been focused on pushing the boundaries of deep learning training performance. The deep learning inferencing market will be more difficult for NVIDIA to dominate, because inference performance is more complicated than the raw compute power needed for to train deep learning models. Inferencing performance takes into account both power consumption and cost of deploying hardware to deliver the lowest cost per inference, given that inferences are delivered within a specified response time.
+Measuring MLaas Performance
+Performance assessment is the core of any return on investment (ROI) analysis. However, benchmarking MLaaS performance is still in its infancy. There is currently no good way to consistently and equitably benchmark MLaaS performance between compute instances within a CSP (AWS FPGA vs. GPU instances) or between CSPs (AWS FPGA vs. Alibaba FPGA instances).
+The CSP supply chain is focused on ML Perf for comparing both training and inference deployments. Xilinx is notably absent, but datacenter suppliers AMD, Intel and NVIDIA are supporters, along with Arm, MediaTek and Samsung, plus many dedicated deep learning chip companies.
+The Beginning of Inference MLaaS Competition: How can Xilinx Succeed?
+Xilinx must create a unified set of software tools, runtime environments and hardware AIBs to compete effectively with NVIDIA and Intel.  SDAccel and Alveo are the right moves for Xilinx to play in the next round of inference MLaaS.
+However, Xilinx will need to keep moving up the ecosystem stack and participate in ONNX and ML Perf to understand and help steer major competitive initiatives in the industry.
+--
+(This post was corrected at 6pm CDT on 10/16/2018 to reflect NVIDIA's membership in ONNX. The author regrets forgetting that well-publicized effort of NVIDIAs and in the future will refrain from writing articles immediately following surgery.)
+The author and entities with which the author is affiliated may, from time to time, engage in business transactions involving the companies and/or the products mentioned in this post. The author has not made an investment in any company mentioned in this post. The views expressed in this post are solely those of the author and do not represent the views or opinions of any entity with which the author may be affiliated.
+
+NVDA price 3 days before article release: 6.084729194641113
+
+NVDA price 1 day before article release: 6.105780124664307
+
+NVDA price the day of article release: 5.829391479492188

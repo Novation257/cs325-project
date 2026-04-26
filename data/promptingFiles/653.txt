@@ -1,0 +1,50 @@
+Ubuntu Guide: How To Install Nvidia Drivers And Play Windows Games On Linux
+
+Aug 30, 2018, 05:45am EDT
+
+Valve's recent update to Steam for Linux -- which introduces gaming compatibility tools under the name Proton -- has resulted in a notable increase in Windows users interested in taking Linux for a test drive or removing their Windows partition altogether. For the curious among you, I wanted to write a guide teaching you how to install Ubuntu on your PC, grab the latest Nvidia GPU drivers and set up Steam to play some of your favorite Windows-only games.
+Read Why I Switched From Windows To Ubuntu Linux
+I chose Ubuntu for this guide not just because I'm familiar with it, but also because it's the most popular desktop Linux distribution. Ubuntu also represents the most widely used OS by the Linux community testing the thousands of Windows games for Steam Play compatibility. That means if you get stuck or need to troubleshoot something, you're more likely to find the answers you're looking for.
+Note that I carried out all of the below steps personally on a clean Ubuntu install to ensure accuracy, but your mileage may vary depending on the type of PC you have. And before you start thinking that using Linux is a daunting task, know that I've only been using it for 6 weeks and I'm here writing a guide!
+Windows Steam Games On Linux: A Brief Primer
+Before last week, the only avenue Linux gamers had for playing Windows-only games was a tool called WINE, which stands for Wine Is Not An Emulator. And it's not. Rather, it's more of a compatibility layer. WINE and other tools like DXVK and VKD3D translate DirectX (the graphics API present in most Windows games) to either OpenGL or Vulkan. WINE also installs certain fonts and .dll files that are only on Windows.
+While this method works, it's a bit scattershot and requires a ton of trial and error, manual configuration and guesswork. What Valve has done is improved upon those tools (and employed the main developer of the DirectX to Vulkan project) and published their own version called Proton. It's open source, and the tools are installed seamlessly in the background depending on the game. So now, theoretically, the vast majority of games you could only play on Windows can now be installed directly in the Steam for Linux client. I can confirm that many of them work flawlessly.
+Valve has advanced Linux-based gaming by leaps and bounds with this initiative, but proceed with caution knowing this is still firmly in the realm of "Beta!"
+
+I've written an Ubuntu installation guide for beginners, so if you don't have Ubuntu on your PC yet, make this your first stop.
+Step 2a: Install The Latest Nvidia Driver
+
+Since the Steam Proton update is so new, it requires a newer Nvidia driver than what's distributed with Ubuntu 18.04.1. Using Terminal, let's enter a few commands to gain access and install it. No clicking through menus or advancing through setup screens, no manual downloading. I promise it's easier than you think!
+Simply hit your Windows Key (which is called the Super key in Linux) and type "Terminal." Once it's open, type the following commands (note that "sudo" means you're executing the command as an administrator or "root" so you'll need to enter your user password):
+Sidebar: But what does all that mean? In the first line you added another software source to Ubuntu, allowing you to snag the latest and greatest graphics drivers. This means they'll auto-update now as well. In the second line, you instructed Ubuntu to scan for the newest software available, as well as the "dependencies" or supporting software required, which will be installed automatically. In the third line, you told Ubuntu to install the newest Nvidia driver, which as of this writing is 396.54.
+(Note that after "apt-update" you can also browse to your "Software & Updates" app, click the Additional Drivers tab, and select the newest available Nvidia driver. This may be necessary if you have an older model GeForce card.)
+
+"Reboot" is self-explanatory! I figured hey, since you're in Terminal already, take the geeky option.
+
+If you want to verify your Nvidia driver version, simply hit your Super key, type "Nvidia" and click on the result which brings up "Nvidia X Server Settings."
+Step 2b: Install the latest AMD drivers.
+I'm hesitant to write instructions for methods I haven't tested personally, but if you're using an AMD Radeon graphics card there's a brief guide for installing the AMD MESA drivers here. It follows pretty much the same procedure. I hope to do testing on RX Series and Vega cards in the near future.
+Step 3: Install Steam
+If you're feeling comfortable with Terminal, installing Steam is ridiculously easy. Type "sudo apt install steam" and you're good to go. However, let's get you introduced to the Ubuntu Software Center. The fastest way to find Steam there is by hitting your Super key (remember, the Windows key!) and typing "Steam." Click the result and you'll arrive at the Software Center. Hit install, type your user password and that's it. Once it's finished, either click "Launch" or hit your Super key again and type Steam.
+Tip: Once Steam updates, just drag the icon up on your Ubuntu Dock and it will automatically add it your favorites.
+Step 4: 
+  Activate the Steam Play Beta Launch Steam
+
+
+
+Steam will now update to the latest Beta version, which includes Proton.
+Update: The Steam Play with Proton update was just integrated into the mainline Steam client. That was fast! This means there's no need to opt-in to the Beta.
+With Proton, Valve has officially whitelisted only 27 games which you can find here. By default these are the games that will be supported. To play them, simply find them in the store. If you already own them on Windows, just install them normally. Your cloud saves will also carry over between operating systems.
+But here's the thing: nearly 1000 more are perfectly playable, and this update has only been live for about a week. If you want to get adventurous, move on to Step 5.
+Step 5 (Optional): Hit The Override Button
+With Steam Play there's a bit of a nuclear option if you want to try playing literally anything available on Steam for Windows. The majority of the 2000+ games tested thus far are marked as either Stable or Completely Stable, but it's a good idea to check here first. Some don't work, some are buggy, but there's still 1000+ more games that are fully playable on Linux than there were a week ago! In a nutshell, browsing to Steam --> Settings --> Steam Play and checking the "Use Steam Play For All Titles" box will apply the Proton tools to games not yet verified by Valve to have perfect, native-like performance. It significantly increases your options, but some games may not work as expected or they'll be buggy.
+Again, remember this is a rapidly evolving projectand you're in on the ground floor. Thinking about where we go from here makes my enthusiasm skyrocket.
+Community Support:
+I've found the Linux community to be incredibly active and ridiculously helpful when it comes to troubleshooting anything. If you get stuck along the way, here are a couple resources which I've found personally beneficial:
+MORE ABOUT LINUX ON FORBES:
+
+NVDA price 3 days before article release: 6.82917070388794
+
+NVDA price 1 day before article release: 6.8970489501953125
+
+NVDA price the day of article release: 6.880208969116211

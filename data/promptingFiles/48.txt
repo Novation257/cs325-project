@@ -1,0 +1,27 @@
+Humanoid Robotics Company Raises $1 Billion For Nvidia Chips, AI Data Collection, Production
+
+Sep 16, 2025, 01:07pm EDT
+
+Humanoid robotics company Figure AI has raised “more than $1 billion” in a series C financing round, the company said Tuesday. The goal: expand robot production, build out the company’s Nvidia GPU infrastructure to accelerate training and simulation and expand data collection of humans working and living.
+Ultimately, that means manufacturing the shippable hardware, or robots, building the AI engine that will make its robots smart, and capturing the training data its AI engine will require.
+“Figure’s goal is to solve general robots,” CEO Brett Adcock said Tuesday in a YouTube video. “For the first time in history, the right technologies exist to make that possible.”
+Figure has extremely high ambitions. Its robot, Figure 02, was just the second humanoid robot to get a paying job late last year. Earlier this year, Adcock announced that the company had a goal of shipping 100,000 humanoid robots over the next four years and added that Figure’s customer list included “one of the biggest U.S. companies.”
+Those ambitions don’t end at the warehouse or factory. Figure regularly shares videos of its robots working in kitchens, serving drinks, loading a dishwasher, folding clothes and doing other domestic tasks. Core to both is Helix AI, the intelligence that Figure is building into each of its robots. Helix AI gives the Figure robots adaptable real-world intelligence, enabling them to understand what objects are even if they’ve never seen them before, and enabling smart or reasonable actions based on that knowledge.
+That’s core to shipping useful humanoid robots that don’t have to be explicitly trained on every tiny edge case of helping or working in a home or factory.
+“This is a really hard problem,” Adcock says. But, he adds, the “team is in place, the robots are built, and the path ahead is clear.”
+A billion-plus dollars in funding will help, of course. Intel, Nvidia, LG, Salesforce, Qualcomm and T-Mobile all participated in the round via their investment arms, but the funding round was led by Parkway Venture Capital.
+Figure is not the only humanoid robotics company to raise a billion dollars lately. China-based UBTech reportedly raised that amount earlier this month, although the company has not confirmed it. UBtech has the distinction of having won the largest publicly known contract for humanoid robots at 90.5115 million yuan, or $12.7 million USD, from Miyi Automotive Technology Co.
+The future for humanoid robots could be bright. The potential market is $40 trillion of physical labor that is done every year, or half of global domestic product.
+There are some naysayers, however. Bren Pierce, robotics OG and CEO of Kinisi Robotics, is at least partially one of them.
+“What are the legs useful for,” he asked on a recent TechFirst podcast with me. “Obviously you’re going to have legged robots … [but] are we actually missing one of the key features to enable them, which is the AI?”
+His argument: legs are flashy, but wheels work just fine in factories and warehouses, and are potentially much better for heavy loads and long battery life. Also, hands are the real challenge.
+All that said, dozens of manufacturers are charging full speed ahead into fully humanoid robots, and cashing in along the way.
+In a market with dozens if not hundreds of competitors, Figure sees itself as the market leader.
+“This milestone is critical to unlocking the next stage of growth for humanoid robots, scaling out our AI platform Helix and BotQ manufacturing,” Adcock said in a statement. "Support from new partners, alongside the continued backing of our existing investors, reflects both Figure's position as the market leader and a shared belief in a future where this technology becomes a natural part of daily life."
+With all this investment, that could be sooner than we realize.
+
+NVDA price 3 days before article release: 177.1505584716797
+
+NVDA price 1 day before article release: 177.73049926757812
+
+NVDA price the day of article release: 174.86080932617188

@@ -1,0 +1,16 @@
+Nvidia Is At The Top Of Its S-Curve: What Next For A Company Of Reinvention
+
+Feb 21, 2024, 11:44am EST
+
+I am a great admirer of Jensen Huang, CEO of Nvidia, since I first spoke with him eight or nine years ago. In that call, he described how he was placing a long-term bet on 5 distinct end-markets that he believed needed his firms capabilities to reach their full potential. I described this approach in my book Corporate Explorer as a classic case of defining “hunting zones,” to set boundaries for exploratory innovation.
+I was doing the call for a project on the future of the semiconductor industry. On the call was my client’s strategy team and its chief financial officer . I vividly remember that as we closed the call, the CFO made a sarcastic comment about how Jensen talked a good game, but that the stock was in the toilet. He dismissed Jensen’s decision to spend 30% of revenue on R&D as ill-disciplined innovation.  At the time, Nvidia’s stock was in the low $20 range, today it is close to $700, a 1500% increase over ten years.
+Nvidia has been around for thirty years and Huang is quick to point out that it has transformed itself several times. This latest, defining transformation was from being the world’s best maker of graphic processing chips for computer gamers. As Intel moved to incorporate graphic capabilities into its core processors, so Nvidia shifted tack and Huang defined his hunting zones. At the core of many was Artificial Intelligence and his conviction that his company’s GPUs offered a tremendous advantage over alternatives.
+The brilliance of Huang’s approach is that he did not simply rush off and start developing new products. He understood that if he was going to displace Intel and the CPU from its dominance, he needed to build an ecosystem of developers that would adopt GPUs for AI applications. He motivated his engineers to go out and learn about scientific applications of AI, so that they could identify early adopters. Here Nvidia could leverage the brand relationships they had from computer gaming because so many of the people writing software for scientific discovery were gamers.
+Now, Nvidia is riding high on the boom in Artificial Intelligence. It has reached a new moment in its transformation. As it prepares for its 4Q earnings call it is the dominant player. It is no longer demonstrating progress on the route to becoming a major player in an emerging market. Nvidia is now the poster child for THE growth topic of the century so far.
+I am eager to see where Jensen Huang will go next. This last transformation was from a position of weakness, he was being pulled into an “Intel Blackhole.” Now, he is at a place of extraordinary strength can he reinvent Nvidia again to lead a new wave of growth? Will Nvidia meeting the notoriously short-term expectations of the market or will it start to creak under the weight of its own success?
+
+NVDA price 3 days before article release: 72.61360168457031
+
+NVDA price 1 day before article release: 69.4095687866211
+
+NVDA price the day of article release: 67.4307861328125

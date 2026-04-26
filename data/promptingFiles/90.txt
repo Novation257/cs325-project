@@ -1,0 +1,15 @@
+Jensen Huang Overtakes Bernard Arnault To Become World's 6th Richest—As Nvidia Hits Record Share Price
+
+Jul 15, 2025, 09:58am EDT
+
+Nvidia CEO Jensen Huang moved ahead of LVMH’s Bernard Arnault to become the world’s sixth-richest person as shares of the chipmaker rallied to an all-time high Tuesday, after the company said sales of its H20 AI chips would resume “soon” in China, ending months of restrictions imposed by the Trump administration.
+Shares of Nvidia increased by more than 4% to just over $171 as of around 11:10 a.m. EDT, paring back earlier gains after reaching an all-time high of $172.40 and opening to a record $171.19.
+Huang met with President Donald Trump and Chinese leadership in Beijing earlier this month, Nvidia announced Monday, adding the U.S. government “assured” Nvidia it would grant the company licenses to sell its H20 chips in China, with deliveries expected to start “soon.”
+In April, the company forecast a $5.5 billion reduction in sales after the U.S. imposed restrictions on Nvidia’s chip sales to China, as Huang claimed a $50 billion market in China for AI chips was “effectively closed to U.S. industry.”
+Huang, who holds a roughly 3% stake in Nvidia, is the sixth-wealthiest person in the world with a fortune valued at $148.1 billion, according to Forbes’ estimates. The value of Huang’s stake increased by more than $5.3 billion as shares rose, ranking him just ahead of Arnault ($147.9 billion) and behind Google’s Larry Page ($150.6 billion).
+
+NVDA price 3 days before article release: 164.07273864746094
+
+NVDA price 1 day before article release: 164.04273986816406
+
+NVDA price the day of article release: 170.671630859375

@@ -1,0 +1,16 @@
+Nvidia CEO Jensen Huang Vaults Into World’s 10 Richest For First Time Ever
+
+Oct 21, 2024, 02:23pm EDT
+
+Nvidia CEO Jensen Huang leapt into the top 10 of Forbes’ real-time billionaire rankings Monday, a first for the former Denny’s busboy and waiter turned perhaps the most recognizable name associated with the 2020s generative artificial intelligence boom.
+Huang’s net worth climbed $3.6 billion to $124.1 billion by market close, topping the fortune of former Microsoft CEO Steve Ballmer ($122.5 billion net worth), who traded places with Huang to become the world’s 11th-richest person.
+The rise in Huang’s fortune came as shares of Nvidia rose 4.1% to a new all-time high of almost $144.
+Huang’s roughly 3.5% equity stake in Nvidia accounts for almost all of his net worth, as Huang’s slice of the $3.5 trillion Nvidia is worth $122.2 billion.
+Nvidia’s chief executive since the company’s inception in 1993, the 61-year-old Huang is by far the company’s largest individual shareholder even after selling $713 million worth of the stock this summer. A trio of current Nvidia board members associated with the company dating back to the early 1990s – Tench Coxe, Harvey Jones and Mark Stevens – are also billionaires. Nvidia is the leading designer of the custom AI technology needed for high-end AI applications developed by other big technology firms like Amazon, Google, Meta, Microsoft and Tesla. The Santa Clara-based Nvidia has about an 80% share in the rapidly growing AI accelerator market, according to recent Bank of America research. Well-known in video game circles for years, Nvidia’s graphics processing units became a hot commodity as they proved to be the leading currency for large-language models like the ones behind the viral OpenAI chatbot ChatGPT, leading Huang to declare demand is so “insane” for his company’s products that customers get “really emotional.”
+
+
+NVDA price 3 days before article release: 135.66619873046875
+
+NVDA price 1 day before article release: 137.94529724121094
+
+NVDA price the day of article release: 143.6530303955078

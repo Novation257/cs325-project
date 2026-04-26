@@ -1,0 +1,21 @@
+Nvidia RTX 2080 Ti Cards Have A Serious Problem -- They Keep Dying
+
+Oct 30, 2018, 05:13am EDT
+
+I just finished reading a surprisingly large quantity of forum posts and complaints -- at least the ones I'm aware of -- from owners of Nvidia's new flagship RTX graphics cards. They all can be condensed into a single broad statement: the RTX 2080 Ti sure seems to be dying on a lot of people, resulting in some seriously unhappy early adopters. Literally hundreds of them. And this card just launched one month ago.
+Credit goes to Digital Trends for bringing it to my attention. Once they did it raised even more red flags, because Nvidia RTX 2080 Ti users have been shouting about these issues all over Reddit and the GeForce forums for weeks with little to no coverage in the tech press.
+The core problem seems to be RTX 2080 Ti Founders Edition cards that begin to display severe graphical artifacts and lock up a user's PC, although I've seen reports of faulty 2080 Ti products from ZOTAC and Gigabyte. These problems are sometimes exhibiting within only hours. Reinstalling drivers and following generic troubleshooting tips do not solve the issues.
+Nvidia's technical support department has been recommending that gamers RMA the cards, which typically results in a replacement or refund. One user, however, has already been though this process twice. Another reports that he has returned three AIB versions (non-Founders Edition cards) of the RTX 2080 Ti for excessive coil whine.
+This user bought two RTX 2080 Ti cards to run them in SLI. The first had artifacting issues, and the second came with an orange (not green) GeForce RTX logo and noisy fans while the card was idling.
+These complaints are everywhere, and digging into the threads themselves reveals exponentially more. It also appears the RMA turnaround time is taking longer than Nvidia typically promises. One user shared this response from Nvidia after waiting more than 7 days without any contact:
+"We are extremely sorry for the delay, but we are experiencing supply constraints because of which the replacement process is taking more time than usual. Once the device is shipped, you'll get an email with the tracking details."
+It's also worth mentioning that a good chunk of these users emphasize they are not overclocking the GPU clocks or messing with voltage levels. Some are speculating that the root cause could be the newer GDDR6 memory, since VRAM can be responsible for graphical artifacting. Perhaps a faulty batch? One can hope, for Nvidia's sake, it's not an architectural issue.
+We obviously can't make the conclusion that the RTX 2080 Ti is a lemon without having hard data about the number of sales and RMAs, but I feel like it's safe to say there are an unusually high number of defective cards out there. Especially considering this product only launched in late September and carries a steep $1200 price tag. It won't be shipping in mass quantities like mainstream-level GPUs.
+I suppose time will tell as existing RTX 2080 Ti cards age, and newly shipped ones get slotted into PCs. I'll be keeping an eye on this, and I've reached out to Nvidia PR for any official response. In the meantime, if you're having problems with your RTX 208Ti, please let me know by reaching out on Twitter.UPDATE: I just received this response from a member of Nvidia's Technical Marketing team: "We are working with users individually but we are not seeing any broader issues."
+
+
+NVDA price 3 days before article release: 5.147340297698975
+
+NVDA price 1 day before article release: 4.597043037414551
+
+NVDA price the day of article release: 5.027472496032715

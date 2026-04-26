@@ -1,0 +1,18 @@
+Urgent New Nvidia Security Warning For 200 Million Linux And Windows Gamers
+
+Oct 25, 2024, 06:01am EDT
+
+With more than 200 million gamers using Nvidia graphics to power their gaming experience across Linux and Windows platforms, security advisories need to be taken very seriously. When that advisory concerns no less than eight new high-severity vulnerabilities, only a total lamer gamer would ignore it. Here’s what you need to know about Nvidia security vulnerabilities CVE‑2024‑0117 through CVE‑2024‑0121.
+Nvidia has published an advisory bulletin that details a total of eight high-severity common vulnerabilities and exposures, better known as CVE-rated security vulnerabilities. The vulnerabilities, impacting users of Nvidia graphics processing units across both Linux and Windows platforms, sit within the GPU display driver aand the virtual GPU software.
+The reason for the urgency of this Nvidia security warning is, the company explained, because of the potential impact to users these vulnerabilities could unleash: code execution, denial of service, escalation of privileges, information disclosure and data tampering. If that sounds bad, it’s because it is.
+Out-of-bounds memory vulnerabilities exist when a program attempts to read data from a different memory location than one within an allocated buffer. As such, they are among the most common security vulnerabilities discovered, but popularity should not be confused with little consequence. Most of the vulnerabilities outlined in this new Nvidia security advisory would appear to be in the user layer mode of the GPU display driver, and successful exploitation would allow an unprivileged attacker to cause what’s known as an out-of-bounds read leading to the impacts already mentioned.
+The two vulnerabilities within the vGPU software are in the kernel driver and virtual GPU manager of all supported hypervisors. The vGPU kernel vulnerability is an improper input validation type compromising the guest OS kernel. The virtual GPU manager software vulnerability, meanwhile, enables a user of the guest OS to gain access to global resources.
+“To protect your system,” Nvidia said, “download and install this software update through the NVIDIA Driver Downloads page.” The update to patch the vGPU vulnerabilities can be downloaded through the Nvidia licensing portal.
+The Nvidia security updates for the GPU display driver in each Windows driver branch are shown in the following table; you can click through the image to see the complete original at Nvidia’s security bulletin site where the full Linux driver branch table is also available.
+As with all such incidents where high-severity vulnerabilities are disclosed, all impacted users are advised to follow the Nvidia security team’s instructions and update now to ensure their systems are fully protected.
+
+NVDA price 3 days before article release: 143.53309631347656
+
+NVDA price 1 day before article release: 140.35433959960938
+
+NVDA price the day of article release: 141.48388671875

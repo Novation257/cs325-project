@@ -1,0 +1,16 @@
+Surprise Leaks Reveal Nvidia’s RTX 4070 Performance And Design
+
+Apr 12, 2023, 02:29am EDT
+
+The latest leaks surrounding Nvidia's GeForce RTX 4070 give us the clearest picture yet of what the card will look like and how it will perform.
+Firstly, the Founders Edition model, which will be available direct from Nvidia, has been pictured and shows a similar cooler design to the RTX 3080. The cooler has the familiar flow-through fan design, but appears to be considerably smaller than the Founders Edition model of the RTX 4070 Ti.
+The card also features the new 12VHPWR connector, so this model at least will not use standard 8-pin connectors as has been rumored for partner card models. Instead, Nvidia will likely be bundling an 8-pin splitter cable adaptor in the box instead so it will still be compatible with older power supplies.
+Nvidia's own graphs that were leaked recently on website Videocardz, show that the RTX 4070 should perform similarly to the RTX 3080 without the use of DLSS or frame generation, but will beat the older card when using those features. This could paint the RTX 4070 in a favorable light given the RTX 3080 is usually retailing for over $700 and the RTX 4070 is expected to sit under this price for standard models.
+Further evidence of performance comes from leaked 3DMark figures, which put the RTX 4070 on par with the RTX 3080 on average, flitting between five percent above and below depending on the benchmark. Meanwhile, it was significantly slower than the RTX 4070 Ti, recording an average 20 percent lower score. This is to be expected as is set to retail $200-300 lower and with a noticeably lower specification.
+According to various sources, the RTX 4070 is due to launch on April 13th with benchmark reviews out today.
+
+NVDA price 3 days before article release: 26.857223510742188
+
+NVDA price 1 day before article release: 27.55460548400879
+
+NVDA price the day of article release: 27.144969940185547

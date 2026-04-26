@@ -1,0 +1,40 @@
+Nvidia Just Solved A Huge Steam Deck Problem. What Happens Next?
+
+Jan 12, 2025, 02:08pm EST
+
+There has been a tidal wave of exciting handheld gaming news recently, but one story got slightly buried under the mountain of Legion Go S details and Switch 2 rumors. That would be the announcement that Nvidia is developing a native GeForce NOW app for the Steam Deck.
+“Trillion-dollar corporation frequently derided by Linux community develops native software for a single Linux gaming device” certainly wasn’t on my 2025 bingo card. But I’m very pleased that it’s happening.
+GeForce NOW is a cloud gaming service that lets you play games you’ve purchased on platforms like Steam, Ubisoft, EA, and Epic Games on pretty much any internet-connected device. The hook is that you don’t need an exorbitantly expensive gaming PC for your games to look like they’re being played on one.
+For slightly under-powered handhelds like Steam Deck, this presents a range of potential benefits. It provides the convenience of playing your non-Steam library without a bunch of workarounds, tweaks, or tutorials. It also opens the door to enjoying certain games that won’t even run on Valve’s handheld. Plus, your battery won’t have a meltdown, and you can enjoy these streamed games at up to 4K/60FPS an external monitor or TV connected to your Steam Deck.
+Of course, the official way to currently install Nvidia’s GeForce NOW on Steam Deck involves switching into desktop mode, downloading a script, extracting that script, and then installing it.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+(It would be fascinating to know how many people have even launched Desktop Mode a single time on their Steam Decks, but I suspect it’s a very low percentage).
+While we’re not yet sure how the native app, which Nvidia says is scheduled to ship “later this year,” will be delivered to Steam Deck users, it will certainly be a more elegant and streamlined method. And this is a big deal.
+But why does this matter? What kind of impact might it have? Might it pave the way for more high-profile software to extend beyond Windows and onto Linux in generl?
+In order to present a wider perspective, I asked a few prominent members of the Linux community to chime in with their thoughts.
+GloriousEggroll needs no introduction to people closely following the Linux gaming space. In a nutshell, he’s a wizard who works at Red Hat by day and makes Linux gaming better at night. He’s the creator of Proton-GE as well as the gaming-forward Nobara Linux distribution, and he contributes to Lutris.
+Here’s what he told me:
+“I think it's a great thing that SteamOS is becoming a bigger target. By becoming more mainstream, it's giving vendors real reasons to both develop for and benefit from consumer Linux applications and drivers they may provide. Those contributions from other vendors in turn make the Linux ecosystem much more robust for the end user. By supporting SteamOS you are supporting Linux and open-source, because much of what's contributed to SteamOS can be backported to other distributions.
+There's a growing ripple effect on both sides  — reasons for both vendors and users to increase support and usage respectively. Myself and many other Linux users are incredibly thankful for all of the work that has gone into SteamOS, and we’re excited to see what's in store for the future!”
+Originally known as The Linux Gamer, Bryant is a well-known figure who covers Linux on his YouTube channel. He’s also a game developer and the president of media production house Heavy Element.
+Here are his thoughts on Nvidia’s commitment to Steam Deck:
+“Nvidia's native GeForce Now app proves their confidence in Linux gaming. Not only in the future of the ecosystem as it continues to grow, but crucially in the financial reality that supporting Linux gaming can be profitable and worthwhile.
+A native GeForce NOW app fills one of the few remaining gaps in the Linux library: allowing gamers to play multiplayer titles from Linux-shy developers who lack anti-cheat support. This is noteworthy and I think it should be applauded!”
+Finally, we have Liam Dawe, a veteran in the Linux gaming space, who’s been reporting professionally on Linux gaming for 15 years.
+“For Nvidia, it just makes sense. Everyone can clearly see the Steam Deck continues to sell well, and with SteamOS coming to more devices, the business side of it makes more sense now too.
+As with all industry shifts, more will come. This move by Nvidia is smart; get in early and show others how it’s done. Although, it remains to be seen how easy they make it. Ideally, getting it as an app on Steam directly would make it better for everyone on all platforms. The next best thing would be Flathub, where developer can deploy their app to Steam Deck and most other Linux distributions.”
+I’d like to extend my enthusiastic gratitude to Liam, Thomas, and Gardiner for sharing their insights.
+As for the future of GeForce NOW on Linux, I believe Nvidia will end up distributing this on Steam itself, thus making it available on Lenovo’s Legion Go S Powered by SteamOS, and all future SteamOS devices.
+
+NVDA price 3 days before article release: 149.38104248046875
+
+NVDA price 1 day before article release: 140.06410217285156
+
+NVDA price the day of article release: 135.86549377441406

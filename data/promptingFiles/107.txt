@@ -1,0 +1,26 @@
+Nvidia Wants To Build A Planet-Scale AI Factory With DGX Cloud Lepton
+
+Jun 13, 2025, 03:58am EDT
+
+In April 2025, Nvidia quietly acquired Lepton AI, a Chinese startup specializing in GPU cloud services. Founded in 2023, Lepton AI focused on renting out GPU compute that’s aggregated from diverse infrastructure and cloud providers. While the deal value is unknown, the founders of Lepton AI, Yangqing Jia (former VP of Technology at Alibaba) and Junjie Bai, joined Nvidia to continue building the product. Lepton AI had previously raised $11 million in seed funding from investors such as CRV and Fusion Fund.
+Nvidia has rebranded Lepton AI as DGX Cloud Lepton and relaunched it in June 2025. According to Nvidia, the service delivers a unified AI platform and compute marketplace that connects developers to tens of thousands of GPUs from a global network of cloud providers.
+How Does DGX Cloud Lepton Work
+DGX Cloud Lepton serves as a unified AI platform and marketplace, bringing the global network of GPU resources closer to developers. It aggregates the GPU capacity offered by cloud providers, such as AWS, CoreWeave and Lambda, through a consistent software interface. This enables developers to access GPU compute through a centralized interface, regardless of the cluster’s location.
+While leveraging the underlying GPU compute, Nvidia is exposing a consistent software platform powered by NIM, Nemo, Blueprints and Cloud Functions. Irrespective of the cloud infrastructure, developers can expect the same software stack to run their AI workflows.
+DGX Cloud Lepton supports three primary workflows:
+Dev Pods: Interactive development environments (e.g., Jupyter notebooks, SSH, VS Code) for prototyping and experimentation.
+Batch Jobs: Large-scale, non-interactive workloads (e.g., model training, data preprocessing) that can be distributed across multiple nodes, with real-time monitoring and detailed metrics.
+Inference Endpoints: Deploy and manage models (base, fine-tuned, or custom) as scalable, high-availability endpoints, with support for both NVIDIA NIM and custom containers
+Apart from this, DGX Cloud Lepton delivers operational features such as real-time monitoring and observability, on-demand auto-scaling, custom workspaces, security and compliance. Developers can choose the region of their preference to maintain data locality and comply with data sovereignty requirements.
+DGX Lepton’s Growing Network
+Nvidia has partnered with major cloud providers and infrastructure providers worldwide. Andromeda, AWS, CoreWeave, Foxconn, Hugging Face, Lambda, Microsoft Azure,  Mistral AI, Together AI and Yotta are some of the listed partners for DGX Cloud Lepton.
+At the recently held GTC event in Paris, Nvidia announced that it is working with some of the leading European cloud providers to enable local developers to meet the data sovereignty needs. It also announced a partnership with Hugging Face to deliver training clusters as a service.
+Nvidia collaborates with European venture capital firms, Accel, Elaia, Partech, and Sofinnova Partners, to provide up to $100,000 in GPU capacity credits and assistance from NVIDIA specialists for eligible portfolio firms via DGX Cloud Lepton.
+While the pricing varies based on the cloud provider, the service is currently in preview. Developers can sign up at https://developer.nvidia.com/dgx-cloud/get-lepton to apply for early access to Lepton.
+With DGX Cloud Lepton, Nvidia aims to make GPU computing accessible to global developers. Instead of launching its own cloud platform that competes with the hyperscalers, Nvidia has chosen to partner with them to deliver aggregated compute resources to developers.
+
+NVDA price 3 days before article release: 142.59640502929688
+
+NVDA price 1 day before article release: 142.80625915527344
+
+NVDA price the day of article release: 144.9759063720703

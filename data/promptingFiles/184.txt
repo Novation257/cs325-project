@@ -1,0 +1,38 @@
+Nvidia GeForce RTX 5080 Vs RTX 4090: And The Winner Is?
+
+Jan 29, 2025, 08:59am EST
+
+Today Nvidia's embargo on the performance of its GeForce RTX 5080 is lifting and we can finally see how its gaming performance compares to the RTX 4090, 4080 Super and AMD Radeon RX 7900 XTX. This RTX 5080 review follows the RTX 5090 review last week and while that costs an eye-watering $2,000, its massive performance mean it's still likely to appeal to those with very large budgets.
+At $1,000, the RTX 5080 is half the price, although a lot will depend on availability, with prices not expected to settle till well in to February. However, with AMD's Radeon RX 9070 XT not expected to offer competition for Nvidia's top-end cards, pricing may remain higher than expected, even for the RTX 5080.
+You can see my video review of the processor below
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+Below are the specifications for the new RTX 50-series graphics cards. Probably the key thing to note is just how much more powerful the RTX 5090 is than the RTX 5080. It has twice as much of nearly everything - double the memory, more than twice the CUDA cores and a memory bus that twice as wide. This is why it's so expensive but thankfully that does also translate into amazing performance too.
+Two key features introduced with the RTX 50-series and its Blackwell architecture are DLSS 4 and Multi Frame Generation. The new Transformer model used in its DLSS upscaling brings image quality benefits and best of all is that, while the RTX 50-series has more hardware under the hood to deal with DLSS features, DLSS 4 is backwards compatible.
+That said, not all features are backward compatible with all RTX-capable graphics cards. Frame Generation is limited to the RTX 40-series and 50-series and Multi Frame Generation will only work on 50-series cards. Speaking of frame generation, the original feature added one artificially-generated frame in between each two normally-rendered frames. This saw big framerate benefits.
+With the RTX 50-series, this was turbocharged with Multi Frame Generation. This adds even more artificially-generated frames to the point that an average frame rate of 60fps can be boosted to well over 200fps. It is user-selectable, with one, two or three frames able to be added for every normally-rendered frame.
+It could be particularly useful for owners of lower end RTX 50-series cards that find their hardware limiting when playing on high refresh rate monitors and needing higher frame rates, or simply to get silky-smooth frame rates in very demanding games. As usual, game support is key and so far Nvidia is stating 75 games at launch will support DLSS 4 and Multi Frame Generation.
+The test system used the latest drivers, game and Windows updates and has an AMD Ryzen 7 9800X3D and 32GB of DDR5 6000 memory. All games were run at 4K resolution and where possible DLSS and Frame generation were turned on and off to get a range of results.
+For those that don't want to sift through all the individual graphs I've created overviews based on the average frame rate across all games both with and without Multi Frame Generation being used. These are very game-specific so results will vary compared to others that have tested this card today. I can also highly recommend checking out the likes of Techpowerup and Hardware Unboxed for their reviews as they offer similar overall views of performance across a wide range of titles. Without it, standard Frame Generation is used on AMD and Nvidia cards. In the lower graph, the highest frame rate using Multi Frame Generation was used for the RTX 5080 and 5090.
+As we can see above, without Multi Frame Generation, the RTX 4090 is quite a bit faster - 20% in fact, than the RTX 5080 in the games used here, but the RTX 5090 is nearly 50% faster. Meanwhile the RTX 4080 Super and AMD Radeon RX 7900XTX are 10% and 22% slower and the RX 7900 XT is 34% slower.
+Enabling Multi Frame Generation in some of the game tests and picking those results for Cyberpunk 2077 and Alan Wake 2 sees the RTX 5080 overtake the RTX 4090 overall, but only by 1% thanks to the RTX 4090 lacking Multi Frame Generation support. Adding in more Multi Frame Generation titles would obviously see this figure rise and likely match Nvidia's launch claims. The RTX 5090 actually extends its lead, albeit by a single percentage point. The RTX 4080 Super and RX 7900 XTX were 26% and 40% slower respectively and the RX 7900 XT slips to 49% slower than the RTX 5080.
+
+
+
+If you're looking to play modern games that benefit from DLSS 4 and Multi Frame Generation, then the RTX 5080 offers unparalleled performance that's bettered only by it's bigger brother the RTX 5090. $1,000 is still a huge amount for a graphics card, but with 75 DLSS 4/Multi Frame Generation supporting titles available already, the catalogue of options is fairly wide, but clearly far from being a wide-ranging.
+It benefits the most dealing with modern games and turning on all the eye candy and if you can afford it, the RTX 5080 is much better value than the RTX 5090, which costs twice as much for around 50% more performance. That's still a staggering amount of extra performance, so there's no doubt that the RTX 5090 will still sell surprisingly well, just as the RTX 4090 did before it and grabbing one percent of the Steam Hardware Survey share of GPUs while it was at it. Even with Multi Frame Generation enabled, in a third of the game tests, it's still not enough for the RTX 5080 to better the RTX 4090 by more than a percent overall.
+Putting Multi Frame Generation aside and this is where the picture gets more complicated. The RTX 4090 then becomes the much faster card overall, adding 20% more performance on average and there's only a 10% uplift over the RTX 4080 Super too compared to 26% once Multi Frame Generation was enabled. It's worth reiterating that only a third of the games tested used Multi Frame Generation though.
+A huge amount will depend on pricing, with the RTX 5080 and 5090 in high demand and no competition from AMD, it could mean that prices will be higher than the $999 and $1,000 stated by Nvidia while older RTX 40-series cards may hold their value relatively well. Without Multi Frame Generation and the gap between old and new is slimmer, with just a 10% gain over the RTX 4080 Super. This is where pricing will be key given RTX 4080 Super prices are still very high. At the same price, the RTX 5080 is a much better buy in any situation, but if the 4080 Super starts to benefit from price cuts, that situation could change rapidly.
+Time will tell, but ultimately, if you care about Multi Frame Generation and can afford it, the RTX 5080 is a decent upgrade from anything below or older than the RTX 4080 Super and 4080 seeing as it performed similarly, as well as anything AMD currently has. In fact, even if Multi Frame Generation and non-Multi Frame Generation games make up less than half of your regularly-played games, this still holds true. However, if Multi Frame Generation is unlikely to be part of your toolset, then the RTX 5080 isn't really worth upgrading from the likes of the RTX 4080 or 4080 Super.
+
+NVDA price 3 days before article release: 142.5732879638672
+
+NVDA price 1 day before article release: 128.94773864746094
+
+NVDA price the day of article release: 123.65947723388672

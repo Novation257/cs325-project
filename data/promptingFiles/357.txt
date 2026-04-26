@@ -1,0 +1,59 @@
+Super Micro And Nvidia Stock Woes Could Mean Trouble For Generative AI
+
+Apr 22, 2024, 09:47am EDT
+
+Stock prices move up or down depending on the gap between a company’s performance and investors’ expectations.
+An unusual way to fall short of such expectations occurred last Friday. That’s when Super Micro ComputerSMCI, a maker of Nvidia-based servers, failed to preannounce better-than-expected results for the company’s fiscal third quarter, reported CNBC.
+Nvidia and Super Micro are tightly linked. Super Micro CEO Charles Liang immigrated to the U.S. from Taiwan as did Nvidia CEO Jensen Huang. Liang founded Super Micro in 1993 and has been collaborating with Nvidia for more than 30 years, I noted in a February 2024 Forbes post.
+This long-standing partnership bodes well for Super Micro’s future — as long as demand for Nvidia chips remains strong. “Whatever Nvidia develops, we pretty much sync up with them,” Liang told CRN. “And that's another reason why, whenever they have a new product out, we have a new product available quicker than our competitors do,” he added.
+Very few companies regularly preannounce upbeat results before their official reporting date. But Super Micro did just that in January — stunning “Wall Street last quarter when it preannounced results substantially higher than what analysts had been expecting,” according to MarketWatch.
+On April 19, Super Micro — which will report quarterly results on April 30 — failed to deliver another such upside surprise.
+Investors sent the company’s stock down 23%. “Expectations were they would positively preannounce like they did in January,” Mizuho desk-based analyst Jordan Klein told MarketWatch. Super Micro shares are up 150% in 2024 — leaving “zero room for error,“ he added.
+Super Micro’s failure to preannounce “raises questions about the strength of the quarter,” Klein said. “So now it becomes a waiting game until they report and can guide the next quarter. But until they do that, hedge funds will short it and retail fast-money traders likely de-risk.”
+Super Micro’s failure to preannounce may also have hurt Nvidia — sending the GPU-maker’s stock down 10% last Friday.
+Does this mean the generative AI bull run is over? Here are two reasons a temporary correction in generative AI stock prices may be in the offing:
+
+
+Until generative AI delivers significant, expectations-beating revenue and productivity growth, investors could shy away from stocks in this group.
+Unless publicly traded companies beat expectations for the most recently completed quarter and raise guidance for the future, investors will dump their shares.
+Each time a company accomplishes this feat of beating and raising, investors raise the bar even higher. Eventually, the company fails to deliver expectations-beating results and the stock plunges — and then stagnates until the company beats and raises again.
+Growth expectations are very high for Super Micro and Nvidia.
+Here are key forecasts for Super Micro’s growth:
+
+
+Here are the key numbers investors are looking for from Nvidia:
+
+
+Nvidia guided investors to expect 300% revenue growth to $24 billion in Q1 2025 — $2.4 billion more than the analysts’ consensus, I wrote in a February Forbes post.
+Given the high growth rates, I am skeptical that Super Micro and Nvidia will exceed these triple-digit growth expectations and raise their guidance when they report their latest results on April 30 and May 22, respectively.
+Ultimately the fate of generative AI picks-and-shovel suppliers will depend on whether the miners — companies buying the AI technology — identify and operate high payoff applications. My forthcoming book, Brain Rush: How to Invest and Compete in the Real World of Generative AI, includes in-depth case studies of such applications.
+While companies are investing heavily to build AI-powered chatbots, not all of their experiments are boosting revenue and productivity. My research found that generative AI applications with a high return on investment do the following:
+
+
+While I do not have audited financial results to confirm the ROI, here are two examples of generative AI applications sharing these three traits — and another that does not.
+Bullhorn is a 1,520 employee Boston-based provider of technology needed to place temporary workers. The company boosts its clients’ productivity with help from AI.
+Bullhorn's highest-payoff AI application helps the company's customers grow faster and boost productivity. In many cases, "basic generative AI doesn't add value in and of itself, but combined with more sophisticated use cases, there is definitely opportunity to drive holistic value," Bullhorn president Matt Fischer told me in a March 26 interview.
+"For example, you're not going to charge for one prompt, but once generative AI is integrated into the entire workflow, it becomes very valuable,” Fischer adds. “We are monetizing machine learning to help recruiters match candidates to jobs more effectively."
+Bullhorn's AI application analyzes the most successful temporary worker placements and uses the resulting model to help recruiting firms match candidates to jobs more effectively and efficiently.
+Because Bullhorn built its matching model using a large number of successful placements, the company's AI boosts recruiters' revenue and profitability and is difficult for rivals to replicate.
+"Our models are outcome-based—successful placements," said Fischer. "We track 54 vectors of more than 4.5 million successful job placements. We are planning to enhance this model with call transcripts, SMSs to candidates and clients, and emails."
+The model pays off for Bullhorn's clients. "Recruiters increase their placement rate from our model's recommendations—to 25% or 35%. We help reduce candidate acquisition costs by increasing the redeployment rate of talent at the end of their contracts from 5% to 30%. We increase recruiter productivity from submission to placement by 68%,” he concluded.
+Generative AI can help win new customers or send current customers away forever.
+“A couple of preliminary killer apps will emerge for generative AI,” Rick McConnell, CEO of Dynatrace, a Waltham, Massachusetts-based provider of software observability services, told me in a February 2024 interview.
+One such killer app will be customer service. "I was trying to fix a billing issue with a cellular provider and the chatbot solved the problem fast," McConnell notes.
+"The second one went so badly that I will never do business with the company again,” he adds. “I was trying to correlate the contact lenses I received with the prescription. The contact lens provider's chatbot couldn't get me a solution. After three different segments, I never got it resolved.”
+It may be too early for comprehensive research on whether generative AI applications are earning their keep. These examples suggest some companies will succeed and others will fail.
+Until there are well-documented examples of companies getting high ROI from such applications, the demand for the services, software, and hardware needed to power large language models could slow down.
+Is the market over-reacting to Super Micro’s failure to preannounce or is a larger correction in the offing?
+Judging by 12-month price targets, Super Micro’s stock plunge is a buying opportunity. Based on analysts offering 12-month price targets for the company, the average price target is $1047.45, according to Nasdaq, representing nearly 47% upside.
+Having said that, analysts expressed strong disappointment with Super Micro on April 19. Examples include:
+
+
+What goes up, must go down. While Super Micro benefits from its ties to Nvidia when demand is rising, both companies could be hurt if growth slows. Moreover, rivals such as Dell and Hewlett Packard EnterpriseHPE will be competing with Super Micro — all of them are planning to build systems using Nvidia’s latest generation of Blackwell GPUs, noted CNBC.
+Generative AI is in trouble unless companies get a high ROI from the technology. If that happens, the short-term drops in Super Micro and Nvidia are great buying opportunities.
+
+NVDA price 3 days before article release: 83.98760223388672
+
+NVDA price 1 day before article release: 76.15702819824219
+
+NVDA price the day of article release: 79.47315216064453

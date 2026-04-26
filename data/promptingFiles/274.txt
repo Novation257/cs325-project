@@ -1,0 +1,17 @@
+Nvidia Shares Jump After CEO Jensen Huang Notes ‘Insane’ Demand For Blackwell AI ‘Superchip’
+
+Oct 03, 2024, 04:22pm EDT
+
+Nvidia chief Jensen Huang said during an interview with CNBC on Wednesday that demand for the tech giant’s Blackwell “Superchip” is “insane,” sending Nvidia shares up more than 3% on Thursday.
+Nvidia shares reached as high as $124.26 on Thursday before cooling down to $122.80 at market close, a 3.3% jump.
+The strong trading day materialized after Huang said there was “insane” demand for Nvidia’s upcoming Blackwell chip from companies such as Microsoft, OpenAI, Meta and other AI-adjacent firms, telling CNBC, “Everybody wants to have the most and everybody wants to be first.”
+The Thursday stock jump continues a streak of Nvidia gains since early September, when the chip designer’s shares slumped to $102.83 despite reporting record revenues about a week prior.
+Blackwell-based products will be shipped to cloud service divisions at Oracle, Amazon, Microsoft and Google late this year, according to Nvidia’s website.
+Get Forbes Breaking News Text Alerts: We’re launching text message alerts so you'll always know the biggest stories shaping the day’s headlines. Text “Alerts” to (201) 335-0739 or sign up here.
+Stocks were broadly down on the day. The S&P 500 dropped as Nvidia’s rise was not enough to pull the tech-heavy Nasdaq out of the red, with the index closing down .17% on Thursday.
+
+NVDA price 3 days before article release: 121.39186096191406
+
+NVDA price 1 day before article release: 118.80288696289062
+
+NVDA price the day of article release: 122.80130004882812

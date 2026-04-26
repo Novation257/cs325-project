@@ -1,0 +1,30 @@
+NVIDIA's 'ShadowPlay' Brings Effortless Gameplay Recording To The PC Masses
+
+May 23, 2013, 09:10am EDT
+
+With the Xbox One at least partially revealed, we know that both next-generation consoles from 
+Sony
+ and 
+Microsoft
+ will include built-in video recording features. A "Game DVR" as Microsoft calls it. Not content to let consoles have all the fun, NVIDIA has announced "ShadowPlay," an upcoming game capture utility for their freely available GeForce Experience software.
+On the surface this may not seem like a noteworthy announcement, but when you start to see the ecosystem NVIDIA is building around their hardware, it should give PC gamers reason to celebrate.
+First, let's dispense with the facts: GeForce Experience is free PC software to augment NVIDIA graphics cards. It analyzes your game library and auto-optimizes those sometimes bewildering graphical settings menus in your games. The software also auto-installs new driver updates for your GPU, taking one less hassle out of the PC gaming experience.
+ShadowPlay, planned for Summer 2013, constantly works in the background utilizing the H.264 encoder built into every Kepler GPU from NVIDIA to auto-record your last 20 minutes of gameplay. "But wait," I hear you saying. "FRAPS has recorded my game footage for years." While that's true, the recording process comes with a noticeable hit to performance, something NVIDIA tells me isn't a concern with ShadowPlay.
+Moreover, FRAPS creates impossibly large video files. Set to comparative quality settings (30fps at 1080p), a 1 minute and 9 second clip of Borderlands 2 results in a 3.6GB file with FRAPS. Using ShadowPlay to record the same length of gameplay yields a file size of 238MB.
+To break it down even further, ShadowPlay's high quality setting -- a 30Mbps video bitrate and 48Hz 16-bit audio -- produces a 675MB video without audio, and 708MB with audio. It's a manageable file size, already encoded and ready for sharing. Like GeForce Experience itself, NVIDIA is trying to remove the technology and just let PC gamers play.
+Speaking of sharing, audio, and other things left unsaid, I got in touch with Chris Daniel, product manager for GeForce, regarding some specifics.
+First and most importantly, there are no hard limits for recording. If you want to record a marathon Conquest match in Battlefield 3, have at it.
+Next I asked about video sharing: "There won’t be automatic sharing buttons in the initial release, but this is something we’re thinking about for version 2," Daniel said. "In the meantime, GeForce customers can manually share the video files over whatever medium they choose (
+Facebook
+, YouTube, Vimeo, etc.)"
+During a recent hands-on demo for NVIDIA SHIELD, I noticed that Twitch.tv came pre-installed. My brain instantly started fantasizing about what ShadowPlay could bring to the table for e-sports, specifically broadcasting and commentary. Daniel said that "in the first release" only default game audio can be recorded. As for Twitch, what about the option to stream your live gameplay? "Not in the first release. This is a great idea for version 2 though!"
+Pressing the issue, I asked about ShadowPlay potentially supporting screen-sharing or other game-related applications. "In-game only in the first release. Another great idea, though!" Daniel exclaimed.
+(Note to readers: When NVIDIA says "that's a great idea for the next version!" it usually means they're already hard at work designing said feature. I believe the fact that NVIDIA remains positive and forward-thinking about these ideas I've run by them indicates good things ahead.)
+After seeing the performance of their newest desktop card, the GTX 780, and witnessing the potential of SHIELD as a way to merge ecosystems and gaming behaviors, it's becoming apparent that NVIDIA isn't just a component manufacturer anymore. They're making the PC their console, pushing the envelope further and faster than the traditional "Big Three" can. It took 8 years for Microsoft to evolve the Xbox. In less than 8 months, NVIDIA has launched GeForce Experience and is poised to offer effortless gameplay capture as a default -- and free -- experience available to all PC gamers.
+Well, at least those PC gamers who make the investment in NVIDIA hardware.
+
+NVDA price 3 days before article release: 0.3444215357303619
+
+NVDA price 1 day before article release: 0.3359074294567108
+
+NVDA price the day of article release: 0.3412726521492004

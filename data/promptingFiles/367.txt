@@ -1,0 +1,18 @@
+Billionaire Yeoh’s YTL, Nvidia To Build Supercomputer At Data Center
+
+Mar 20, 2024, 03:54am EDT
+
+YTL Power International, controlled by Malaysian tycoon Francis Yeoh, is tying up with Nvidia to build an advanced supercomputer the partners will use in a data center they are developing in Johor, Malaysia.
+The supercomputer will be operated by a new unit of YTL Power called YTL AI Cloud, the company announced on Monday. The supercomputer will use the latest technology from Nvidia to accelerate the development of generative AI.
+“This latest supercomputer marks one of the first deployments of the NVIDIA GB200 Grace Blackwell Superchip on DGX Cloud, supporting the growth of accelerated computing in the Asia Pacific region,” Nividia CEO Jensen Huang was quoted as saying in the statement.
+According to a social media post by Malaysia’s prime minister, Anwar Ibrahim, after a meeting with Huang in December, YTL Power and Nvidia’s artificial intelligence data center will cost 20 billion ringgit ($4.3 billion) to build.
+The YTL AI Supercomputer will be located in a 1,640-acre data center in Johor, part of the YTL Green Data Center Campus. A 500MW on-site solar facility will power the supercomputer, enabling it to deliver scalable, high-performance cloud solutions for AI and machine learning using renewable energy. Situated within 50 km of Singapore, the data center can take advantage of its neighboring country's dense, interconnected networks.
+The data center in Johor will be a game-changer for the YTL group as it currently looking for a new source of growth aside from its utilities, cement and construction businesses. The facility will have a capacity of up to 72MW and will be online later this year. It will be the first solar-powered data center in Malaysia and one of the largest of its kind in Southeast Asia. The facility already has an anchor tenant, Singapore-headquartered online gaming and shopping giant Sea Ltd., which has committed to take up to 48MW of capacity in April 2022.
+Malaysia is a new destination for data center investments because of its abundant land compared to Singapore, the current regional data center hub. Major companies like Amazon Web Services have committed substantial investments in Malaysia. Amazon plans to invest $6 billion over 14 years to build cloud infrastructure in the country.
+Yeoh and his siblings have a net worth of $1.4 billion and were ranked 14th on Malaysia’s 50 Richest list, which was released last May. He leads Kuala Lumpur-based YTL Corp., founded by his late father Yeoh Tiong Lay. The business empire has interests in cement, hotels, real estate and utilities. As the eldest of seven siblings, Yeoh and his six siblings manage the family business.
+
+NVDA price 3 days before article release: 87.89439392089844
+
+NVDA price 1 day before article release: 88.40511322021484
+
+NVDA price the day of article release: 89.34759521484375

@@ -1,0 +1,44 @@
+Forbes Daily: AI Mints The Most Valuable Company Ever—Again
+
+Oct 30, 2025, 08:05am EDT
+
+andForbes Daily,
+Forbes Staff.
+The longer the government shutdown drags on, the more people will feel its impacts—especially when it comes to healthcare and food assistance.
+Open Enrollment begins for Affordable Care Act Marketplace plans on Saturday, and the enhanced premium tax credits that subsidized health care costs for millions of Americans are set to expire at the end of the year. It’s one of the main sticking points between Republicans and Democrats over reopening the government—and premiums will spike by an average of 30% if the credits aren’t extended.
+Meanwhile, nearly 42 million people will not receive food stamps on November 1, and by the middle of the month, military pay will have run out.
+Nvidia became the first company to surpass a $5 trillion valuation, as the firm continues to profit handsomely from the AI boom. The world’s largest company has seen its stock skyrocket more than 44,000% in the last decade—and its record-setting net worth is greater than the entire GDP of Germany in 2024.
+The Federal Reserve cut rates for the second time this year on Wednesday, though the central bank’s chairman Jerome Powell said another rate reduction this year is “not a foregone conclusion.” That led stocks to pare back gains from earlier in the day, as investors continue to hope for another cut at the Federal Open Market Committee’s December meeting.
+
+AOL, a company synonymous with the early 2000s internet boom, has a new Italian owner: Milan-based app developer Bending Spoons. The firm, in the midst of a buying spree, said it had agreed to buy AOL from private equity giant Apollo for an undisclosed amount, though Reuters previously reported the deal valued the tech firm at over $1.4 billion.
+Chipotle shares sank in after-hours trading Wednesday after the fast-casual restaurant chain cut its sales forecast, the third quarter in a row it has reduced its outlook amid “persistent macroeconomic pressures.” The company reported $3 billion in revenue—slightly below Wall Street expectations—and $382.1 million in net income for the third quarter.
+London-based startup Synthesia, which helps firms transform tedious employee training manuals into videos with AI avatars, raised $200 million in a funding round that nearly doubles its valuation to $4 billion. The company faces competition from giants like Adobe, which continues to add AI features to its products, as well as a slew of newcomers in the business of video generation software.
+A startup that provides AI tools for lawyers closed its third fundraising round of 2025 at $150 million, bringing its valuation to over $8 billion. Harvey, which has been featured on Forbes’ AI 50 and Next Billion-Dollar Startups lists, faces an increasingly crowded market for AI technology in the legal space.
+In the face of regulatory scrutiny and legal action, Character.ai said it would prohibit children from having “open-ended chats” with its chatbots. The company offers individual chatbots with personalities based on fictional “characters,” such as Daenerys Targaryen from Game of Thrones, and is being sued by the families of children who died by or attempted suicide after using its chatbots.
+President Donald Trump said his face-to-face meeting with Chinese counterpart Xi Jinping was “amazing,” with Trump saying that he will immediately slash his fentanyl related tariffs on China from 20% to 10%, while China has agreed to pause its planned export controls on critical rare-earth materials for at least a year.
+MORE: In a post on Truth Social shortly before his meeting with Xi Jinping, Trump announced that the U.S. will restart nuclear weapons tests after a three-decade-long pause.
+South Korea will invest $350 billion in the U.S. as part of a trade deal between the two countries following months of negotiations. The agreement, similar to the one struck between the U.S. and Japan in July, lowers the tariff rate on South Korean goods from 25% to 15%.
+For more than 70 years, Nielsen has held a near monopoly on tracking TV viewership, providing the ratings data that supports $60 billion of TV advertising in the United States each year and billions more in content programming decisions. But while Nielsen still controls around 90% of the ratings data market, companies like VideoAmp, Comscore and iSpot have made inroads.
+Over the past three years, the advertising spending based on VideoAmp’s measurements has skyrocketed nearly 900%, from about $300 million per year to $3 billion, and the company, which pockets a percentage of those transactions, has seen its revenue from that business jump from $15 million to more than $100 million annually. Although VideoAmp is worth only about one-tenth of Nielsen—which was taken private for $16 billion in 2022 by a consortium led by hedge fund firm Elliott Investment Management—the Los Angeles-based startup now appears to be its first legitimate competitor.
+And its CEO Peter Liguori has spent much of 2025 poking the bear.
+Liguori is positioning VideoAmp, which uses large language models and machine learning to sort through data from more than 40 million households and 65 million devices, as the nimble, tech-forward alternative to an expensive, outdated and unreliable incumbent. “I think what’s become evident is that [Nielsen] is bringing an abacus to an AI fight,” Liguori tells Forbes.
+WHY IT MATTERS “It’s no exaggeration to say that without accurate audience measurement, TV and streaming as we know it could not exist. But after decades of everyone just assuming Nielsen’s ratings were correct, here comes a challenger saying they can do it better for cheaper—and maybe save the future of TV in the process,” says Forbes reporter Matt Craig. “If VideoAmp is right, and there’s real reason to question whether they are, maybe the next Colbert won’t get cancelled or the next cable company won’t slash its original programming budget.”
+MORE The Highest-Paid TV Hosts Of 2025
+The government shutdown could cost the U.S. economy billions, a new report from the nonpartisan Congressional Budget Office found. Those losses would largely come from a reduction in federal spending on everything from government worker pay to food stamps:
+Between $7 billion and $14 billion: The projected cost of the shutdown to the U.S. economy
+1% to 2%: The expected hit to GDP from lost economic activity
+Around $8 billion: The monthly cost of food assistance programs to the federal government
+Layoffs are hitting professionals across a wide range of industries, and while it’s jarring, a layoff can be an opportunity to make sure you’re on the path for a career you truly love. Before frantically applying to new positions, start by examining the parts of your job that energized you, as well as those that didn’t. Taking on freelance projects or a side hustle can help provide financial security while you make your career transition.
+Gwyneth Paltrow’s lifestyle brand Goop released its holiday guides for this year that feature ultra-luxury products. Which of the following items is not featured?
+A. A Hermès jukebox
+B. A $70 pasta water candle
+C. A Dubai chocolate Labubu
+D. A $900 deck of playing cards
+Check your answer.
+Thanks for reading! This edition of Forbes Daily was edited by Sarah Whitmire and Chris Dobstaff.
+
+NVDA price 3 days before article release: 191.46897888183597
+
+NVDA price 1 day before article release: 207.01727294921875
+
+NVDA price the day of article release: 202.8677215576172

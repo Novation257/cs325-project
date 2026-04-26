@@ -1,0 +1,23 @@
+LG Announces First OLED TVs With Nvidia GeForce RTX 30 Series Support
+
+Sep 01, 2020, 07:33pm EDT
+
+No sooner has Nvidia announced the launch of its trailblazing new GeForce RTX 30 Series GPUs than LG has come out to say that it’s got the first TVs capable of supporting Nvidia’s game-changing new processors.
+The TVs in question are LG’s new 8K OLED models: the 88-inch and 77-inch ZX series. The combination on these TVs of LG’s new Alpha 9 Gen 3 AI processor, full 48Gbps HDMI ports and 8K resolution enables them to get full value from the GeForce RTX 30 Series GPUs’ capabilities. Including the 8K/60Hz and ray-tracing features of the flagship RTX 3090.
+Nvidia support is hardly new to LG TVs, of course. Its current 4K OLEDs also carry Nvidia G-Sync technology, enabling them to deliver games that use GeForce RTX 20 Series and GTX 16 Series GPUs without any flicker, tearing or stuttering. But being compatible already with the best that Nvidia’s brand new cutting edge GPU can deliver is quite a coup.
+The Nvidia RTX 30 support joins other key gaming features on LG’s new 8K TVs that include variable refresh rate support, Auto Low Latency Mode switching, compatibility with AMD’s Freesync system and playback of 4K games at frame rates of up to 120Hz.
+Matt Wuebbling, Vice President of global GeForce Marketing, had this to say of the compatibility between Nvidia’s new GPUs and LG’s latest 8K OLED TVs: “Gamers will be blown away by the performance on these TVs when playing the latest 8K PC games featuring the most realistic ray-tracing and cutting-edge AI features powered by the GeForce RTX 3090 GPU.”
+There is, of course, a wallet-shaped catch to all this potential gaming heaven. After all, LG’s new ZX 8K TVs will set you back $30,000 and $20,000 for the 88-inch and 77-inch models respectively. Quite a chunk of change on top of the $1,499 required for the top-spec GeForce RTX 3090.
+With this in mind, while they’re only mentioned in passing in LG’s press release, it’s worth adding that LG’s latest NanoCell 99 Series 8K LCD TVs will also support the GeForce RTX 30 GPU features. And these go for much lower prices of $4,300 and $3,000 for the 75-inch and 65-inch models respectively. Though before you get too excited about the NanoCell option, bear in mind that these LCD sets’ relatively limited backlight capabilities will mean they won’t give you the same level of precision with RTX 30 graphics that the ZX OLEDs can.
+—
+If you found this article interesting, you might also like these:
+LG OLED77GX OLED TV Review: Theater Of Dreams
+LG SN11RG Soundbar Review: The Real Deal
+LG Confirms 2019 OLED TVs Won’t Get Key Gaming Feature
+Yamaha Unveils The Most PS5 And Xbox Series X-Friendly AV Receivers Yet
+
+NVDA price 3 days before article release: 12.584671020507812
+
+NVDA price 1 day before article release: 13.328346252441406
+
+NVDA price the day of article release: 13.777426719665527

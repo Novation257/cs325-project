@@ -1,0 +1,41 @@
+AMD Navi RX 5700 Versus Nvidia RTX 2060: The $349 Winner Is Revealed
+
+Jul 07, 2019, 09:00am EDT
+
+Despite Nvidia stealing some of 
+AMD's
+ thunder and launching its Super versions of a select number of RTX cards (see my RTX 2070 Super and RTX 2060 Super reviews), Navi is still a highly-anticipated GPU and we're all keen to see how well AMD's RDNA architecture does against the Turing-based RTX series from the green team. The launch of the RTX Super cards hasn't gone unnoticed by AMD, though, and external concerns about pricing amongst journalists and enthusiasts proved justified: AMD slashed Navi pricing with the RX 5700 XT now retailing for $399 and the RX 5700 to $349. This means they compete directly with the RTX 2060 Super and RTX 2060 respectively and it's the fight between the RX 5700 and RTX 2060 that I'll be focussing on in this article.
+AMD Radeon RX 5700 XT Versus Nvidia RTX 2060 Super: What's The Best $399 Graphics Card?
+AMD Ryzen 9 3900X and Ryzen 7 3700X Review: Old Ryzen Owners Look Away Now
+That's not least of all because AMD has specifically targeted the RTX 2060 for termination with the RX 5700, claiming it's faster and now, of course, it costs the same too. If you want more information on Navi's features and specifications, check out my original coverage from AMD's launch event at E3 last month: AMD Announces Radeon RX 5700XT And 5700. Today, it's all about benchmarks.
+Test system
+Intel
+ Core i9-9900K overclocked to 5GHz
+MSI MEG Z390 Ace motherboard
+16GB Corsair Vengeance Pro RGB 3466MHz memory
+2TB Samsung 970 Evo M.2 SSD
+Corsair RM850i PSU
+EK Waterblocks EK-MLC Phoenix liquid cooler
+Windows 10 1903, Nvidia driver 431.16, AMD Navi launch driver 19.7.1
+The Division 2
+Starting at 1080p, the RX 5700 sat equal to the RTX 2060 FE, justifying that price cut seeing as you get no extra performance. Amazingly, the two cards performed identically at 1440p too, while at 4K, the RTX 2060 FE offered a marginally quicker minimum frame rate. In the Division 2 at least, things appear equal.
+Far Cry 5 benchmark
+Far Cry 5 at 1080p was a resounding win for AMD, with the RX 5700 offering a decent amount extra performance than the RTX 2060 FE, with 97fps versus 84fps on the minimum frame rate and 9fps extra on the average frame rate too, with the AMD card also matching the RTX 2070. Stepping up to 1440p and again the RX 5700 was quicker than the RTX 2060 FE with a 13% boost to the average frame rate. The gap closed at 4K with just a few frames separating the two and despite the numbers being lower, these still equated to much smaller differences in percentage terms. Overall, though, it's a win for AMD.
+Forza Horizons benchmark
+Forza Horizons 4 is an AMD-loving game, but a valid test seeing as it's very popular and received rave reviews. Needless to say the RX 5700 is the card to go for here, even beating the GTX 1080 Ti. However, you shouldn't read too much into these figures for obvious reasons as they're not repeated elsewhere.
+Shadow of the Tomb Raider benchmark
+IIt's another win for AMD at 1080p with the RX 5700 bettering the RTX 2060 FE and actually matching the RTX 2060 Super here too. It was a similar story at 1440p with the RX 5700 again matching the RTx 2070 and RTX 2060 Super and sitting well ahead of the RTX 2060 FE with similar relationships at 4K.
+World of Tanks benchmark
+World of Tanks was far less impressive from an Nvidia point of view with the RTX 2060 FE than the RTX 2060 Super, with the latter outstripping the RX 5700 XT. With the RX 5700, though, it essentially matched the RTX 2060 FE and it was the same at 1440p. The only change was at 4K, where the RTX 2060 FE leaped ahead.
+Power consumption
+Noise and temperature observations
+As with the RX 5700 XT, the RX 5700 isn't the quietest card out there and was significantly louder than the RTX 2060. The latter is more premium-looking and feeling too, but unlike the RX 5700 XT, the RX 5700 only tipped the scales at 66°C, while the RTX 2060 sat at 63°C with the same ambient temperature. Ultimately, as I said in the RX 5700 XT review, if noise and cooling are your priority, the RTX series seem to do a better job and for similar cash.
+Conclusion
+Thankfully for the RX 5700, we're not looking at a dead heat as we were mostly with the RX 5700 XT versus the RTX 2060 Super. With the cheaper Navi card, the identically-priced RTX 2060 is slower in a number of tests and fails to capitalize in areas the RTX 2060 Super could. Both are excellent cards and the RTX 2060 is still a quieter, more refined option that also boasts DLSS and Ray Tracing. Outside of games that support those features, though, the RX 5700 edges out a lead overall making it the best choice if you have around $349 to spend.
+
+
+NVDA price 3 days before article release: 4.128416538238525
+
+NVDA price 1 day before article release: 4.043447971343994
+
+NVDA price the day of article release: 3.980839252471924

@@ -1,0 +1,18 @@
+Nvidia Smokes Gaming PCs With Huge GeForce Now Update
+
+Jan 04, 2023, 05:35pm EST
+
+An upgrade to Nvidia’s GeForce Now service puts streaming games performance on a par with that of a dedicated games PC, the company claims.
+The new Ultimate Membership for GeForce Now will deliver 120fps at 4K and offers support for ultrawide screens (3,840 x 1,600). It also offers support for a host of gaming technologies, such as ray tracing, DLSS3 and Nvidia Reflex, which erodes the latency problem that has previously made hardcore gamers reluctant to embrace streaming.
+In demonstrations at CES 2023 in Las Vegas, Nvidia showed an Ultimate Membership streaming session running alongside a PC fitted with a RTX 30 Series graphics card and the performance was indistinguishable. Even more impressively, the streaming session was running on The Cosmopolitan Hotel’s public internet network, which was under heavy load from visitors during the world’s biggest tech conference.
+Nvidia claims the performance of GeForce Now’s Ultimate Membership - which is based on the company’s new RTX 4080 graphics chips - will outperform an Xbox Series X and some dedicated gaming PCs. GeForce Now running in 240Hz mode can deliver a total system latency of 35ms, Nvidia claimed, whereas the Xbox Series X in only 120Hz will have a total latency of 63ms.
+In a demonstration running No Man’s Sky on a 4K ultrawide monitor, GeForce Now was delivering faultless performance at 120 frames per second, with latency of only 9ms. The game was being streamed using a Mac mini.
+The increased resolution and frame rates will put a heavier demand on customer’s broadband connections. Nvidia representatives said the No Man’s Sky demo required around 75Mbits/sec of bandwidth at peak, with an average of around 45Mbits/sec. The demos were being run on wired connections, although Nvidia claims it has worked with router manufacturers to improve the performance of the service over Wi-Fi.
+Nvidia said the new Ultimate Membership tier will start rolling out in some geographies later this month. Customers who already subscribe to the RTX 3080 tier will get a free upgrade to the new hardware.
+It will be priced at $19.99/€19.99/£17.99.
+
+NVDA price 3 days before article release: 14.587605476379396
+
+NVDA price 1 day before article release: 14.299909591674805
+
+NVDA price the day of article release: 14.733452796936035

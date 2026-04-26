@@ -1,0 +1,26 @@
+Nvidia RTX 5090 And 5080 Expected To Launch Late 2024
+
+Apr 09, 2024, 01:16pm EDT
+
+Nvidia is likely aiming for a late 2024 release of its next generation RTX 5000 'Blackwell' gaming graphics cards, specifically the GeForce RTX 5090 and 5080. The news of a Q4 launch comes from a regular Nvidia leaker as well as other online sources.
+In addition, website UDN also claims (via Wccftech) that Nvidia board partners such as MSI and Gigabyte are expecting a Q4 launch for the RTX 5000 series, landing between October and December. This would also tie in with launches of the previous RTX 3000 Ampere and RTX 4000 Ada Lovelace GPUs, which both launched at similar times of the year, spaced at two-year intervals - again lighting up perfectly with a 2024 launch for RTX 5000.
+Other than performance rumors, there hasn't been much information about the RTX 5000-series, with all the buzz around the recent launches of Nvidia's RTX 4000-Super series such as the RTX 4080 Super, except for a supposed 70 percent performance increase for the RTX 5090 over the RTX 4090
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+This would likely translate into an early 2025 launch for mid-range models such as the RTX 5070 and RTX 5060, although Nvidia hasn't let any information about naming schemes or specifications slip yet. Encouragingly for the PC market, the board partners had favorable things to say about Nvidia's biennial launch schedule, with refreshes in-between such as the RTX Super series earlier in 2024, and were also predicting decent growth in GPU sales this year too, despite prices rises.
+The RTX 5000-series is expected to use GDDR7 memory and a 3nm manufacturing process. The RTX 4000 Super-series cards were praised for not adding significant price rises into the mix, but the sources at UDN claim analysts expect the average selling price for graphics card products to increase.
+Another reason for manufacturers to be optimistic about sales later in 2024 is that AMD and Intel are both introducing new ranges of desktop processors, with Intel launching an entirely new platform too. These kinds of launches often result in more extensive purchases as enthusiasts upgrade their PCs, especially in the lead-up to Christmas, which is exactly when all three manufacturers' products should land.
+That said, while AMD is expected to release it's highly-anticipated Zen 5 CPUs, we may not see competition from the company against Nvidia's high-end products, namely the RTX 5080 and RTX 5090, with AMD reportedly focussing on the more popular mid-range instead - something it's done several times in the past. Given the vast majority of sales are in this area, it makes sense, even though it means we'll likely see an Nvidia monopoly, with potential high prices for the RTX 5080 and RTX 5090 as a result.
+It's possible we'll know more at this year's Computex trade show in Taiwan with keynotes expected from PC hardware manufacturers such as AMD. I'll be reporting from the event so make sure you follow me here on Forbes using the blue button below, on Facebook or Twitter for the latest PC hardware news and reviews.
+
+NVDA price 3 days before article release: 85.8565444946289
+
+NVDA price 1 day before article release: 87.08384704589844
+
+NVDA price the day of article release: 85.30585479736328

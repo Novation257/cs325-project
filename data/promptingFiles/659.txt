@@ -1,0 +1,19 @@
+Daimler, Bosch, Nvidia Team Up To Bring Robo-Taxis To Silicon Valley
+
+Jul 14, 2018, 03:10pm EDT
+
+Add Daimler and Bosch to the growing list of entrants in the self-driving derby who are putting robo-taxis on the road for testing purposes, but with the goal of producing autonomous vehicles at scale. After unveiling plans last year to get self-driving cars ready for use in urban area by the early 2020s, this week the giant German vehicle producer and major tier-1 supplier announced that they are teaming with leading chipmaker Nvidia to launch a pilot program in an undisclosed Silicon Valley city next year to operate a “shuttle service with automated vehicles on selected routes.”
+Daimler will supply development vehicles and Bosch will provide components such as sensors, actuators and control units, while Daimler Mobility Services will operate the test fleet. Nvidia’s Drive Pegasus AI platform will process the test vehicles’ self-driving algorithms using machine-learning.
+“What’s unique is you have the world’s largest tier-1 and the world’s largest premium automaker, and they are being very specific about their plans for a whole new vehicle and mobility service,” said Danny Shapiro, senior director of automotive at Nvidia, on a conference call with reporters this week.  Shapiro added that the trio is developing “an app-based ability to call a robo-taxi,” although they’re not the only ones taking this testing route.
+Waymo has been offering rides to residents of Phoenix in its self-driving Chrysler Pacifica minivans for over a year. Lyft and Aptiv are conducting a public autonomous ride-sharing service in Las Vegas, and NuTonomy started a robo-taxi testing program in Singapore in 2016.
+While Daimler and Bosch aren’t the first out of the gate with public robo-taxi testing, they are taking a different approach by building vehicles dedicated to the purpose and are focusing on safety rather than speed. “Making autonomous driving safe is the most time-consuming part,” of developing self-driving cars, Dr. Michael Hafner, head of automated driving at Daimler AG, said in a separate call with reporters.
+“The decisive factor is to introduce a safe, dependable and mature system,” he added. “Safety has the highest priority and is the constant theme of all aspects and development stages on our way to the start of series production. If in doubt, thoroughness comes before speed.”
+Daimler and Bosch view the alliance with Nvidia as a self-driving dream team of sorts that can produce autonomous cars at scale. “Developing automated driving to a level ready for series production is like a decathlon,” Dr. Stephan Hönle, senior VP of Bosch’s Automated Driving business unit, said.
+“It’s not enough to be good in one or two areas,” he added. “Like us, you have to master all disciplines. Only then will we succeed in bringing automated driving to the roads and the city safely.”
+Daimler and Bosch haven’t announced the Silicon Valley city in which they’ll operate the robo-taxi testing or the specific timing, but both companies have R&D offices in Sunnyvale. Bosch and Daimler also said that their employees will “work together … around Sunnyvale” and “share the same office space.”
+
+NVDA price 3 days before article release: 6.26853084564209
+
+NVDA price 1 day before article release: 6.218530178070068
+
+NVDA price the day of article release: 6.171253681182861

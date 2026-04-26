@@ -1,0 +1,30 @@
+Nvidia To Resume China Chip Sales Again With RTX Pro
+
+Jul 15, 2025, 12:08pm EDT
+
+The biggest American tech company by market cap is now poised to resume chip sales to China with a new variant aimed at complying with export controls. Tech media reports this comes after a meeting between CEO Jensen Huang and Donald Trump, in the White House.
+This is the second time that Nvidia’s permission to sell in China has changed. As widely reported in April, the firm got re-approved to sell chips to China after a dinner meeting between Huang and Trump in the spring, apparently including a tit-for-tat deal in which Nvidia would create new server setups stateside.
+Now, in the most recent edition of the saga, Trump seems to be hyping the company’s value to the U.S. and tying it to his greater export strategy, with this post:
+"NVIDIA IS UP 47% SINCE TRUMP TARIFFS. USA is taking in Hundreds of Billions of Dollars in Tariffs," Trump posted on Truth Social. "COUNTRY IS NOW 'BACK.'"
+As for value, Huang has estimated China’s total chip market around $50 billion, and said that a ban on sales there would cost the company around $8 billion.
+Part of the change reportedly involves a different kind of Nvidia chip than the H20 which the U.S. government had banned for Chinese export.
+The rule on sales to China seems to be aimed at limiting what kinds of power the Middle Kingdom can get its hand on – in terms of memory and overall capability.
+I asked ChatGPT what’s special about the new “China chip,” and the model supplied this: “The China-specific variant is derived from the Blackwell RTX Pro 6000, but is underpowered relative to the flagship — it uses GDDR7 memory instead of HBM and lacks NVLink.”
+That design presumably aims at working with the following limitations imposed by U.S. officials, as cited by Connie Loizos at TechCrunch:
+“Specific performance thresholds, including total memory bandwidth of 1,400 gigabytes per second or input/output bandwidth of 1,100 GB per second.”
+Huang is also expected to attend the International Supply Chain Expo in Beijing days after the announcement, and may want to meet with China’s premier Li Qiang.
+It’s important to note that Nvidia won’t actually be shipping for a while: the new chip will not start rolling into the Chinese market until September (or later).
+How is Huang pushing the pros of Nvidia selling to China?
+Zijing Wu and Cheng Leng report this at the Financial Times July 9:
+“Speaking at the Computex tech show in Taiwan in May, the CEO condemned US export controls aimed at limiting China’s access to AI chips as ‘a failure.’ He said they had inspired Chinese companies to accelerate the development of their own AI products.”
+In related news, CoreWeave announced it will assimilate the new chip into its cloud platform. As a hyperscaler, the firm has garnered a lot of attention for robust growth based on events like a strategic deal with OpenAI, and a partnership with IBM where CoreWeave will provide compute capacity for IBM's Granite AI models.
+"CoreWeave is built to move at the speed of innovation, and with the new RTX PRO 6000-based instances, we're once again first to bring advanced AI and graphics technology to the cloud,” said CoreWeave CTO Peter Salanki in a press statement.
+So as the Nvidia market cap hits a staggering $4 trillion, the company will be busy selling on both sides of an increasingly connected world market.
+Amid all of this, Nvidia stock gained by double digits this month, and nearly doubled from values this spring.
+The U.S./China trade tensions are a major factor in both tech markets. As we ponder the rapid advances in model capabilities, we also have to keep an eye on hardware markets, not to mention things like environmental concerns from data centers, and what these innovations will mean for our societies. Keep an eye out for more on these developments.
+
+NVDA price 3 days before article release: 164.07273864746094
+
+NVDA price 1 day before article release: 164.04273986816406
+
+NVDA price the day of article release: 170.671630859375

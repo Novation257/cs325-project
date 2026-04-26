@@ -1,0 +1,44 @@
+Nvidia RTX 3060 Ti Vs RTX 3070: Which Should You Buy?
+
+Dec 01, 2020, 08:59am EST
+
+Today I'll be reviewing Nvidia's (Nasdaq:NVDA) GeForce RTX 3060 Ti. The company has an enviable history of offering great graphics cards in its XX60-series line-ups. The GTX 960,  GTX 1060 and RTX 2060 Super are just some of the classics that have graced the mid-range gaming scene and the GTX 1060 is still one of the most popular graphics cards in the Steam Hardware Survey too. Today there's a new one - the RTX 3060 Ti and if Nvidia's claims are to be believed, we're looking at an RTX 2080 Super-beater and a 4K-capable gaming card for less than $400.
+You can see my video review of the RTX 3060 Ti below.
+
+Compared to the RTX 3070, you get the same 8GB GDDR6 memory, 256-bit memory interface and in identical cooler too. The flow-through fan design is still here and there are two fans in total, although the RTX 3060 Ti has a silver housing rather than the gun metal grey of the RTX 3070.
+You obviously don't get all the bells and whistles of the RTX 3070. There are around 1,000 fewer CUDA cores and a lower boost frequency too. You also get 152 Tensor Cores compared to 184 and 38 RT Cores compared to 46 for the RTX 3070, with a $100 price difference as well. However, as well as answering the question which one should you buy, there's also comparisons to be made with previous generation cards too. The RTX 2080 and 2080 Super are both in the RTX 3060 Ti's crosshairs too in terms of performance.
+For now, AMD doesn't really have a competitor, though, as the Radeon RX 6800 is an RTX 3070 competitor with a price to match, and the RX 5700 XT was only ever meant to tussle with the RTX 2070 Super - a card that is at least one notch lower than what the RTX 3060 Ti is aiming for and which outperforms the RX 5700 XT as well.
+I used Nvidia RTX 3060 Ti test driver and fully up-to-date version of Windows 10. The benchmarks now include results for 1080p performance for some models, as the RTX 3060 Ti's price will likely mean owners of high-refresh rate monitors who game at 1080p might consider it, as well as this looking to future-proof their system. Similarly, as the RTX 3060 Ti proved more than capable of handling games at 4K, I've compared it against several other cards both at 4K and 1440p.
+The test system includes a BarrowCH Rhopilema water-cooled test bench with Corsair Hydro X water-cooling components, an Intel Core i9-10900K, MSI MEG Z490 Ace motherboard and 16GB Corsair Vengeance RGB Pro memory.
+With ray tracing enabled at 1080p, Metro Exodus gives the RTX 3060 Ti an easy ride, coming close to matching the more expensive RX 6800 and not a million miles away from the RTX 3070 either.
+Adding a few more cards into the mix at 1440p and Nvidia's claims seem to be on the money - performance similar to the RTX 2080 Super, which means it's going to be a lot faster than any of the RTX 2060/RTX 2070 models out there.
+The RTX 3060 Ti was impressive withy ray tracing and DLSS enabled, again matching the RTX 2080 Super and outstripping the RX 6800's average frame rate too, but ultimately a fair way behind the RTX 3070.
+Disabling ray tracing at 4K sees the RX 6800 offer significantly more performance, though, with the RTX 3070 doing so as well, but to a lesser extent. Still, the RTX 3060 Ti was again matching the RTX 2080 Super, although the 29fps 99th percentile minimum frame rate wasn't exactly stellar at 29fps.
+Switching ray tracing and DLSS back on and the RTX 3060 Ti betters both AMD's new Radeon 6000-series cards and again matches the RTX 2080 Super although the minimum frame rates isn't exactly stellar at 29fps.
+With ray tracing turned off in Wolfenstein, it was a similar story against the RTX 3070, with it generally offering performance in line with the extra $100 it demands.
+The RTX 3070 seemed to be significantly quicker with ray tracing turned on too, but no AMD cards in this test, though, as they don't currently support ray tracing in this game.
+Unfortunately I haven't had time to re-test the RTX 2080 Super in Wolfenstein yet with ray tracing disabled, but again the RTX 3070 did offer a compelling reason to splash out an extra $100 or so.
+For some reason, when upping the resolution and enabling ray tracing, the RTX 3060 Ti's minimum 99th percentile dropped to 88fps, but the average was faster than the RTX RTX 2080 Super.
+Switching up to 4K and with ray tracing disabled, there was a sizable gap between it and the RTX 3070, which is ultimately a much better option if you're gaming at 4K. However, with a 99th percentile of 62fps at 4K, frame rates were still silky smooth.
+Once again there was a hiccup at 4K with ray tracing enabled with a lower than expected 99th percentile for the RTX 3060 Ti. I'll be doing some investigating here and seeing what numbers other reviewers have found.
+Far Cry New Dawn at 1080p seems to have some kind of bottleneck as we saw in my RX 6800 review and all cards here performed similarly.
+There was a little more scaling at 1440p, and again the RTX 3060 Ti matched the RTX 2080 Super and even managed a similar 99th percentile minimum frame rate to the RTX 3070, albeit a much lower average frame rate.
+The RTX 2080 Super managed to edge out the RTX 3060 Ti at 4K, but the latter matched the RTX 2080. Again, though, if you can't stretch to an RTX 3080 and are looking for something more affordable for 4K gaming, the RTX 3070 is definitely worth the step up.
+At 1080p with ray tracing disabled, the RTX 3060 Ti and RTX 3070 performed similarly, potentially pointing at limitations elsewhere.
+It was a similar situation at 1440p, where it also bettered the RTX 2080 Super and matched the RTX 3070 - a result I'll need to double check given the latter should in theory be faster.
+At 4K, though, the RTX 3070 finally pulled ahead with noticeably higher frame rates and the RTX 3060 Ti also bettered the RTX 2080 Super by the biggest margin so far.
+Switching on ray tracing and DLSS saw the RTX 3060 Ti match the RTX 2080 and 2080 Super again an also outstrip both AMD RX 6800 series cards with 34fps being a reasonable 99th percentile at 4K for a $400 graphics card.
+Borderlands is the final game test and here the RTX 3060 Ti wasn't too far off the likes of the RTX 2080 Super and RTX 3070, but there's more of a load on other components here at 1080p.
+it was a little slower than the RTX 2080 at 1440p, though, but the RTX 3070 didn't offer a massive lead either.
+Finally, at 4K it was fairly even between the RTX 3060 Ti, RTX 2080 and RTX 2080 Super with the RTX 3070 edging out a significant lead.
+Power consumptions was, as expected, the lowest on test at just 332W, which was a little below the RTX 3070 and 60W less than the similarly-performing RTX 2080 Super.
+Conclusions
+Compared to the RTX 3070, the RTX 3060 Ti ultimately sits where it should given the $100 price drop compared to its big brother. The former had sizeable advantages in some areas, especially as you ramp up the resolution so if you can't stretch to the RTX 3080 or RX 6800 XT, the RTX 3070 is ultimately worth the extra cash, especially if you're looking for a 4K-capable card for $500 or less. However, that's not to say the RTX 3060 Ti isn't capable of 4K -far from it. We saw playable frame rates in every game at 4K here and with DLSS enabled, things get even smoother.
+Compared to the RTX 2080 Super and 2080, it's mostly on par with these older models but a lot will depend on availability and price as to which you should go for. Find an RTX 2080 Super for $350? It's probably worth it. Sadly, there's no current generation competition from AMD yet and the RX 5700 XT isn't really in the same league being more in the hunt for the scalp of the RTX 2070 Super, but the RTX 3060 Ti has already proven itself to be considerably faster than both given it matches the rTX 2080 Super.
+Overall the RTX 3060 Ti does what Nvidia said it would - match the RTX 2080 Super for $400 and also has the benefit of DLSS to boost frame rates at 4K, which means it can tame ray-traced titles too.
+
+NVDA price 3 days before article release: 13.19302749633789
+
+NVDA price 1 day before article release: 13.359251022338867
+
+NVDA price the day of article release: 13.347784042358398

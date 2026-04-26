@@ -1,0 +1,22 @@
+Nvidia’s Revolutionary Tool For Learning American Sign Language
+
+Feb 27, 2025, 10:00am EST
+
+Growing up in a home with my blind grandmother, I was acutely aware of the challenges faced by individuals with disabilities. One of the most profound lessons I learned came when I was 5 years old. My aunt blindfolded me and asked me to keep it on for 30 minutes to better understand my grandmother's world. This lesson shaped my lifelong sensitivity to supporting the blind community and embracing technologies that help them navigate the world.
+Later, in elementary school, when a deaf student joined our class, our teacher took the time to educate us about her condition, introducing us to American Sign Language and a few basic signs to make her feel welcome. These early encounters fostered a deep empathy for people with disabilities and a desire to find ways to help bridge communication gaps.
+So when Nvidia launched a new AI-powered tool to teach ASL, I took notice and realized that it had delivered one of the best tools to help hearing-able folks communicate with deaf family and friends.
+Nvidia’s new platform, Signs, is a free, AI-powered tool designed to teach ASL. It can potentially revolutionize language learning by making it more accessible and interactive.
+This innovative platform addresses a critical gap in the market, as ASL, despite being the third most commonly used language in the U.S., has long suffered from a dearth of learning resources compared to spoken languages.
+What makes Signs particularly impressive is its real-time feedback feature. The AI evaluates users' signing accuracy and provides instant corrections, allowing learners to refine their skills. The platform's extensive library of ASL signs, validated by expert signers, ensures that users learn from reliable sources.
+Nvidia’s ambitions for Signs don't stop at the current offering. The company has set an ambitious goal to include over 400,000 video clips showcasing 1,000 ASL signs. These videos will be contributed by experienced signers and reviewed by experts, ensuring learners receive a rich and diverse learning experience.
+The potential of Signs goes far beyond simply learning a new language. According to Cheri Dowling, executive director of the American Society for Deaf Children, this tool could be a game-changer for hearing parents of deaf children. By making ASL learning accessible from as early as 6 to 8 months old, Signs can bridge communication gaps and strengthen family bonds.
+True to Nvidia’s reputation, this tool is a powerful example of harnessing AI for social good. As Nvidia continues to expand and improve Signs, it reminds us of the importance of accessibility and inclusivity in technology and the potential to transform countless lives and foster greater understanding between deaf and hearing communities.
+Nvidia’s work with Signs highlights a broader need for communication tools across all industries. As major companies continue to develop new technologies, they should look at ways to include people with disabilities in their innovations. For example, Braille is now standard on elevator buttons to help blind travelers reach their destinations. Why not extend this to other areas, such as product packaging, to make items more accessible for people with vision loss? In the U.S., more than 7 million individuals live with impaired vision or blindness — why shouldn't they be able to identify products on grocery store shelves easily?
+The same logic applies to people with hearing impairments. Nvidia's tool exemplifies how AI can help create better communication channels for those with disabilities. It's a powerful reminder that technology, especially AI, can be used to enhance the lives of people who face challenges in their everyday lives.
+In the end, AI brings a new palette of technologies to companies that can be utilized to reach all people. By integrating AI tools like Signs, companies can contribute to a future where everyone has the opportunity to communicate and thrive, regardless of their physical limitations.
+
+NVDA price 3 days before article release: 130.23733520507812
+
+NVDA price 1 day before article release: 131.23699951171875
+
+NVDA price the day of article release: 120.11064910888672

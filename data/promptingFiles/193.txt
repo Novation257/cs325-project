@@ -1,0 +1,17 @@
+Biggest Market Loss In History: Nvidia Stock Sheds Nearly $600 Billion As DeepSeek Shakes AI Darling
+
+Jan 27, 2025, 04:11pm EST
+
+Nvidia set a dubious Wall Street record Monday, as the stock at the forefront of the U.S.-led artificial intelligence revolution got a scare from DeepSeek, the Chinese AI company which developed a ChatGPT rival at a fraction of the reported cost of its American peers.
+Shares of Nvidia plunged 17% by close, suffering its worst daily percentage loss since March 2020, when stocks briefly crashed at the start of the COVID-19 pandemic.
+Nvidia lost $589 billion in market capitalization Monday, which is by far the single greatest one-day value wipeout of any company in history, more than doubling the $279 billion market cap lost by none other than Nvidia on Sept. 3, 2024 (Meta’s $251 billion loss Feb. 3, 2022 is the third-biggest daily loss).
+The slide knocked Nvidia from its position as the world’s most valuable company, sending its valuation from $3.5 trillion to $2.9 trillion, less than Apple’s and Microsoft’s.
+Nvidia headlined broader U.S. stock losses, as the benchmark S&P 500 fell 1.5% and the tech-concentrated Nasdaq dropped 3.1%, and other major AI technology providers including fellow chip designers Arm and Broadcom plus data storer Oracle all tanked at least 10%.
+In an afternoon statement, a Nvidia spokesperson called DeepSeek’s model an “excellent AI advancement” which is “fully export control compliant” while still requiring “significant numbers” of Nvidia’s graphics processing units (GPUs).
+The release of DeepSeek’s large-language model, which shook confidence in U.S. dominance in generative AI, may initially not seem like a negative catalyst for Nvidia, considering DeepSeek’s model was trained on Nvidia’s GPUs, like most other advanced AI programs. But the Chinese company said it spent just $5.6 million on Nvidia technology to develop its large-language model, and though experts speculate this is a gross underestimate, it still upsets the core thesis behind Nvidia stock’s meteoric rise. Nvidia’s net profits soared from $4.8 billion in 2022 to an estimated $66.7 billion in 2024 thanks in large part to demand for its GPUs, which fetch up to $25,000 apiece, from American tech giants like Facebook parent Meta, Tesla and ChatGPT maker OpenAI. If big U.S. tech companies “can learn from DeepSeek to design AI systems with cheaper GPUs…it might not be a happy development for Nvidia,” remarked Ed Yardeni of Yardeni Research in a note to clients.
+
+NVDA price 3 days before article release: 147.02183532714844
+
+NVDA price 1 day before article release: 142.5732879638672
+
+NVDA price the day of article release: 118.38121032714844

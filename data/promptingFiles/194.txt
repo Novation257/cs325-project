@@ -1,0 +1,40 @@
+Nvidia Stock May Fall As DeepSeek’s ‘Amazing’ AI Model Disrupts OpenAI
+
+Jan 26, 2025, 11:03am EST
+
+America’s policy of restricting Chinese access to Nvidia’s most advanced AI chips has unintentionally helped a Chinese AI developer leapfrog U.S. rivals who have full access to the company’s latest chips.
+This proves a basic reason why startups are often more successful than large companies: Scarcity spawns innovation.
+A case in point is the Chinese AI Model DeepSeek R1 — a complex problem-solving model competing with OpenAI’s o1 — which “zoomed to the global top 10 in performance” — yet was built far more rapidly, with fewer, less powerful AI chips, at a much lower cost, according to the Wall Street Journal.
+The success of R1 should benefit enterprises. That’s because companies see no reason to pay more for an effective AI model when a cheaper one is available — and is likely to improve more rapidly.
+“OpenAI’s model is the best in performance, but we also don’t want to pay for capacities we don’t need,” Anthony Poo, co-founder of a Silicon Valley-based startup using generative AI to predict financial returns, told the Journal.
+Last September, Poo’s company shifted from Anthropic’s Claude to DeepSeek after tests showed DeepSeek “performed similarly for around one-fourth of the cost,” noted the Journal. For example, Open AI charges $20 to $200 per month for its services while DeepSeek makes its platform available at no charge to individual users and “charges only $0.14 per million tokens for developers,” reported Newsweek.
+When my book, Brain Rush, was published last summer, I was concerned that the future of generative AI in the U.S. was too dependent on the largest technology companies. I contrasted this with the creativity of U.S. startups during the dot-com boom — which spawned 2,888 initial public offerings (compared to zero IPOs for U.S. generative AI startups).
+DeepSeek’s success could encourage new rivals to U.S.-based large language model developers. If these startups build powerful AI models with fewer chips and get improvements to market faster, Nvidia revenue could grow more slowly as LLM developers replicate DeepSeek’s strategy of using fewer, less advanced AI chips.
+“We’ll decline comment,” wrote an Nvidia spokesperson in a January 26 email.
+DeepSeek has impressed a leading U.S. venture capitalist. “Deepseek R1 is one of the most amazing and impressive breakthroughs I’ve ever seen,” Silicon Valley venture capitalist Marc Andreessen wrote in a January 24 post on X.
+To be fair, DeepSeek’s technology lags that of U.S. rivals such as OpenAI and Google. However, the company’s R1 model — which launched January 20 — “is a close rival despite using fewer and less-advanced chips, and in some cases skipping steps that U.S. developers considered essential,” noted the Journal.
+Due to the high cost to deploy generative AI, enterprises are increasingly wondering whether it is possible to earn a positive return on investment. As I wrote last April, more than $1 trillion could be invested in the technology and a killer app for the AI chatbots has yet to emerge.
+Therefore, businesses are excited about the prospects of lowering the investment required. Since R1’s open source model works so well and is so much less expensive than ones from OpenAI and Google, enterprises are keenly interested.
+How so? R1 is the top-trending model being downloaded on HuggingFace  — 109,000, according to VentureBeat, and matches “OpenAI’s o1 at just 3%-5% of the cost.” R1 also provides a search feature users judge to be superior to OpenAI and Perplexity “and is only rivaled by Google’s Gemini Deep Research,” noted VentureBeat.
+DeepSeek developed R1 more quickly and at a much lower cost. DeepSeek said it trained one of its latest models for $5.6 million in about two months, noted CNBC — far less than the $100 million to $1 billion range Anthropic CEO Dario Amodei cited in 2024 as the cost to train its models, the Journal reported.
+To train its V3 model, DeepSeek used a cluster of more than 2,000 Nvidia chips “compared with tens of thousands of chips for training models of similar size,” noted the Journal.
+Independent analysts from Chatbot Arena, a platform hosted by UC Berkeley researchers, rated V3 and R1 models in the top 10 for chatbot performance on January 25, the Journal wrote.
+The CEO behind DeepSeek is Liang Wenfeng, who manages an $8 billion hedge fund. His hedge fund, named High-Flyer, used AI chips to build algorithms to identify “patterns that could affect stock prices,” noted the Financial Times.
+Liang’s outsider status helped him succeed. In 2023, he launched DeepSeek to develop human-level AI. “Liang built an exceptional infrastructure team that really understands how the chips worked,” one founder at a rival LLM company told the Financial Times. “He took his best people with him from the hedge fund to DeepSeek.”
+DeepSeek benefited when Washington banned Nvidia from exporting H100s — Nvidia’s most powerful chips — to China. That forced local AI companies to engineer around the scarcity of the limited computing power of less powerful local chips — Nvidia H800s, according to CNBC.
+The H800 chips transfer data between chips at half the H100’s 600-gigabits-per-second rate and are generally less expensive, according to a Medium post by Nscale chief commercial officer Karl Havard. Liang’s team “already knew how to solve this problem,” noted the Financial Times.
+To be fair, DeepSeek said it had stockpiled 10,000 H100 chips prior to October 2022 when the U.S. imposed export controls on them, Liang told Newsweek. It is unclear whether DeepSeek used these H100 chips to develop its models.
+Microsoft is very impressed with DeepSeek’s accomplishments. “To see the DeepSeek’s new model, it’s super impressive in terms of both how they have really effectively done an open-source model that does this inference-time compute, and is super-compute efficient,” CEO Satya Nadella said January 22 at the World Economic Forum, according to a CNBC report. “We should take the developments out of China very, very seriously.”
+DeepSeek’s success should spur changes to U.S. AI policy while making Nvidia investors more cautious.
+U.S. export limitations to Nvidia put pressure on startups like DeepSeek to prioritize efficiency, resource-pooling, and collaboration. To create R1, DeepSeek re-engineered its training process to use Nvidia H800s’ lower processing speed, former DeepSeek employee and current Northwestern University computer science Ph.D. student Zihan Wang told MIT Technology Review.
+One Nvidia researcher was enthusiastic about DeepSeek’s accomplishments. DeepSeek’s paper reporting the results brought back memories of pioneering AI programs that mastered board games such as chess which were built “from scratch, without imitating human grandmasters first,” senior Nvidia research scientist Jim Fan said on X as featured by the Journal.
+Will DeepSeek’s success throttle Nvidia’s growth rate? I do not know. However, based on my research, businesses clearly want powerful generative AI models that return their investment. Enterprises will be able to do more experiments aimed at discovering high-payoff generative AI applications, if the cost and time to build those applications is lower.
+That’s why R1’s lower cost and shorter time to perform well should continue to attract more commercial interest. A key to delivering what businesses want is DeepSeek’s skill at optimizing less powerful GPUs.
+If more startups can replicate what DeepSeek has accomplished, there could be less demand for Nvidia’s most expensive chips.
+I do not know how Nvidia will respond should this happen. However, in the short run that could mean less revenue growth as startups — following DeepSeek’s strategy — build models with fewer, lower-priced chips.
+
+NVDA price 3 days before article release: 140.7838592529297
+
+NVDA price 1 day before article release: 147.17178344726562
+
+NVDA price the day of article release: 142.5732879638672

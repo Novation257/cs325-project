@@ -1,0 +1,18 @@
+Stocks Give Up Gains As Tariffs Loom—Nvidia’s DeepSeek Selloff Balloons Back To $550 Billion
+
+Jan 31, 2025, 03:23pm EST
+
+Stocks gave up earlier gains Friday as the White House reaffirmed President Donald Trump’s plan to implement some of his long-promised tariffs Saturday, with the market closing out a whirlwind week highlighted by Nvidia’s record-breaking losses in reaction to China’s DeepSeek cheaper AI model and a flurry of earnings reports.
+All three major indexes were down for the day, reversing what had been as much as a 0.8% gain for the S&P 500 and a 1.5% rally for the  tech-heavy Nasdaq as in-line inflation data Friday morning and Apple’s double earnings beat reported Thursday afternoon helped boost stocks in morning trading.
+The Dow Jones Industrial Average declined 340 points, or 0.8%, by close and the S&P and Nasdaq fell 0.5% and 0.3%, respectively.
+The negative turn came after White House press secretary Karoline Leavitt confirmed Trump intends to enact the 25% tariffs on Canadian and Mexican imports and 10% tariff on Chinese imports Saturday.
+Leading the swing were Apple and Nvidia, both Silicon Valley giants with significant dealings in China, as shares of Apple went from as much as a 4% morning gain to a 0.7% daily loss, and Nvidia stock turned what was as much as a 3% gain to a 3.7% daily drop.
+Nvidia’s slip extended its brutal week, as its market value has tanked $553 billion since last Friday, after DeepSeek’s innovative cheaper AI cast doubt on continued massive spending on Nvidia’s AI processors powering most generative AI technology.
+Down 16% since Friday, Nvidia lost more market value over the last week than the total market capitalization of Europe’s most valuable public company, Novo Nordisk.
+Despite Nvidia’s massive losses and a down Friday, this month is a historically strong January for the market, with the Dow up nearly 5% and the S&P almost 3%. That makes it the Dow and S&P’s best January returns since 2019 and the best inauguration month return since January 2013, at the start of former President Barack Obama’s second term.
+
+NVDA price 3 days before article release: 128.94773864746094
+
+NVDA price 1 day before article release: 124.60918426513672
+
+NVDA price the day of article release: 120.03067016601562

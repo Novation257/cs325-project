@@ -1,0 +1,31 @@
+Is Nvidia CEO Jensen Huang The Next Steve Jobs?
+
+Nov 12, 2024, 10:00am EST
+
+Steve Jobs is considered by many as a dynamic tech visionary.
+He was also a life coach and amateur philosopher. In his well-reported Stanford commencement speech in 2005, he told graduating students to "find what you love" and “stay hungry and foolish."  He laid out the lessons he had learned after being fired by Apple in 1985. He stated, "I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me," said Jobs, 50. "It freed me to enter one of the most creative periods in my life."
+In his commencement address, Jobs shared his personal history, and his final admonishment to these students was: "Your time is limited, so don't waste it living someone else's life. "Don't let the noise of others' opinions drown out your own inner voice."
+I had the privilege of knowing Steve Jobs before he was fired and of having many encounters with him after he returned to Apple. The first Steve Jobs I knew was a brash manager who ruled by intimidation. One reason he was fired was his management style, although Apple's board was deeply concerned about the direction in which he was leading the company.
+However, when he returned to Apple in 1997, the Steve Jobs I met on the second day he was back as Apple's iCEO (interim CEO) was a different person. Although he was still a bit brash and had his signature magnetism, he seemed humbled by his failure at NeXT.
+We all know that Jobs returned with a creative vision and a more experienced management style which then gave us the iMac, the iPod, the iPhone, the iPad, and the Apple Watch. This propelled Apple to become the $3 trillion valued company it is today.
+For decades, many memes have suggested that some business tycoon was the next Steve Jobs. Major executives like Disney's CEO Bob Iger, Tesla’s CEO Elon Musk, and various business leaders have been compared to Steve Jobs in one form or another. In fact, Apple co-founder Steve Wosniak told Fortune Magazine that "Musk wants to be seen as a cult leader just like Steve Jobs."
+But there is a current tech executive who comes close to being the next Steve Jobs. Jensen Huang, the CEO of Nvidia, has collected similar successes in leading his company to exceed a $3.5 trillion valuation.
+I met Mr. Huang before he started Nvidia. He was a microprocessor designer at AMD, and I was told he was one of their best engineers. (Interestingly, AMD's current CEO, Lisa Su, is his cousin.)
+In 1993, he left AMD to start Nvidia with partners Chris Malachowsky and Curtis Priem. In 1995, I was invited to Nvidia to learn about its new processors, which were focused on creating a powerful graphic chip called a GPU. GPUs are designed to boost the graphics capabilities of PCs so they can also be used as gaming machines.
+From day one, Mr. Huang understood how important a GPU was for a PC and began envisioning how GPUs could drive a lot of innovation in the future. He saw them not only for use in PCs but, by 1997, was championing GPUs for use in even more powerful computers such as graphic workstations, CAD, and CAM applications.
+For decades, Jensen drilled into us analysts the importance of a GPU and how he would drive the company to deliver more powerful GPUs over time. By 2005, he began emphasizing the role of more powerful GPUs and how they would drive the future of what he kept calling "high-performance computing."
+Indeed, he started courting those who made supercomputers and high-powered servers and found success in this area by around 2010.
+Over the years, I have had at least 50 meetings with him and his staff, along with one-on-one discussions with Jensen himself as he shared his GPU and high-performance computing vision for the future.
+Both Jobs and Huang had long-term visions for what they wanted to create and then they developed the technology to make their dreams a reality. Besides being dreamers, the other connection is that when they talked about the future, I knew I had to take what they were saying seriously. A lot of times, I was skeptical of what they told me, and then, at some point, what they had been envisioning became a reality.
+For example, when the iPod came out, Jobs shared a vision for what he called Podcasts. While the iPod was music-focused, Jobs said "podcasts" would be a big deal. As you know, podcasts are at the center of broad communications today.
+When I met with Jobs on the second day he returned to Apple in 1997, he told me that he was going to focus on industrial design to save Apple. At the time, I thought he was crazy. By 1998, he had redesigned personal computers, given us the candy-colored iMacs, and made industrial design a crucial part of how he created all of Apple's products after that.
+Like Steve Jobs, Jensen Huang discussed his future visions and how Nvidia would drive computing at all levels. Even though to some analysts, he sounded like a broken record, the more we looked into his vision, we could see he was on to something big, even if we did not know what that would be.
+The comprehensive range of innovations developed by him and Nvidia, extending beyond GPUs to include essential supporting software such as CUDA and related services, indicates that what he was constructing would serve as primary building blocks for advancing our AI future.
+It is not much of a stretch to suggest that, at least up to now,  Jensen Huang is as close as we will get in tech to Steve Jobs.
+Disclosure: Apple and Nvidia subscribe to Creative Strategies research reports along with many other high tech companies around the world.
+
+NVDA price 3 days before article release: 148.8209991455078
+
+NVDA price 1 day before article release: 145.20240783691406
+
+NVDA price the day of article release: 148.23118591308594

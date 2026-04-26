@@ -1,0 +1,22 @@
+Nvidia Improves Performance With 5x Faster AI. Yes, Software Matters.
+
+Dec 05, 2023, 08:36am EST
+
+Nvidia’s pre-emptive strike may blunt AMD MI300 news, pointing to the company's key advantage in AI software.
+AMD will host a big announcement this week in San Jose, where the company will announce details about its new flagship GPU for generative AI, the MI300. Nonetheless, Nvidia remains confident that its hardware, software and integrated systems will keep the company in the lead. To prove the point, Nvidia announced new benchmarks changing the game. Again.
+For the first time, Nvidia has run three sizes of Llama2, the popular open-source AI model from Meta, on the H200, comparing it to the older A100 chip with earlier versions of its Nemo LLM framework.  Let’s take a look.
+The company ran two benchmarks, one measuring training performance and the second measuring inference performance. Nvidia ran both with an updated version of the TensorRT-LLM software announced last September and a new version of its Nemo foundation model framework that, among other enhancements outlined in Nvidia’s blog, uses the new TRT-LLM. Amazon used Nemo to train their Titan model at the recent re:invent announcements highlighting the renewed partnership with Nvidia.
+For training, Nvidia ran three model sizes on the new H200. Model sizes ranged from a 7B (Billion parameter) model to a more capable 70B parameter LLM model. In all cases, the new Nemo produced excellent performance improvements.
+None of this should surprise anyone; Nvidia has always said that Hopper would be 4-6 times faster than the older A100. And it is.
+However, the performance increase in inference performance due to new software is astonishing. Nvidia demonstrated up to 5.6 times better performance on Llama2 on the same H100 hardware. The 5.6x improvement was with Reinforcement Learning with Human Feedback (RLHF) using Llama 2.  The net here is that Nvidia now provides open-source software that can significantly improve the performance of currently available hardware.
+As another example, Nvidia can now support inference processing for the Falcon 180B on a single GPU, leveraging TensorRT-LLM’s advanced 4-bit quantization feature while maintaining 99% accuracy. Part of the improvement is a software optimization that Nvidia researchers developed a new Activation-aware Weight Quantization (AWQ) technology that enables 4-bit precision while preserving prediction accuracy. Falcon is a conversational LLM developed by the UAE's Technology Innovation Institute (TII), and the 180B model is its largest. As a reference, it can take 8-16 GPUs to infer text on GPT-3 and -4.
+No matter how competitive an LLM platform can be, whether from Intel, Google, Cerebras or AMD, continually optimized software remains Nvidia’s ace in the hole. Nvidia has more software than hardware engineers, and as these results show, it is software that makes AI sing. This update is the second major update in just three months after launching the TensorRT-LLM in September.
+We remain optimistic about the new chip from AMD.  Nvidia will have a significant challenger in AMD for the first time, and we are anxious to hear how AMD's software strategy has improved.
+Disclosures: This article expresses the author's opinions and
+should not be taken as advice to purchase from or invest in the companies mentioned. Cambrian AI Research is fortunate to have many, if not most, semiconductor firms as our clients, including Blaize, BrainChip, Cadence Design, Cerebras, D-Matrix, Eliyan, Esperanto, FuriosaAI, Graphcore, GML, IBM, Intel, Mythic, NVIDIA, Qualcomm Technologies, Si-Five, SiMa.ai, Synopsys, Ventana Microsystems and Tenstorrent. We have no investment positions in any of the companies mentioned in this article and do not plan to initiate any in the near future. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 46.73731994628906
+
+NVDA price 1 day before article release: 45.47819900512695
+
+NVDA price the day of article release: 46.537559509277344

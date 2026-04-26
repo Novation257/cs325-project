@@ -1,0 +1,17 @@
+Pelosi Unloads Millions In Nvidia Stock At A Loss Before Senate Passes Massive Tech Subsidies
+
+Jul 27, 2022, 04:04pm EDT
+
+House Speaker Nancy Pelosi (D-Calif.) revealed in regulatory filings Tuesday her husband Paul Pelosi sold millions worth of stock in chipmaker Nvidia at a loss a day before the Senate passed a multibillion-dollar bill aimed in part at boosting U.S. chip manufacturing that sent Nvidia shares surging, a decision Pelosi’s office says was to avoid further “misinformation” about the couple’s investments.
+Paul Pelosi sold 25,000 shares of Nvidia at $165.05 on Tuesday, worth $4.1 million, according to the filing.
+Pelosi lost $341,365 in the transaction, according to the filing.
+Pelosi missed out on a sizable payday, as Nvidia shares have since jumped 7.8% to $177.90.
+The sale comes a month after a June 17 filing revealed Pelosi exercised call options to buy 20,000 Nvidia shares, purchasing the options as well as 5,000 shares outright last summer.
+Pelosi’s Nvidia trades received widespread criticism, despite Pelosi buying the options a year earlier and exercising them on the date of their expiration.
+Drew Hammill, Nancy Pelosi’s deputy chief of staff, wrote in a statement to Forbes: “Mr. Pelosi decided to sell the shares at a loss rather than allow the misinformation in the press regarding this trade to continue.”
+
+NVDA price 3 days before article release: 17.291183471679688
+
+NVDA price 1 day before article release: 16.50644302368164
+
+NVDA price the day of article release: 17.761425018310547

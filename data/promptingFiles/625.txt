@@ -1,0 +1,71 @@
+Solus 4 Linux Gaming Report: A Great Nvidia, Radeon And Steam User Experience
+
+Mar 27, 2019, 08:34am EDT
+
+This article is the third in a series on Linux-powered gaming that aims to capture the various nuances in setup, as well as uncover potential performance variations between nine different desktop Linux operating systems. But it's more than that. It's my hope that it will guide the future development of popular Linux distributions, and serve as a roadmap for newcomers. Part 1 focused on Fedora 29, and Part 2 analyzed Pop!_OS 18.10. Next up is a distro making its first appearance on my test bench (or any other device): the just-released Solus 4.
+
+About Solus 4
+
+Solus is a fascinating Linux distribution. It's built from scratch, falls under the category of rolling release and by default ships with the Budgie desktop environment -- which was also developed by the Solus Project. Other desktop environment ISOs like Gnome and MATE are available.
+Solus, which recently updated to version 4.0, is aimed at home desktop users and Linux beginners. It made a positive first impression on me, so I'll be covering it outside of this Linux Gaming Report in the near future.
+Also, I have to publicly acknowledge something one of the lead developers, Joshua Strobl, did during my time with Solus 4. I was attempting to update the system and noticed that the download speeds were extremely slow (we're talking 10Kb/s). He instantly responded on Twitter that the team was aware of the issue, told me when it would be resolved, and what solution they were embracing.
+This was on a Sunday, and Strobl was on vacation. . .
+Report Introduction
+Gaming on Linux. Depending on who you talk to, getting stuff like Steam up and running and graphics drivers installed can be a tedious exercise, or ridiculously straightforward. That's because people don't really game on Linux. They game on Fedora, Manjaro, Ubuntu, Deepin, Solus. They game on Debian-based distributions or Arch-based distributions (among others). Each with their own philosophies on free (as in open source and freely distributed) versus non-free (Steam and proprietary Nvidia drivers) software. Each with their own approaches to stability, affecting which versions of drivers are available out of the box.
+While there are certain procedures and best practices that persist across any distro, the variances can be daunting for new users. And that's the inspiration for this series.
+Recap: My 3 Goals For This Project
+The Linux Distros Being Tested:
+Content Timeline:
+
+Solus 4 makes this decision a no-brainer for its users. As someone considering the path for beginners, the easiest route is what I recommend. As with most distributions, Steam is included in the Software Center. It's also easy track down simply from browsing the Store, as a "Gaming On Solus" category is prominently displayed on the main page.
+(By the way, props to the Solus maintainers for also including Lutris.)
+Solus takes things a step further, though, by including a "Linux Steam Integrations" app.
+This gives users some GUI-based toggles for troubleshooting or improving the experience on older games, such as those that exhibited the infamous "Unity Black Screen of Nope" behavior. It also lets you switch between Steam's bundled runtime and the native runtime included with Solus 4. There can be performance benefits to using your distribution's bundled runtime. This is an excellent inclusion, but I do have a small gripe.
+By default, the Linux Steam Integrations app opts out of using Steam's bundled runtime. In my experience this caused some minor stuttering with Proton games like F1 2018 and Hitman 2 when using Radeon graphics. Switching it off and restarting Steam eradicated the stuttering. We're talking minor hitching, but it's still worth pointing out.
+Outside of that, the Steam package on Solus 4 is easy to locate, easy to install and presented zero problems.
+CONTROLLER SUPPORT:
+On the controller detection side, let's go back to the Linux Steam Integrations app. I did notice that when it was set to use native runtime and not Steam's bundled runtime, some Proton games like Devil May Cry 5 and Sekiro: Shadows Die Twice seemed to detect a controller, but it was non-functional. So there are a couple compelling reasons to just stick to the Steam runtime here.
+Getting most controllers recognized, though, remains unchanged from Fedora 29 and Pop!_OS. As always I tried a generic USB Xbox 360-style controller, an Xbox One controller and an Xbox One S controller with Bluetooth. As expected, both Xbox controllers work out of the box when plugged in, but a workaround is needed to connect to the Xbox One S controller via Bluetooth. I believe this is a common, kernel-level issue.
+There is a fairly simple -- though not necessarily intuitive -- solution, which should be persistent across most Linux distributions. Here's what to do.
+In Terminal, type:
+sudo sh -c 'echo 1 > /sys/module/bluetooth/parameters/disable_ertm'
+That command disables a Bluetooth protocol known as "Enhanced Re-Transmission Mode" which causes issues on Linux with the Xbox One S controller.
+You'll probably want to make this change permanent, so edit (or create) this file using your text editor of choice:  /etc/modprobe.d/bluetooth.conf.d by entering:
+sudo gedit /etc/modprobe.d/bluetooth.conf
+That command opens up a Gnome text editor. Now put the following line in the config file:
+options bluetooth disable_ertm=1
+After that you can pair and use your Xbox One S controller via Bluetooth, and the changes you made will persist across reboots.
+
+As I've repeatedly mentioned, Radeon gamers have an advantage across several Linux distributions: the open source driver is part of the kernel (and thus ready to use immediately), well maintained and quite performant. This typically means less steps to get up and running with Steam and Steam Proton. As a rolling release, I was thrilled to see that Solus 4 ships with MESA 19.0 out of the box. At time of their respective reports, Fedora 29 uses MESA 18.3.4 while Pop uses MESA 18.2.8.
+From what I could tell, there's also no need to install any additional Vulkan libraries.
+The short version is this: Solus 4 includes a new Radeon graphics driver for the Red Team players, and getting up and running with your games requires no additional repositories or tweaking. That is a win.
+
+Here's the story so far for Nvidia GeForce users: Fedora requires the enabling of a 3rd party repository to install proprietary Nvidia drivers. Pop!_OS has a separate installer image for you which automatically installs that driver. Solus 4 has a little app called "DoFlicky."
+An easy way to find this is by hitting your Super Key and typing "Hardware Drivers." Select that, and you'll be brought to a Window asking if you want to install the main Nvidia driver, alongside a disclaimer stating that Solus Project "can't audit this closed-source code." There's an additional checkbox to download 32-bit drivers which may be required by some games. I recommend doing that!
+Solus 4 installs Nvidia 418.43, just like Fedora 29 and Pop!_OS 18.10 at time of testing.
+Nvidia: Open Source Vs Proprietary
+I put the following in every version of my report. I know many of you would prefer to use the open source "Nouveau" driver, which is maintained by a very passionate and talented community of developers. For non-gaming purposes, that driver is perfectly fine. But for gaming, let me show you something.
+I ran a benchmark of Dirt Rally at 1080p on the Ultra quality preset using the open source driver. The result? An average of 16fps. Then I ran the same benchmark with Nvidia 418.43, yielding an average 82fps. That is literally a 412% increase in performance. It's not the example illustrating this point. Here's one of many benchmarks from Phoronix illustrating roughly the same thing:
+Convinced? Stick with proprietary on this one. Fortunately, it's quite easy to add with no need to manually enable additional repositories.
+
+My test bench remains the same throughout this series. Here are the specs alongside the specific driver, Steam and kernel versions used on Solus 4.
+
+With The Radeon RX 580:
+There's nothing out of the ordinary to point out here, and that's a good thing. We see at most a 16% performance difference on Dirt Rally between Solus 4 and Fedora 29, but there's a good explanation for that! Apparently while I was testing Fedora 29, that distro was inadvertently using a debug build of the MESA graphics driver, as pointed out by Phoronix. So yep, before the final report goes live I'll be re-testing Fedora 29 on my RX 580.
+Here on Solus 4 though, performance is great and the overall experience was smooth on my Radeon RX 580.
+With The Nvidia GTX 1080:
+There's not much variance here, and any minor performance gaps can likely be attributed to kernel versions or the differences in Steam versions or display servers (Wayland vs Xorg) between distributions.
+For native Steam games, Solus 4 does pull slightly ahead on Dirt Rally and Rise of the Tomb Raider, but not enough to start raising alarms. Our best indicator of performance is the Unigine benchmarks, which so far remain consistent across distributions under both Nvidia and Radeon.
+BONUS: Devil May Cry 5 & Sekiro: Shadows Die Twice
+With Solus 4 I decided to install and start actually playing Devil May Cry 5 and Sekiro: Shadows Die Twice. Both of these newer Windows-only games ran flawlessly with Proton! The amount of newer, perfectly playable games available via Steam Play continues to impress me.
+I also think these two games are perfect candidates for performance comparisons on Windows 10. So before this entire series wraps up, I'll be testing all the included games -- as well as DmC 5 and Sekiro -- on Windows and pointing out any interesting performance differences.
+Conclusion
+Since this series is based on getting drivers installed, and Steam up and running for both native and Proton (Steam Play) titles, I walk away from Solus 4 confidently recommending it to beginners. While getting the proprietary Nvidia driver installed isn't as dead simple as on Pop!_OS, it is straightforward, GUI-based and ridiculously easy. No external software sources are needed. No command line needed.
+My one piece of advice -- and I hope that all Linux distributions incorporate this -- is to give Nvidia users some gentle guidance toward the installation of the proprietary driver. Don't force it on them, but make the option visible. A tool-tip or notification telling them "You have a GeForce GPU, would you like to learn about drivers for your card?" with a link to some documentation explaining the differences would be fantastic.
+Next up? Vote on it!
+
+NVDA price 3 days before article release: 4.404876232147217
+
+NVDA price 1 day before article release: 4.389244556427002
+
+NVDA price the day of article release: 4.380061149597168

@@ -1,0 +1,18 @@
+Nvidia And AMD Slip In Premarket As Reports Say U.S. Will Take 15% Cut Of China AI Chip Sales
+
+Aug 11, 2025, 05:18am EDT
+
+Shares of Nvidia and AMD fell in premarket trading early on Monday, after reports said both companies have agreed to pay 15% of the revenue generated on AI chip sales to China to the U.S. government, as part of an unconventional deal with the Trump administration to secure export licenses.
+According to the Financial Times, which first reported on the matter, Nvidia will pay the 15% cut on the revenue it generates from the sale of its H20 AI chips, a cut-down version of its H100 chip designed to comply with export rules on China.
+AMD has also agreed to pay a similar cut on the sales of its MI308 chip designed for China, the report added.
+Citing an unnamed U.S. official and others familiar with discussions, the FT report said the deal was a necessary condition for the China export licenses granted to the companies last week.
+It is unclear if these 15% export levies will raise the price of these chips for Chinese buyers.
+In premarket trading early on Monday morning, Nvidia’s shares dropped 1.16% to $180.61, while AMD’s slipped 2.3% to $168.79.
+U.S. government officials and AMD have not yet publicly commented on the matter, but an Nvidia spokesperson told various outlets that the company hasn’t “shipped H20 to China for months,” but it hopes “export control rules will let America compete in China and worldwide.”
+In May this year, Nvidia CEO Jensen Huang told the Stratechery Podcast that he estimates Nvidia could earn $15 billion from H20 chip sales to China. This means the U.S. government stands to earn as much as $2.25 billion from the AI chipmaking giant as part of this deal. In its Q2 2025 earnings call last week, AMD reported a $800 million write-off due to restrictions on the exports of its MI308 chips to China. If the company’s China sales projections are accurate, the U.S. government could earn another $120 million.
+
+NVDA price 3 days before article release: 179.3901824951172
+
+NVDA price 1 day before article release: 182.6696319580078
+
+NVDA price the day of article release: 182.0297393798828

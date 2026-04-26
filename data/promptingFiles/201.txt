@@ -1,0 +1,23 @@
+Valve Discusses Future SteamOS Support For Intel And Nvidia PCs
+
+Jan 15, 2025, 12:28pm EST
+
+2025 is already shaping up to be a terrific year for gamers who prefer SteamOS to Windows on their handheld devices. In May, Lenovo will ship the Legion Go S Powered by Steam OS, and Valve promised an installable beta of the Linux-powered OS for other handhelds before that. But with all this positive news comes pressing questions: What about folks who want to install SteamOS on their desktop PCs? What about systems with Intel and Nvidia components?
+Right now, SteamOS runs like a champ on the Steam Deck, which features a semi-custom AMD processor. And in the near future it will run smoothly on another semi-custom AMD processor — the Ryzen Z2 Go — inside the Lenovo Legion Go S. But Valve’s messaging has been intentionally vague when discussing the expansion of SteamOS beyond these AMD-powered handhelds.
+There is very hopeful news on the horizon, however. A recent interview between French outlet Frandroid and Valve designer Pierre-Loup Griffais — a key and vocal figure behind SteamOS development — reveals quite a bit about Valve plans and its progress toward delivering SteamOS for the rest of us.
+On the topic of Intel support, Griffais says “[...] on some platforms, the support is still very basic. Intel is working a bit better than before, but our driver teams and Intel are still working on it.”
+The first takeaway, then, is that Valve and Intel are collaborating to tackle this, which is encouraging. With the strong integrated graphics performance of Intel’s Lunar Lake, this paves the way for supporting SteamOS on MSI’s Claw 8 AI+ and future handhelds adopting Intel processors.
+But the big elephant in the room has always been Nvidia. Unlike Intel and AMD, Nvidia’s proprietary GeForce graphics driver isn’t baked into the Linux kernel, although Nvidia is transitioning towards that.
+“With NVIDIA, the integration of open-source drivers is still in its early stages,” Griffais says. “There’s still a lot of work to be done on that side. So it’s a bit tricky to say we’re going to release this version when most people wouldn’t have a good experience."
+Griffais also revealed that Valve has four developers dedicated to working on Nvidia’s open-source driver. “It’s just that there’s still a lot of work to do,” Griffais says.
+OK! Takeaway number 2, then, is that Valve is definitely committed to getting SteamOS supported on Nvidia hardware —work that will likely benefit the entire Linux gaming system and the open-source community.
+Part of the reason Valve is taking graphics driver development under its wing is because it can optimize games for SteamOS “without having to wait for a manufacturer to take care of it.”
+We’ve seen this approach yield positive results on Steam Deck — and by extension Linux — as far back as Elden Ring in 2022, when Valve issued a fix that solved the game’s horrible stuttering. In fact, at the time, it was running more smoothly on Linux than on Windows.
+While there’s no roadmap or solid timeline (there rarely is where Valve is concerned), it’s refreshing to see confirmation that Valve is hard at work building SteamOS support for the wider PC gaming ecosystem.
+I encourage you to read (and translate) the entire interview. It’s a fantastic and insightful discussion which also touches on Linux distributions like Bazzite and Nobara, future Valve hardware endeavors, and the very long road Valve has traveled to get to this point.
+
+NVDA price 3 days before article release: 135.86549377441406
+
+NVDA price 1 day before article release: 131.71682739257812
+
+NVDA price the day of article release: 136.1953887939453

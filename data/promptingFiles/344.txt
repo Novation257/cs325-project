@@ -1,0 +1,28 @@
+NVIDIA Tops Corporate Reputation Rankings, Outshining Tech Peers
+
+May 29, 2024, 10:06am EDT
+
+I’m fresh off the plane from Las Vegas—and no, I wasn’t hitting the slots, though the city’s Harry Reid International Airport sure hit the jackpot with a record-breaking 57.6 million passengers last year. The airport is on track to service even more people this year, a reflection of the travel boom that’s expected to set new passenger figures this summer.
+The reason for my visit was Dell Technologies World 2024, which brought together many of the world’s leading business leaders and experts in technology and artificial intelligence (AI).
+As you’re probably aware, AI is driving much of the news and stock market right now. Google Trends data shows that global searches for “AI” recently hit the highest level ever as more and more companies roll out AI products and position themselves for the ongoing AI race.
+The man of the hour was Jensen Huang, CEO of NVIDIA, which just last week reported phenomenal March-quarter earnings. Revenues topped a record $26 billion, more than triple the amount from the same period a year earlier, while profits were up a staggering sevenfold.
+The company expects sales to hit $28 billion in the current quarter as demand for its graphics processing units (GPUs)—ideal for use in AI applications—continues to accelerate.
+Thanks to the whirlwind market rally, NVIDIA’s market cap now tops a mind-boggling $2.5 trillion, larger than the entire German stock market and making it the world’s third most valuable company after Microsoft and Apple.
+With NVIDIA shares trading above $1,000, the company announced a quarterly dividend boost, from $0.04 per share to $0.10, an increase of 150%. It also announced a 10-for-1 stock split to make its stock more attractive to retail investors, following Walmart, which enacted a 3-for-1 split in February. Alphabet, Tesla and Amazon all split shares in 2022. Stock splits don’t change a stock’s fundamentals, but they’ve tended to result in near-term gains as additional investors pile in.
+NVIDIA stock now turns up in more retail investors’ portfolios than any other name, according to recent analysis by Vanda Research. The stock represented 9.3% of investors’ portfolios on average, higher than other popular stocks and ETFs such as Apple, Tesla and the Invesco QQQ ETF.
+Finally, NVIDIA just ranked number one on the 2024 Axios Harris Poll 100, which ranks the reputations of companies most on Americans’ minds. Tens of thousands of respondents are asked which two companies—in their opinion—stand out as having the best reputation. Rounding out the top five companies were 3M, Fidelity Investments, Sony and Adidas.
+What does this all mean for us, the investors? I believe NVIDIA is just getting started. They already control a huge portion of the market, and they’ve built an entire ecosystem around their AI tools, locking in customers and driving sales. It’s like the gold rush, but instead of pickaxes, they’re slinging GPUs, purchased by everyone from Amazon to Dell to Tesla. During a recent earnings call, Tesla revealed that it had installed 35,000 of Nvidia’s H100 GPUs in its supercomputers.
+Some people might compare NVIDIA to Tesla, and sure, there are similarities. Both companies are pushing the boundaries of technology and disrupting their industries.
+As Jensen Huang himself pointed out last week, “Tesla is far ahead in self-driving cars, but every single car someday will have to have autonomous capability.” NVIDIA’s GPUs, much like those self-driving features, are poised to become ubiquitous.
+Let’s not forget the Bitcoin angle. While NVIDIA might not be directly involved in crypto mining, the rise of AI is linked to the growth of blockchain technology. Both are driving demand for powerful computing, and both are shaking up traditional financial systems.
+An unusual source for Bitcoin research is Incrementum’s annual In Gold We Trust report, which the Liechtenstein-based firm has been putting out since 2007. Analysts note that, like gold, Bitcoin is sought by investors mainly because it’s deliberately designed to be a scarce asset, capped at 21 million coins. Around 95% of all Bitcoin has been mined; within the next 10 years, this percentage is expected to reach 99%. “The scarcity could further solidify the perception of Bitcoin as a store of value and potentially lead to a reassessment of its value,” the group writes.
+As Bitcoin’s analog cousin, gold has also been turning heads lately. The yellow metal is off its recent high of $2,450 an ounce, touched last Monday in intraday trading, as geopolitical uncertainty mounts and investors look ahead to a rate cut by the Federal Reserve. According to its 14-day relative strength index (RSI), gold looked overbought as recently as last month, but it’s since reverted to the mean.
+As always, I recommend a 10% weighting in gold for more conservative investors, with 5% in physical gold (bars, coins, jewelry) and 5% in high-quality gold mining stocks, mutual funds and ETFs.
+I also recommend Bitcoin, but since it’s more volatile than gold due to it being a nascent asset, older, more conservative investors may wish to speak to a financial advisor before participating.
+Happy investing and stay bullish!
+
+NVDA price 3 days before article release: 103.7404556274414
+
+NVDA price 1 day before article release: 113.83675384521484
+
+NVDA price the day of article release: 114.7602310180664

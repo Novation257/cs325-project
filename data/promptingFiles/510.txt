@@ -1,0 +1,25 @@
+Samsung Confirms Massive Galaxy Hack After 190GB Data Torrent Shared Via Telegram
+
+Mar 08, 2022, 04:50am EST
+
+The bad news is that Samsung has now confirmed that a criminal group has, indeed, succeeded in breaching security and stolen code that relates to the operation of Galaxy smartphone devices. The good news is that customer data does not appear to have been breached and Samsung says it is not anticipating any impact to either its business or its customers.
+That the 190GB of confidential code that appears to have been stolen includes, the cybercriminal group behind the incident says, Galaxy biometric authentication algorithms and bootloader source code, isn't exactly reassuring though.
+Here's what we know so far.
+Although a precise timeline has yet to be established, news of the massive hack first surfaced March 4 after the criminals, a cyber-extortion gang known as Lapsus$, posted a teaser regarding Samsung data it was about to leak. Bleeping Computer revealed that the code said to be stolen, 190GB in total, included the source for trusted applets in the smartphone TrustZone environment.
+If that sounds familiar to you, it's because it was recently revealed how security researchers had uncovered serious vulnerabilities in the cryptographic design and code structure of the TrustZone Operating System (TZOS) which forms part of the security-sensitive Trusted Execution Environment (TEE) of Galaxy smartphones. The two things do not appear to be connected, I should add, other than by happenstance.
+However, the Lapsus$ leak teaser did not stop there, with claims that biometric unlock algorithms, bootloader source code and Samsung activation server code (for first time device setup) had also been exfiltrated.
+Confirmation of the hack finally came, by way of a statement issued to Bloomberg, on March 7.
+"According to our initial analysis, the breach involves some source code relating to the operation of Galaxy devices but does not include the personal information of our consumers or employees," the statement confirmed. It also said that, as of March 7 at least, Samsung did not "anticipate any impact to our business or customers," and concluded that the smartphone giant had put measures in place to prevent any further incidents such as this.
+I have reached out to Samsung and will update this article when I have anything further to report.
+Truth be told, not a huge amount is known about the Lapsus$ Group right now. Something I hope to be able to rectify as I'm currently investigating the cybercriminal gang with the help of leading threat intelligence experts. You can catch up on that investigation at the weekend when my story will be published.
+Until then, though, what I can say is that Lapsus$ has struck some big names since it was picked up by research radar in 2020. It wasn't until the following year, however, that a breach of the health ministry in Brazil was claimed by the group. While it is thought that Lapsus$ followed the typical post-ransomware threat model of requiring money to prevent publication of confidential exfiltrated data, it is far from clear whether any ransomware, in the broadly accepted sense, was used. Instead, it seems, Lapsus$ is sat firmly on the data extortion side of the criminal fence.
+We know that Lapsus$ attacked NVIDIA recently and there was apparently a bizarre, almost amateurish, demand for the graphics card goliath to remove limiters holding back cryptocurrency mining operations rather than cash. None of this has been confirmed by NVIDIA, beyond confirmation that a cybersecurity incident occurred on February 23 which "impacted IT resources" and involved the theft of "some NVIDIA proprietary information." However, since then it appears that stolen NVIDIA code-signing certificates are being actively used to help malware infect Windows devices.
+As I say, I'm doing more digging this week and hope to have further information on Lapsus$ by the weekend, including any confirmed geo-political links, it’s currently thought that the group operates out of South America, so keep an eye on my Forbes page for an update.
+Jake Moore, a global cyber security advisor at ESET, and friend of the Straight Talking Cyber video team, says that "data breaches like this often have a price tag attached but these bad actors have just gone straight to releasing the data without a ransom note, leaving the targeted victims scrambling around trying to reduce the impact where possible."
+Meanwhile, Matt Aldridge, a principal solutions consultant at Webroot, advises this is "another lesson to all organizations to keep adequate technical defenses in place to ensure cyber resilience – including threat intelligence technologies, up-to-date software and operating systems and proper employee education. Businesses should also have a good backup strategy, data recovery and roll back plans to alleviate the impact of any data loss."
+
+NVDA price 3 days before article release: 23.670902252197266
+
+NVDA price 1 day before article release: 21.313194274902344
+
+NVDA price the day of article release: 21.47490119934082

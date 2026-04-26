@@ -1,0 +1,31 @@
+The Blackwell Successor: What Nvidia’s Rubin Means For Your Phone
+
+Jul 06, 2025, 07:53pm EDT
+
+It doesn’t take too much digging to see that the hardware world is heating up.
+One company remains dominant in some key ways. Nvidia, led by Jensen Huang, is a big new star in the tech world, and recently became the largest company by market cap on the U.S. stock market, eclipsing both Apple and Microsoft.
+How did this happen?
+Nvidia has become adept at setting the trends when it comes to hardware. Its GPUs are in the biggest data centers, like XAI’s Colossus and other projects operating at enormous scales, as when Musk kept capriciously adding 100,000 more GPUs to the aforementioned project.
+Nvidia has also garnered a large share of the foundry operations of TSMC, the Taiwanese company that primarily manufacturers chips, providing a wide range of top clients with processing power.
+Along with its track record in production and market dominance, Nvidia has also been announcing a lot of new models for its processors.
+It wasn’t too long ago we were talking about Nvidia Blackwell, named after David Blackwell, and the Grace Blackwell superchip, that had groundbreaking capacity and a customer base around the world.
+At a recent tech event in 2024, though, Huang announced the company’s intention to start offering a new kind of microarchitecture called “Rubin,” named after physicist Vera Rubin. It would have a GPU called Rubin and a CPU called Vera, for a powerful one-two punch in terms of clock speed.
+In addition, there will be an alternative called Rubin Ultra developed after that, and a hardware model called Feynman (after physicist Richard Feynman) in 2028.
+As for memory bandwidth, Rubin is expected to have around 900 GB per second, with Rubin Ultra operating around 1200 GB per second. Feynman is expected to operate around 1000 GB per second, being optimized for certain kinds of data handling and precise mathematical operations.
+There’s also a Rubin AI platform, the company’s ecosystem, set up with Rubin chips. This will have ultra fast HBM4 memory, with NV Link 6 switches, to deliver up to 3600 GB per second in bandwidth.
+It’s all made for data centers; it’s made for AI.
+Now, let’s talk about the market effect of Nvidia’s Rubin.
+Experts point out that it’s not necessarily that you’ll get an entire model working entirely off-line – but the architectures themselves will drive more edge computing models for robust systems. That means the AI entities that you do have on your local devices will become more competent, more capable, and able to reason at a more profound depth.
+So we are likely to soon see the effect of these hardware revolutions in the consumer world with our wearables and mobile device devices.
+Everything from fitness and education to retail, medicine and law is getting re-Imagined with powerful LLMs that are portable and decentralized from big data centers.
+“These devices encompass a wide range, from powerful edge servers to resource-constrained IoT sensors, and include familiar examples like smartphones, smart home appliances, autonomous vehicles, and even industrial robots,” writes Bhavishya Pandit at Datacamp, explaining some of the values of edge computing and its potential effects on our tech world.
+Presumably, there’s still important work going on in those big data centers, but increasingly, it will be relegated to research and esoteric IT, while we’ll continue to see more implementation at the user device level.
+We’ll probably see more impact on the average user, too. That may come in the form of higher user adoption for applications, or more respect for the powers that AI has, or both.
+How do you see the future of AI when everyone’s carrying powerful artificial intelligence engines in their pockets?
+Let’s keep an eye on this throughout the rest of 2025 and in 2026 as Rubin first comes to the hardware market.
+
+NVDA price 3 days before article release: 157.96376037597656
+
+NVDA price 1 day before article release: 157.22386169433594
+
+NVDA price the day of article release: 159.3135223388672

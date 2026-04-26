@@ -1,0 +1,19 @@
+Nvidia Rocks CES With Grace-Blackwell AI PC Platform
+
+Jan 06, 2025, 11:28pm EST
+
+Among a slew of AI software announcements, Nvidia founder, CEO, and fashion icon Jensen Huang announced a new platform to power AI PCs for AI developers. Many analysts had long expected this move, as the Grace (Arm) CPU coupled with a Blackwell GPU on the same package will challenge PC competitors Intel, AMD, and Qualcomm. But it isn’t a general-purpose AI PC. At least not yet. (Disclosure: Nvidia is a client of my firm, Cambrian-ai Research.)
+Project Digits is a small box available from Nvidia and “Top Partners” starting at $3000. Add a monitor, keyboard, and mouse, or buy from a partner, and you will likely have the fastest and most complete AI development workstation on the market. It delivers a full petaflop of FP4 performance and supports the full breadth of Nvidia AI software, from NEMO to Omniverse.
+Each Project DIGITS (Project is a funny name; probably intended to avoid antagonizing PC partners) features 128GB of unified, coherent memory and up to 4TB of NVMe storage. It runs on standard wall power. With this platform developers can run AI models up to 200-billion-parameters. In addition, using NVIDIA ConnectX networking, two Project DIGITS AI supercomputers can be linked to run up to 405-billion-parameter models. Look Ma! No server!
+With DIGITS,  researchers can prototype, fine-tune and test models on a local workstation running Linux-based NVIDIA DGX OS, and then deploy them  on NVIDIA DGX Cloud, accelerated cloud instances or data center infrastructure.
+Since most developers use Linux, DIGITs supports that OS. This means it isn’t a general-purpose PC, at least not until and if it supports Microsoft Windows. Jensen was specific that this platform is for AI developers, not AI users. Jensen Huang, founder and CEO of Nvidia says the goal is to “Place an AI supercomputer on the desks of every data scientist, AI researcher, and student (that) empowers them to engage and shape the age of AI.”
+Interestingly, MediaTek collaborated with Nvidia on the design of GB10, “contributing to its best-in-class power efficiency, performance and connectivity.” I think that means SoC design expertise. Nvidia and MediaTek had previously announced collaboration on automotive solutions, but the relationship perhaps has grown considerably.
+A superfast AI PC for developers is cool. A superfast AI PC for end users would be huge, challenging the field of PC CPU providers. What must happen to turn “Project” DIGITS into an AI PC powerhouse? Microsoft Windows and PC OEMs like HP, Dell, and Lenovo must support the new SuperChip. Testing and certifying the new Arm-based platform for Windows would be somewhat straightforward now that Qualcomm Snapdragon has brought Arm CPU cores into the Windows mainstream. But this work still takes time. It could be ready by GTC, at least to make an announcement. Doing so would open up an incremental multi-billion dollar market to Nvidia.
+And we haven’t even touched on all the cool software Nvidia announced, nor the fact that Nvidia has just won the Big Kahuna of autonomous vehicles: Toyota. But that is a story for another time.
+Disclosures: This article expresses the opinions of the author and is not to be taken as advice to purchase from or invest in the companies mentioned. My firm, Cambrian-AI Research, is fortunate to have many semiconductor firms as our clients, including BrainChip, Cadence, Cerebras Systems, D-Matrix, Esperanto, Groq, IBM, Intel, Micron, NVIDIA, Qualcomm, Graphcore, SImA.ai, Synopsys, Tenstorrent, Ventana Microsystems, and scores of investors. I have no investment positions in any of the companies mentioned in this article. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 134.2460174560547
+
+NVDA price 1 day before article release: 144.4226837158203
+
+NVDA price the day of article release: 149.38104248046875

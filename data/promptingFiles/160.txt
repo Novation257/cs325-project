@@ -1,0 +1,27 @@
+Nvidia Announces Half Life 2 RTX Demo Release Date And More At GDC
+
+Mar 13, 2025, 09:04am EDT
+
+Nvidia has made a flurry of announcements today at the 2025 Game Developers Conference, including additions to its RTX gaming feature set such as as neural shading technology  and also the official release of a demo of Half Life 2 RTX — a remake of the 20 year old Steam classic that’s been in Open Beta for a while.
+The long-awaited visual revamp of the highly popular Half Life 2 PC game, released on Steam over 20 years ago, will be complete later this month when on March 18 it moves from beta to full release demo. It will be available as a free DLC to anyone that owns the original game.
+It was made possible following the release of Nvidia’s RTX Remix — an open-source platform available in beta till now, that will be allows game modders to remaster older titles by introducing features such as ray tracing, texture analyzing and upscaling and even including new features such as DLSS 4 and Multi Frame Generation. RTX Remix leaving its beta stage today with full availability.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+RTX Direct Illumination (RTXDI) enables the addition of millions of dynamic lights to a game environment without taxing performance or resource constraints. RTXDI allows geometry of any shape to emit light, cast appropriate shadows, and move freely and dynamically.
+The Half Life 2 RTX remake is being developed by Orbifold Studios, which is made up of four of Half Life 2’s top mod teams. Environments included in the game include key scenes in the game such as Ravenholm and Nova Prospekt. To get the demo when it lands, head over to the Steam product page.
+In April this year, Microsoft will be previewing support for neural shading in its DirectX API. Using AI alongside traditional rendering to boost frame rates, enhance image quality, and reduce system resource usage. Shawn Hargreaves, Direct3D Dev Manager at Microsoft had this to say. "Microsoft is adding Cooperative Vectors support to DirectX and HLSL, starting with a preview this April. This will advance the future of graphics programming by enabling neural rendering across the gaming industry. Unlocking Tensor Cores on NVIDIA RTX will allow developers to fully leverage RTX Neural Shading for richer, more immersive experiences on Windows."
+You can read more about the DirectX update coming later in 2025 below.
+Nvidia has also announced that its new Deep Learning Super Sampling model —  DLSS4 — now supports over 100 games and apps. This is up from 75 at the announcement of DLSS 4 and its RTX 50-series graphics cards back in January.
+The company will be revealing more information about DLSS4 and Half Life 2 RTX as well as making further announcements at GDC with a Jensen Huang-led keynote on March 18. You can see Nvidia’s YouTube channel and a link to the keynote here.
+
+NVDA price 3 days before article release: 106.94496154785156
+
+NVDA price 1 day before article release: 115.71273803710938
+
+NVDA price the day of article release: 115.55277252197266

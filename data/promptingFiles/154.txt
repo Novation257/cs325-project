@@ -1,0 +1,17 @@
+The Biggest News From Nvidia GTC 2025
+
+Mar 20, 2025, 11:57am EDT
+
+Nvidia CEO Jensen Huang wowed the audience during his GTC 2025 keynote Tuesday, underscoring how AI and cutting-edge computing continue to reshape industries. Marking the 25th anniversary of GeForce, Nvidia introduced the GeForce 5090 — a GPU that’s 30% smaller and more efficient than its predecessor — setting a new benchmark for gaming and AI workloads. But the real story was about AI's evolution and the hardware enabling it.
+Huang emphasized how AI has moved beyond simple perception tasks into agentic systems that reason, plan and take action. These advancements demand even greater computational power, driving Nvidia's innovations in chip architecture and enterprise AI solutions.
+This advancement is vital, as we are moving quickly toward an era when agents will dominate the AI landscape. Very soon, agents will work behind the scenes to manage just about everything digital in business and personal lives. These are power-hungry AI functions, and Nvidia is driving the backend architectures that make them happen.
+The key to this push is Blackwell, Nvidia’s latest architecture designed to power next-gen AI. Coupled with the Dynamo operating system, Blackwell aims to optimize AI performance across industries, from cloud computing to robotics.
+Nvidia is setting the stage for the next generation of AI computing, unveiling:
+Nvidia's emphasis on energy efficiency and an open-source AI management approach signals a commitment to responsible AI development. To wrap up the event, Huang showcased AI-generated music, offering a glimpse into how AI is being integrated into creative industries.
+As Nvidia continues to push the boundaries of AI and computing, it’s clear that advances in GPUs, robotics and intelligent automation will shape the next era of technology.
+
+NVDA price 3 days before article release: 119.50183868408205
+
+NVDA price 1 day before article release: 117.4923095703125
+
+NVDA price the day of article release: 118.50206756591795

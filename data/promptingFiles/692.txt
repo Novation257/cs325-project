@@ -1,0 +1,16 @@
+Just 100 Chart: Why Nvidia Stands Out For Fair Pay
+
+Dec 05, 2016, 01:57pm EST
+
+According to a survey of more than 50,000 Americans conducted as part of the Just 100 ranking, the public believes that a company's commitment to fair pay* is the most important component of overall justness. California-based chipmaker Nvidia is a particular standout in that respect.
+Using multiple sources of salary estimates, including over 100,000 from H1B visa applications and over 1.2 million crowd-sourced salary reviews provided by our partners at Glassdoor, JUST Capital has created wage estimates for employees at America’s largest companies. These estimates are created by job title and adjusted to account for local cost of living variation across counties in the United States. The estimates are compared by title at each company within an industry to identify the companies that perform the best overall with respect to pay.
+The chart below shows salary estimates at the title level, and in some instances by experience, for Nvidia, the industry leader among Semiconductor companies in the JUST 100 ranking, relative to the industry average across a variety of job titles. According to JUST Capital estimates, Nvidia pays their employees better than the sector average for 21 of the 26 titles reviewed, with particular outperformance for software engineers across all levels of experience.
+
+Nvidia’s leadership in fair pay has paid dividends for the company in the form of low turnover rates which has allowed the company to promote more aggressively within the organization to fill leadership roles.
+* In order to make this comparison, JUST Capital first adjusts nearly 1.2 million self-reported salary reviews from our partners at Glassdoor by a county level cost of living index to reduce regional biases and then compares companies on a head to head basis in the sector by one of 2,500 job titles. JUST Capital’s coverage only extends to 400 companies and is limited by the number of reviews available for each company on Glassdoor’s website.
+
+NVDA price 3 days before article release: 2.270493268966675
+
+NVDA price 1 day before article release: 2.1781461238861084
+
+NVDA price the day of article release: 2.262612819671631

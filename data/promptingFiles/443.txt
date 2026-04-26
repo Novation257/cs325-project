@@ -1,0 +1,25 @@
+Is The New AMD MI300X Better Than The NVIDIA H100?
+
+Jun 13, 2023, 07:13pm EDT
+
+AMD disclosed a few more details on the MI300 GPU, due later this year, with support for 192GB of memory on the MI300X. Here’s what we know.
+In today’s world of ChatGPT, everyone keeps asking if the NVIDIA A100 and H100 GPUs are the only platforms that can deliver the computational and large memory requirements of Large Language Models (LLMs).  And the answer is yes, at least for now. But AMD intends to change that later this year with a new GPU, the MI300x.  CEO Lisa Su was visibly excited to announce a few more details on her company’s upcoming data center GPU  at a data center event today.
+Dr. Su announced a version of the CPU/GPU APU MI300, teased at CES earlier this year,  that replaces 3 EPYC compute dies with two more GPU dies, adding more compute and HBM memory capacity. The MI300X will be the flagship AMD offering for large AI, so this is a very big deal for the company and its investors.
+It will be available in single accelerators as well as on an 8-GPU OCP-compliant board, called the Instinct Platform, similar to the NVIDIA HGX. However it will use the Infinity Fabric to connect the GPUs, and will run the ROCm AI software stack.
+Let’s do a sanity check on AMD”s ambitions.  First, I must say that the MI300 is an amazing chip, a tour de force of applying chiplet technology. I see why Dr. Su says she loves it!  But it will face a few challenges when compared to the NVIDIA H100.
+First and foremost, the NVIDIA H100 is shipping in full volume today. In fact, NVIDIA can sell all that TSMC can make and then some. And NVIDIA has, by far, the largest ecosystem of software and researchers in the AI industry.
+Secondly, while the new high-density HBM chiplets offer 192GB of very much needed memory,  I suspect that NVIDIA will offer the same memory, probably in the same time frame or perhaps even earlier.  So that will not be an advantage. We point out that this new higher-density version of HBM3 will be pricey; here’s an analysis by Dylan Patel of Semianalysis that indicates AMD will not have a significant cost advantage versus an NVIDIA H100.
+Third, and this is the real kicker, the MI300 does not have a transformer engine like the H100, which can triple performance for the popular LLM AI models. If it takes thousands of GPUs a year to train a new model, I doubt that anyone will say its ok to wait 2-3 more years to get their model to market, or throw 3 times as many GPUs at the problem.
+Finally, AMD has yet to disclose any benchmarks. And that’s ok; it has not yet been launched!  But performance when training and running LLMs depends as much on the system design as the GPU, so we look forward to being able to see some real apple to apple comparisons later this year.
+Certainly not! It will probably become the preferred second choice to NVIDIA Hopper, at least until Hopper’s replacement (the 3 nm Blackwell) is available. NVIDIA has implied Blackwell will launch next Spring at GTC, and probably will ship late 2024 or early 2025.
+But companies like OpenAI and Microsoft need to have an alternative to NVIDIA, and we suspect that AMD will give them an offer they can’t refuse. But don’t expect it to take a lot of share from NVIDIA.
+AMD is justified in its excitement about having a competitive GPU to compete in the skyrocketing AI market. And the MI300X looks to be a solid contender. But let’s not get carried away!
+Disclosures: This article expresses the opinions of the author(s), and is not to be taken as advice to purchase from nor invest in the companies mentioned. Cambrian AI Research is fortunate to have many, if not most, semiconductor firms as our clients, including Blaize, Cadence Design, Cerebras, D-Matrix, Eliyan, Esperanto, FuriosaAI, Graphcore, GML, IBM, Intel, Mythic, NVIDIA, Qualcomm Technologies, Si-Five, SiMa.ai, Synopsys, and Tenstorrent. We have no investment positions in any of the companies mentioned in this article and do not plan to initiate any in the near future. For more information, please visit our website at https://cambrian-AI.com.
+
+
+
+NVDA price 3 days before article release: 38.47991561889648
+
+NVDA price 1 day before article release: 39.45116424560547
+
+NVDA price the day of article release: 40.98995590209961

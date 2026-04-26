@@ -1,0 +1,25 @@
+NVIDIA GPU Cloud: It's Not What You May Think It Is
+
+May 11, 2017, 11:00am EDT
+
+NVIDIA
+ made a slew of important announcements at its annual GPU conference today, including new hardware, new software and a new design win (Toyota) for self-driving cars. I will cover these announcements in a separate article. But one announcement in particular has created some confusion that I’d like to help clear up, and that’s the “NVIDIA GPU Cloud”. While the name is intuitive to some, it could lead one to believe that NVIDIA is entering the Cloud Infrastructure-as-a-Service business with its GPUs, directly competing with NVIDIA’s customers such as 
+Amazon
+ Web Services, 
+Microsoft
+ Azure and 
+Google
+ Cloud Engine. Nothing could be further from the company’s intent.
+What is the NVIDIA GPU Cloud?
+Provisioning the hardware and software needed to develop and deploy machine learning neural networks and applications can be an arduous task, requiring hundreds of pages of arcane documentation. Data scientists need to focus their time and effort on machine learning, not software and hardware installation, configuration, optimization, deployment, version reconciliation and systems admin. That’s the challenge NVIDIA software architect Phil Rogers set out to address with this offering. During CEO Jensen Huang’s keynote address, Rogers demonstrated a simple but powerful interface to an audience of over 8,000. He used drop down menus to select the desired framework (TensorFlow, Caffe2, Theano, MXNet, Microsoft Cognitive Toolkit, PyTorch, etc.); specify the version of the framework and libraries you want; and then specify the type and number of GPU instances you want to provision. The hardware, initially, will be your own on-prem hardware, hardware in the Amazon AWS or Microsoft Azure cloud infrastructure (the little “CSP’s” cloud in the illustration) or NVIDIA’s Saturn V supercomputer. The latter is intended only for select, approved researchers requiring the scope of the Saturn V, the 28th fastest and the most power-efficient supercomputer in the world. Since none of the cloud partners has such a massive supercomputer, this in no way competes with them. In fact, the primary use case for Saturn V through this facility will be for NVIDIA engineers and scientists for internal development and research.
+This initiative, which probably could have been better named something like the “NVIDIA Deep Learning Portal”, will actually set NVIDIA up as a channel and demand aggregator for these partners' cloud services, not compete with them. The tool will provision the latest tested versions of AI software stack and development frameworks and then will deploy these software containers on hardware infrastructure provided by the NVIDIA’s partners, initially on Amazon Web Services and the Microsoft Azure Cloud.
+Through this new program, NVIDIA will basically manage a cloud registry and repository of the latest 3 versions of tested applications, optimized libraries and frameworks, which are continually evolving through the open source community. In fact, NVIDIA regularly optimizes these frameworks and then offers these improvements back to the open source community for inclusion upstream. The software is put in an NVDocker container, which is then deployed on the user’s hardware of choice. Think of this as the next generation of CUDA and CuDNN, now expanded to the complete set of Machine Learning software and integrated with container provisioning.
+I hope this helps clear up some of the confusion and misunderstandings I have seen on TV and in the media. This program was extremely well received by NVIDIA customers at the event. I should point out that both Amazon AWS and Microsoft Azure executives committed on stage with Jensen Huang that they will offer the new NVIDIA Volta GPUs on their cloud properties in the near future. They certainly aren’t confused.
+--
+Disclosure: Moor Insights & Strategy, like all research and analyst firms, provides or has provided research, analysis, advising and/or consulting to many high-tech companies in the industry, including Microsoft and NVIDIA. The author does not have any investment positions in the companies named in this article.
+
+NVDA price 3 days before article release: 2.533980369567871
+
+NVDA price 1 day before article release: 2.9906249046325684
+
+NVDA price the day of article release: 3.119086980819702

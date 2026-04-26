@@ -1,0 +1,16 @@
+Nvidia RTX 4050 Rumored For June Launch
+
+Mar 31, 2023, 07:47pm EDT
+
+The RTX 4070 is expected to launch in April and the latest rumors also point at the RTX 4060 and 4060 Ti launching a month later in May. However, what could be the final RTX 40-series launch - the RTX 4050 - could happen a month later in June.
+Videocardz stumbled upon a post by Twitter user @zed_wang supposedly with information about 4050 and 4060-series GPUs. Currently, the cheapest RTX 40-series card is the RTX 4070 Ti, which has a launch price of $799. The RTX 4070 is predicted to hit shelves at $599, but the RTX 4050 would be significantly cheaper given that at least one other graphics card - either an RTX 4060 Ti or RTX 4060 or both will sit between it and an expected RTX 4050.
+The post suggests the RTX 4060 will launch in May as other rumors have suggested, while the RTX 4050 could launch in June. Such a tight launch schedule wouldn't fit Nvidia's activity this year, though, with the RTX 4070 Ti reviews having landed just after New Years and the RTX 4070 predicted to launch in early April.
+Still, Nvidia could be looking to capitalize on AMD's absence in the mid-range market with RX 7000-series cards, with its RX 7900 XT trading blows with the pricier RTX 4070 Ti. The RTX 4050 is a much talked-about graphics card, given how Nvidia has re-spun the RTX 2060 and the apparent high prices and low value of many models out there, especially at the low end.
+Maybe we were spoiled with the likes of the GTX 1650, which sits atop of Steam's Hardware Survey as the most popular discrete GPU, but there are some concerns over the RTX 4050's specifications too. Firstly, it's rumored to have just 6GB of VRAM, which is no more than the aging RTX 2060. This could be an issue in modern games, many of which require more than this to run smoothly or to make use of HD textures.
+Even at 1080p, having at least 8GB of VRAM can be beneficial and less than this a disadvantage in modern games. It's possible Nvidia is banking on RTX 40-series features such as better ray tracing performance, frame generation and DLSS 3 to increase frame rates and boost interest here and there's certainly a good reason to be excited about these features coming to cheaper graphics cards. However, the tech savvy out there will be right to be concerned about the baseline memory for Nvidia's cheapest RTX 40-series card being just 6GB as opposed to 8GB. Only time will tell if this is true and what impact it has.
+
+NVDA price 3 days before article release: 26.38664436340332
+
+NVDA price 1 day before article release: 27.35877799987793
+
+NVDA price the day of article release: 27.75243377685547

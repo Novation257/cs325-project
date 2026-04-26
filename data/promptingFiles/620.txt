@@ -1,0 +1,37 @@
+Nvidia GTX 1650 Versus AMD RX 570: What's The Best Budget Graphics Card?
+
+May 09, 2019, 07:49am EDT
+
+If you're gaming on a budget and have around $150 to spend on a graphics card, all eyes are currently on Nvidia's newly released GeForce GTX 1650 and 
+AMD's
+ Radeon RX 570. It's old versus new with Nvidia's Turing-based GPU facing up against AMD's Polaris-based Radeon card, which amazingly is now two years old. However, that's allowed the latter to fall in price to the extent you don't have to look too hard to find it for less than $140. Nvidia's new kid on the block, though, sits at $150 for the cheapest card I could find. So, the question is, which one should you by?
+To find out I've pitched both cards against each other using the latest drivers and I apologize for the lateness here - Nvidia, in its infinite wisdom, decided to hold back the release driver for the GTX 1650 till launch day, so instead of being able to test the card beforehand, myself any every other reviewer out there had to rehash their schedules and simply attempt to get a review done as soon as possible. Better late than never.
+As you can see above, the GTX 1650 is a tiny card and measures just 151mm long - perfect if you're building a tiny PC, but it might look a little odd in a standard ATX case. However, another benefit that will please small system owners is that this GTX 1650 at least doesn't require a separate power connector - Nvidia's new card is so efficient that it gets all the juice it needs from the PCI Express slot. That's nothing new, but it's in stark contrast to to the 8-pin power connector on the RX 570.
+Test system
+My test system includes an 
+Intel
+ Core i9-7900X, 32GB Corsair Vengeance RGB Pro 3,200MHz memory, an Asus ROG Strix X299 Gaming motherboard, a 500GB Samsung 960 Pro SSD, NZXT Kraken X42 cooler and Corsair RM850i PSU. I'm also using a fully up-to-date install of Windows 10 with all security patches including those for Spectre and Meltdown vulnerabilities. I've used Zotac's GeForce GTX 1650 OC along with Gigabyte's Radeon RX 570 Gaming 4G to represent each model and thrown in a few comparison numbers from more expensive cards too.
+Shadow of the Tomb Raider benchmark
+There's not much to choose between red and green teams here as the RX 570 has a 3fps lead in the average frame rate at 1080p - not something you'd notice on screen, which both cards manage a respectable 35fps minimum frame rate. Rising to 1440p, neither card is particularly happy, but the GTx 1650 had a higher minimum frame rate while the RX 570 had a higher average frame rate, pointing at one or two scenes causing issues for the AMD card. At 1080p, though, it's a win for AMD.
+Forza Horizon 4 benchmark
+AMD's minimum frame rate seems to have taken a hit in Forza too as the average was much higher than the Nvidia card - so much so that despite a 3fps deficit on the former, the bigger advantage in average frame rate means it's a win for AMD here overall. Things were more settled at 1440, with a clear win for the RX 570, although not by massive margins.
+Far Cry 5 benchmark
+It was a similar story in Far Cry 5, with the RX 570 just ahead at both 1080p and 1440p, and both cards offering smooth frame rates, even at the higher resolution. Again, though, AMD just pips Nvidia to the post.
+The Division 2 benchmark
+The Division 2 clearly leans towards AMD and it's a very clear win for the RX 570 here, with big leads in both minimum and average frame rates at 1080p and a similar story at 1440p, where the minimum frame rate was 17% higher.
+World of tanks benchmark
+This aging but still popular game is a good example of something that pro gamers will be hitting up on their high refresh rate monitors so while it's an old title, World of tanks has not only received a graphics overhaul, but is a good indicator of which cards you'll want to consider if you need frame rates in excess of 60fps. Here, the GTX 1650 was again the slower of the two cards at 1440p, but at 1080p the average frame rate was higher than the AMD card.
+VRMark
+It's a win for AMD in VRMark's Orange Room benchmark too with another sizable lead over the GTX 1650. If you want to try your own system in the same test, you can download the VRMark demo for free on Steam.
+Thankfully, there is one area that Nvidia is totally dominant and that's power efficiency, with a tiny load draw compared to the RX 570. Clearly, for a small, quiet, low-power PC the GTX 1650 is a superb choice if those features are your priority, but as we've found, it's not stacking up well against the cheaper RX 570 elsewhere.
+Overclocking tests
+I managed to increase the boost frequency from 1,695MHz to 1,775MHZ and memory speed from 8Gbps to 8.3Gbps by upping the power and thermal limits in MSI Afterburner and this did add some extra performance. In Far Cry 5 at 1440p, the GTX 1650 matched the RX 570, albeit with one frame difference, while at 1080p it managed to leapfrog the AMD card but again, only by very small amounts. Of course, if you overclock the RX 570, then it will likely claw back its lead.
+Conclusion
+We can't deny that the GTX 1650, especially this tiny Zotac card, is a tempting choice for a super-small and power-efficient gaming PC, but when it comes to value and bang for your buck, AMD's RX 570 is the clear choice overall. There are one or two instances of the GTX 1650 offering higher frame rates, but they're often small and few and far between too.
+As a result, if you're in the market for a sub $150 card for 1080p gaming, the RX 570 is definitely the one to go for and only if Nvidia cuts prices significantly for its new budget Turing card will it be worth buying over the RX 570. I'd like to thank Zotac for providing my sample of the GTX 1650.
+
+NVDA price 3 days before article release: 4.463195323944092
+
+NVDA price 1 day before article release: 4.316033840179443
+
+NVDA price the day of article release: 4.223469257354736

@@ -1,0 +1,20 @@
+Tesla, AMD And Nvidia Show Higher Volatility Than Bitcoin In October 2024
+
+Nov 02, 2024, 04:25am EDT
+
+Tesla stock topped the volatility charts at 24%, followed by AMD at 16% and Nvidia at 12%, all surpassing bitcoin's 11% movement range, according to my calculations.
+Other tech giants showed lower volatility than bitcoin. Intel registered 9% price swings, while Meta and Microsoft stayed around 8%. Amazon showed 7% volatility, with Google at 6%. Apple proved the most stable among analyzed stocks with just under 6% monthly volatility.
+This volatility distribution suggests the conventional financial narrative may need updating, as the data no longer supports the assumption that bitcoin is significantly more volatile than blue-chip tech stocks. Notably, Tesla's 24% volatility more than doubled bitcoin's 11% movement range in October 2024.
+Looking at maximum daily price movements, Tesla recorded the highest single-day gain at +21.92% and AMD showed the steepest drop at -10.62%, both far exceeding bitcoin's relatively modest range of +5.11% to -3.95%. Most tech stocks showed asymmetric movements with larger drops than gains, while Tesla stood out with its gain being more than twice its largest decline of -8.78%.
+Methodology: To test bitcoin's volatility against traditional markets, I analyzed major tech stocks with high trading volumes and media attention. I measured price swings using daily logarithmic returns in October 2024, computing their standard deviation as monthly volatility percentage. All price data was sourced from Investing.com.
+The October data showing bitcoin as more stable than some major tech stocks extends its long-term trend toward price stability. This shift can be attributed to several key market factors.
+"What we're witnessing now is bitcoin maturing as an asset, with large, stable holders and significant institutional buy-in," Mike Ermolaev, founder of Outset PR, said in an email statement. "While bitcoin isn't immune to market forces, the volatility gap between it and high-growth tech stocks is telling: bitcoin is increasingly behaving like a less speculative asset," Ermolaev explained, pointing to bitcoin ETF inflows as evidence of institutional confidence in the cryptocurrency's stability.
+"There is more overlap in equity and crypto traders than most realize, and that brings more similar volatility," said Mike Cagney, CEO of Figure Markets in an email statement. "As we begin to migrate to venues that feature both equity and crypto that can be cross collateralized, the two will be more correlated," he added, pointing to the increasing market integration through platforms offering cross-collateralization between both asset types.
+"Bitcoin's unexpected stability in October might signal its emerging role as a modern safe-haven asset," Alan Orwick, Co-Founder at Quai Network, said in an email statement. "It might just be time to question where the real value lies in an inflationary future," Orwick noted, referencing an investor Paul Tudor Jones's recent suggestion that "all roads lead to inflation" due to the U.S.'s fiscal trajectory.
+"It's part of what makes emerging asset classes like crypto, and even stocks like Tesla, AMD, and Nvidia, so dynamic," Dr. Tonya M. Evans, Digital Money Expert at Penn State Dickinson Law, said in an email statement. "Just as traditional finance markets settled over time, bitcoin will likely follow suit as adoption continues to grow and expand," Evans noted, suggesting that volatility should be seen as "a sign of new opportunities in an evolving financial landscape for both traditional finance and emerging digital assets markets."
+
+NVDA price 3 days before article release: 141.19400024414062
+
+NVDA price 1 day before article release: 132.70738220214844
+
+NVDA price the day of article release: 135.34632873535156

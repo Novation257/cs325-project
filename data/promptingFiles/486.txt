@@ -1,0 +1,18 @@
+With MLPerf, NVIDIA Wins, AGAIN!
+
+Nov 09, 2022, 01:00pm EST
+
+While the new H100 GPU shows off its Transformer Engine in MLPerf,  Intel advances with Gaudi-2 accelerator, and MosaicML shows A100 results nearly as good as H100 with their software.
+Every six months, MLCommons orchestrates and publishes on mlcommons.org over one hundred submissions of results for AI training and inference covering the majority of use cases for AI. While many in this group of 60 companies work hard to provide an open measurement of their platforms performance, most companies defer to NVIDIA and do not publish any results. (Don’t get me started.) In fact, in this round, neither Google nor Graphcore provided any new results, while AMD, AWS and Cerebras were among the field of no-shows again.
+In the latest round, NVIDIA regains its leadership, lost last time to Google, with the new Hopper GPU, with up to 2.4X the performance of Intel Habana and 2.6X A100. The H100’s Transformer Engine saved NVIDIA’s bacon, as Intel Habana Gaudi 2 is in the same ballpark as the NVIDIA H100 running the Resnet-50 benchmark. However, the Transformer Engine is not a one-trick silicon pony; the engine, which modulates the precision of calculations in real-time to deliver performance and accuracy,  can be used in a wide variety of AI and HPC workloads.  More to come!
+Let’s look at the Intel Habana results. What I find interesting here is that the results do not require any optimizations; they are running the standard models right out of the box. (Yes, AWS claims the same for Trainium, but ....  no benchmarks = no coverage.) Now, I asked Habana about running the other models in the MLPerf suite, something that NVIDIA is justly proud of, and they smiled as if to say, “hold my beer”.  Adding Python support is a big deal, and should help Habana get more traction.
+But Intel has a long way to go to even come close to competing with NVIDIA on the software front. Yes, they have made progress with One API, but NVIDIA has nine different vertical and use cases in their software stack, as well as Enterprise AI and Omniverse,  to accelerate deployment and speed time to value for their customers. Having a fast platform is necessary, but insufficient;  customers want to get their models up and running quickly, not just fast.
+Finally, I note that MosaicML, the startup founded by Naveen Rao, once again ran benchmarks in the open division, and demonstrated excellent results. The cool thing here is that the results, nearly the same as NVIDIA H100 when run on A100, requires no optimization on the part of the user.  Just add an “-o1” to the command line and POOF! you get the speedup!
+NVIDIA H100 looks to deliver on its promises of speeding up transformers, although not the 6X performance improvement they touted at Hopper launch. Still 2.6X improvement is nothing to sneeze at, and of course one should expect NVIDIA to continue to refine the models for Transformer Engine optimization.
+But once again, we see that NVIDIA’s prowess in hardware and software scares the rest of the field away from publishing these benchmarks. You got to believe that everyone runs them, but they do not share. Now, Groq has told me they are not focussed on these models, concentrating on the workloads that they believe fly under NVIDIA’s radar.  I’m looking into that claim, and will post my research soon, but I still believe that there is value to customers to run MLCommons and publish the results. But don’t hold your breath.
+
+NVDA price 3 days before article release: 14.137460708618164
+
+NVDA price 1 day before article release: 14.582877159118652
+
+NVDA price the day of article release: 13.757960319519045

@@ -1,0 +1,22 @@
+Nvidia Contributes Blackwell And Ethernet Tech To Meta’s Open Compute
+
+Oct 15, 2024, 12:30pm EDT
+
+Many think of Nvidia as a closed ecosystem. But as AI transitions from fast chips to address a full-system challenge, Nvidia is helping drive an open industry.
+Yes, CUDA is closed. Nvidia says it has to be closed in order to develolp an optimized software abstraction for new hardware. But systems and networking are becoming the new bottlenecks, and Nvidia is contributing its tech to the Open Compute Program to help the community solve the next set of bottlenecks that are driving cost and energy inefficiencies.  Let’s take a look:
+Nvidia has delivered the first Blackwell systems to Meta and Microsoft, the first of what will become an avalanche of new AI hardware. So it should not surprise anyone that much of this year’s Open Compute Program summit in the Bay Area will embrace the new GPU and the accompanying networking that unlock its potential.
+Nvidia has long been a contributor, and benefactor, of the OCP, which Facebook started over 10 years ago, providing reference designs for GPU boards such as the HGX-H100 Baseboard which is now used in the majority of AI installations.
+Nvidia used the OCP event to tout Blackwell and networking. NVSwitch and NVLink are perhaps, along with Nvidia software, the company’s most significant differentiators. To refresh everyone’s memory, NVSwitch connects 72 GPU’s into a GPU fabric, so the software and AI models just see one massive GPU. This helps improve performance, and simplifies the job for AI developers.
+To enable consumers and their preferred system OEMs (Supermicro, Dell, HPE, Lenovo, etc.)  to deliver an NVL72 DGX class system, Nvidia has open sourced the NVL72 rack, the MGX compute tray, and the Nvidia Switch tray.  This will be a huge contribution for OEMs, as the NVL72 rack would be difficult if not impossible to replicate. It includes 5000 copper wires, consumes 120 KW of power at 1400 amps, switches with telemtry for congestion control and can support models up to 27 Trillion parameters.
+In an excellent example of open systems dynamics at work, Meta took the NVL72 specifications Nvidia has contributed, and modified it for their specific data center requirements, and then contributed the result, called Catalina, back to the community to use. Cool!
+When people refer to the Nvidia Ecosystem, it is hard to fully comprehend how extensive that community has become. In addition to the millions of developers, scientists and research institutions that are part of that ecosystem, scores of OEMs, ODMs, and data center infrastructure providers use and sell Nvidia hardware and software to power the AI revolution.  Oh, and Graphics.  That too ;=).
+Oh, yeah: Blackwell is now in full production.  That means 250,000-300,000 unit in the fourth quarter, and $5 billion to $10 billion in revenue and some 750,000 to 800,000 units in Q1. And Nvidia is expecting to sell DGX B200  8-way servers for a half million a piece.
+‘nuff said.
+Disclosures: This article expresses the author's opinions and
+should not be taken as advice to purchase from or invest in the companies mentioned. Cambrian-AI Research is fortunate to have many, if not most, semiconductor firms as our clients, including Blaize, BrainChip, Cadence Design, Cerebras, D-Matrix, Eliyan, Esperanto, Flex, GML, Groq, IBM, Intel, Micron, NVIDIA, Qualcomm Technologies, Si-Five, SiMa.ai, Synopsys, Ventana Microsystems, Tenstorrent and scores of investment clients. We have no investment positions in any of the companies mentioned in this article and do not plan to initiate any in the near future. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 134.75656127929688
+
+NVDA price 1 day before article release: 138.01527404785156
+
+NVDA price the day of article release: 131.54783630371094

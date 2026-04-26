@@ -1,0 +1,30 @@
+Google Cloud Doubles Down On NVIDIA GPUs For Inference
+
+May 09, 2019, 11:31am EDT
+
+Ever since 
+Google
+ announced its own chip to accelerate Deep Learning training and inference, known as the TensorFlow Processing Unit (TPU), many industry observers have wondered whether such custom chips could significantly impact 
+NVIDIA
+. Certainly, if Google should decide to minimize support for NVIDIA GPUs in its cloud, it would signal that it has developed a competitive accelerator. I think it is safe to assume internal and cloud use of TPUs will impact NVIDIA to some extent, but Google recently announced that it has expanded its offering of NVIDIA’s latest GPU, the Turing-based T4, for global availability on the Google Cloud. My takeaway from this is that Google’s customers must be expressing a preference for a cost-effective GPU for training and inference.
+The market for AI inference processing, in which a trained neural network is used to “infer” or predict properties of new input data, has garnered tremendous attention as the next big opportunity for specialized semiconductors. NVIDIA estimates that 80-90% of the cost of neural networks lies in inference processing. Many wonder how NVIDIA will fare as the inference market eventually overtakes training. Let’s take a look at the implications of Google’s expansion of support for T4 and what that could mean for NVIDIA’s future.
+Background
+As most of my readers know, NVIDIA is the 800-pound gorilla in AI acceleration. Its success, and some $3B in annual revenue, primarily comes from training deep neural networks, a monstrously massive processing task that requires trillions of floating-point calculations. Inference processing, on the other hand, while still a big compute job, requires orders of magnitude less processing. It can even be handled with far more efficient integer math, using 8 or fewer bits of precision.
+Most inference processing today is executed on 
+Intel
+ Xeon processors in public clouds. However, there are dozens of startups building chips to take on more complex inference workloads as more difficult cognitive tasks emerge that require multiple neural networks working in tandem. Even Intel acknowledges inference acceleration as an emerging trend and has added a Nervana-based inference chip to its roadmap to compete in this area.
+There are two questions at hand here: 1) does the industry need accelerators in addition to fast CPUs for inference processing and, if so, 2) can a general-purpose GPU like NVIDIA compete here versus a custom application specific processor, or ASIC, such as Google TPU, Intel Nervana, or one of the dozens of startup offerings? The implications for NVIDIA are huge, since the inference market, which covers everything from data centers to drones, is expected to overtake training revenue over the next decade.
+What did Google announce and what are the implications?
+Earlier this year, Google was the first cloud platform to support the T4 in its North American Google Cloud Platform (GCP) domain to provide inference processing as a service. Now Google has broadened its support for NVIDIA T4 across all regions of GCP.
+This move suggests that the answers to the two questions raised above are “yes” and “yes.” Clearly, there is a global demand for GPUs for the T4. This is due to the wide range of applications that can use the T4 (all AI frameworks, all deep learning models, Machine Learning algorithms, training, inference, 3D graphics, and more). The T4 is a real workhorse product at an attractive price point—as low as $0.29 per hour per GPU on GCP. This is over 75% less than an NVIDIA V100, which is priced at $1.24 for preemptable access.
+Conclusions
+NVIDIA continues to exert its marketing and technical resources to expand from data center training into the inference market, and Google is smart to serve up what its customers want: fast, affordable inference processing. For those who believe that CPUs are adequate for inference processing, NVIDIA points to services such as Snap’s monetization algorithm and Microsoft Bing’s conversational and image search services—all which run on NVIDIA GPUs. As AI becomes more pervasive we will see new applications and services that combine multiple neural networks to provide an intuitive user interface, and these services will run on accelerators.
+NVIDIA still has a lot of work to do to demonstrate the advantages of GPUs in inference processing in the data center, but even Google, the inventor of the TPU, sees the value and market demand for inference GPUs.
+Disclosure: Moor Insights & Strategy, like all research and analyst firms, provides or has provided research, analysis, advising and/or consulting to many high-tech companies in the industry mentioned in this article, including Google, NVIDIA, and Intel.
+
+
+NVDA price 3 days before article release: 4.463195323944092
+
+NVDA price 1 day before article release: 4.316033840179443
+
+NVDA price the day of article release: 4.223469257354736

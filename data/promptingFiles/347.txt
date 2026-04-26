@@ -1,0 +1,48 @@
+Nvidia Stock Tops $1,000 As Blackwell Could Aid Tenfold Rise By 2026
+
+May 25, 2024, 02:51pm EDT
+
+About a year ago, Nvidia released an earnings report that captured the attention of investors around the world. Since then, the chip design giant’s stock has soared 248%.
+On May 23, Nvidia realized my April prediction in a Forbes post — a strong quarterly earnings report could propel the company’s stock price past $1,000 a share.
+Nvidia — which contracts out chip manufacturing — not only beat expectations and raised guidance. The company also announced a 10-for-1 stock split, bought back billions of dollars’ worth of stock, and considerably boosted its dividend.
+When the split sends Nvidia’s stock price down to around $100 a share, I expect the company could sustain the high growth that sent its stock price soaring for years to come.
+Here are three reasons its shares could again top $1,000 post-split:
+
+
+Nvidia faced an exceptionally high growth hurdle as the anniversary of its mind-blowing earnings report released in May 2023 neared. That announcement, which covered Q1 of the company's 2024 fiscal year, featured a 54% better-than-expected growth forecast.
+Below are the key investor expectations for Nvidia in the most recent quarter ending April 28, 2024 (Q1 of fiscal year 2025) and how much the company beat those ambitious targets.
+
+
+Nvidia also decided to take a bow for investors such as Warren Buffett who like stock buybacks and dividends.
+To that end, the chip designer announced a 10-for-1 stock split effective June 7, bought back $7.7 billion of the company’s shares, and more than doubled its per-share dividend from four cents to 10 cents based on the current share count, noted the Wall Street Journal.
+“We are fundamentally changing how computing works and what computers can do,” Nvidia CEO Jensen Huang said in a conference call with analysts. “The next industrial revolution has begun.”
+The most important question a CEO must answer is: Whither future growth? In my book, Disciplined Growth Strategies, I described a canvas on which leaders can paint their future growth trajectories. This canvas consists of five dimensions of growth — new or current customer groups, products, geographies, capabilities, and culture.
+In high-tech markets, business leaders must place the right bets on future growth opportunities before their rivals beat them to the punch. Since technology product life cycles are short and rivals are quick to copy innovations, such bets are vital for sustaining rapid growth.
+For Nvidia, the key dimensions of growth are customer group and product. Here are the company’s key bets on each dimension:
+
+
+Under Huang’s leadership, Nvidia’s share of the AI chip industry has reached somewhere between 80% and 95%, I wrote in a February 2024 article on Forbes.
+Signs of Nvidia’s market power include:
+
+
+The biggest risk to Nvidia’s continuing stock market rise is the company’s dependence on Huang — who at some point will no longer be the company’s CEO.
+As I described in my forthcoming book, Brain Rush, Huang is the rare CEO — accounting for fewer than 0.4% of founders who can turn an idea into a public company worth billions (or in Nvidia’s case, trillions) of dollars.
+He has done a great job in five of the six key leadership tasks that distinguish such leaders:
+
+
+The final leadership task is preparing the next CEO. Is Huang developing a successor who could do the CEO job as well or better than he is doing it now? An opinion column in TechNewsWorld argued Huang would keep serving as CEO for a decade and gradually replace himself with “digital Jensen Huangs.” I can’t help but wonder whether this is a joke.
+Nvidia officially considers succession planning to be important. For example, it operates a management development and exposure program involving more than “60 senior managers working directly with the CEO to execute corporate strategies,” according to the company’s 2024 annual report. Nvidia also offers executive development programs including “ training courses, mentoring, peer coaching, and ongoing feedback.”
+In the year since Nvidia’s boffo Q1 FY 2024 report released in May 2023, the company’s stock has risen 248%.
+Nvidia stock — after splitting 10-for-1 early in June — could rise from $100 to $1,000 by 2026. This optimistic scenario assumes Nvidia keeps beating growth expectations and raising its forecasts — resulting in a 248% annual increase in the company’s stock price over the next two years.
+Optimism is certainly justified, according to one analyst. “I say it's the most important company in the world, as far as innovation,” Jim Roppel, founder of The Roppel Report, told Investor’s Business Daily.
+“Nvidia has managed to leapfrog from one tech trend to another, beginning with video games, then moving to things like automotive applications and now generative AI,” he added.
+Generative AI’s productivity benefits could crimp inflation — sustaining strong demand for Nvidia’s products. “The major innovation cycle is healthy and thriving,” he told IBD. “I really think this golden goose is ripping. The golden goose is working overtime here.”
+Another analyst is less sanguine. Nvidia stock could drop unless it beats expectations by at least $1.5 billion in future quarters, according to a May 20 client note by Susquehanna analyst Christopher Rolland that appeared in a Journal report.
+Another risk to investors is: “Moves from competitors—including in-house chip efforts at its own largest customers,” the Journal noted.
+Someday the Nvidia bears will be right. That day could be a decade away.
+
+NVDA price 3 days before article release: 95.33220672607422
+
+NVDA price 1 day before article release: 103.7404556274414
+
+NVDA price the day of article release: 106.40895080566406

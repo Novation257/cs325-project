@@ -1,0 +1,22 @@
+Nvidia's ShadowPlay Becomes Killer App With Introduction Of Twitch Streaming
+
+Dec 17, 2013, 04:13pm EST
+
+Twitch is becoming ubiquitous in the video game space (how long until we'll be streaming Infinity Blade 3 from our iPhones?), and today it lands on Shadowplay, effectively elevating 
+Nvidia's
+ Game DVR feature from useful to essential.
+Bundled with Nvidia's GeForce Experience software, ShadowPlay is a game DVR feature not unlike Xbox One's. Once toggled, gamers can automatically record the last 1 to 20 minutes of gameplay with a quick keystroke, or manually record unlimited footage. For all intents and purposes, ShadowPlay erases the need for external capture hardware and cumbersome software like FRAPS.
+The next logical evolution for Shadowplay was the integration of Twitch, a livestreaming service which has exploded with popularity thanks to events like Extra Life, e-Sports, and its inclusion on 
+Sony's
+ PlayStation 4 console. The feature is now in Beta via GeForce Experience 1.8.1.
+The biggest advantage to using ShadowPlay over something like FRAPS -- besides its "always on" nature -- is the minimal impact recording has on your gameplay. This is thanks to the built-in H.264 encoder on Nvidia's Kepler-based GPUs (GTX 600 and GTX 700 series cards). Nvidia says those benefits are passed on to Twitch streamers as well. In fact, gamers with a 3.5Mbps upload pipe can stream in High quality with no cap to in-game framerates.
+A prior ShadowPlay update added the ability to record both in-game and voice chat audio, meaning Twitch users can now broadcast their gameplay and commentary using only ShadowPlay. One of my concerns was that ShadowPlay wouldn't support webcams; putting a face to the game is crucial to building community on Twitch. Thankfully, Alt+F6 activates your webcam and options exist for adjusting the size of the overlay, meaning you're that much less reliant on software like OBS or XSplit.
+"Broadcasting to Twitch has become an integral part of the gaming experience,” said Brooke Van Dusen, Director of Business Development, Twitch. “We're extremely excited to work with NVIDIA to make Twitch live streaming available to GeForce Experience users. ShadowPlay is revolutionary, providing high quality streams with almost no noticeable performance impact for our users.”
+Further contributing to Twitch's popularity will be features like this, negating the learning curve and enabling gamers of all types to jump into the livestreaming pool.
+Continue the conversation by following me on Twitter, or joining me on Facebook.
+
+NVDA price 3 days before article release: 0.3561651408672333
+
+NVDA price 1 day before article release: 0.3545151650905609
+
+NVDA price the day of article release: 0.3561651408672333

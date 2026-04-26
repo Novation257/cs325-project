@@ -1,0 +1,17 @@
+Nvidia GeForce RTX 5070 Ti: Everything We Know So Far
+
+Feb 11, 2025, 11:21am EST
+
+The rumors are flying around Nvidia’s next anticipated graphics card, the GeForce RTX 5070 Ti, with information pointing at a potential release date as well as performance compared to other graphics cards, including AMD’s highly anticipated Radeon RX 9070 XT. So far Nvidia has revealed the basic specifications of the card as well as its anticipated launch price and that it will be released this month. Here’s everything we know so far about the GeForce RTX 5070 Ti
+Nvidia’s revealed the price of the RTX 5070 Ti at its CES announcement in Las Vegas. It was good news too with the card to retail for $749. This is a lower launch price than the RTX 4070 Ti by $50, which was released two years ago. This also equates to $150 less than the RTX 5080 at $999. However, it should be noted that the cheapest RTX 5080 found when this article was published was closer to $1,300, partly due to widely-reported shortages that are affecting both it and the RTX 5090.
+Sadly we still don’t know how much AMD’s Radeon RX 9070 XT will cost.  The price also sits between AMD’s Radeon RX 7900 XT and 7900 XTX, both of which have also seen major shortages in recent weeks potentially due Nvidia’s own issues as the fact the RTX 5080 was seen as a little disappointing in terms of performance overall.
+The GeForce RTX 5070 Ti has 16GB of GDDR7 memory. This is an upgrade over both the RTX 4070 Ti Super, which has GDDR6X memory, and also the RTX 4070 Ti, which had just 12GB of GDDR6X memory. The 16GB GDDR7 is the same as the RTX 5080 too with only the RTX 5090 having more in the RTX 50-series. AMD’s equivalent cards generally have more with the RTX 7900 XT having 20GB and the RX 7900 XTX having 24GB.
+Nvidia has stated February as the launch month of both the RTX 5070 Ti and 5070, but we don’t yet have a specific date either for reviews or availability. However, the Fench arm of MSI, one of Nvidia’s board partners has apparently let slip the launch date. According to MSI this date is Feb. 20. As a s result we have barely a week to wait for the RTX 5070 Ti to be released. Again, though, there’s no word on the cheaper RTX 5070.
+We have very little to go on here thanks to AMD seemingly still a way off releasing its new graphics card. However, various outlets have claimed to offer performance glimpses of AMD’s Radeon RX 9070 XT with the Moore’s Law IS Dead YouTube channel and TechPowerUp claiming the RTX 5070 Ti could be outpaced by the Radeon RX 9070 XT by up to 15%. Even if that’s true, everything will come down to price. Recent leaks have put the RX 9070 XT at around $899. This rumor, however, was quickly dismantled by Frank Azor Chief Director of Gaming Solutions at AMD.
+That hopefully means the card will be cheaper than that. Either way, there’s not really enough information to judge if the two cards will be battling it out when the new AMD range is released in March. In the meantime, keep your eyes peeled throughout February for the release of the RTX 5070 Ti.
+
+NVDA price 3 days before article release: 128.6378631591797
+
+NVDA price 1 day before article release: 133.52626037597656
+
+NVDA price the day of article release: 132.7565155029297

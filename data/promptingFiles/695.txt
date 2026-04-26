@@ -1,0 +1,17 @@
+World Maker: Nvidia CEO A New Billionaire As Company Thrives On Graphic Chips For Video Games, AI
+
+Aug 26, 2016, 08:30am EDT
+
+WITHOUT JEN-HSUN HUANG, zombies would be less frightening, blood spatters less realistic and alien worlds less detailed. His 
+Nvidia
+ doesn't make video games; it makes the high-end computer chips--the graphics processing units, or GPUs--that help a computer render ultra-detailed images at lightning speeds. "Huang has been an effective visionary and evangelist for these chips," says Craig A. Ellis, an analyst at B. Riley & Co., an investment bank.
+Nvidia's dominance of the high-end graphics-card market for PCs (it has a 70%-plus share) has pushed its sales up 40% in the past five years, to $5 billion, as new innovations like virtual reality continue to fuel demand for sophisticated GPUs. One of its latest innovations, the $700 GTX 1080, is twice as fast as its predecessor and more power-efficient than anything its rivals make. Nvidia's stock has reached record highs, and those buoyant shares have increased the value of Huang's 4% stake in the Santa Clara, Calif. company to around $1.4 billion, giving him an estimated net worth of $1.6 billion.
+The Taiwan native traces the beginning of his American dream to a boarding school in rural Kentucky. As civil unrest mounted in Thailand in the 1970s (where his family had moved to), Huang’s parents decided to send their young sons to America, with plans to follow after. The boys first stayed with their newly emigrated aunt and uncle, who placed them in Oneida Baptist Institute -- then a reform school for troubled youth -- mistakenly thinking it was a prep school. Then 9-years-old, Huang was assigned to clean the boys’ bathroom everyday after class, while his older brother worked on the tobacco farm.
+Huang later reunited with his parents in Oregon, where his love of mathematics and adventure led him to engineering. “I was always rambunctious,” Huang once told a student interviewer of his early teen years. “I was always setting stuff on fire, and gluing stuff together, and blowing things up.” He eventually picked up engineering degrees from Oregon State University and Stanford, before starting Nvidia in 1993. Back then, the company designed graphics processors for PCs and workstations but found it difficult to compete in what was a crowded field in the '90s--leading Huang, now 53, to pivot toward gaming.
+With PCs increasingly being replaced by mobile devices, Huang is eagerly looking for Nvidia's next move--and believes he has found it in making chips that power the artificial intelligence in autonomous cars. "One of Nvidia's hallmarks is the way it finds new growth opportunities," says analyst Ellis. The company has also been a dominant player in supplying GPUs to data centers, an increasingly promising space as the need for complex data crunching grows.
+
+NVDA price 3 days before article release: 1.5468889474868774
+
+NVDA price 1 day before article release: 1.5129560232162476
+
+NVDA price the day of article release: 1.525250792503357

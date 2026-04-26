@@ -1,0 +1,30 @@
+DeepSeek’s AI Shockwave Hits Nvidia Hard, Wiping Out Billions
+
+Feb 03, 2025, 03:04pm EST
+
+The artificial intelligence revolution is moving at lightning speed, and one of the biggest stories from last week underscores just how critical the technology has become—not just for Silicon Valley, but for America’s national security and global competitiveness.
+Enter DeepSeek, a Chinese AI startup that’s sent shockwaves through the market with the release of a new, highly cost-efficient AI model.
+While DeepSeek may not yet be a household name, its impact has been swift. Nvidia — the dominant player in AI chip design and, as of this morning, the world’s third-largest company by market cap — saw its stock price tumble after DeepSeek’s latest model demonstrated a level of efficiency that many on Wall Street fear could challenge America’s AI supremacy.
+To understand why DeepSeek is making headlines, let’s look at Nvidia’s market swings. Last Monday, the tech giant lost an astonishing $590 billion in market value. Tuesday saw a rebound of $260 billion, only to drop again by $130 billion on Wednesday. The company plunged 15.8% for the week, its worst weekly showing since September 2022.
+Why the volatility? DeepSeek’s AI model, built at a fraction of the cost of leading U.S. models, signals the potential for a new price war in AI. Unlike OpenAI’s ChatGPT and Meta’s Llama models—trained on expensive high-end semiconductors—DeepSeek has developed an alternative that is allegedly 45 times more efficient than its competitors. Its final training run cost only $5.6 million, compared to the vastly higher sums required for U.S.-made models.
+For many investors, this raises big questions: Will AI’s profit margins shrink as efficiency increases? Are Nvidia’s high-priced AI chips at risk of being undercut?
+Most importantly, what are the implications for aerospace and defense, where AI is becoming an essential tool in modern warfare and national security?
+DeepSeek’s breakthrough isn’t just a financial story — it’s a national security issue. President Donald Trump wasted no time responding, saying DeepSeek should be a “wake-up call” for Silicon Valley. Supporting AI development, including the data centers that power it, is no longer just about business—it’s a matter of strategic importance.
+That may be partly why, in his second week back in office, Trump announced the launch of Stargate, a $500 billion joint AI venture led by SoftBank and OpenAI. Backed by Oracle and MGX, Stargate intends to invest $100 billion immediately into AI infrastructure in the U.S. The goal? To cement America’s leadership in AI and keep its edge in technological warfare and cybersecurity.
+But, as some analysts and investors are pointing out, if the Chinese can match American AI’s performance at a fraction of the cost, is $500 billion too high?
+In any case, the Stargate development should catch the attention of investors looking at aerospace and defense. AI-driven military applications, from autonomous drones to advanced cyber defense, are not just science fiction anymore. They’re already reshaping global conflict. The ability to train AI models more efficiently could shift the balance of power in how wars are fought, how intelligence is gathered and how cybersecurity threats are handled.
+Meanwhile, American tech giants are doubling down on AI investments. Mark Zuckerberg posted on Facebook that 2025 will be a “defining year for AI,” with Meta planning to invest $60 billion to $65 billion in AI infrastructure alone. The company expects to double its GPU capacity to 1.3 million chips by the end of next year, significantly ramp up AI hiring and bring 1 gigawatt of computing power online.
+The AI boom is already creating massive economic ripples. According to Sensor Tower, revenues for AI chatbot and AI art generators have skyrocketed from $30 million in 2022 — the year ChatGPT was launched — to nearly $1.3 billion in 2024, representing an incredible 4,100% increase. Sensor Tower reports that the U.S. leads the world in AI monetization, accounting for 45% of global revenue, while China lags at just 2%.
+While DeepSeek has proven technically impressive, it’s also raised serious red flags.
+For one, Microsoft and OpenAI are investigating whether DeepSeek acquired data from ChatGPT in an unauthorized manner.
+And two, cyber intelligence firm KELA has already exposed major security vulnerabilities in DeepSeek’s R1 model, showing that it can be easily manipulated to generate malicious content, including ransomware instructions, fake news fabrication and even details on explosives and toxins.
+For this reason, U.S. military service members have been warned not to use DeepSeek AI tools due to potential security risks.
+Despite legitimate concerns, I agree with UBS that DeepSeek’s emergence does not derail the overall AI growth story. As its editorial team notes, AI is not a zero-sum game. A more cost-efficient model could actually accelerate adoption across industries, further fueling productivity gains and market expansion.
+For investors, this means keeping an eye on how AI is reshaping aerospace and defense. The biggest beneficiaries may not be the AI application companies themselves, but rather the firms building the infrastructure: semiconductor manufacturers, data centers, cloud computing providers, cybersecurity firms and defense contractors integrating AI into next-generation applications.
+With the U.S. making AI a national priority, we’re seeing an unprecedented wave of investment into the sector. Whether it’s OpenAI’s partnership with Stargate, Meta’s multi-billion-dollar AI expansion or defense firms using AI for military innovation, the message is clear: AI isn’t just the future of tech — it’s the future of national security.
+
+NVDA price 3 days before article release: 123.65947723388672
+
+NVDA price 1 day before article release: 120.03067016601562
+
+NVDA price the day of article release: 116.62178802490234

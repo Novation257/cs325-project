@@ -1,0 +1,36 @@
+For Game Industry, Nvidia's G-Sync Technology Is Truly Next-Gen
+
+Dec 12, 2013, 09:00am EST
+
+After extensive hands-on time with Nvidia's upcoming G-Sync enabled monitors, this much is certain: These will accomplish much more than pleasing PC gamers -- they'll mark the beginning of a decisive win for 
+Nvidia
+ in the desktop GPU space.
+The term “next-gen” is tossed around liberally these days, replete with different meanings for different people. Some believe a fundamental shift in gaming mechanics, such as 
+Nintendo
+’s motion-controlled Wii, defines next-generation gaming. Others believe it’s simply a dramatic leap forward in graphics fidelity.
+Products like the Nintendo Gameboy, 
+NEC
+’s PC Engine (the first console boasting CD-ROM capabilities), and even the iPhone can and should be perceived as worthy of wearing that next-gen banner.
+Millions of gamers around the world (I'm counted among them) respond to the next-gen battle cries associated with 
+Microsoft
+’s Xbox One and 
+Sony
+’s PlayStation 4 with a simple argument: PC gaming was, is, and always will be the next-generation. But for all the praise I bestow upon PC gaming, cracking wise on Twitter about the “Glorious PC Master Race,” the hard truth is that PC gaming has three serious and universal problems: input lag, screen tearing, and stutter.
+For years, graphics cards and monitors have been trying to communicate with each other in foreign languages. Your GPU renders a framerate constantly in flux based on the complexity of a game scene, but monitors refresh their images at a fixed rate. It stands to reason that visual artifacts will ensue.
+What Nvidia’s G-Sync does is simple: It gives the GPU control over updating the display. The monitor’s refresh rate constantly changes in accordance with the framerate coming from the GPU. The result is the complete elimination of screen tearing and stutter, as well as a dramatic reduction of input lag. The modules are built into forthcoming displays from as-of-yet unnamed monitor manufacturers. (More information on that front is coming via CES 2014 in January.)
+When revolutionary developer John Carmack (iD Software, Oculus VR) saw this technology for the first time he said “Once you play on a G-Sync monitor, you’ll never go back.” Nvidia reps told me the same thing this week as they placed a prototype G-Sync monitor on my desk. A small 1080p monitor which was dwarfed by my 27” 1440p Monoprice display, and the 31.5” ASUS 4K panel I’m testing. It was all I could do not to let a doubtful chuckle slip from my lips.
+Two hours later, after running my own G-Sync demo (on my own terms, with my own selection of games), I adamantly swore off gaming on anything but a G-Sync monitor, regardless of its size or resolution. The differences are that extreme. In fact, I’ll go on record and predict that this single technology will decisively win Nvidia the desktop GPU race within 5 years unless somehow it gets licensed out to AMD. Once you see it for yourself, you’ll never go back.
+It’s not like seeing a DVD version of your favorite VHS movie for the first time; it’s like leaping from VHS to Blu-Ray. Games are buttery smooth, more lifelike, and more immersive than ever because there are no visual artifacts distracting you.
+Here's how a typical PC gaming session normally goes down. Without V-Sync enabled, every single game will exhibit tearing. It can be distracting to the point of diverting your eyes and your attention, shattering the immersion game developers work so hard to achieve. This is caused because your graphics card is pushing a frame to the monitor as soon as it’s rendered, which frequently results in partial frames being displayed simultaneously.
+Now imagine this problem manifesting itself in Battlefield 4. A sniper takes aim at you, and you see a brief glint from the sun reflecting off his scope. If that action occurs during one of the many instances that partial frames are being displayed, you may not even see it. And you know what happens next.
+With V-Sync on, an equally annoying problem enters the picture: Stutter and input lag. In the quest for smooth framerate and to eliminate tearing, frames are generated and delivered to your eyes on a schedule the monitor dictates. So when your graphics card is ready to send that new frame, your 60hz monitor says “hold on, I need another few milliseconds before I can display that since you don’t want to see screen tearing." This manifests itself as “stutter,” which is seeing the animation of a frame lasting longer than it’s meant to.
+Using V-Sync introduces another problem called input lag. Using that fictitious conversation between GPU and monitor (above), imagine what happens if you pull the trigger during a Battlefield 4 skirmish just before the monitor accepts the frame? That’s right: the bullet doesn’t fire until the corresponding animation can be presented. It’s called input lag, and for twitch games like shooters it can be the difference between life and death.
+When you stop to think about it, it’s borderline ludicrous that all of this high-end PC hardware is bottlenecked by fixed refresh rate technology from the CRT days. More expensive 120Hz and 144Hz monitors have only bandaged the problem. We get more frames, but stutter, tearing, and input lag remains. G-Sync monitors, however, will boast that 144Hz refresh rate and kick the visual pests we’ve endured for years right to the curb.
+If there’s any downside, it’s that I can’t show you this technology in person. Capturing a side-by-side comparison on video is easy, but spotting the differences and subtleties after YouTube compresses it and drops it to 30fps is another story. I do know that Nvidia has produced a revelatory video demonstration that you’ll be able to download (uncompressed) to your PC and view on a 60Hz or higher monitor, but it’s not quite ready. There are other game-changing aspects of G-Sync technology I can't even talk about yet
+Search around today and I’m fairly confident you’ll see other tech outlets singing G-Sync’s praises as well. Come CES, that praise will be exponentially magnified and published. I predict that within two years, most major monitor manufacturers will embrace and embed the technology, and within 5 years it will the standard for PC gaming.
+
+NVDA price 3 days before article release: 0.3585222661495209
+
+NVDA price 1 day before article release: 0.3632366359233856
+
+NVDA price the day of article release: 0.3561651408672333

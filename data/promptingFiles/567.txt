@@ -1,0 +1,25 @@
+Nvidia RTX 3070 Vs. RTX 2080 Ti: And The Winner Is?
+
+Oct 27, 2020, 09:00am EDT
+
+Nvidia (NVDA) has finally allowed us tech reviewers to reveal the real performance of the RTX 3070 - its $499 mid-range Ampere-based graphics card. The big question we all want to know? Is Nvidia's claim that this $500 card can match or even better the RTX 2080 Ti in games - a card that currently retails for over $1500 -  really true?
+See my review of the RTX 3080 for more technical information on Nvidia's new graphics cards.
+
+I used Nvidia's 456.96 driver for the testing along with a fully up-to-date version of Windows 10. The benchmarks now include results for 1080p performance versus the RTX 2080 Ti, as the RTX 3070's price will likely mean owners of high-refresh rate monitors who game at 1080p might consider it, as well as this looking to future-proof their system. Similarly, as the RTX 3070 proved more than capable of handling games at 4K, I've compared it against several other cards both at 4K and 1440p.
+The test system used an MSI MEG Z490 Ace, Intel Core i9-10900K, 16GB 3466MHz Corsair memory and an Intel 760p SSD along with a custom watercooling system.
+A comparatively easy title to tame on gaming PCs, Far Cry New Dawn saw the RTX 2080 Ti ahead but only by a few frames at 1080p and 1440p and a little more at 4K, meaning the RTX 3070 is  absolutely the card you should be buying given it's price and will devastate new and second hand prices of Nvidia's old flagship.
+It was a similar story in Wolfenstein: Youngblood, with the RTX 3070 posting a slightly higher average frame rate, but was a couple of frames down on the minimum 99th percentile at 1080p. At 1440p, the two were within the margin of error I'd expect to see and at 4K, the RTX 3070 edged out a small lead.
+
+Borderlands is slightly tougher than Wolfenstein and Far Cry, but once again the two cards are even at 1080p and within spitting distance at 1440p and 4K too.
+Without any ray tracing or DLSS features, the investigation showed Shadow of the Tomb Raider to prefer the RTX 2080 Ti at 1080p and 1440p, with clear leads for the older card. Even with DLSS and ray tracing enabled at 4K the RTX 2080 Ti still had a commanding lead. Still a clear win overall for the RTX 3070, though, given it costs a third of the price.
+Yet another equal fight with no clear winner, both cards were practically indistinguishable until we reached 4K where the RTX 2080 Ti drew slightly ahead. The RTX 3070, though, and Ampere and the 3000-series a clear generational leap over its predecessor here and in general though.
+Despite matching the previous flagship in performance - a card that saw my test system draw around 403W under load, the RTX 3070 managed the same performance at just 343W. This makes it the ideal partner for small form factor systems too, where undervolting might yield far lower power draw and temperatures than the RTX 2080 Ti.
+The RTX 3070 is an easy recommendation for anyone with around $500 to spend on a graphics card for several reasons. It offers the same performance as the RTX 2080 Ti, at least in my benchmarks, as the RTX 2080 Ti, which while a two year-old card is still a mighty piece of silicon. However, the latter costs three times as much, which really highlights the value proposition of the RTX 3070, which holds true both with RTX features on and off.
+Secondly, with little to no competition from AMD - yet - the RTX 3070's only other issue might have been the RTX 2080 Super, but it was significantly slower and still costs a lot more. The RTX 3070 easily kept itself cool, too, peaking at 71°C and was supremely quiet in testing as well.
+As for resolutions, the RTX 3070 is primarily a 1440p card, where it managed at least 75fps on the average frame rate in all the games tested here - usually a lot more. However, it's also more than capable of handling 4K and never dipped below a minimum 99th percentile of 35fps and average of 50fps. In this sense, whether you're a casual 4K gamer or 1080p high-refresh rate obsessed, the RTX 3070 seems to have pretty much every base covered for a reasonable price tag, plus it's smaller and less power hungry than the RTX 3080 too. Want RTX 2080 Ti performance for less than $500? The RTX 3070 is for you.
+
+NVDA price 3 days before article release: 13.318876266479492
+
+NVDA price 1 day before article release: 13.09981918334961
+
+NVDA price the day of article release: 13.354515075683594

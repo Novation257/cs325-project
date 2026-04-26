@@ -1,0 +1,51 @@
+Nvidia RTX 2070 Super Review: Is It Really Faster Than GTX 1080 Ti?
+
+Jul 02, 2019, 09:01am EDT
+
+Today I'll be pitching Nvidia's latest pair of RTX mid-range graphics cards against their predecessors to see just how fast these new tweaked kids on the block are - namely the RTX 2060 Super (which you can see in my other article) and RTX 2070 Super. You'd be right in thinking the RTX series hasn't been around long, yet less than 12 months on, Nvidia has ousted a whole new range of graphics cards - the RTX Super series.
+Given how long the GTX 1080 and GTX 1080 Ti sat on their thrones, this is a fairly quick launch in the overall scheme of things. In fact, reviewers like myself had less than a week from being told we'd be receiving samples to getting our reviews online and the cards themselves were only announced recently at LA's E3 a few weeks ago. That wasn't super at all.
+Joking and lack of sleep aside, there's a simple reason why they're here, though, and that's 
+AMD's
+ Navi graphics cards. AMD has been fairly focussed in its pitches about the RX 5700 and RX 5700 XT's performance, taking aim at the RTX 2060 and RTX 2070 respectively. The timing was quite cheeky from Nvidia too, coming in the midst of AMD's various announcements at E3 and stealing some of Navi's limelight, plus Nvidia has undercut AMD on the launch schedule, with the disclosure agreement ending today - a full 5 days ahead of Navi. Anyway, let's take a look at the specifications, what's changed and just how fast the RTX 2070 Super is.
+What's better?
+Above you can see a detailed breakdown of the RTX 2070 compared to the new RTX 2070 Super, with the latter trumping the former in some key areas. From the top, the RTX 2070 Super actually uses a trimmed down TU104 core that's used in the RTX 2080. You get more tensor cores, 4 more streaming multiprocessors, 254 extra CUDA cores and significantly higher base and boost frequencies. However, the memory amount and speed remain the same - only the RTX 2060 Super gets a memory upgrade from 6GB to 8GB as well as a memory interface bump, while the RTX 2080 Super boasts faster memory than its predecessor.
+There's a slight downgrade, though, which is power consumption, which rises from 175W with the RTX 2070 to 215W with the new Super model. The cooler is identical in terms of performance, but the outside casing now sports a mirror-finished plate with green super logo. It's a shame that super logo isn't illuminated like the text on the side, but it's a fresh new look for Nvidia's RTX range and in the flesh it looks fantastic.
+Pricing/changes
+To start with we should look at pricing and as far as the RTX 2070 Super goes, things aren't too bad. We're looking at an MSRP of $499 (£475 in the UK), while the cheapest RTX 2070's I could find were around the $479 (£479) mark.  Considering Nvidia's claims that new cards are up to 20% faster than the originals, that's not a bad deal, especially in the UK.
+The RTX 2060 Super, meanwhile, isn't quite as cut and dried, as it's landing at $399, while the cheapest RTX 2060's out there retail for around $349. That's a 14% markup for supposedly between 10-20% more gaming grunt, which is maybe not quite such a good deal. However, the RTX 2060 is still an excellent card so what Nvidia is doing here is simply bringing it more into line with the RX 5700, which will cost $379. In short, it's going to be close, but we need to wait till 7th to compare the new Turing-based cards with their AMD Navi counterparts.
+As Nvidia gave me less than a week from announcing samples were inbound to the launch today, this has been a rather tight deadline, so I haven't been able to include as many tests or information as would otherwise have liked to. Hopefully, though, the performance numbers below give you some idea about where the RTX 2070 Super sits in the market, and just what Navi needs to do to beat it. For those numbers, though, you'll need to wait till the 7th July.
+Test system
+CPU: Intel Core i9-9900K overclocked to 5GHz
+Motherboard: MSI MEG Z390 Ace (latest BIOS and CPU security microcode updates)
+Memory: Corsair 3466MHz Vengeance Pro RGB
+SSD: 2TB Samsung 970 Evo
+PSU: Corsair RM850i
+Cooler: EK Waterblocks EK-MLC Phoenix
+OS: Windows 10 1903 (all updates installed)
+Drivers: AMD 19.6.3, Nvidia 431.16
+Nvidia RTX 2060 Founders Edition, Nvidia RTX 2070 (stock third party), Nvidia RTX 2060 Super Founders Edition, Nvidia RTX 2070 Super Founders Edition, Nvidia GTX 1080 Ti, AMD RX Vega 64
+Shadow of the Tomb Raider
+There are two things to consider with the RTX 2070 Super - whether it's quicker than the GTX 1080 Ti as Nvidia claims and how much quicker it is than the RTX 2070. In Shadow of the Tomb Raider, the former holds true at 1080, while it matches the old card at 1440p and just about at 4K too. However, you're looking at decent gains of up to 24%, making this a stonking card for the cash whether you use ray-tracing and DLSS or not.
+Far Cry 5
+The GTX 1080 Ti was noticeably quicker in Far Cry 5, but again there were decent gains over the RTX 2070 with a 17% leap in the minimum frame rate at 4K.
+The Division 2
+For some reason the GTX 1080 Ti akes a nosedive at 4K despite re-running the tests, so it's either a driver bug or it just doesn't handle 4K particularly well in the this game. There were again some sizeable gains against the old RTX card of 22% at 1080p, 23% at 1440p and 20% at 4K, although bear in mind that RTX 2070 result is from a stock card - not a Founders Edition. Even so, it was a win over the GTX 1080 Ti here - so Nvidia's claims are in part true, although not across the board.
+Forza Horizon 4
+The Vega 64 has long since dominated here and is simply a AMD-leaning game, but it's yet another victory for the RTX 2070 Super over the GTX 1080 Ti and decent gains over the RTX 2070 Super of 20% at 1080p, 21% at 1440p and 23% at 4K.
+World of Tanks enCore
+I've included World of Tanks purely from a high frame rate/high refresh rate point of view as it's a popular free-to-play that also has a professional hard-core following. It's otherwise very easy to run, but seeing as you need super-high frame rates for the latest high refresh monitors, this data is still useful.
+There were gains of 11%,  15% and 14% in the minimum frame rates at 1080p, 1440p and 4K respectively moving from RTX to RTX Super in World of Tanks for the 2070's, although certainly no reason to upgrade if you own a GTX 1080 Ti, which was still much quicker across the board.
+3D Mark Port Royal Ray tracing
+Ray-Tracing has definitely seen a big boost as matched by the Tomb Raider results above and below in the Port Royal ray-tracing benchmark.
+Power consumption
+Finally, power consumption was around 10W more under load for the system as a whole with the RTX 2070 Super, which is maybe a little less than I was expecting and may well be more in other tests than the 3D Mark Port Royal I used here.
+Conclusion
+While the RTX 2060 Super proved to be a more powerful card and ultimately a worthy step up over the RTX 2060 for the cash, the RTX 2070 Super is aiming to displace the current RTX 2070 entirely as they sit at the same price tag of around $499. However, you get significantly more performance for the same cash, with even bigger leaps once you start talking ray-tracing and DLSS. Nvidia has done what it needed to not only to make the RTX range more appealing but also give AMD some headaches ahead of its Navi launch too.
+The latter I can disclose the performance of on Sunday 7th July and as real-world tests are what counts, I would suggest waiting till then to make your decisions if you're in the market for a new graphics card. In short, though, the RTX 2070 Super is a great buy, and even better if you'll be dabbling in DLSS and ray-tracing.
+
+
+NVDA price 3 days before article release: 4.055373191833496
+
+NVDA price 1 day before article release: 4.128416538238525
+
+NVDA price the day of article release: 4.030527114868164

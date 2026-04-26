@@ -1,0 +1,23 @@
+‘Starfield’ Announces Nvidia DLSS Support, Food-Eating Button, Future City Maps
+
+Sep 13, 2023, 12:48pm EDT
+
+Bethesda has just published a new blog post detailing updates coming to Starfield in the short and long term, including a ton of popular requests, most of them on the technical side, initially.
+The first Starfield update for the game will be a small hotfix about a few “top issues” but after that there will be more consistent updates that will include:
+
+
+Those first four have come up time and time again as seeming industry standards that Starfield has lacked at launch for whatever reason. And Starfield’s AMD partnership has been blamed for the game not launching with Nvidia DLSS support, where the game just does not run as well on that half of the PC ecosystem.
+The food-eating button sounds minor but it will turn food from 100% pointless to perhaps only 95% pointless if it allows you to insta-heal or get bonuses on the fly, rather than adding it to your inventory for you to dig out later. It would be nice if food was actually buffed as well instead of restoring 2-5 health or other such nonsense amounts.
+In the longer term, they announce theyd “they’d love to do” city maps in the future, undoing the very odd decision they made to have their maps just be icons floating in a teal blob of nothingness. Fans have already worked on interactive maps and mods to fix that.
+Speaking of mods, confirming earlier statements, they will be developing and releasing in-game Creation mod support similar to what Skyrim and Fallout 4 have had. It’s why those games have an indefinite shelf-life, and why Skyrim has lived decade plus beyond its release date, thanks to community support keeping it alive, fun and engaging through mods.
+There is not a timeline on any of this, really just a priority order. The small hotfix will be first, but we aren’t sure what issues will be fixed exactly. Likely some of the worst current bugs (if they could un-stick my Neon gang quest I would appreciate it). Then those visual upgrades and uh, food-eating button will come later.
+Not addressed here are much larger requests like land vehicles, something I imagine would A) not simply be patched in, only arriving with say, an expansion or B) would probably not be added at all, as the way the game is designed may mean it’s probably too late for that (yes, yes, No Man’s Sky added them later).
+As for Starfield, it’s being received as an overall success for Xbox’s first party ambitions, though critic scores have started to slide a bit in time. Early reports are that Starfield may indeed be moving Xbox hardware in a significant way, but it’s unclear if we’ll ever hear about how many Game Pass subs are credited to it. More to come.
+Follow me on Twitter, Threads, YouTube, and Instagram.
+Pick up my sci-fi novels the Herokiller series and The Earthborn Trilogy.
+
+NVDA price 3 days before article release: 45.540157318115234
+
+NVDA price 1 day before article release: 44.838645935058594
+
+NVDA price the day of article release: 45.453216552734375

@@ -1,0 +1,22 @@
+Nvidia RTX 3090, 3080 And 3070: Everything We Know Ahead Of Today’s Ampere Launch
+
+Sep 01, 2020, 07:34am EDT
+
+Nvidia (NVDA) is widely expected to reveal its 'Ampere' RTX 3000-series graphics cards later today at a launch event, with a countdown timer ending at 12pm ET/9am PT/5pm BST.
+Edit: Nvidia has now launched the 3000-series. See my articles below for the more details
+
+The new cards, which will replace models such as the RTX 2080 Ti, RTX 2080 Super and RTX 2070 Super, have seen several supposed rumors and leaks revealing at least three new cards with a fourth probable, their specifications as well as what the stock Founders Edition models might look like.
+Here's everything we think we know ahead of today's launch.
+The basic specifications put the total count so far at four cards, with plenty of evidence for at least the RTX 3090 and RTX 3080 thanks to image leaks from partner cards with custom coolers over the last 48 hours.
+To a lesser extent, we also know about the RTX 3070 and RTX 3060, which will undoubtedly make an appearance at the lower end of the stack. Videocardz spotted a registry of products from partner card maker Palit, where the RTX 3060 and RTX 3070 were spotted.
+There have been several rumors that the RTX 3080, RTX 3070 and RTX 3060 may have dual memory configurations - for example the latter having 6GB or 12GB options and the RTX 3070 with 8GB or 16GB flavors. This would be new for the RTX series, but is certainly not unheard of in other areas of Nvidia's product stack (GTX 1060 6GB and GTX 1060 3GB for example).
+Whether this will find its way into the RTX 3000-series cards is not yet known, but Nvidia has already announced the existence of the 12-pin power connector and PSU manufacturers have already revealed cables and adaptors to fit it. It's very unlikely you'll need a new PSU - that would be slightly ridiculous. But it might be interesting from a cable tidying point of view for the time being. More will be revealed at the launch event.
+Bigger is better, clearly, when it comes to cooling and while my personal view is that the RTX series cards have been pretty well-cooled and never horrendously noisy (the coolers are also very attractive too, especially with the Super models), the RTX 3090 Founders Edition is absolutely enormous. The heatsink and fans are both much larger and appear to have a triple-slot design too, although partner card coolers are likely to be smaller.
+This will mean there are quite a few cases out there, especially small form factor models, which will be unable to house the new card in its stock configuration, but we'll have to wait and see just how things pan out later today.
+I'll be reporting live as the event unfolds with my take and I'll be covering all the news and rumors surrounding next-gen CPUs and graphics cards too so follow me here on Forbes, YouTube, Twitter, Facebook, Instagram  or Reddit for more PC hardware news and reviews.
+
+NVDA price 3 days before article release: 12.584671020507812
+
+NVDA price 1 day before article release: 13.328346252441406
+
+NVDA price the day of article release: 13.777426719665527

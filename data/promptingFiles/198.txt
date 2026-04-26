@@ -1,0 +1,33 @@
+Understanding The Physics-Aware Systems That Nvidia Is Working On
+
+Jan 19, 2025, 09:12pm EST
+
+As just one part of what came out of this year‘s CES earlier this month, Nvidia announced its development of something called Nvidia Cosmos.
+The name itself doesn’t tell you a whole lot, invoking something broad – the celestial sky, or the cosmologies that we humans tell ourselves to explain the origins of everything.
+So what is this system?
+Nvidia defines Cosmos as “a platform of state-of-the-art generative world foundation models,” and defines world foundation models as “neural networks that simulate real world environments, and predict accurate outcomes based on text, image or video input.”
+World models, spokespersons explain, “understand” the physics of the real world. They support the development of robotic systems and autonomous vehicles, and other physical structures that can follow the rules of the road, or the requirements of a workspace. In a way, these are the engines for the advent of physical entities that will think, reason, move and eventually live like humans.
+Nvidia people also detail other aspects of Nvidia Cosmos, including “advanced tokenizers that help split higher-level data into usable pieces.”
+For reference, here’s how ChatGPT describes an advanced tokenizer: “Advanced tokenizers go beyond simple whitespace or rule-based segmentation to produce subword, byte-level, or hybrid segments that better handle rare words, multilingual text, and domain-specific vocabulary…. These ‘smart’ tokenizers are a crucial foundation for modern NLP systems, enabling models to scale to massive datasets and diverse linguistic inputs.”
+These models will be available under an open license, to help developers work on whatever they’re making. A Jan. Nvidia press release explains:
+“Physical AI models are costly to develop, and require vast amounts of real-world data and testing. Cosmos world foundation models, or WFMs, offer developers an easy way to generate massive amounts of photoreal, physics-based synthetic data to train and evaluate their existing models.”
+Notwithstanding understandable concerns about jailbreaking and hacks, companies will likely be excited about having this opportunity to build on what the leading U.S. tech company has created.
+Then there is the process of data curation, where Nvidia NeMo will provide an “accelerated” process.
+Anyway, TLDR: These are “physics-aware” systems. They sound like crucial pieces of applications that will bring AI to “walk among us,” to act on our lives, instead of just being siloed in a computer somewhere. What will our robot friends look like? And how will we treat them, and they us? These are the kinds of questions that we are going to have to consider as societies.
+When I read the list of companies that have already been adopting Nvidia Cosmos technology, most of them were unfamiliar. But one stuck out:
+The ride-sharing company Uber is an early adopter of this kind of physics AI.
+“Generative AI will power the future of mobility, requiring both rich data and very powerful compute,” said Uber CEO Dara Khosrowshahi in a press statement. “By working with NVIDIA, we are confident that we can help supercharge the timeline for safe and scalable autonomous driving solutions for the industry.”
+That phrase, “safe and scalable autonomous driving,” probably sums up the project well, although, as with self-driving vehicle designs over the past two decades or so, the devil is in the details.
+There’s not a lot more available about exactly what Uber is doing with Nvidia Cosmos. But we can better understand the framework itself, and the context of what Nvidia is doing as a major innovator in these kinds of systems.
+I was also reading about the Nvidia Omniverse platform that the company describes this way:
+“A platform of APIs, SDKs, and services that enable developers to integrate OpenUSD, NVIDIA RTX™ rendering technologies, and generative physical AI into existing software tools and simulation workflows for industrial and robotic use cases.”
+So what it sounds like is that the Omniverse platform is more for evaluation, monitoring and tool use, in aid of exploring what’s possible with the world foundation models themselves.
+I’m going to end with this quote from CEO Jensen Huang, who reportedly intoned: “the ChatGPT moment for robots is coming.”
+That’s probably the headline here, because all of us have been wondering when we will start seeing these smart, physics-aware robots walking among us, or powering truly autonomous vehicles.
+The answer seems to be that it’s going to be sooner, rather than later.
+
+NVDA price 3 days before article release: 131.71682739257812
+
+NVDA price 1 day before article release: 133.52626037597656
+
+NVDA price the day of article release: 137.66490173339844

@@ -1,0 +1,23 @@
+Nvidia Fires GeForce GTX 750 Ti Shot, Prepares Maxwell Onslaught For Market Share Gains
+
+Feb 24, 2014, 01:54pm EST
+
+Last week 
+Nvidia
+ somewhat quietly launched a new mainstream desktop graphics card dubbed the GeForce GTX 750 Ti.  It's a $149 graphics card and it's not the kind of product that PC enthusiasts and gamers drool over, to be honest.  This new GeForce won't break any benchmark records, though it will let you play just about any leading-edge game title at full 1080p resolution and medium to high image quality settings.  However, what's special about this new Nvidia desktop GPU launch is that it also marks the introduction of a new, significantly more power-efficient GPU architecture that goes by the code name "Maxwell."
+Typically, Nvidia likes to punctuate a new GPU architecture launch with a big, honkin' flagship graphics card; the kind that makes the lights dim and that gamers can play virtually any title with at super high resolutions and maximum image quality -- but not this time around.  Nvidia decided to launch a card that doesn't even require an external PCI 
+Express
+ power connector and gets all its juice from the card slot it's installed in.  Maxwell's real strong suit is performance-per-watt and I dare say Nvidia has caught their chief rival, AMD, on the ropes with this one.
+
+With struggling GPU market share numbers and a hungry console business to feed, it's going to be a tall order for AMD to offer an answer to what's coming down the pipe this year from Nvidia in the discrete GPU market segment.  Nvidia's new Maxwell core GPU architecture offers up to a 2X performance-per-watt advantage over their previous generation Kepler architecture.  Nvidia achieved this by reworking control logic on-board the new GPU core for more efficient load balancing across processing engines.  In addition, the new architecture also allows for more granular clock gating.  In short, Nvidia's new Maxwell GPU architecture was tuned first and foremost to make more efficient use of GPU resources with lower latency and higher IPC (instructions per clock cycle) throughput. Nvidia was also able to deliver this with less die area consumed per SM (Steaming Multiprocessor), which translates directly to lower cost, lower power consumption and less heat.
+It also affords Nvidia the ability to layout more SMs per GPU die, which will pay big dividends as Nvidia readies higher-end GPUs and that all-important halo flagship killer graphics card for bragging rights in the battle for the fastest GPU on the planet.  And though AMD will already have a full plate dealing with Maxwell on the desktop, marketing managers are also likely going to lose sleep over what's undoubtedly coming down the pipe in terms of Maxwell-infused mobile products from Nvidia.
+Performance-per-watt is an important metric on the desktop, but in mobile it's game, set and match.  Maxwell appears dialed-in to deliver big gains in premium notebook designs and further down the road in tablets, as Nvidia integrates the core into their Tegra product roadmap, though their impressive Tegra K1 rollout with Kepler on board will come first.  I expect to learn more in the coming week about Nvidia's plans for Maxwell in mobile devices but early indicators from their desktop product offering show Maxwell consumes about 15 to 25 percent less power under load than a similarly performing AMD GPU.  In a notebook product, that's huge.  Coupled with Nvidia's solid Optimus graphics switching technology, to allow the GPU to power down when not in use, I'd expect Nvidia to line up their fair share of gaming notebook, premium notebook and ultrabook design wins.
+And so, though it's true the new GeForce 
+GTx
+ 750 Ti isn't going to make headlines on performance, it's the engineering prowess in its underlying Maxwell architecture that is likely going to light up Team Green's balance sheet in the quarters ahead.
+
+NVDA price 3 days before article release: 0.4275867938995361
+
+NVDA price 1 day before article release: 0.4393724501132965
+
+NVDA price the day of article release: 0.4457367360591888

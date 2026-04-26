@@ -1,0 +1,20 @@
+Chinese Data Center Billionaire Zhou Chaonan’s Wealth Jumps On Nvidia AI Chip Sales Resumption
+
+Jul 15, 2025, 02:53am EDT
+
+Zhou Chaonan, the billionaire chairman of Chinese data center company Range Intelligent Computing Technology Group, saw her company’s shares rally as much as 9.8% on Tuesday on the back of Nvidia's announcement that it plans to resume sales of its H20 artificial intelligence chip to China—a surprise reversal that also boosted Chinese data center stocks broadly.
+Zhou’s Shenzhen-listed Range Intelligent Computing now trades at 51.6 yuan ($7.2) apiece, giving the 64-year-old a fortune of $5.8 billion based on her stake in the company, according to Forbes estimates. Shares in other data center service providers listed in Shenzhen and Hong Kong jumped as well: Beijing Sinnet Technology (6.6%), Kehua Data Co. (7.5%) and GDS Holdings (10.2%).
+“Less restrictions on Nvidia sales to China will speed up the country’s AI development,” says Shen Meng, Beijing-based managing director at boutique investment bank Chanson & Co. “This will in turn lead to more demand for data centers.”
+The data center operators, which use Nvidia’s H20 chips to crunch and process data for various AI services, have been struggling to find a local alternative that is as good as Nvidia’s, according to Kenny Ng, a Hong Kong-based securities strategist at Everbright Securities International. The surprise announcement from the American technology giant has boosted investor confidence in their growth outlook, Ng says.
+In a Monday blog post, Nvidia’s billionaire CEO Jensen Huang, who is now the world’s eighth richest person with a net worth of $143 billion, announced that the company is expected to receive U.S. government licenses to sell H20 chips to China again. The product, which has already been rendered less powerful so that it can comply with U.S. export restrictions on semiconductor sales to China, once faced even tighter controls back in April.
+At the time, Nvidia took a $5.5 billion write-off as the Trump administration ratcheted up restrictions on advanced AI chip sales to China. The dramatic reversal comes after Huang met with U.S. President Donald Trump last week. The billionaire is now in Beijing to attend a trade expo, according to the official Xinhua News Agency.
+“The U.S. government has assured Nvidia that licenses will be granted, and Nvidia hopes to start deliveries soon,” the company wrote in a blog post.
+Chanson & Co.’s Shen says the U.S. about-face comes as the Trump administration might seek to use the H20 sales resumption as a negotiation tactic with China. Although the world’s two largest economies have settled on a trade truce earlier this year, many sticking points remain, including Beijing’s slow-walking of rare earth sales approval to overseas markets including the U.S.
+The rare earth magnets are used in industries ranging from automobiles to robotics, and restrictions from China—which effectively controls the world’s production of such metals—have caused disruption in factory productions around the world. Billionaire Elon Musk said in April that China’s export curbs on rare earths had affected the production of Tesla’s Optimus humanoid robot.
+“The U.S. can’t stop China’s development of chip technology whether it restricts Nvidia sales or not,” says Shen. “The change in its policies can help to reduce trade frictions, and alleviate restrictions on export of rare earth metals.”
+
+NVDA price 3 days before article release: 162.85293579101562
+
+NVDA price 1 day before article release: 164.89259338378906
+
+NVDA price the day of article release: 164.04273986816406

@@ -1,0 +1,16 @@
+NVIDIA Fleshes Out New Quadro Pro Graphics Offering Infused With Powerful Pascal GPUs
+
+Feb 26, 2017, 08:15pm EST
+
+Earlier this month, NVIDIA continued to drive the company’s powerful Pascal GPU architecture down through its professional workstation graphics stack, with new high-end and midrange Quadro cards that flesh-out the lineup from top to bottom. Having previously launched the high-end Quadro P5000 and P6000 cards based on Pascal, in Q4, NVIDIA returned in February with both the new monster flagship Quadro GP100 card, as well the more moderately-priced Quadro P4000 and Quadro P2000.
+The Quadro GP100 is a full-fat implementation of Pascal, complete with 16GB of HBM2 memory and providing a whopping 20 TFLOPs of 16-bit precision floating point performance, along with the ability to combine two cards together for a contiguous 32GB of HBM2 frame buffer with NVIDIA’s NVLink technology. It’s still a little early for that card, with pricing TBD (though sure to be pricey), but HotHardware got its hands on the new Quadro P4000 and P2000, which, along with the GP100, are slated to ship sometime in March.
+The Quadro P4000 will retail in the $800 and $500 range, respectively, and take on AMD’s recently launched Radeon Pro WX 7100 and WX 5100 cards in the pro graphics mid-tier.  Both of these cards are based on the same NVIDIA Pascal architecture with the same features and application certifications, though the P4000 is a more powerful card with 1792 CUDA Parallel Processing cores and 8GB of memory. The Quadro P2000 weighs in with 1024 CUDA cords and 5GB of memory. The Quadro P4000 puts out 5.3 TFLOPs of single-precision compute performance, while the P2000 offers 3 TFLOPs. The slightly longer Quadro P4000 (9.5 inch length) requires a single PCIe 6-pin connector, while the shorter P2000 (6.6-inches) can be powered completely by the PEG (PCI Express Graphics) slot.
+The P4000 can also be linked together with another card in SLI, though the P2000 doesn't have this feature. However, a complement of four DisplayPorts (DP 1.4) is available on both cards, supporting 4K displays at 120Hz, 5K displays at 60Hz, and 8K displays at 60Hz (using two cables and multi-stream transport). In addition, up to four display outputs can be used simultaneously for multi-monitor or VR setups.
+In the benchmarks, the NVIDIA Quadro P4000 and P2000 matched-up competitively versus the AMD Radeon Pro WX 7100 and WX 5100. However, in the popular pro graphics apps that comprise the SPECviewperf benchmark suite, the P4000 and P2000 out-classed AMD's offering by a significant margin, in most cases.
+NVIDIA’s complete Pascal-powered Quadro stack now looks like this, from top to bottom: Quadro GP100, Quadro P6000, Quadro P5000, Quadro P4000 and Quadro P2000, though likely previous generation Maxwell-based cards will remain in market for a while alongside them. You can expect to see the Quadro GP100, Quadro P4000 and Quadro P2000 arrive next month, shipping worldwide.
+
+NVDA price 3 days before article release: 2.735180616378784
+
+NVDA price 1 day before article release: 2.4777631759643555
+
+NVDA price the day of article release: 2.501680850982666

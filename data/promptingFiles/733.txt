@@ -1,0 +1,21 @@
+Cray Claims The Fastest Supercomputing Crown With The NVIDIA-Powered Titan
+
+Nov 13, 2012, 01:58am EST
+
+For those following advances in supercomputing, the past 18 months have been pretty exciting. In June of 2011, Fujitsu's "K" supercomputer claimed the "world's fastest" crown even before it was finished.Then it was supplanted a year later by IBM's Sequoia supercomputer. Now a third country has taken the supercomputer crown: Cray's Titan at the Oak Ridge National Laboratory. That's according to the "official" record - the Top 500 list, which is updated every six months, and has been for the past 20 years.
+The basic architecture of Titan is a CPU-GPU hybrid. The system contains 18,688 nodes, with each node containing an AMD 16-core Opteron and a NVIDIA Tesla K20X GPU accelerator. That's a total of 560,640 processors. Powered with that hardware, the Titan achieved 17.59 quadrillion operations per second (Petaflop/s) on the Linpack benchmark. The Sequoia achieved 16.32 Petaflop/s and the K supercomputer hit 10.5 Petaflop/s.
+(Don't feel too bad for IBM, though - in June, the company had 4 of the 10 fastest supercomputers in the world. On this list? They have six of them.)
+The hybrid-CPU/GPU architecture offers a lot of benefits for supercomputing. The most basic benefit it offers is the ability to improve parallel processing without sucking up a lot of electricity. CPU's are power-hungry, and as you put more of them into a system, the electricity cost can increase so much that making a computer faster might not be cost-effective anymore. But by accelerating the CPUs with GPUs, it's possible to achieve marked improvements in performance while using a lot less electricity. A total of 62 supercomputers in the top-500 now now use GPU-accelerated CPUs.
+"It’s not practical or affordable to continue increasing supercomputing capacity with traditional CPU-only architecture," said ORNL’s Jeff Nichols, in a press release. "Combining GPUs and CPUs is a responsible move toward lowering our carbon footprint, and Titan will enable scientific leadership by providing unprecedented computing power for research in energy, climate change, materials, and other disciplines."
+Titan will be primarily used for materials research, nuclear energy research,  and studies of ways to make combustion engines more efficient. The system will also be used to model climate change and potential strategies to mitigate its consequences. Other potential applications include studying radiation transport, which will benefit astronomers and medical imaging technologies.
+Look for GPU accelerated-CPUs to trickle down to other science labs, too, as it provides a cheaper way to model complex systems.
+"We are taking advantage of NVIDIA GPU architectures to significantly accelerate simulations in such diverse areas as climate and meteorology, seismology, astrophysics, fluid mechanics, materials science, and molecular biophysics," said computational physicist Dr. Thomas Schulthess in a NVIDIA press release.
+It's fascinating to me that a technology that was initially developed to improve video games - GPUs - may now hold the key to making supercomputers faster than might have been imaginable just a decade ago.  And the benefits of supercomputing touch virtually every industry.
+The lesson here? Keep playing video games. You're making the world a better place.
+Follow me on Twitter or Facebook. Read my Forbes blog here.
+
+NVDA price 3 days before article release: 0.2890163958072662
+
+NVDA price 1 day before article release: 0.2793901264667511
+
+NVDA price the day of article release: 0.2732018828392029

@@ -1,0 +1,46 @@
+Forbes Daily: The Dow Pulls A Record Despite Nvidia’s Tumble
+
+Aug 30, 2024, 08:14am EDT
+
+andForbes Daily,
+Forbes Staff.
+Good morning,
+Despite competing political narratives, the ultra-rich are bankrolling the November election on both sides.
+Forbes now counts 28 billionaires, with a total net worth of $280 billion, who have given more than $1 million to groups supporting the Democratic nominee. Former New York City mayor Michael Bloomberg and LinkedIn cofounder Reid Hoffman are the Democrats’ biggest megadonors, each contributing more than $20 million apiece to groups backing Vice President Kamala Harris.
+Still, the billionaires’ donations combined are less than the $125 million given to groups backing Trump by just one billionaire, Timothy Mellon, not to mention others, like Linda McMahon (who has given $16 million) and Miriam Adelson ($5.8 million).
+One notable billionaire has been absent so far: PayPal cofounder Peter Thiel, though Republican vice presidential nominee JD Vance appealed to the onetime Trump backer yesterday to “get off the sidelines.”
+The Dow Jones Industrial Average reached a record high Thursday, while other indexes were largely flat, all while AI darling Nvidia faltered despite a positive earnings report. Nvidia’s lack of an impact on indexes Thursday may have to do with the tech company’s options representing far less of the S&P 500’s single-stock options than in May and June, per Bloomberg.
+Inspections at the Boar’s Head plant in Virginia linked to the largest listeria outbreak in more than a decade revealed black mold, mildew, bugs and unsanitary conditions that may be responsible for nine deaths and dozens of hospitalizations linked to the outbreak. Operations at the plant have been suspended, but it’s unclear whether Boar’s Head will be penalized by the U.S. Department of Agriculture for the dozens of health and safety violations at the location.
+Concerns are brewing over another chip shortage that could be coming as China has decided to restrict the supply of key materials in response to U.S. export controls. China produces 98% of the global supply of gallium, according to the Financial Times, and 60% of germanium, two materials used to manufacture semiconductors.
+A Florida woman with no apparent personal connection to Donald Trump bequeathed the former president a condo in a senior living community in West Palm Beach after her death. It’s not clear what Trump is doing with the two-bedroom property, which he valued in the $100,000 to $250,000 range, but per the community’s rules, he would have to wait a few years to rent it out.
+A Trump campaign staffer physically pushed an Arlington National Cemetery employee who was trying to stop the campaign from taking photos in a restricted area Monday, the Army said. The Trump campaign is facing backlash for the alleged incident, and the Army said the campaign was “made aware of federal laws, Army regulations and DoD policies, which clearly prohibit political activities on cemetery grounds” ahead of Trump’s visit.
+In her first interview as a presidential candidate, Vice President Kamala Harris defended the Biden Administration’s economic record but said she has “more to do” if she wins the White House. Harris also told CNN she would put a Republican in her Cabinet if she’s elected in an effort to represent “all Americans.” It’s not uncommon for a president to appoint a Cabinet member from another party—George W. Bush, Bill Clinton and Barack Obama all did—or to make it a campaign point in an effort to gain support, Politico reported.
+The Natural History Museum of London attracted a record-breaking 59,228 entries from photographers worldwide for its Wildlife Photographer of the Year competition. The exhibition of the 100 award-winning images, picturing everything from young owls preparing to leave their parent’s nest to the tough life of female burrowing bees, will open at the museum on October 11.
+Managing the early stages of medication abortion care at home later in pregnancy is safe and cuts down time spent in hospital, according to new research published on Thursday, which researchers say could boost access to the procedure. Clinical guidelines typically recommend the procedure be performed exclusively in clinical settings after the 12-week mark so patients can remain under observation, but researchers found medical abortions conducted after 12 weeks of pregnancy were as safe and as effective when one of the medications was started at home instead of in hospital.
+TOPLINE A 10-year-old startup is helping enable the fast-growing movement to get smartphones out of classrooms.
+Yondr, which offers a $30 lockable magnetic pouch, began in San Francisco when the concept of phone-free spaces sounded “impossible” and “crazy,” according to founder and CEO Graham Dugoni.
+The volume of schools, districts and states restricting or banning students’ phones is surging as social media’s unanticipated consequences and potential harms, particularly to children’s mental health, are now at the forefront of national conversation. State laws cracking down on the use of smartphones in schools have taken effect in Florida, Louisiana and Indiana, while South Carolina, Minnesota, Ohio and Virginia have passed related statewide measures expected to take effect next year. California Governor Gavin Newsom and New York Governor Kathy Hochul are pushing for statewide restrictions or bans.
+“The best way to teach young people how to navigate the digital world is to at least give them six, eight hours a day without it, so they can understand the difference,” Dugoni said.
+Yondr is securing lucrative contracts across entire districts and states, and its largest schools customer is New York, where its pouches are used in over a third of all New York City public secondary schools, according to Dugoni.
+But scaling in schools hasn’t been without challenges. As the first generation to grow up with smartphones and social media, students have had meltdowns, organized petitions and even staged walkouts over the new policies; sometimes, parents have been the ones protesting.
+“If you're going to try to change the culture in a school, it's not so simple as just shipping product; you're unwinding a lot of learned behavior for young people, so you have to get the buy-in of the entire community,” Dugoni said.
+WHY IT MATTERS “Pew Research has found that some teens report using social media ‘almost constantly’ and that a majority of high school teachers in the U.S. say students distracted by their phones in class is a ‘major’ problem,” says Forbes senior writer Alexandra Levine. “Teachers, principals and school administrators are hopeful that Yondr and solutions like it can help address these problems undermining students’ ability to learn academically, socially and emotionally. But with at least some pushback and workaround from students, it remains to be seen how effective this can be.”
+MORE How ChatGPT Is Fast Becoming The Teacher’s Pet
+Special Counsel Jack Smith and the Justice Department have spent more than $35 million prosecuting former President Donald Trump, according to new disclosure reports. That figure will only increase as Smith took new actions this week to revive two criminal cases against the ex-president:
+$11.6 million: Total spent on staff salaries and benefits between November 2022 and March 2024, Smith’s largest expenditures so far
+$30.8 million: The $35.7 million spent by Smith’s office is roughly similar to Trump’s disclosed spending on his legal defense, $15 million on the documents case and $15.8 million on the elections case (including debt)
+$11.3 million: Total spent by Special Counsel Robert Hur investigating President Joe Biden for retaining documents, the next most costly investigation in recent years
+With recent declines in mortgage rates and the Federal Reserve set to make rate cuts next month, the housing market is expected to shift this fall. While many buyers are holding out for lower rates, it could spark more competition, so it may be better to lock in a higher rate today and refinance later. Meanwhile, sellers should be sure to price their homes appropriately, but the good news is that inventory is still low and desirable homes often receive multiple offers.
+Researchers at the University of California Santa Cruz studied a small group of people and found a surprisingly large portion have a “hidden” ability previously thought to be rare. What ability is it?
+A. A form of echolocation used by bats
+B. Pitch memory, a version of perfect pitch
+C. Tetrachromacy, which allows people to see a wider range of colors
+D. Superhuman strength
+Check your answer.
+Thanks for reading! This edition of Forbes Daily was edited by Sarah Whitmire and Caroline Howard.
+
+NVDA price 3 days before article release: 128.23817443847656
+
+NVDA price 1 day before article release: 117.5333251953125
+
+NVDA price the day of article release: 119.3124771118164

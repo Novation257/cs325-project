@@ -1,0 +1,29 @@
+Nvidia RTX 20 Series: Why You Should Jump Off The Hype Train
+
+Aug 21, 2018, 07:49am EDT
+
+The dust has settled from the GeForce Gaming event in Germany, where Jensen and company revealed Nvidia's next-generation RTX 20 Series graphics cards. There was a 90 minute deep dive on ray tracing, the expected amount of hype, new and somewhat nebulous metrics for measuring performance and some steep price tags. When you step away from the spectacle, what the event lacked was a compelling reason to upgrade.
+Before you pull the trigger on pre-ordering the RTX 2080 Ti or RTX 2080, though, please listen to some advice: don't. Don't pay inflated prices for marginal performance gains over the 10 Series. In fact, don't buy this new generation of GPUs from Nvidia at all, because there's something better coming.
+Related: RTX 2020 Ti Can't Hit 1080p/60 In New 'Tomb Raider'
+Ray Tracing Isn't Everything
+Nvidia's entire presentation was built around the wonder of real-time ray tracing, available for the first time in consumer grade hardware. Don't get me wrong, when Nvidia CEO Jensen Huang proclaimed "games will never be the same" he wasn't lying. Ray tracing renders light in real-time as it interacts with surfaces, objects, skin, literally everything. In most games now, light is simulated. Ray tracing addresses billions of light sources in real-time which takes enormous computational muscle, but makes light and everything it touches incredibly realistic. This makes each scene more believable and immersive than ever.
+Yes, it is a generational leap. But ray tracing isn't everything. Nvidia, however, hopes you won't believe that.
+The reality of the RTX 20 Series that releases next month is this: it's a money-grab designed to get early adopters on the ray tracing hype train for the 20 or so games that will ship with the feature. It's a stopgap to  7nm cards that should arrive in 2019 and offer substantial performance gains and power efficiency improvements. And as for the price tag, Nvidia can charge whatever it desires due to lack of competition in the high-end space.
+Seriously, glance at the clock speeds for the 20 Series. Check out the unimpressive CUDA core increase over the 10 Series. Realize that the memory configuration is the same as the 10 Series (albeit with GDDR6 instead of GDDR5). Take a hard look at what the performance increase should be. Most in the tech media are putting it at maybe 10% to 15% over the 10 Series when it comes to the majority of games out there. But you'll pay 40% to 50% higher prices for this generation's replacements based on MSRP. And you know we won't be paying MSRP. . .
+Ray tracing is bleeding edge right now, but do you want to spend an exorbitant amount of money to enjoy a handful of games optimized with it?
+Ask yourself why Nvidia showed approximately zero gaming benchmarks without ray tracing. There were no performance comparisons between, say, the GTX 1080 Ti and the RTX 2080 Ti for the most popular games already out there.
+Or to sum that up, this meme shared by Videocardz:
+When the GTX 1080 launched, Nvidia repeatedly reminded us how its performance dwarfed the GTX 980 in everything from AAA gaming to VR. When the GTX 1070 arrived, Nvidia boasted that it matched or beat the Titan X. That's a compelling upgrade argument.
+Don't Pre-Order. Wait For 2019
+Right now, though, Nvidia is asking people to pre-order their top-tier and flagship RTX cards for a minimum of $799 (painfully higher if you're in Europe or Australia) on the back of, basically, ray tracing and untested real-world performance. Think about that before dropping the money.
+You could argue that the RTX 20 Series is a compelling for owners of the GTX 900 series, but I strongly disagree. You can upgrade from a GTX 980 to a GTX 1080 for only $449 and enjoy about a 40% performance uplift, versus spending nearly double that for an RTX 2080. Double the money for a maximum 20% performance increase isn't a strong bang-for-buck scenario.
+If that's sound logic to you, pull the trigger on Pascal before Nvidia retires it and Turing is the only option.
+If you really want an RTX 20 series card, there's a strong chance that Nvidia will release 7nm versions in 2019 (RTX uses the 12nm process) with substantial performance gains, improved power efficiency and likely double the GDDR6 memory capacity. Why? Because that's likely the point when AMD will have some kind of competitor at the high end, and Nvidia will want to leapfrog them. It's also when we'll know many more details about Intel's upcoming Arctic Sound gaming GPUs slated for 2020.
+Right now, though, Nvidia has no competition in this space. It can sell its new generation solely on the back of ray tracing hype and charge whatever it wants. There's no pressure, and I guarantee a genuinely jaw-dropping iteration of the RTX series is waiting in the wings.
+Don't misunderstand me. The GeForce RTX cards are probably great products. They're just overpriced, unproven products. Wait for the reviews.
+
+NVDA price 3 days before article release: 6.372241497039795
+
+NVDA price 1 day before article release: 6.134619235992432
+
+NVDA price the day of article release: 6.270262241363525

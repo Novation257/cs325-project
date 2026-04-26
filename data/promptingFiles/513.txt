@@ -1,0 +1,16 @@
+Jaguar Land Rover Partners With Nvidia For AI-Powered Vehicles
+
+Feb 16, 2022, 09:10am EST
+
+Jaguar Land Rover (JLR), a Tata Motors subsidiary, announced a partnership with Nvidia for all new vehicle platforms slated for production beginning in 2025. Over the past year, automotive OEMs have been laying out plans for electrified vehicles (EVs) and autonomous vehicles (AVs), including key technology partnerships to enable these future platforms. As a leader in AI and an early entrant into these emerging automotive segments, Nvidia has secured partnerships with several major tier one automotive technology suppliers and OEMs, most notably Audi, Mercedes, Volkswagen, and Volvo. With the announcement of the JLR partnership, Nvidia secures another key OEM, especially for the luxury car market. This is important because the luxury automotive segment is generally the first to adopt the latest technology and to offer new services.
+Based on the announcements, JLR appears to be all in with Nvidia from the car to the data center. According to the announcement, future Jaguar and Land Rover vehicles will be based on the Nvidia Drive Hyperion 8 platform featuring the Orin-based computing system combined with the safety, security, networking, and sensors systems required for autonomous driving. While JLR did not commit to the vehicles being fully autonomous because of the lack of clarity into regulatory requirements at that time, the systems will be designed for the highest level of functionality and safety, including active safety measures, automated driving and parking, and driver and occupant monitoring.
+While JLR plans to use its internally developed operating system, the platform will use the entire Nvidia Drive IX software stack. Additionally, JLR will be working with Nvidia to develop AI-enabled software-defined services for consumers.
+The announcement, however, is not limited to vehicles. JLR will also be leveraging Nvidia’s data centers built on the company’s DGX supercomputers to train and validate autonomous driving solutions using Drive Sim. According to the two companies, engineers from both companies are already working together virtually using Nvidia’s Omniverse collaboration platform.
+While the announcement did not include any mention of the future infotainment systems or other platforms from Tata Motors, it is likely that JLR will leverage additional Nvidia technologies in future systems and could migrate those solutions down to other Tata Motors platforms over time.
+The author and members of the Tirias Research staff do not hold equity positions in any of the companies mentioned. Tirias Research tracks and consults for companies throughout the electronics ecosystem from semiconductors to systems and sensors to the cloud. Members of the Tirias Research team have consulted for Nvidia and companies throughout the automotive technology ecosystems.
+
+NVDA price 3 days before article release: 23.901403427124023
+
+NVDA price 1 day before article release: 26.442346572875977
+
+NVDA price the day of article release: 26.458311080932617

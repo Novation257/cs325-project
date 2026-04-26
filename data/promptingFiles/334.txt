@@ -1,0 +1,35 @@
+Nvidia Stock Could Rise 10-Fold On New $10 Billion Growth Vector
+
+Jun 09, 2024, 12:48pm EDT
+
+Nvidia stock has soared to about $1,200 a share — up 287% since the chip designer’s boffo May 2023 earnings report kindled generative AI fever.
+With the stock dropping to about $120 per share Monday — as the company’s 10-for-1 split goes into effect — will its price ever return to $1,200?
+Here are four reasons that could happen by 2026 — the first is new, and the last three are still valid possibilities since my May Forbes post:
+
+
+One other risk is some business leaders’ inconsistent attitude toward generative AI.
+How so? CEOs host competing fears. They are afraid of being left behind the generative AI boom even as the potential for AI hallucinations — returning false information in response to user prompts — could savage their company’s reputations.
+This tension could make it difficult for them to implement high payoff generative AI applications, according to my new book, Brain Rush: How to Invest and Compete in the Real World of Generative AI.
+Without that, demand for Nvidia’s technology could be difficult to sustain.
+Were Nvidia stock — in an optimistic scenario — to keep rising at the 287% annual rate it enjoyed between May 2023 and last Friday, the company’s post-split shares could top $1,200 sometime in 2026, according to my analysis.
+Here is a new source of growth to fuel that rise: Governments in Asia, the Middle East, Europe and the Americas are buying GPUs en masse as they build domestic computing facilities for artificial intelligence, noted the Journal.
+Countries’ desire to develop sovereign AI by training large language models in their own language with citizens’ data is driving this demand. Underlying this imperative is “a quest for more strategic self-reliance amid rising tensions between the U.S. and China,” the Journal wrote.
+Nvidia expects sovereign AI spending to boost its 2024 revenue by $10 billion, the company said last month.
+If more countries feel the urge to splurge on bespoke generative AI capabilities, such spending could help Nvidia to diversify its revenue sources. “The question has been, how can they continue this momentum?” Angelo Zino, an analyst at CFRA Research, told the Journal. “Sovereign AI is a new lever out there in terms of generating higher revenue.”
+In addition to sovereign AI demand for its chips, other drivers of Nvidia’s growth that I cited in a May Forbes post include:
+
+
+Based on my interviews with dozens of business leaders, generative AI in companies is caught in a bipolar battle, Brain Rush noted.
+Peer pressure forces CEOs to tell Wall Street how generative AI will transform their business. That pressure is reflected in a record level of mentions of the term “AI” in investor conference calls.
+How so? A review of all the S&P 500 conference call transcripts from March 15 through May 23 counted 199 uses of the term “AI” — “well above the 5-year average of 80 and the 10-year average of 50,” according to FactSet.
+At the same time, CEOs fear generative AI hallucinations could threaten their company’s reputation.
+This fear is based in reality. For instance, Google’s AI advised people to add glue to pizza, Forbes careers contributor Jack Kelly noted. And Air Canada's AI chatbot made up a refund policy for a customer — and a Canadian tribunal forced the airline to issue a real refund based on its AI-invented policy, Wired reported.
+This inconsistent battle has significant implications for business. Of 200 to 300 generative AI experiments the typical large company is undertaking, a mere 10 to 15 have been rolled out internally, and perhaps one or two have been released to customers. That’s according to Liran Hason, CEO of Aporia, a Manhattan-based startup offering guardrails to protect companies from AI hallucinations who spoke with me in a June 3 interview.
+Unless high-payoff applications emerge from this process of generative AI experimentation, the wave of demand for Nvidia’s GPUs could taper off over the long run.
+In the meantime, business and political leaders’ fear of falling behind in the generative AI race could drive high demand for Nvidia’s chips — and the company’s stock.
+
+NVDA price 3 days before article release: 116.37133026123048
+
+NVDA price 1 day before article release: 120.92974853515624
+
+NVDA price the day of article release: 120.81981658935548

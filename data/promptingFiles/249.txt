@@ -1,0 +1,17 @@
+Protecting Your Nvidia Gains And Other Smart Option Strategies
+
+Nov 16, 2024, 07:30am EST
+
+The simplest technique to continue owning a stock with some downside protection is to put in a stop-loss order specifying a particular price or magnitude of decline that automatically turns it into a sell order. However, there are risks to this simple technique.
+“If you have a $100 stock with a $90 stop and it opens tomorrow at $75, you’re selling at $75, not $90,” says Justin Zacks, vice president at online trading platform Moomoo Technologies. “Another problem with stop losses is during volatile markets, a stop loss gets hit when the stock is down on a very bad day—but the next day it goes right back up and you get stopped out at the bottom.”
+Another, more expensive way to establish a floor for your stock holdings is to purchase put options, which permit the owner to sell a security at the strike price anytime until expiration. For that insurance, you pay a premium, which increases along with stock volatility, time until expiration and how close the strike price is to the current stock price. Owning puts will bail you out of a stock drop by letting you sell at the strike price, or by selling the puts at a profit and staying in the stock.
+Buying put options provides protection, but the premiums can eat into returns. A popular way to finance the cost of put protection is to earn money by surrendering some upside potential in the stock by writing covered calls, creating a position called a “collar.” This is what Mark Cuban famously did in 1999 after he sold Broadcast.com and got paid in Yahoo stock. He wrote covered calls to fund his purchase of puts, which skyrocketed in value as Yahoo shares deflated during the dot-com implosion.
+On November 7, with Nvidia trading at $147.95, you could have earned $8.35 selling $170 February 21 calls and used the proceeds to more than offset buying $134 February 21 puts for $8.25. You’d participate fully until February 21 in any gains in Nvidia up to $170, while being assured of selling the stock for no less than $134. If you want more upside in the stock, you could choose a higher strike price for the calls but earn less in options premium. Selling $180 February 21 calls earned $5.95, but that would only be enough to cover completely the purchase of $127 puts.
+“You’re still exposing yourself to some upside, and then you’re also protecting against the downside,” Zacks says.
+Cryptocurrencies got a big boost after Trump’s triumph, sending Bitcoin to a $94,000 all-time high on November 19. Options are now available on Bitcoin ETFs including iShares Bitcoin Trust, Grayscale Bitcoin Trust and Bitwise Bitcoin ETF, opening up enhanced risk-management and trading strategies in crypto-related investing.
+
+NVDA price 3 days before article release: 148.23118591308594
+
+NVDA price 1 day before article release: 146.70181274414062
+
+NVDA price the day of article release: 141.9237060546875

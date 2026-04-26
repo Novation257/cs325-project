@@ -1,0 +1,27 @@
+Digital Twin Wind Farms: Siemens And NVIDIA Are Modeling Reality With AI In The Metaverse
+
+May 27, 2022, 02:44pm EDT
+
+When you plunk a $100 million wind farm down on 98,000 acres of varying terrain, you want to know a few things. You want to know that you’re optimizing the location of your multi-million-dollar turbines. You want to know that the turbines you source can handle the gustiest gust of wind they will ever encounter without shattering dramatically in some loudmouth YouTuber’s viral video. And you want to test potential uses cases and changes in software, which is cheap and changeable, rather than in hardware, which is expensive and notoriously hard to edit.
+Which is why Siemens Gamesa, the global renewable energy company, is working with NVIDIA to generate AI-powered digital twins of its turbines.
+“What we want to do in moving into the digital twin space is to be able to have an accurate digital model of the entire wind farm where we can play out scenarios,” Greg Oxley, a lead data scientist at Siemens told me in a recent TechFirst podcast. “This could be ... incoming weather events and we want to see how to optimally operate that wind farm as we move through these type of events. We could be testing new control strategies or something that we want to look moving to the future and we want to see how the wind farm will perform under those new control paradigms.”
+Siemens has thousands of turbines around the globe that together produce over 100 gigawatts of wind power, enough, the company says, to power 87 million homes every year. That’s enough to want to optimize how they function, and protect them in case of storms.
+Shutting them down if there’s going to be wind that’s too strong is not a step to take lightly — it cuts power generation — but it’s also critical to protect expensive infrastructure. That requires dealing with the “ughknowns,” Oxley says, and it’s critical to get it right.
+“We’re always trying to mitigate what we don’t know and put in the appropriate buffers ... but that puts us in a non-ideal situation,” he says. “We would rather clear that out and understand as best as possible the unknowns, and get to the true optimization instead of just adding buffers on top of everything.”
+In other words, adding margin for safety is both good and bad. It’s good when it saves money by not destroying turbines, but it’s bad when it results in unnecessary shut-downs that cost money. Digital twins help Siemens get a truer understanding of their equipment, its capabilities and limits, and gives the company the data and models it needs to be able to react optimally in productive ways.
+That’s getting easier to do, says Dion Harris, a product manager at NVIDIA. NVIDIA’s latest chips and AI frameworks are accelerating simulation modeling up to 4,000X faster than traditional ways, the company says.
+“We were only using 22 GPU-accelerated nodes and we were able to deliver the performance of roughly about ... 984,000 nodes on a specific system,” Harris told me. “It’s really about how can you simulate these massively complex environments, but in a very efficient way possible. Because if money was no object, if power was no object, you can just throw CPUs at it all day and you can get there ... AI is giving us some tools to model these very complex systems in a very efficient way both in terms of time and energy efficiency.”
+NVIDIA is helping to build digital twins of Siemens’ wind farms using NVIDIA Omniverse, a 3D design technology to “connect and create digital worlds,” and NVIDIA Modulus, a “neural network framework that blends the power of physics in the form of governing partial differential equations with data to build high-fidelity, parameterized surrogate models with near-real-time latency.”
+Translation: using AI to model the real world at high resolution and making it available not just as tables of data in a spreadsheet, but as a visual, explorable experience.
+What's the result of all this super high-tech VR-ish metaversy gamification of renewable energy systems? Fewer known unknowns, and fewer unknown unknowns.
+“What this allows us to do is really get rid of the unknown,” Oxley says.
+Within reason, of course. As always, in modeling large-scale physical reality, the question is how you ensure that your model is both accurate to existing real-world systems in all their near-infinite complexity, and predictive of future events.
+Which essentially, Oxley says, comes back to boots on the ground. Plus incessant fine-tuning of artificially intelligent knobs and dials.
+“We’re always benchmarking back and forth and actively,” he says. “So you’re actively always in a physics-based model, turning the knobs that you need to get across a wide range [with] the ... least error with what’s actually happening in the field. Now the same thing with machine learning models, you’re constantly training, they’re constantly improving. So you need this feedback from actual performance in the field, the ‘reality’ of what’s happening, feeding back to your original predictions and tuning back and forth all the time.”
+Subscribe to TechFirst; get a transcript of our conversation.
+
+NVDA price 3 days before article release: 16.12464141845703
+
+NVDA price 1 day before article release: 17.81856346130371
+
+NVDA price the day of article release: 18.77681541442871

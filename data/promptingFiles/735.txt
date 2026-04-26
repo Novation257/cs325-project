@@ -1,0 +1,30 @@
+EVGA's Nvidia GeForce GTX 680 Superclocked Signature Series GPU Is A Stylish Beast
+
+May 01, 2012, 06:36pm EDT
+
+I've had the good fortune of playing a few games on EVGA's incredible GTX 680 Super-clocked Signature Series GPU, and it's an enormously powerful card that runs remarkably quietly in my Antec P280 case.
+With its signature card, which retails at Amazon for around $650 (and for less at Newegg, though it appears to be frequently out-of-stock), EVGA bumped the base GPU clock to 1084MHz and boost clock to 1150MHz, up from 1006MHz (base) and 1058MHz (boost) on a vanilla NVIDIA GTX 680. Then they tweaked the the 2GB of GDDR5 memory to 6208MHz up from 6008MHz on reference cards.
+This super-clocking pushed memory bandwidth up to 198.66GB/s from the reference 192.2GB/s, giving the card a bit of an edge when handling large textures, anti-aliasing (AA) and anisotropic filtering (AF), which can add a great deal of smoothness to your jagged pixels.
+While I have yet to benchmark each game I've played so far, nothing I throw at this card even stutters.
+I'm running on a new Windows 7 build which I installed on a brand new Crucial SSD hard drive (which is fast and silent and wonderful.)
+In my giant Antec P280 case I've got an ASRock Extreme 3 Gen 3 Z68 motherboard, a core i5-2500k Intel CPU (running at its native 3.3Ghz), and 8GB of Corsair DDR3 RAM. It's a fast set-up, though hardly high-dollar. The entire build, not including the GPU, would cost you less than $1,000.
+
+The Corsair GS700 power-supply running the rig handles everything, including the EVGA GTX 680 SC just fine.
+Games like The Witcher 2: Enhanced Edition, one of the best-looking and most graphically demanding titles on the market, run flawlessly, though at max settings with every possible setting tweaked to ultra and the ubersampling enabled, I hover around 40 frames per second (using FRAPS) at 1080P. I'm sure I could squeeze a few more FPS out of it if I over-clocked the CPU.
+This is consistent during fights and all times of day and night, regardless of the number of baddies onscreen, the lighting, and so forth.  Truly, The Witcher 2: Enhanced Edition is a glimpse into what next-generation consoles might be able to crank out. EVGAs card is likely more powerful than the hardware we'll get in the Xbox 720 and PS4 (Orbis) when those consoles launch, though few games will really push the limits of the card at the moment.
+Here's the specs:
+Yes, it's the sort of GPU that makes heads turn. Not so much sports car as fancy town car with your own personal driver.
+Other titles like Skyrim handle smooth as can be with all the settings maxed out (though I have yet to test out some serious shader-intense mods and will update when I do.) For such a fast card, the massive GPU runs very quietly though this may be in part thanks to the Antec case which does a great job at muffling sound.
+It's a hefty price-tag, and the card will likely only appeal to true enthusiasts and those gamers out there with deeper pockets, but from what I've seen you can't do much better on the market today when it comes to power or class. The understated, plain black card eschews any fancy bells and whistles, and for someone like me with a very minimalist aesthetic, it fits perfectly. (It's a perfect match for my matte-black Antec case, actually, which also sets aside any bright lights or flare in favor of a straightforward, almost professional look.)
+The card comes with an HDMI connection as well, which is a nice perk especially if you have a monitor with HDMI or want to hook this up to a flatscreen TV.
+All told, EVGA has produced another fine card, and have backed it with one of the best warranties in the business (and one which, in years past, I've made use of in an entirely effortless RMA process.) They've also got a great "step-up" program which allows you to upgrade your card within a certain period of time for a better model, minus the difference in cost. If you have the money to burn, it's a great buy. If you don't, there are several more budget-friendly cards that I'm hoping to review in the near future that should also do the trick.
+Then again, NVIDIA also has a brand-new GTX 690 which runs for $999, so in a sense the GTX 680 is a bargain.
+EVGA is based out of Brea, California. Along with its line of NVIDIA GPUs, the company manufactures Intel-based motherboards as well as some power-supply units.
+Follow me on Twitter or Facebook. Read my Forbes blog here.
+
+
+NVDA price 3 days before article release: 0.300017774105072
+
+NVDA price 1 day before article release: 0.2979549467563629
+
+NVDA price the day of article release: 0.3032265901565552

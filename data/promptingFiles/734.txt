@@ -1,0 +1,25 @@
+Nvidia's Mobile Business Gets Patent Support From IPWireless
+
+May 22, 2012, 07:29pm EDT
+
+After seeing a 21% sequential increase in its consumer products portfolio last quarter driven by growth in its Tegra business, Nvidia has made yet another dent in its mobile processing business with the acquisition of a set of patents developed and owned by IPWireless.
+The patents, acquired in partnership with Intellectual Ventures, complements Nvidia’s extensive fundamental patents in graphics, visual and mobile computing. Traditionally known for its graphic processors in PC, Nvidia locks horn with Qualcomm in the lucrative mobile chips market through acquisitions and heavy investments in developing its core processors.
+See our complete analysis for Nvidia
+500 Patents to be Split between Nvidia & Intellectual Ventures
+The acquired portfolio (split between Nvidia and Intellectual Ventures) comprises approximately 500 patents granted and pending in the wireless and communication arena, including concepts in Long Term Evolution, LTE Advanced and 3G/4G technologies. Out of these, Nvidia licensed the rights of those patents that it did not acquire. [1]
+According to the deal, IPWireless which is a pioneer in wireless broadband and broadcast solutions, will retain perpetual royalty-free access to these patents. Its integrated mobile broadcast solutions provide mobile network operators and device vendors with an ideal solution for offering subscribers value-added mobile broadband services like mobile TV, video clip casting and music streaming, while offloading data intensive applications from their 3G unicast networks. As the wireless technology moves toward 4G, it continues to develop technologies and innovative solutions to meet customers requirements by broadening its horizon.
+Strong Competition from Qualcomm
+Qualcomm’s acquisition of Atheros gives it the ability to sell its chips into all tablets whether they are 3G, 4G, or Wi-Fi/ Bluetooth. With Nvidia being a new entrant in the wireless networking chips market, the patents ensure that it has the necessary IP to leverage the Icera acquisition and thus give stiff competition to the market leader Qualcomm.
+With Tegra 3 revenues increasing by almost 50% in Q1 2012, the company has been going strong so far in the mobile chip segment. It has ramped up production of Tegra 3, as it expects shipment to almost double in 2011. We believe, that the acquired patents will help support the company’s rapidly growing efforts in the mobile business segment.
+Considering the growing opportunities in the smartphone and tablet market, Nvidia has been on track with the changing trends as it continues to innovate and increase its horizon, catering to changing consumer needs. We feel that Nvidia has the ability to more than double its revenue from this segment by the end of our forecast period.
+
+You can change the figures in the graph to see how an upside or downside in the revenue stream from this division affects our price estimate, which at $21 stands at a premium of almost 61% to the current market price.
+Understand How a Company’s Products Impact its Stock Price at Trefis
+Notes:
+Like our charts? Embed them in your own posts using the Trefis WordPress Plugin.
+
+NVDA price 3 days before article release: 0.2899330556392669
+
+NVDA price 1 day before article release: 0.2816821932792663
+
+NVDA price the day of article release: 0.2782442271709442

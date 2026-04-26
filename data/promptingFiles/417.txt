@@ -1,0 +1,26 @@
+NVIDIA Brings The Power Of Generative AI To The Edge
+
+Oct 25, 2023, 11:43am EDT
+
+
+NVIDIA wants to turn the Jetson family of devices into powerful edge computing devices capable of running state-of-the-art foundation models. It’s also investing in frameworks that combine the power of robotics with generative AI.
+Here are three significant investments from NVIDIA that transform the Jetson family of devices:
+The Jetson Generative AI Lab is a collection of tutorials and walkthroughs for running popular generative AI models such as LLama2, Stable Diffusion and Segment Anything Model on Jetson devices. Developers can clone the GitHub repository to download the scripts needed to run the models and the associated applications on devices such as Jetson AGX Orin and Jetson Orin Nano.
+NVIDIA focuses on major categories of foundation models in the generative AI ecosystem.
+
+
+The investments made in technologies such as Jetson-containers and the TAO Toolkit are enabling NVIDIA to extend generative AI capabilities to the edge.
+The Isaac framework, based on the open-source Robot Operating System or ROS, brings perception capability to edge devices.
+NVIDIA announced major improvements to perception and simulation capabilities with new releases of the Isaac ROS and Isaac Sim software at ROSCon 2023. Isaac ROS, which is based on the widely used open-source ROS, adds perception to automation by providing eyes and ears to things that move. By leveraging the power of GPU-accelerated GEMs, such as visual odometry, depth perception, 3D scene reconstruction, localization, and planning, robotics developers gain the tools necessary to rapidly engineer robotic solutions tailored to a wide range of applications.
+Developers can now create and bring high-performance robotics solutions to market with Jetson thanks to the general availability of the latest Isaac ROS 2.0 release.
+The NVIDIA Metropolis framework includes GPU-accelerated SDKs and developer tools for building, deploying, and scaling AI-enabled video analytics and IoT applications from the edge to the cloud.
+The Metropolis framework is an end-to-end vision AI development toolkit that handles all the stages of the pipeline. It combines multiple components, such as NVIDIA DeepStream, NVIDIA TensorRT and the TAO Toolkit, to accelerate the development and deployment of vision AI models in the cloud or at the edge.
+According to NVIDIA, an expanded set of Metropolis APIs and microservices on Jetson will be available by the end of the year to help developers quickly build and deploy scalable vision AI applications.
+NVIDIA is moving fast to enable the Jetson family of devices to run generative AI models. While most of these models are confined to the cloud, NVIDIA is leveraging its investments in Jetpack software, Container Toolkit, TAO Toolkit, Isaac and Metropolis to put the power of generative AI in the hands of embedded developers.
+Customers can confidently run generative AI applications based on their private data by deploying foundation models such as LLama 2 and Stable Diffusion at the edge.
+
+NVDA price 3 days before article release: 41.35808181762695
+
+NVDA price 1 day before article release: 43.63248825073242
+
+NVDA price the day of article release: 41.74980926513672

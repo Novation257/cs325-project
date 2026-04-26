@@ -1,0 +1,19 @@
+You Missed Nvidia Because You Think In Straight Lines
+
+Nov 04, 2025, 10:57am EST
+
+Your greatest risk in this market isn’t what you own. It's the mental model you use to value it.
+Investors often struggle with an ingrained inability to move beyond linear thinking. They dismiss transformative technologies as bubbles because their intuition can’t grasp the fundamentals of exponential math. Exponential growth fundamentally differs from linear progress. Small, iterative doublings lead to massive scale quickly, unlike steady, incremental increases.
+Some of you may be aware of the A4 paper folding problem. A standard A4 is 1 mm thick. The first few folds are trivial, adding a few millimeters. This is the deceptive early slowness where linear forecasts tell investors to sell. But keep going: Folding the same sheet 50 times leads to thickness that exceeds the distance to the Moon. Exponential processes defy intuition through sudden, vast scale changes.
+Our cognitive bias, an exponential growth bias, is well documented. Investors fall into mental traps thinking in straight lines, which fundamentally understates the speed and magnitude of technological disruption.
+Think about Nvidia’s data center business. Revenue went from $600 million in 2017 to a staggering $41.1 billion last quarter, up 56% year-over-year. This explosive growth came from only a handful of customers while Nvidia’s AI clusters were still supply-constrained. Investors underestimated this trajectory because they were stuck in linear thinking. They saw a great chip company growing incrementally, not the foundational AI infrastructure growing exponentially. This explains how so many missed the rise of Nvidia. It also explains why those same investors are now calling AI a bubble.
+We get it. It’s comfortable to cling to legacy models built around straight-line math. Think back to the wireless revolution. Who among us during the 1990s would have correctly forecast the ubiquity of mobile devices, let alone the infrastructure needed to support them? Investors who projected phone adoption linearly missed the coming torrent of growth.
+Recognizing exponential growth phases is vital for capturing value in tech-driven sectors. Early growth can appear deceptively slow, misleading conventional forecasts. Once compounding accelerates, momentum builds rapidly, rewarding investors who saw beyond the straight line.
+While exponential growth cannot continue indefinitely, understanding its dynamics helps calibrate expectations and shift investment strategies. This is not an academic exercise; it is the fundamental framework for valuing transformative innovations like AI infrastructure. Moreover, as the technology becomes cheaper and supply constraints ease, the growth engine will likely shift into overdrive.
+The message is simple: Linear thinking misses the next decade of growth. The A4 folding problem and Nvidia’s journey are not just analogies. They are the blueprints for how exponential progress blinds conventional forecasts. Your success as an investor depends on breaking free from the straight line. Align your portfolio with the acceleration..
+
+NVDA price 3 days before article release: 202.8677215576172
+
+NVDA price 1 day before article release: 206.85728454589844
+
+NVDA price the day of article release: 198.66818237304688

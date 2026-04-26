@@ -1,0 +1,17 @@
+NVIDIA Gives Gamers A Free Performance Boost With GeForce RTX 2080 Super
+
+Jul 23, 2019, 10:14am EDT
+
+NVIDIA isn't taking its collective foot off the gas when it comes to its gaming GPU line-up, and this morning the company has officially launched the new GeForce RTX 2080 Super graphics card. Fleshing out the upper-end of its new Turing-based GPU lineup for gamers, the GeForce RTX 2080 Super slots in just beneath the company's $1200 ultra-high-end GeForce RTX 2080 Ti, with a $699 price point and a measurable performance kicker to boot. The new card is also a freebee of sorts, since its price tag is actually $100 less than the original GeForce RTX 2080 Founder's Edition when it debuted at last year.
+NVIDIA tweaked some of the speeds and feeds of the card, uncapping a bit more of its based TU104 Turing GPU with two more Streaming Multiprocessors (SMs), 128 more CUDA cores, 8 more texture units, 16 additional tensor cores, two more RT cores, and faster 15.5Gbps GDDR6 memory (still 8GB total capacity).  This amounts to slightly higher total board power consumption at 250 Watts, up from the original RTX 2080's 215 Watt spec. However, the net result is somewhere on the order of a 5 - 7 percent performance lift with this better-optimized GeForce RTX 2080 implementation.
+Myriad benchmark runs at HotHardware across a number of game titles also show that the new GeForce RTX 2080 Super has very little competition at its price point, as AMD's fastest 7nm Navi-based Radeon RX 5700 XT isn't even in the hunt, though the company's Vega-based Radeon VII card falls in about 8 - 10% behind the RTX 2080 Super, depending on game title and resolution.
+Of course NVIDIA is also evangelizing the GeForce RTX 2080 Super's currently unique capabilities with respect to its on-board RT cores for hardware-accelerated, real-time ray tracing effects with Microsoft DXR. So to sweeten the pot, qualifying purchases of any new NVIDIA GeForce RTX 2060 Super, RTX 2070 Super, RTX 2080 Super series card, or a new desktop PC powered by one of them, will include copies of two ray tracing-enabled games, specifically Control and Wolfenstein: Youngblood.
+The new NVIDIA GeForce RTX 2080 Super Founder's Edition should be available at retail today for $699, with OEM partner custom cards following-up shortly for availability in the next few weeks.
+———
+Dave Altavilla serves as Principal Analyst for HotTech Vision And Analysis. HotTech, like all technology analyst firms, provides paid services, research and consulting to many semiconductor manufacturers and system OEMs. Some of the companies in this article may be clients of the firm.
+
+NVDA price 3 days before article release: 4.228043079376221
+
+NVDA price 1 day before article release: 4.25636625289917
+
+NVDA price the day of article release: 4.364190101623535

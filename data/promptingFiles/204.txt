@@ -1,0 +1,17 @@
+Nvidia Slams Biden ‘Overreach’ And Praises Trump—As AI Stock Enters Correction Territory
+
+Jan 13, 2025, 10:41am EST
+
+Nvidia blasted the Biden administration and hyped President-elect Donald Trump in a Monday press release reacting to more export restrictions targeting Nvidia’s highly sought-after artificial intelligence chips, a criticism coinciding with a rare down stretch on Wall Street for Nvidia—and mounting Silicon Valley support for Trump.
+President Joe Biden announced Monday a framework to govern the transfer of AI technology most famously designed by Nvidia to cap AI chip sales abroad at both the country and company levels, a move which the White House characterized as an effort to keep away the advanced AI systems out of the hands of “countries of concern” as Biden has voiced concern about China’s use of American-made AI throughout his presidency.
+The potential for limited exports poses a potential headache for Nvidia, as China, Singapore and Taiwan accounted for more than half of the company’s $35 billion in revenue during its most recent financial quarter, with China alone accounting for $5.4 billion of Nvidia’s quarterly sales.
+Nvidia lashed out against the rules in a strongly worded statement: “The new Biden rules would only weaken America’s global competitiveness, undermining the innovation that has kept the U.S. ahead,” clapped back Ned Finkle, Nvidia’s vice president of government affairs, arguing it’s an attempt from the White House “to rig market outcomes and stifle competition.”
+The Nvidia response also indicated a warm attitude toward Trump, as Finkle wrote the “first Trump Administration laid the foundation” for the recent AI revolution.
+Nvidia looks “forward to a return to policies that strengthen American leadership, bolster our economy and preserve our competitive edge in AI and beyond,” Finkle added.
+Shares of Nvidia fell as much as 4.7% to $129.51 shortly after market open, as pressure on its abroad business accelerated its recent stock market slump. The stock was down more than 15% from its all-time-high share price set last week, erasing as much as $578 billion in market capitalization from its $3.75 trillion valuation peak set Tuesday morning. Other big technology stocks struggled Monday, with shares of Alphabet, Apple and Tesla all declining at least 1% as the S&P 500 benchmark index sank to its lowest level since early November.
+
+NVDA price 3 days before article release: 140.09408569335938
+
+NVDA price 1 day before article release: 135.86549377441406
+
+NVDA price the day of article release: 133.1863555908203

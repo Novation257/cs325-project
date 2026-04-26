@@ -1,0 +1,20 @@
+Nvidia Expands Its Drive For Robocar Tech Supremacy With VW, Uber Alliances
+
+Jan 08, 2018, 03:09am EST
+
+Nvidia’s push to become the leader in computing and AI for self-driving cars has yielded two new major alliances: It’s partnering with Uber to supply technology for the ride-hailing service’s future driverless vehicle fleet and will work with Volkswagen to create artificial intelligence applications for its global auto line.
+Nvidia founder and CEO Jensen Huang announced the two projects, and numerous other achievements by the Silicon Valley powerhouse, amid a two-hour presentation that mirrored the essence of CES, the sprawling tech extravaganza that takes over Las Vegas each January.
+Developing autonomous vehicle tech to make driving generally safer and more pleasant, improve trucking and make robotic taxis a reality are “three fantastic opportunities for us to apply our work to revolutionize the (transportation) industry,” the garrulous Huang, clad in his trademark black leather jacket, told an audience of several hundred at the MGM Grand Convention Center on the opening night of CES 2018. "Three incredibly large and growing opportunities."
+Nvidia is working with more than 320 companies worldwide on automotive applications, including Audi, Tesla, Volvo, Baidu, Mercedes-Benz, in addition to the Volkswagen and Uber projects. Its primary competitor in this space, Intel, is also expanding autonomous vehicle tech partnerships, notably in projects with Alphabet’s Waymo and BMW. The prize is a share of the massive revenue generated from the transportation industry, which Huang estimated at $10 trillion worldwide.
+Nvidia’s Volkswagen project is to bring AI and deep learning to next-generation VW models that are being designed now. “Artificial intelligence is revolutionizing the car,” Volkswagen CEO Herbert Diess told the Las Vegas audience. “Autonomous driving, zero-emission mobility and digital networking are virtually impossible without advances in AI and deep learning.”
+One a VW vehicle that may benefit from the partnership is a revamped all-electric version of the Microbus, Huang said, who created a virtual reality version on screen for the MGM audience.
+Nvidia’s collaboration with Uber comes as that company seeks to reinvigorate its self-driving vehicle R&D, which appeared to stall after Uber ousted Anthony Levandowski, the previous head of the program. A former member of Google’s self-driving team, Levandowski is accused of stealing trade secrets related to autonomous vehicle technology from Waymo, triggering a high-profile lawsuit between the two companies.
+“Developing safe, reliable autonomous vehicles requires sophisticated AI software and a high-performance GPU computing engine in the vehicle,” Eric Meyhofer, head of Uber Advanced Technologies Group, said in a statement. “Nvidia is a key technology provider to Uber as we bring scalable self- driving cars and trucks to market.”
+In addition to the two new partnerships, Huang talked about Nvidia’s plans to partner with autonomous tech startup Aurora on a computing platform, expand its cooperation in China with Baidu and parts maker ZF, work with BlackBerry QNX, enhancements to its automotive AI capabilities, new augmented reality technology, and big upgrades in its supercomputing hardware for driverless cars.
+“To make autonomous vehicles possible you have to solve this incredible computing problem, the largest scale computing problem of its kind, from the bottom all the way to the top," he said. "The number of problems necessary for the industry to solve in order to bring AV to the world is just utterly daunting.”
+
+NVDA price 3 days before article release: 4.928267478942871
+
+NVDA price 1 day before article release: 5.280303478240967
+
+NVDA price the day of article release: 5.325048923492432

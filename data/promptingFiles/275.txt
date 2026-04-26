@@ -1,0 +1,40 @@
+Nvidia Stock Price May Not Be Dented By Cerebras IPO
+
+Oct 01, 2024, 11:55am EDT
+
+Nvidia’s is trading roughly 16% below its June 2024 high. Two possible reasons for the decline are slowing revenue growth and concerns that generative AI — the fuel driving demand for Nvidia GPUs — costs too much and delivers too little, according to the Boston Globe.
+Another investor worry is competition for Nvidia’s 90% share of the AI chip market. One such rival is AI chipmaker Cerebras, which filed for an initial public offering September 30, according to CNBC.
+Cerebras’ competitive advantage over Nvidia — a faster, less costly AI inferencing service, according to my September post on Forbes — strikes me as less compelling than the company’s disadvantages.
+To take market share from Nvidia, Cerebras would need to add the following capabilities:
+As I noted in my book, Brain Rush, during the dot-com era, there were 2,888 IPOs. Cerebras’ IPO could be the first of the generative AI era.
+While I hope the IPO goes well enough to encourage more AI startups to go public, I would not rush into Cerebras’ offering until the company delivers at least a few quarters of expectations-beating growth.
+Cerebras competes with Nvidia in the design of AI chips and operates a cloud service. Cerebras claims its WSE-3 chip — which is about the size of a pizza box — “comes with more cores and memory than Nvidia’s popular H100,” according to CNBC.
+While Cerebras’ revenue soared in the first half of 2024, the company’s net loss declined. More specifically, the chip designer’s revenue grew more than 14-fold to $136.4 million in the first half of 2024 compared to the year before, while the company’s net loss declined from $77.8 million to $66.6 million, CNBC reported.
+Like Nvidia, Cerebras designs chips and partners with TSMC, which manufactures them. Cerebras cited Nvidia, AMD, Intel, Microsoft and Google as competitors, “as well as internally developed custom application-specific integrated circuits and a variety of private companies,” according to the company’s IPO prospectus.
+Cerebras’ direct competitor, Ampere Computing LLC — backed by Oracle — is not pursuing an IPO. In the absence of a clear path to a public listing, Ampere is “exploring a potential sale,” Bloomberg reported.
+The top investment banks — Goldman Sachs and Morgan Stanley — are not underwriting Cerebras’ IPO. That task falls to Citigroup and Barclays. It is unclear why the top investment banks are not involved, noted CNBC.
+Moreover, it should be of great interest to investors whether Cerebras’ IPO values the company higher than the “more than $4 billion” valuation the company fetched in 2021 during a $250 million funding round.
+In August, Cerebras launched a cloud-computing service for AI inferencing — namely responding to natural language user queries — after the AI chatbot has been trained. Cerebras claims the inferencing service operates “with 20 times the speed at a fraction of the cost” of competing chips, according to AI News.
+More specifically, Cerebras said its service can process 1,800 output tokens per second — 20 times more than the usual hyperscale cloud products using Nvidia’s GPUs, AI News wrote. What’s more, the Cerebras-powered service is “also more cost-efficient,” sources told AI News.
+While faster, cheaper inferencing should appeal to companies, Cerebras’ cloud service does not address the costly process of training a large language model. Moreover, Cerebras faces the significant challenge of competing with hyperscalers — such as AWS, Microsoft Azure, and Google Cloud in building generative AI applications.
+Nvidia’s chips are more expensive than rivals — yet the company says customers are enjoying a fast return on its chips. “The people who are investing in Nvidia infrastructure are getting returns on it right away,” Nvidia CEO Jensen Huang said on an August 29 call with analysts. “It’s the best ROI infrastructure, computing infrastructure investment you can make today.”
+What is the source of Nvidia’s return on investment? Despite charging a higher price than competitors do, the company’s chips perform better and cost less to run — which more than offsets their higher price due to their lowest total cost of ownership, noted Brain Rush.
+If Cerebras’ WSE-3 chips deliver superior investment returns, the company could win over Nvidia customers. For the moment, Cerebras is heavily dependent on one customer that is also a significant investor.
+More specifically, Cerebras received 87% of its revenue from G42, a United Arab Emirates-based data center operator, according to Bloomberg. The Department of Commerce’s Bureau of Industry and Security has granted Cerberas a license to export its chips to G42 — which will be deployed in the U.S.
+For the future, BIS could hamper Cerebras’ efforts to sell more of its chips in the UAE since the licensing process can be slow and the government “may impose burdens that the company or customers can’t accept,” noted Bloomberg.
+Investors should consider whether Cerebras will be able to diversify its customer base so it can grow faster and not put the company’s survival at risk if G42 switches AI chip vendors.
+Cerebras expressed confidence in its ability to overtake Nvidia. When a reporter asked how much market share Cerebras could take from the industry leader, “All of it,” was CEO Andrew Feldman’s quick response according to the New York Times. He later amended his response to “Enough to make them angry,” the Times reported.
+Feldman may be overly optimistic in light of Nvidia’s software advantage. No other chip company has software to rival Nvidia’s CUDA, noted Brain Rush. “NVD works with their customer, of which it has more than all others combined,” analyst Jon Peddie noted in a September 2024 email.
+“These customers develop programs on NVD chips, and most of them share their development with NVD as a way of influencing the next generation design,” Peddie added. So not only does NVD have tens of thousands of SW & HW engineers (probably 5:1 SW), which is more than all its competitors except Intel. It also has a ghost force of thousands more in universities and customer sites.”
+It is possible CUDA could go from a core competency to a core rigidity for Nvidia — if and only if Nvidia customers begin switching to Cerebras chips due to their faster speed and lower price.
+Ultimately, the proof will reveal itself in the relative growth trajectories of the two companies. Cerebras’ 14-fold growth in the first half is far more rapid than Nvidia’s 122% revenue increase in the July-ending quarter.
+Nvidia’s expects 80% growth in the current quarter and it remains to be seen whether Cerebras’ growth rate will accelerate.
+In the meantime, Nvidia — with a 55% net profit margin in the most recent quarter — is hugely profitable while Cerebras is burning cash.
+“Since our inception, we have incurred operating losses and negative cash flows to develop, market, and expand our product portfolio and to continue our research and development activities,” noted Cerebras’ prospectus.
+If all Cerebras’ negative cash flows shift market share away from Nvidia, IPO investors may be rewarded. But I would wait to see whether the company can exceed analyst expectations for a few quarters before considering an investment.
+
+NVDA price 3 days before article release: 123.99082946777344
+
+NVDA price 1 day before article release: 121.39186096191406
+
+NVDA price the day of article release: 116.95361328125

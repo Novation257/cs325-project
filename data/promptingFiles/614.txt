@@ -1,0 +1,42 @@
+AMD Radeon RX 5700 XT Versus Nvidia RTX 2060 Super: What's The Best $399 Graphics Card?
+
+Jul 07, 2019, 09:00am EDT
+
+The antics between Nvidia and 
+AMD
+ over their new GPU launches has been entertaining to watch over the last couple of weeks with the green team rushing the Super series cards out (see my RTX 2070 Super and RTX 2060 Super reviews), before AMD responding with some sizeable cuts to its Navi card's pricing, slashing the RX 5700 XT to $399 and the RX 5700 to $349. The former is now competing directly with the RTX 2060 Super and will save you around $50 than the cheapest RTX 2070 I could find. The RX 5700 now costs the same as the Nvidia RTX 2060 and is $50 cheaper than the RTX 2060 Super, while the RX 5700 XT will save you around $50 than the cheapest RTX 2070 I could find and a whole.
+AMD Navi RX 5700 Versus Nvidia RTX 2060: The $349 Winner Is Revealed
+AMD Ryzen 9 3900X and Ryzen 7 3700X Review: Old Ryzen Owners Look Away Now
+It's obviously a bit of a shame that AMD is only gunning for what is essentially Nvidia's slowest Super card at most, but there's usually more behind the numbers than simple price similarities so lets crack on and see how they do in games. If you want to know more about AMD's Navi cards you can see my overview from the E3 launch event - AMD Announces Radeon RX 5700XT And 5700.
+Test system
+Intel
+ Core i9-9900K overclocked to 5GHz
+MSI MEG Z390 Ace motherboard
+16GB Corsair Vengeance Pro RGB 3466MHz memory
+2TB Samsung 970 Evo M.2 SSD
+Corsair RM850i PSU
+EK Waterblocks EK-MLC Phoenix liquid cooler
+Windows 10 1903, Nvidia driver 431.16, AMD Navi launch driver 19.7.1
+The Division 2
+It was a close call between the RTX 2060 Super and RX 5700XT at 1080p with the AMD card having a slight edge. That shrank up to 4K resolution with just 1fps on the average framerate separating the two. The choice here will come down to Nvidia offering its Ray Tracing and DLSS features as well as arguably a more attractive, more refined and quieter card, at least comparing the stock cards I've received.
+Far Cry 5 benchmark
+At 1080p it was again a fairly even match, while at 1440p, the AMD GPU's average frame rate leaped ahead and was actually quicker than the RTX 2070 Super, although the latter had a noticeably higher minimum frame rate. That average frame rate was again fairly rapid at 4K, where the RTX 2060 Super was a little slower.
+Forza Horizons benchmark
+If you're a Forza fan then AMD is clearly the way to go as this benchmark still loves Redeon cards. I'm reluctant to read too much into this, though, seeing as RX Vega 64 is still top dog, showing some rather crazy frame rates even compared to the RX 5700 XT, which it gets beaten by convincingly in every other test, but it's a highly-rated and popular racing sim nonetheless.
+Shadow of the Tomb Raider benchmark
+At 1080p the RX 5700 XT had a decent lead over the RTX 2060 Super, but this diminishes as you increase resolutions, with 4K seeing low single-digit frame rate differences. Of course, if you enable DLSS in this game, the Nvidia card leaps ahead and is by far the better buy, if you've jumped onto the DLSS bandwagon plus you get Ray Tracing support here too - something Radeon currently lacks.
+World of Tanks benchmark
+The final game test is World of Tanks and I've included this purely for a high frame rate/high refresh rate comparison given the popular pro-gaming scene with this title. At 1080p the RTX 2060 Super was the better buy, outstripping the RX 5700 XT but a decent margin. However, even at 1440p the difference becomes negligible and at 4K the two cards perform almost identically.
+Power consumption
+Despite using a 7nm manufacturing process, the RX 5700XT still uses more power than the RTX 2060 Super and sits similarly to the RTX 2070 Super, which is a faster card. Still, this is better than the power-hungry Vega cards, although not by much.
+Noise and temperature observations
+AMD and Nvidia have employed quite different approaches to cooling, with Nvidia's choice to go the premium, dual-fan route with a very attractive housing, while AMD employes the familiar radial blower fan design, which to my eyes isn't as attractive. However, AMD's cooler does at least have the benefit of shoving air out the back of your case while the Nvidia cards spill most of this back into it. So long as your case has balanced airflow this shouldn't matter too much. However, in testing, things were more clear cut. The RTX 2060 Super was far quieter and reached a peak temperature of 59°C with the same ambient, while the AMD card reached 75°C.
+Conclusion
+As usual, things are very title and resolution dependent, but in general, the RX 5700 XT proved to be a slightly better option at 1080p with the RTX 2060 Super mostly matching it above this. The main exception was in World of Tanks where the Nvidia card seemed better-able to handle the extra-high frame rates at 1080p, but again, above this things even out. There are exceptions there too, such as enabling DLSS in Shadow of the Tomb Raider, which results in a win for Nvidia, but overall above 1080p the cards are very evenly matched.
+However, the extra power consumption and basic cooler design compared to the RTX card meant that the RX 2060 Super was cooler-running and much quieter than its AMD counterpart, plus I'd argue it's better-looking too. Aesthetics are subjective of course, but noise levels and temperatures are less so. For me, this would impact on my choice here and if I had to decide, I'd go for the RTX 2060 Super - it's cooler, much quieter and just feels decidedly more premium plus it's a good deal shorter too, although it does have a rear-mounted power cable. You also get the option of Ray Tracing and DLSS, but even discounting those, the Nvidia card is a slightly better buy overall. However, the RX 5700 XT in its stock form is still a decent, closely-matched alternative.
+
+NVDA price 3 days before article release: 4.128416538238525
+
+NVDA price 1 day before article release: 4.043447971343994
+
+NVDA price the day of article release: 3.980839252471924

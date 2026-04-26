@@ -1,0 +1,22 @@
+IBM And NVIDIA Reach The Summit: The World's Fastest Supercomputer
+
+Jun 12, 2018, 12:20pm EDT
+
+IBM
+, 
+NVIDIA
+, and the U.S. Department of Energy (DOE) recently announced that they have completed testing the world’s fastest supercomputer, Summit, at the Oak Ridge National Laboratory in Oak Ridge, Tennessee. Capable of over 200 petaflops (200 quadrillion operations per second), Summit consists of 4600 IBM dual socket Power 9 nodes, connected by over 185 miles of fiber optic cabling. Each node is equipped with 6 NVIDIA Volta TensorCore GPUs, delivering total throughput that is 8 times faster than its predecessor, Titan, for double precision tasks, and 100 times faster for reduced precision tasks common in deep learning and AI. China has held the top spot in the Top 500 for the last 5 years, so this brings the virtual HPC crown home to the USA.
+Some of the specifications are truly amazing; the system exchanges water at the rate of 9 Olympic pools per day for cooling, and as an AI supercomputer, Summit has already achieved (limited) “exascale” status, delivering 3 exaflops of AI precision performance. What may be more important, though, is the science that this new system will enable—it is already at work on drug discovery using quantum chemistry, chronic pain analysis, and the study of mitochondrial DNA.
+For those who cannot afford a full-fledged $100M supercomputer, NVIDIA also announced the new HGX-2 chassis, available from many vendors, which can be connected to a standard server for some serious AI in a box. DGX-2 supports 16 Volta GPUs, interconnected via the new NVSwitch networking to act as a single massive GPU, to deliver 2 petaflops of performance for AI and HPC. As you can see, NVIDIA is paying a lot of attention to the idea of fusing AI with HPC.
+The scientific advances in deep neural networks (DNNs) for HPC took center stage in the announcement. As I have noted in previous articles, DNNs are showing tremendous promise in High Performance Computing (HPC), not just on 
+Facebook
+. DNNs can be trained with massive datasets, created by running traditional simulations on supercomputers. The resulting AI can then be used to predict outcomes of new simulations with startling accuracy and can be completed in 1/1000th the time and cost. The good news for NVIDIA is that both supercomputing and AI are powered by—you guessed it, NVIDIA GPUs.  Scientists have even more tools to use GPU hardware and to develop GPU software with NVIDIA’s new platforms.
+Conclusions
+The announcement of Summit as the world’s fastest computer was not a surprise; as a public project funded by the U.S. DOE, Summit has frequently been the subject of discussion. What is significant is that NVIDIA and the DOE believe that the future of HPC will be infused with AI, all running on the same hardware. The NVIDIA GPUs are delivering 95% of Summit’s performance, cementing the legitimacy and leadership of GPU-accelerated computing. HGX-2 makes that an affordable path for many researchers and cloud providers, while Summit demonstrates the art of the possible and a public platform for research. When combined, AI plus HPC also paves the way for future growth for NVIDIA.
+Disclosure: Moor Insights & Strategy, like all research and analyst firms, provides or has provided research, analysis, advising and/or consulting to many high-tech companies in the industry, including IBM and NVIDIA, cited or mentioned in this article. The author does not have any investment positions in the companies named in this article.
+
+NVDA price 3 days before article release: 6.507389545440674
+
+NVDA price 1 day before article release: 6.450954914093018
+
+NVDA price the day of article release: 6.499468803405762

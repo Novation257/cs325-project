@@ -1,0 +1,14 @@
+Nvidia Graphics Cards Still Top Choice For PC Gamers [Infographic]
+
+Aug 21, 2018, 07:30am EDT
+
+After weeks of speculation, Nvidia has unveiled three new additions to its graphics card lineup. The RTX 2070, 2080 and 2080Ti are powered by the company's Turing GPU architecture and are expected to utilize ray tracing technology to provide improved shadow and lighting effects. Nvidia graphics cards are still the top choice for PC gamers, according to the results of the most recent Steam hardware survey. It involves millions of users on the Steam platform sharing their configurations and it's a major benchmark of hardware trends across the PC gaming community.
+The days when AMD ruled the PC gaming market are well and truly over. Back in June 2016, a quarter of Steam's gamers were using AMD GPU hardware and its share of the market steadily declined to just 13.9 percent by July of this year. Meanwhile, Nvidia has only tightened its stranglehold over the sector with its market share rising from 57 percent in June 2016 to 76 percent last month. Its absolute dominance shows with the top-10 most popular graphics cards among Steam users all Nvidia models. The GTX 1060 has the biggest slice of the platform's market with 12.9 percent, followed by the GTX 1050 Ti (9.9 percent) and GTX 1050 (6.4 percent).
+*Click below to enlarge (charted by Statista)
+
+
+NVDA price 3 days before article release: 6.372241497039795
+
+NVDA price 1 day before article release: 6.134619235992432
+
+NVDA price the day of article release: 6.270262241363525

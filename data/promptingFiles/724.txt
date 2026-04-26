@@ -1,0 +1,39 @@
+Notebook Review: MSI GE70 Apache Pro With Nvidia GTX 860M Graphics
+
+May 14, 2014, 07:48pm EDT
+
+Nvidia's
+ Maxwell architecture and GeForce Experience software breathes much-needed new life into traditional gaming notebooks like MSI's GE70 Apache Pro. It doesn't hurt that it's augmented by an exceptional keyboard from SteelSeries, a zippy 
+Intel
+ Core i7-4700HQ clocked at 3.2GHz, and Nvidia's powerful GTX 860M. With an affordable focus on high quality 1080p gaming, is this the right laptop for you?
+Before we take the deep dive and explore that question, here's a look at the GE70's key specs. This model retails as listed for $1299.
+• Intel Core i7-4700HQ quad-core processor
+• Windows 8.1
+• 17.3" Full HD Anti-Reflective Display (1920 x 1080)
+• NVIDIA GeForce GTX860M with 2GB GDDR5
+• 12GB (8GB+4GB) DDR3L 1600MHz system memory
+• 1TB HDD (7200RPM) and DVD SuperMulti Drive (There's room for you to add your own mSATA drives)
+• Killer E2200 LAN and Intel Dual Band Wireless-AC 3160
+The most important takeaway with MSI's GE70 Apache Pro is that it's very competitively priced for a 17" gaming laptop, especially when surveying the competition. That said, some minor and reasonable sacrifices occur at this price point with regard to aesthetics and form factor. It clocks in at 1.5-inches thick and weighs about 6 pounds, so it doesn't set any thinness records like 2013's Razer Blade, but neither does it resemble the hulking behemoth that is the ASUS G750 series. The red trim against matte black, however, gives it a sporty look. Overall it's a very safe, traditional design and easy to tote around.
+The look and feel of the chassis certainly erodes a bit of the premium look MSI is trying to accomplish with the brushed aluminum finish, but when you open the lid and put your hands on the custom SteelSeries keyboard things get decisively more positive. I hope their partnership with SteelSeries continues well into the future, because it's a satisfying addition to this notebook. The island-style keys have a coating which prevents any kind of slippage. It also has deep key travel, fully customizable color LEDs, and thoughtful tweaks that gamers will appreciate like shifting the Windows key to the right side of the keyboard.
+This next bit is for longtime followers of this column: I'll even go on record saying it's superior to my beloved Lenovo Y500 series keyboard.
+MSI's touchpad doesn't invoke as much praise, other than it being roomy and serviceable. Granted, on gaming notebooks touchpads tend to be afterthoughts rather than crucial considerations. It looks and feels wonderful, it simply isn't as responsive as I'd like for all day use inside of Windows 8. Arm yourself with an external mouse for lengthy use. (I prefer Roccat's Kone Pure or the Sensei RAW from SteelSeries.)
+The GE70 Apache Pro ships with a matte 17.3" full HD display. It's just bright enough, has wide viewing angles, and exhibits very accurate color reproduction. Better, in fact, than laptops commanding twice as much coin (I'm looking at you Razer Blade). As the portal into the gaming experience, I'm usually very sensitive to a display's flaws; sure this isn't an eye-popping IPS panel but it's better than I expected at this price point.
+In the connections department, there's just enough to satisfy most people's needs. Separate headphone and microphone inputs, both an HDMI and VGA connection (Nvidia's GTX 860M can power external and internal displays simultaneously), three USB 3.0 ports and an "always on for charging" USB 2.0 port, and an SD card slot to round things out.
+It also has a DVD/RW drive, though I would have loved to see Blu-Ray take its place. On the plus side, it's nice to see a fast 1TB 7200 RPM hard drive, with enough room inside to house 2 additional mSATA drives if you're so compelled.
+With a 17-inch display, the dedicated GPU under the hood needs to be up to the task. Fortunately, Nvidia can now brag about significant performance gains over their prior GTX 700M series. Take a look at the 3DMark FireStrike benchmark.
+I'd say it's up to the task. In both synthetic and gaming benchmarks, the Maxwell-based GTX 860M outperforms laptops I've tested with the 765M and 770M. Understandably, the tricked out Alienware 17 beats it with Nvidia's top of the line 780M from last year, but all three laptops in this example cost considerably more.
+Metro: Last Light. The great equalizer. More demanding than Crysis 3, I can rest assured that if a piece of hardware can capably run it on High quality settings, it can easily run anything else for the next few years. So I pushed the limits and tested Tomb Raider, Grid 2, and BioShock Infinite on Ultra and walked away smiling. Sure, we're not hitting 60fps, but we're also putting extreme demands on Nvidia's lower-priced, midrange notebook GPU. I'm satisfied!
+Bottom line on gaming: I'm confident recommending this machine for all AAA games on medium to high settings at 1080p. And if you're a Twitch junkie, Nvidia's Shadowplay recently debuted on notebooks, meaning you can simultaneously stream without taking a noticeable hit to your framerate.
+At this point folks, I think it's time we point our fingers at the battery manufacturers and let the OEMs off easy. It's the next holy grail of mobile technology, and it seems only 
+Apple
+ has figured out the secret sauce with their MacBook Air. Whether or not you share that opinion, we can all agree that lengthy battery life and unplugged gaming don't mix. The MSI GE70 is no exception.
+In PCMark 8's Creative Battery Benchmark, with brightness at 50% and Wireless networking on, I got 1:54 of juice. That may seem unremarkable but it's not as dismal as it appears on the surface. This particular battery test is demanding and taxes the system more than a simple movie playback loop. Last year's Alienware 14 gets 2:03 in the same test, and the mighty Asus G750JX turns in 2:32. You'll get much more battery life using it for daily browsing, and considerably less when gaming.
+Simply put: if beefy battery life is of paramount importance, you should look elsewhere. At this pricepoint and form factor, I'm expecting to play my game library plugged in so I'm willing to forgive this drawback in light of the systems many other bright spots.
+For $1299, the MSI GE70 Apache Pro is a strong value, and Nvidia's GeForce Experience software brings more to the table than what's visible on spec sheets. The CPU can handle anything, Nvidia's 860M turns in a surprisingly strong performance, and the SteelSeries keyboard makes this one of the most customizable and comfortable notebook gaming experiences. My gripes (Touchpad, battery life) are minor and not enough to detract from a hearty recommendation.
+
+NVDA price 3 days before article release: 0.4273863136768341
+
+NVDA price 1 day before article release: 0.4328323006629944
+
+NVDA price the day of article release: 0.4285702407360077

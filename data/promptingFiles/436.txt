@@ -1,0 +1,16 @@
+Pelosi Misses Out On Millions After Selling Nvidia Stake To Avoid 'Misinformation' Last July
+
+Jun 30, 2023, 11:40am EDT
+
+Rep. Nancy Pelosi (D-Calif.) and her financier husband intentionally sold 25,000 shares of Nvidia at a loss last July to avoid public scrutiny, leaving behind millions of dollars in unrealized profit had they held onto the chipmaker stock amid its meteoric rise this year.
+Paul Pelosi sold 25,000 shares of Nvidia at a share price of $165.05 on July 26, 2022, his politician wife disclosed in a regulatory filing at the time, taking a $341,365 loss on a stake worth $4.1 million.
+That same position was worth $10.5 million Friday, when Nvidia traded at $422 per share, meaning Pelosi left more than $6 million on the table by closing his position on the chipmaker when he did.
+But the ill-timed trade was intentional: Drew Hammill, Nancy Pelosi’s then-deputy chief of staff, told Forbes last year that Paul Pelosi “decided to sell the shares at a loss rather than allow the misinformation in the press regarding this trade to continue,” alluding to the sale coming shortly before the Senate’s passage of legislation aimed at boosted domestic chipmakers like Nvidia.
+Nvidia shares are up about 155% since Pelosi’s trade, making it by far the best-performing stock on the S&P 500, according to FactSet data, riding the artificial intelligence boom to by far the highest share price in the company’s 24-year trading history.
+The Pelosis still own between $15 million and $75 million million worth of American tech giants Alphabet, Amazon and Apple despite holding no Nvidia, according to their annual financial disclosure. Paul Pelosi exercised $2.6 million worth of stock options in Apple and Microsoft last week. Headquartered just south of Pelosi’s congressional district in Santa Clara, Nvidia became the seventh $1 trillion company earlier this year after beating Wall Street’s expectations for recent sales and sharing “cosmological” profit forecasts due largely to its generative AI segment.
+
+NVDA price 3 days before article release: 41.84328842163086
+
+NVDA price 1 day before article release: 40.79011535644531
+
+NVDA price the day of article release: 42.26895904541016

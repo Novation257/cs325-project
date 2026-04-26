@@ -1,0 +1,21 @@
+MediaTek Reinvents The Smart Car, With Help From Partner Nvidia
+
+Mar 18, 2024, 06:00pm EDT
+
+MediaTek has announced four new SoCs for the next-gen automotive cockpit, the first to leverage Nvidia ADAS hardware and software.
+Last year, MediaTek announced it is collaborating with Nvidia to incorporate the AI leader’s technology into the next-gen automotive platform. Nvidia would provide the tech (HW and SW) for ADAS, and Mediatek would provide the silicon and software for in-cabin information and entertainment. Seems like a match made in heaven, with both companies doing what they do best.
+MediaTek is somewhat a new player in automotive cockpit infotainment silicon and software, going up against the leader, Qualcomm Technologies,  as well as in-house designed alternatives. Since a car is becoming a smart phone on wheels, MediaTek has already established itself with its Arm-based application processor, display controllers, and 5G modems needed to enter the automotive market. In fact, in mobile, MediaTek is now roughly tied with Qualcomm SoC volumes, albeit at a lower revenue share since it focusses on the volume smartphone market.
+But tackling the ADAS and autonomous driving by themselves would be a monumental task; consequently partnering with Nvidia makes a lot of sense. And the collaboration is already producing results announced at this week’s Nvidia GTC event.
+Announced last year, the new Dimensity line of SoCs hopes to offer a full range of advanced cockpit experiences at a lower cost than many competitors. There are four levels of SoCs OEMs can consider, supporting entry-level, mid-range, high-end, and premium features. The SoCs support on-die Nvidia GPUs to support ADAS as well as running Large Language models on the go.
+The new SoCs support multiple displays and speakers, including dashboard-spanning displays, in-mirror displays, Augmented Reality heads-up displays, and rear-seat entertainment screens.  Today, most OEMs use multiple SoCs to accomplish this, so this could simplify designs and lower costs.
+The Nvidia AI software and hardware ADAAS technology complements the MediaTek Smart Cockpit story. Each company can focus on what they do best, combining discrete and integrated SOC tech to meet an auto OEM’s specific requirements.
+One of the Dimensity SoC features I would love to have on my car is the emergence of personalized AI that can recognize a driver and configure the experience based on personal history, frequent routes, settings, favorite radio stations, seat configs, etc. And with a conversational AI with natural language support, we have instant access to information, guidance, and entertainment with just the spoken word.
+The battle for cockpit Infotainment and ADAS control just got very interesting, with a new alternative for OEMs to consider. By partnering with Nvidia, MediaTek gets access to advanced features and credibility, all with the power of Nvidia Drive hardware and software with which OEM’s are already familiar and trust.
+Disclosures: This article expresses the author's opinions and
+should not be taken as advice to purchase from or invest in the companies mentioned. Cambrian AI Research is fortunate to have many, if not most, semiconductor firms as our clients, including Blaize, BrainChip, CadenceDesign, Cerebras, D-Matrix, Eliyan, Esperanto, FuriosaAI, Graphcore, GML, IBM, Intel, Mythic, NVIDIA, Qualcomm Technologies, Si-Five, SiMa.ai, Synopsys, Ventana Microsystems, Tenstorrent and scores of investment clients. We have no investment positions in any of the companies mentioned in this article and do not plan to initiate any in the near future. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 90.83673858642578
+
+NVDA price 1 day before article release: 87.78746032714844
+
+NVDA price the day of article release: 88.40511322021484

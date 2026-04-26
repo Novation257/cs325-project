@@ -1,0 +1,26 @@
+Graphics Card Prices Drop Following Nvidia’s RTX 4070 Super Launch
+
+Jan 18, 2024, 09:13am EST
+
+Pricing of older graphics cards is starting to tumble following Nvidia announcing three new GeForce RTX 40-series Super graphics cards this month, with RTX 4070 Super reviews landing this week. The new cards all promise better performance at the same or lower price points than their predecessors and this is having a knock-on effect with pricing of other cards.
+Starting with the Nvidia GeForce RTX 4070, the new RTX 4070 Super isn't replacing it, but seeing as the newer card is hitting its old launch price of $599, the old card needs to sit at $549 or below to make sense seeing as the RTX 4070 Super is noticeably faster in games.
+There are plenty of price drops for the RTX 4070 already with the cheapest options sitting at just $535 from Newegg and Amazon including this Zotac Twin Edge and this Galax 1-Click OC 2X with the most recent cuts being in the last few days.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+The RTX 4070 Ti is going to be replaced by the RTX 4070 Ti Super so is essentially end of life, but it's also seeing price drops due to the much cheaper RTX 4070 Super performing similarly. A quick search online today saw plenty of models sitting below  $750 such as this MSI Gaming X Slim model, which fell to this price just yesterday from $780 and one of the cheapest models - the MSI Gaming Ventus 2X has fallen from $800 to just $724 in the last week.
+We're still some way off the RTX 4080 Super launch and the RTX 4070 Ti Super is still a week away, which might explain why RTX 4080 pricing hasn't fallen significantly yet. That hasn't stopped AMD doing so with its Radeon RX 7900 XT.  The card launched at a price of $899, but AMD is apparently introducing a special promotional pricing program for some outlets with a price of just $749 or lower.
+In fact, ASRock has some super-keen pricing already online with the Phanton Gaming RX 7900 XT sitting at just $709.99 reduced from $799 while this model from Sapphire has fallen from $899 to $729 in the last few days.
+The RTX 4080 Super is also going to replace the RTX 4080, which will also come under pressure from below with the RTX 4070 Ti Super. It will have the same 16GB of memory, 256-bit memory bus and far more CUDA, RT and Tensor cores than the RTX 4070 Ti. However, the RTX 4070 Ti Super with its 12GB to 16GB memory upgrade is probably the card out of the three new models that PC gamers are most keenly awaiting.
+I'll be reviewing both the RTX 4080 Super and RTX 4070 Ti Super very soon so make sure you follow me here on Forbes using the blue button below or find me on Facebook or YouTube.
+
+NVDA price 3 days before article release: 54.67657852172852
+
+NVDA price 1 day before article release: 56.01876068115234
+
+NVDA price the day of article release: 57.07211685180664

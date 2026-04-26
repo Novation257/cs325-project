@@ -1,0 +1,36 @@
+AMD Radeon RX 6800 XT Vs. Nvidia RTX 3080: Which Should You Buy?
+
+Nov 18, 2020, 09:00am EST
+
+Competition at the high-end of PC gaming graphics has been sorely missing for several years, but AMD (Nasdaq:AMD)  is back with a bang hot of the heels of its highly successful Ryzen 5000 launch earlier this month. The new Radeon RX 6000 series graphics card are today getting put through their paces and I'm pleased to finally offer full performance numbers below for the RX 6800 XT and RX 6800 and you can see my full review of the latter in this separate article.
+
+The new cards, which also include the RX 6900 XT to be released soon, sport the 7nm RDNA 2 architecture that introduces ray tracing for the first time on an AMD desktop graphics card, using Ray Accelerators. Each Ray Accelerator is able to calculate up to four ray/box intersections or one ray/triangle intersection every clock. As we saw with Nvidia's RTX cards, though, game support will vary depending on the implementation, with AMD supporting those based on Microsoft DXR and Vulkan APIs. However, extensions outside of this, such as Nvidia's extensions for games such as Wolfenstein: Youngblood, are not currently supported.
+AMD has introduced a feature called Smart Access Memory, which is exclusive to 6000-series cards. The feature expands the PCIe bandwidth to allow AMD Ryzen CPUs to access all of a graphics cards memory, which it claims can offer significant performance benefits. Of course, you will also need a Ryzen 5000-series processor and 500-series chipset motherboard. Nvidia will be releasing its own version of Smart Access Memory soon and will support Intel motherboards as well.
+The new cards use a triple axial fan design with air exhausting out the sides of the card - there are no vents at the far ends. The RX 6800 stays within the 2-slot design while the RX 6800 XT is slightly more girthy at 2.5 slot, but both cards are 267mm long. With no RTX-style flow-through fan and smaller dimensions than the RTX 3080, the RX 6800 XT is likely to be a better match for some PC cases, especially small form factor ones.
+My test system includes an Intel Core i9-10900K and 16 GB 3,466MHz Corsair Vengeance DDR4 memory. The system is the same as the one I used for my Nvidia RTX testing, so does not support PCIe 4.0 and obviously lacks support for AMD's Smart Access Memory too, but so do the vast majority of gaming PCs out there. I intend to compare both it and Nvidia's implementation in a future article instead.
+Benchmarks
+With ray tracing and DLSS enabled, Nvidia has a clear lead, with the RTX 3080 comfortably outstripping the RX 6800XT at 2560 x 1440.
+However, with ray tracing disabled, the AMD card actually offered a much higher minimum 99th percentile with a slight deficit on the average frame rate.
+At 4K, the difference was even larger with ray tracing and DLSS enabled with a sizeable lead for Nvidia's RTX 3080.
+Interestingly, the RX 6080 XT also fared less well at 4K without ray tracing, losing its lead over the Nvidia card, albeit only just.
+Nvidia has the lead in Far Cry New Dawn at 1440pm with noticeably higher minimum and average 99th percentiles.
+Switching up to 4K sees the two perform similarly but there seemed to be some bunching here which could be down to bottlenecks elsewhere.
+With DLSS and ray tracing disabled, it was tit for tat in Shadow of the Tomb Raider at 1440p, with the AMD gaining a higher average frame rate and Nvidia with higher minimum.
+Of course, if you switch on DLSS and ray tracing, Nvidia gets a big lead once again, offering nearly double the frame rates of the RX 6800 XT.
+As we've seen previously, at 4K, the AMD card seemed to struggle a bit when it's an even match with ray tracing disabled, falling a little behind the RTX 3080.
+As Wolfenstein uses an Nvidia ray tracing extension, AMD doesn't support ray tracing here yet so I had to re-run the numbers with it disabled on a smaller selection of cards to save time. It's a pretty close thing at 1080p with barely 2 percent between the cards.
+Switching up to 4K in Wolfenstein and once again, Nvidia takes a noticeable lead in both minimum and average 99th percentile frame rates.
+Borderlands 3 was a tit for tat mash up between the two cards with AMD offering the highest minimum frame rate and Nvidia the highest average.
+At 4K yet again, though, the RX 6800 XT lagged behind the Nvidia GPU by some margin.
+AMD has the last word, though, as the RX 6800 XT drew around 50W less under load, which is an impressive feat given it matched or bettered the RTX 3080 in many tests.
+The RX 6800 XT was exceptionally quiet in fan-terms and even in games its triple fan design rarely span to more than a waft and was quick to wind down and even turn the fans off under low loads. However, there was, on occasions, quite significant coil whine. Temperatures stayed below 65°C during testing too, which was 5-10°C lower than the RTX card.
+The picture isn't a particularly clear one with the RX 6800 XT as there are several factors muddying the water. Firstly, it's $50 cheaper, at least considering launch prices compared to the Founders Edition RTX 3080. This is good news for some game titles as the card matched or bettered the RTX 3080 in plenty of areas and where it fell short - well, it costs less so they can to some extent be forgiven and ultimately AMD still has a great product in these situations.
+Where it seems to fall short of expectations occasionally is at 4K, where it was regularly slower than the RTX 3080, even outside of ray traced scenarios. It doesn't happen everywhere but the majority of titles I benchmarked showed the same trend. Again, it does cost less and Smart Access Memory and PCIe 4.0 may well help it here and I'll be looking at this in a future article.
+Ray tracing, as always, is quite game dependant, but assuming you use DLSS, then Nvidia is always much faster. To quote PC Gamer's view on DLSS 2.0 "DLSS 2.0 is an effective and immediate gateway to a gratuitous performance bump with little to no visual impact", so I think this assessment and using it in these benchmarks is fair.
+Ultimately then, AMD has an attractive offering with the RX 6800 XT, especially if you game at 2560 x 1440. That probably comes with the proviso that you aren't too fussed about ray tracing. Wider support for the latter will come, as will AMD's own version of DLSS, which is apparently in the works, but it's great to see some much-needed competition for Nvidia at the high-end at last.
+
+NVDA price 3 days before article release: 13.25507640838623
+
+NVDA price 1 day before article release: 13.379931449890137
+
+NVDA price the day of article release: 13.386414527893066

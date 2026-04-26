@@ -1,0 +1,17 @@
+Nvidia Passes $500 For First Time Ever — Analysts Think It Can Explode Past Amazon
+
+Aug 24, 2023, 09:41am EDT
+
+Nvidia shattered its prior all-time high share price Thursday after a blockbuster earnings report again propelled the artificial intelligence leader’s stock – and some analysts think the company has much more room to grow.
+After Nvidia reported quarterly sales and profits which beat analyst projections by more than 20% apiece, its shares jumped about 7% to $502 shortly after open, set to shatter its prior intraday record of $482 set Monday.
+Nvidia’s results “delivered” despite being “one of the most anticipated earnings results we have ever seen,” Bernstein analyst Stacy Rasgon wrote in a Thursday note to clients, declaring the stock the “best” way on the market right now to play the AI craze.
+Wall Street consensus is that the stock has much more room to grow even after its nearly 350% rally since last fall: The median price target for Nvidia after its Wednesday earnings report is $620, according to 29 analysts tracked by FactSet, implying 24% upside.
+A $620 share price would send Nvidia’s market capitalization to $1.5 trillion, above $1.4 trillion Amazon.
+Some have even bigger aspirations: Rosenblatt analyst Hans Mosesmann upped his price target for the company from $800 to $1,100, pricing Nvidia’s fair valuation at $2.7 trillion, which would make it the second-most valuable company in the world, just behind Apple’s $2.8 trillion market cap.
+“Nvidia’s epic print and guide two quarters in a row is simply unprecedented and just getting started,” Mosesmann gushed, referring to the similarly blowout earnings report Nvidia delivered in May, inspiring a 24% stock surge in the first trading session that followed.
+
+NVDA price 3 days before article release: 46.93031311035156
+
+NVDA price 1 day before article release: 47.07920455932617
+
+NVDA price the day of article release: 47.12615966796875

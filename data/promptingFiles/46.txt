@@ -1,0 +1,24 @@
+Nvidia Will Invest $5 Billion In Rival Chipmaker Intel, Following $10 Billion Deal With U.S. Government
+
+Sep 18, 2025, 08:11am EDT
+
+andZachary Folk,
+Forbes Staff.
+Nvidia announced it will acquire $5 billion worth of chipmaking rival Intel’s shares and the two companies will collaborate to develop custom data center and personal computer products, boosting Intel’s stock as Wall Street indexes hit record highs Thursday.
+In a statement, Nvidia said the companies will work together to combine Nvidia’s advanced AI and computer chips with Intel’s x86 CPU architecture, which powers most desktops, servers and laptops around the world.
+As part of the deal, Intel will build new consumer chips that integrate its x86 CPUs with Nvidia’s RTX GPU chips and this will be used to power “a wide range of PCs.”
+Intel will also make a custom x86 CPU for use in datacenters that Nvidia will integrate into its AI machines and sell to its customers.
+As part of the deal, Nvidia will purchase around $5 billion worth of Intel’s common stock, at $23.28 per share—lower than Intel’s closing price of $24.90 on Wednesday—granting it a 4% stake in the struggling chipmaker.
+The two companies will also work to integrate NVIDIA’s NVLink—which allows the AI giant to connect multiple GPUs together—with Intel’s chips.
+Speaking at an online press conference on Thursday afternoon, Nvidia CEO Jensen Huang said the investment “reflects how excited we are about this partnership.”
+The Trump administration previously took a 10% stake in Intel—but Huang said the government “had no involvement in this partnership.”
+“They would have been very supportive, of course,” Huang added, claiming that Commerce Secretary Howard Lutnick was “very excited” about the partnership after they spoke about it.
+The Nasdaq climbed 1.2% to reach a new record high on Thursday in the hours after the deal was announced, while the S&P 500 and the Dow Jones Industrial Average rose .7%  and .5% respectively.
+
+Nvidia’s share prices rose steadily over the course of the morning, and were up 3.7% by Thursday afternoon. Intel surged as high as 29%—its single biggest day gain since October 1987. Rival AMD’s shares are down around 2.7% as the deal likely dents a critical moat the chipmaker had over Nvidia. Only AMD and Intel are licensed to manufacture x86 chips, however, this deal allows Nvidia’s powerful GPUs—which are used to power AI applications and graphically intensive tasks—to be integrated with Intel’s x86 CPUs.
+
+NVDA price 3 days before article release: 177.73049926757812
+
+NVDA price 1 day before article release: 170.27130126953125
+
+NVDA price the day of article release: 176.2206573486328

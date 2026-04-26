@@ -1,0 +1,25 @@
+World’s Largest Chip Sets AI Speed Record, Beating Nvidia
+
+May 28, 2025, 06:06pm EDT
+
+Updated May 29: number of transistors on the WSE chip
+Today I held the world’s largest computer chip in my hands. And while its size is impressive, its speed is much more impressive, and of course much more important. Most computer chips are tiny, the size of a postage stamp or smaller. By comparison the Cerebras WSE (Wafer Scale Engine) is a massive square 8.5 inches or 22 centimeters on each side, and the latest model boasts a staggering 4 trillion transistors on a single chip. All those trillions of transistors let the WSE set a world speed record for AI inference operations: about 2.5 times faster than a roughly equivalent Nvidia cluster.
+“It’s the fastest inference in the world,” Cerebras chief information security officer Naor Penso told me today at Web Summit in Vancouver. “Last week Nvidia announced hitting 1,000 tokens per second on Llama 4, which is impressive. We just released a benchmark today of 2,500 tokens per second.”
+In case all this is Greek to you, think of “inference” as thinking or acting: building sentences, images, or videos in response to your inputs, or prompts. Think of “tokens” as basic units of thought: a word, character, or symbol.
+The more tokens an AI engine can process per second, the faster it can get you results. And speed matters. Maybe not so much for you, but when enterprise clients want to add an AI engine to a grocery shopping cart so they can tell you that just one more ingredient will give you everything you need for Korean-Style BBQ Beef Tacos, they want to be able to do so instantly for potentially thousands of people.
+Interestingly, speed is about to get even more critical.
+We’re entering an agentic age, where we have AIs that can perform complex multi-step projects for us, like planning and booking a weekend trip to Austin for a Formula 1 race. Agents aren’t magic: they eat an elephant the exact same way you would … one bite at a time. That means exploding a big overall task into 40, 50, or a 100 sub-tasks. Which means much more work.
+“AI agents require way more jobs, and the various jobs need to communicate with each other," Penso told me. “You can’t have slow inference.”
+The WSE’s four trillion transistors are a part of what enables that speed. For comparison, the Intel Core i9 has just 33.5 billion transistors, and an Apple M2 Max chip offers just 67 billion transistors. But it’s more than sheer number that builds a compute speed demon. It’s also co-location: putting everything together on one chip, along with 44 gigabytes of the fastest RAM (memory) available.
+“AI compute likes a lot of memory,” Penso says. "Nvidia needs to go off-chip but withCerebras, you don’t need to go off-chip."
+Independent agency Artificial Analysis corroborates the speed claims, saying it tested the chip on Llama 4 and achieved 2,522 tokens per second, compared to Nvidia Blackwell’s 1,038 tokens per second.
+“We’ve tested dozens of vendors, and Cerebras is the only inference solution that outperforms Blackwell for Meta’s flagship model,” says Artificial Analysis CEO Micah Hill-Smith.
+The WSE chip is an interesting evolution in computer chip design.
+While we’ve been making integrated circuits since the 1950s and microprocessors since the 1960s, the CPU was the dominant force in computing for decades. Relatively recently, the GPU or graphical processing unit shifted from being an aide for graphics and games to being the critical processing component of choice for AI development. The WSE is not an x86 or ARM architecture but something entirely new that accelerates GPUs, Cerebras chief marketing officers Julie Shin told me.
+“This is not an incremental technology,” she added. “This is another leapfrog moment for chips.”
+
+NVDA price 3 days before article release: 132.7987060546875
+
+NVDA price 1 day before article release: 135.4680633544922
+
+NVDA price the day of article release: 134.7782440185547

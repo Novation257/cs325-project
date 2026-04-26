@@ -1,0 +1,23 @@
+Microsoft's DirectX 12 Enables Intel, AMD, Nvidia GPUs To Work Together
+
+May 06, 2015, 12:32pm EDT
+
+Remember that tantalizing rumor about 
+Microsoft's
+ DirectX 12 enabling AMD and Nvidia video cards to work together in sweet, pixel-pumping harmony? It turns out it was kind of true. A feature called "Multiadapter" will allow integrated and dedicated graphics solutions to work together in DirectX 12-coded games.
+Just about every desktop or notebook PC that ships contains an integrated GPU -- that is, an embedded graphics solution contained within the CPU. 
+Intel
+ has their Intel HD and Intel Iris graphics, and an increasingly popular CPU option from AMD is their APU, an "Accelerated Processing Unit" that contains a lower-tier Radeon GPU.
+These integrated graphics chips are capable of running the world's most popular but less graphically demanding games -- stuff like League of Legends, DotA 2, and Hearthstone -- but not every game. Not by a longshot. Which is why most gamers choose to install a dedicated (or "discrete") graphics card from Nvidia or AMD. But when that happens, the integrated graphics capabilities of your CPU all but fade from existence.
+Microsoft's Multiadapter in DirectX 12 takes aim at that problem, effectively making your integrated GPU useful again, and contributing to the post-processing workload. Which is, quite frankly, awesome since post-processing has a genuine impact on framerate and overall performance.
+Microsoft's Andrew Yeung explains: "Virtually every game out there makes use of postprocessing to make your favorite games visually impressive; but that postprocessing work doesn’t come free. By offloading some of the postprocessing work to a second GPU, the first GPU is freed up to start on the next frame before it would have otherwise been able to improving your overall framerate."
+In their testing, they used an Unreal Engine benchmark to pit two systems -- one with a dedicated Nvidia GPU, one with a dedicated Nvidia GPU + an Intel Integrated HD Graphics solution -- against each other in a race to render 635 frames. The Multiadapter system won, and delivered an average 39.7fps versus the single GPU's 35.9fps. That may seem insignificant, but consider this: That's a 10% performance gain for free. And there's more good news: Microsoft says that during these tests, the Intel GPU was only being 70% utilized. "Looking to the future, this tells us that the opportunity exists to extract even more performance out of the demo hardware," Yeung says.
+We've seen how simple driver updates can improve performance, so this is a very promising development.
+While it's highly unlikely we'll see mixed dedicated graphics cards -- like an Nvidia GTX 760 and an AMD Radeon 285 -- working in harmony under DirectX 12, you can see where the source of that original rumor was derived from.
+In theory, this means you will see AMD APUs working in tandem with dedicated Nvidia GPUs. While AMD has already implemented CrossFire capabilities between their APUs and a limited selection of dedicated Radeon cards, this blows the door wide open for developers to tap into the full potential of a gamer's hardware. Let's hope they do.
+
+NVDA price 3 days before article release: 0.547949492931366
+
+NVDA price 1 day before article release: 0.5306078195571899
+
+NVDA price the day of article release: 0.5322938561439514

@@ -1,0 +1,25 @@
+MLPerf 5.1: Nvidia Stays In The Lead While AMD Shows Off Its Latest
+
+Sep 09, 2025, 11:00am EDT
+
+The Nvidia juggernaught faces increased competition, but keeps innovating in silicon,  software and systems design to keep its No. 1 position in the AI market. The industry standard MLCommons organization has just released the latest benchmarks for inference processing, which is now growing faster than training large AI models. Inference now reportedly accounts for 80–90% of total AI hardware utilization once models are deployed at scale.  The Inference market is projected to grow from $106 billion in 2025 to over $254 billion by 2030—a pace fueled by generative AI, agentic AI, and growing real-time application workloads, according to Markets and Markets
+Nvidia published GB300 benchmarks, and AMD published a slew of benchmarks across the MI product line, including the new MI355X. I was pleased to see that Nvidia and its partners submitted some serious benchmarks for the new Blackwell Ultra class GPUs. And of course, as has been the case since the beginning of MLPerf, Nvidia ran all the models and beat back all the competition, the few that had the gumption to compete.
+As we discussed in another blog today, Nvidia has realized a significant performance boost by disaggregating inference serving into context and generation, deploying each phase of AI inference on separate GPUs. The results are dramatic; Nvidia showed that Blackwell with disaggregated inference outperformed Hopper GPUs by over five times.
+
+Nvidia was also quick to tackle the AI profit question. Faster AI equals more profitable AI. Nvidia calculates that Blackwell (not even Ultra) can deliver seven times more profitable AI than its Hopper predecessor, and that a $3M investment in NVL72 rack can deliver ten times that cost in profit.
+
+First, I want to note that AMD has begun to run and publish far more MLPerf benchmarks, which can help its partners better compete and sell AMD powered  AI servers. AMD submitted twice the number of benchmarks compared to the 4.1 round, and ran benchmarks with its latest ROCm software on three generations of GPUs.
+The MI355 looks good, however most of the 2.7X increase (probably close to 2x) in tokens/second is attributable to the use of FP4, first supported on the MI350. FP4 has  improved efficiency by up to 2X for all GPU vendors that support the smaller format while preserving accuracy.
+While the performance of the AMD MI325 is about even with the Nvidia H200, Nvidia has already begun shipping the B300, two generations past the H200 Hopper architecture. The MI355X was also benchmarked, but only in the smaller four- and eight-GPU nodes they can handle without a scale-up fabric and rack, which AMD plans to ship in next year with the MI400 family.
+AMD’s best opportunity to gain ground will come next year, with  the MI400 and the “Helios” rack-scale system. Of course, things like software and hardware like the Rubin CPX are not taken into account in the slide below, but this looks pretty competitive.
+The MLPerf community constantly faces this question: “Why don’t other companies run the benchmarks on their hardware?” For starters, it takes a lot of resources to run these benchmarks. And, most other silicon providers would say that these are not real workloads; they are proxies for the various models in the real world. They would rather spend their efforts running their prospective customers’ jobs. And thats a valid argument.
+But the real reason for most, not all, is that they would probably lose. Nobody has ever run an MLPerf benchmark faster than Nvidia. AMD understands, however, that their partners and customers use these benchmarks to justify the time and cost of running their real workloads on AMD to help steer purchase decisions. And I suspect that once Google has completed the build-out of their Ironwood supercomputer, they could submit some very impressive results to bolster their emerging reputation as excellent designers of AI. It is hard to resist proven bragging rights.
+Disclosures: This article expresses the opinions of the author and is not to be taken as advice to purchase from or invest in the companies mentioned. My firm, Cambrian-AI Research, is fortunate to have many semiconductorm firms as our clients, including Baya Systems BrainChip, Cadence, Cerebras Systems, D-Matrix, Esperanto, Flex, Groq, IBM, Intel, Micron, NVIDIA, Qualcomm, Graphcore, SImA.ai, Synopsys, Tenstorrent, Ventana Microsystems, and scores of investors. I have no investment positions in any of the companies mentioned in this article. For more information, please visit our website at https://cambrian-AI.com.
+
+
+
+NVDA price 3 days before article release: 171.63148498535156
+
+NVDA price 1 day before article release: 168.2820281982422
+
+NVDA price the day of article release: 170.7316131591797

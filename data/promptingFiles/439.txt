@@ -1,0 +1,30 @@
+NVIDIA And Intel Publish First GPT3 Benchmarks; AMD, AWS, And Google Are MIA
+
+Jun 27, 2023, 12:00pm EDT
+
+Let’s look into the results and explore why so many competitors chose not to play ball.
+Those who follow me know the drill:  MLCommons publishes benchmarking results every 3 months, alternating between inferencing and training. Then I explain the results and whine about the sparse competitive field.  Here we go again...
+For the uninitiated, MLCommons is a not-for-profit consortium of over 60 companies and institutions all working to define a suite of AI benchmarks across the most commonly used AI models, from image processing to language processing and all points in between. The MLPerf 3.0 version includes two new benchmarks to measure training time for the most important AI workloads today, one for Large Language Models using GPT3 and one for a new DLRM benchmark for Recommenders such as those used by Netflix, Amazon, and Facebook and just about every other eCommerce company.
+MLPerf 3.0 should get a lot of attention, as the new benchmarks represent two of the largest pools of AI tech, and AI profit, in use today . Unfortunately, previous participants  Google and Graphcore chose not to submit, and neither did AMD, AWS, Groq, SambaNova, and other contenders in the training arena.  If you are interested in in using one of these companies’ accelerators, I suggest you ask their vendors for their results (under NDA) before purchasing anything. Many have run these models for internal use, but chose not to publish the results.  You can probably guess why; if they had beaten NVIDIA, they would be shouting it from the rooftop. If they refuse to share them, ask them to run one of your own models using your own data.
+The GPT3 results are the first time we have seen apples-to-apples benchmarks for training the large language models that have recently taken AI from an esoteric tech to superstar status. Since training the full GPT3 costs about $10M and takes months to run, the MLCommons community came up with a subset that is both indicative of how well a platform performs on the full 185B parameter model, and that could be run at a reasonable cost and wall time.
+NVIDIA is really good at running these benchmarks, and as has always been the case, they ran every benchmark. For the GPT3 benchmark, NVIDIA only submitted their latest and greatest GPU, the H100, depending on their partners to run on the A100.
+I would note that we may be entering a period of leapfrogging, like we did in the old days of RISC CPU processing vendors. Intel Habana, which we will look at next, is saying they will come out with new software and hardware that will allow them to match or even beat the H100. But of course NVIDIA is quick to point out that the successor to the H100 is just around the corner as well. And of course AMD will release its new GPU later this year.
+Intel bravely submitted results for the Habana Gaudi2 platform and the latest Xeon CPU. CPU?  Yes, CPU.  The Xeon has been enhanced with matrix operations for AI, and while they are not in the same realm as Gaudi or NVIDIA, Intel says they are adequate for fine tuning AI models after training, and for inference processing.   The idea is to use the CPU you have if you are satisfied with the performance. And Intel is probably much better than AMD at running AI, since AMD Epyc does not support such a feature.  While AMD did not publish any results, I think it is safe to say that Intel has the lead in CPU performance for AI.
+Habana Gaudi2 is another matter.  Intel says it is the best alternative to NVIDIA, and the results are pretty strong, beating the NVIDIA A100 on four models as shown below.
+Habana Labs will release new software this September that will add FP8 support to the Gaudi2, which could significantly reduce the gap with the H100. However, for large language models, I would expect the H100’s Transformer Engine, which NVIDIA confirmed was used in the H100 benchmark run referenced above, to continue to keep NVIDIA in the lead for LLMs.
+Suddenly there is a massive pile of cash on the table: ChatGPT and its ilk will likely create a multi-billion-dollar market while potentially threatening some very large companies like Google.	Benchmarks like MLPerf help semiconductor companies understand the strengths, weaknesses, and optimization opportunities of their chips for running ML. And it helps customers understand the competitive landscape, if they can see hidden results.
+Performance has never mattered as much as it does today.  If you are taking a year to train an LLM, getting it trained in 3-4 years with a slower but cheaper chip is not really an option, is it?
+Right now, as in the past, there is only one game in town for training large models: NVIDIA. Intel has a shot at becoming a legitimate second source with upcoming new software and hardware.  The AMD MI300 also has a shot at nudging out Habana Labs Gaudi3 next year, however we don’t think either company will have anything that can challenge NVIDIA’s H100 with the Transformer Engine.
+Disclosures: This article expresses the opinions of the
+author, and is not to be taken as advice to purchase from nor invest in the
+companies mentioned. My firm, Cambrian-AI Research, is fortunate to have many semiconductor firms as our clients, including Cadence, Cerebras Systems,
+Esperanto, IBM, Intel, NVIDIA, Qualcomm, Graphcore, SImA,ai, Synopsys,
+Tenstorrent  and Ventana Microsystems. We have no investment positions in
+any of the companies mentioned in this article. For more information, please
+visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 42.99138641357422
+
+NVDA price 1 day before article release: 40.60026931762695
+
+NVDA price the day of article release: 41.84328842163086

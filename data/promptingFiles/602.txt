@@ -1,0 +1,15 @@
+Former GPU Kingpin, Matrox, Collaborates With NVIDIA To Introduce Specialized Range Of New Graphics Cards
+
+Jan 22, 2020, 04:22pm EST
+
+Long time PC enthusiasts that were around in the early days of 3D acceleration, when products from 3Dfx, S3, and ATI were all the rage, will no doubt be familiar with Matrox. Back in the early days 3D accelerated PC gaming, Matrox was well known for having some of the best 2D cards (which were often paired to 3Dfx Voodoo cards, which handled 3D workloads). Later, Matrox introduced some interesting contenders in the 3D accelerator space as well. Matrox’s long, storied line-up of graphics cards include legends like the Matrox Mystique, G200, G400 MAX, and the Parhelia, which was one of the first graphics cards to accelerate 3D games across multiple displays.
+Eventually, NVIDIA and AMD (after acquiring ATI) ended up dominating what became today’s GPU market, and tertiary players like Matrox couldn’t keep up. Matrox, however, pivoted somewhat and leveraged their display expertise to entrench the company into specialized markets, like display walls and medical imaging to name a few, with product purpose-built for their respective user base. Through it all, Matrox used its own graphics chips, but today the company announced a new partnership with NVIDIA for the development of a new range of multi-display embedded graphics cards purpose-built for high-density video walls.
+“Matrox is thrilled to work alongside NVIDIA, the leader in GPU computing, to bring to market a new standard of high-density video walls,” said David Chiappini, executive vice president of research and development at Matrox. “This collaboration is yet another example of our commitment to expanding our video wall portfolio while customers continue to benefit from our graphics expertise, world-class engineering, dedicated technical support, and long product life cycles.”
+The new range of cards will feature single-slot form factors, and leverage custom NVIDIA Quadro embedded GPUs designed for commercial and 24/7 critical environments. The cards will support up to four synchronized 4K displays per card, though multiple cards can be used to drive up to 16 displays from a single system.
+Pricing and availability wasn’t mentioned, but the card will work with Matrox’s PowerDesk software for easy management of the display configurations and video wall setup.
+
+NVDA price 3 days before article release: 6.19523811340332
+
+NVDA price 1 day before article release: 6.170600891113281
+
+NVDA price the day of article release: 6.224606037139893

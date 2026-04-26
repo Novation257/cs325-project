@@ -1,0 +1,32 @@
+Nvidia CEO Jensen Huang Presents Without Rehearsing. Should You?
+
+Mar 24, 2025, 05:30am EDT
+
+Nvidia CEO Jensen Huang delivered a much-anticipated keynote at GTC 2025, the company’s annual developers conference, and did so “without a net.” Huang’s bold statement set the tone for a brilliant presentation which he famously does not rehearse.
+“There are no scripts, there’s no teleprompter,” Huang told the 25,000 attendees who had gathered at a San Jose stadium.
+For the next two hours Huang unveiled the next generation of groundbreaking chips that will power artificial intelligence.
+The New York Times dubbed Nvidia’s conference “The Super Bowl of A.I.” But Huang, unlike athletes who practice relentlessly for the big game, chooses not to rehearse for the spotlight. Instead, he prefers a “grip it and rip it” style of presenting.
+If you watch the presentation, even part of it, you’d think Huang had practiced for weeks. Huang delivered the presentation, demos, slides, and messages as effortlessly as someone who’s rehearsed for a TED Talk hundreds of times—and Huang covered a lot more ground than speakers do in an 18-minute TED Talk.
+Yes, Huang’s approach looks authentic, casual, and conversational—a difficult feat to achieve in any professional business presentation, let alone a presentation that takes a deep dive into extraordinarily complex technology. Huang easily shifts between explaining complex technology and interacting with AI-powered robots on stage.
+But just because Huang doesn’t rehearse, should you follow his lead?
+Don’t even think about it.
+Although Huang may not “rehearse” in the traditional sense of the word, his keynotes are not as ‘unscripted’ as they appear. And that’s because Huang knows the material better than anyone.
+Before you present “without a net,” remember that Huang has been leading the company he co-founded for over thirty years, making him one of the longest-serving CEOs in America. And it’s nearly impossible to top his work ethic. Huang is famous in Silicon Valley for keeping a grueling schedule of fourteen-hour days, seven days a week.
+In short, he knows his stuff. And he knows what’s coming next in the presentation. According to Nvidia’s marketing chief, Huang worked with product divisions for months before the conference and collaborated with marketing on slides and demonstrations.
+Huang doesn’t need a teleprompter because his mind is the teleprompter. Huang can speak for hours about any one of the technologies (or slides) the company makes. The only thing he needs to pay attention to is the time, so he doesn’t run into the other scheduled events.
+Huang’s deep knowledge of the material allows him to speak “off the cuff” about the history of technology cycles, the power of new chips, and the future of artificial intelligence.
+“This slide is genuinely my favorite,” Huang said about 23 minutes into the keynote. The slide represented the company’s core strategy and long-term vision, which Huang had been preaching for twenty years since Nvidia’s first developers conference. In other words, he’s practiced it for twenty years.
+So, the next time you present a newly created slide that you’ve rehearsed twice, remember that Huang has been “presenting” his vision for decades.
+Most speakers shouldn’t attempt Huang’s “grip it and rip it” style because if they don’t share Huang’s deep subject matter expertise and comfort with the message, the result will be a rambling, convoluted, and confusing presentation.
+However, with a little practice, you can make even the most complex information engaging and conversational. According to research studies, practicing a presentation until you’ve internalized every slide will alleviate anxiety. If you feel confident about the content, you’ll start enjoying the process instead of dreading it. Your audience will notice, too.
+Rehearsing your presentation again and again—I recommend at least ten times before the actual event— can lead to several positive outcomes, in addition to building confidence and reducing anxiety.
+Your pacing will become more natural, allowing you to speak conversationally rather than trying to memorize your lines.
+The last point is critical. Using too many filler words is a sure sign a speaker failed to practice. For example, Jensen Huang’s keynote was remarkably clear of fillers. I put the transcript of the keynote into a tool that analyzes grammar, and it returned just ten clear instances of “um” or “ah” in the entire 2-hour, 11-minute presentation. For context, one study found that college professors use about 3 to 5 filler words per minute in a typical lecture. That would translate into nearly 400 fillers in Huang’s keynote.
+Filler words are not inherently bad, of course. They’re part of our natural conversation. But studies have found that too many fillers disrupt speech and leave an unfavorable impression on the audience.
+Jensen Huang’s unique presentation style works for him and it’s highly engaging, but it’s unlikely to work for you--unless you have thirty years of product knowledge. But with just enough practice you, too, can appear authentic, knowledgeable, and engaging in your next presentation.
+
+NVDA price 3 days before article release: 117.4923095703125
+
+NVDA price 1 day before article release: 117.6722640991211
+
+NVDA price the day of article release: 121.38140106201172

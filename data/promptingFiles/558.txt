@@ -1,0 +1,34 @@
+AMD Radeon RX 6900 XT Vs. Nvidia RTX 3090: And The Winner Is?
+
+Dec 08, 2020, 08:59am EST
+
+Today, we're finally allowed to lift the lid on reviews and performance figures of AMD's Radeon RX 6900 XT - it's new flagship graphics card and the most powerful desktop gaming graphics card the company has ever produced. It costs hundreds of dollars less than Nvidia's own flagship - the RTX 3090, so clearly, all eyes are on performance to see if AMD really does have an RTX 3090 killer on its hands.
+You can see my video review below including unboxing.
+
+Looking at the specifications, though, the RX 6900 XT isn't offering a singificant leap in any area over the RX 6800 XT. The stream processor count rises from 4,608 t0 5,120, the ray accelerators from 72 to 80 and the memory speed, capacity and interfaces are the same too (16Gbps, 16GB and 256-bit). Even the TDP is the same so while some specs are beefed up, we're not expecting this card to be light years ahead of the RX 6800 XT.
+The test system includes a BarrowCH Rhopilema water-cooled test bench with Corsair Hydro X water-cooling components, an Intel Core i9-10900K and 760p SSD, MSI MEG Z490 Ace motherboard, 16GB Corsair Vengeance RGB Pro memory and a Corsair RM850i PSU.
+It's a good start for AMD here with a minimum 99th percentile frame rate matching the RTX 3090 but the latter has a much higher average frame rate. It's also not much faster than the RX 6800 XT, and the average frame rate is only 4fps better than the RTX 3080 too.
+With DLSS and ray tracing enabled, Nvidia as usual has a sizeable advantage, with the RTX 3080 outstripping the RX 6900 XT by a large margin. The RX 6900 XT only managed to match the RTX 2080 Ti, which is actually impressive given AMD lacks an equivalent to DLSS. It was also much faster than the RX 6800 XT as well.
+At 4K with ray tracing disabled, there's not much between a lot of the front runners except the RTX 3090's average frame rate, which was huge. However, the RX 6800 XT was a just under 10 percent quicker than the RX 6800 XT but barely any faster than the RTX 3080.
+Once again  with ray tracing disabled, Nvidia has a lead on the average frame rates with both the RTX 3080 and 3090, but the RX 6900 XT was very close to the RTX 3090 on the minimum 99th percentile.
+With ray tracing and DLSS enabled, though, and Nvidia comes out on top and for some reason the RX 6900 XT didn't offer much more grunt here than the RX 6800 XT either.
+Far Cry new Dawn at 1440p tends to lean on the CPU quite a bit so there's lots of bunching at the top, but Nvidia did seem to have an advantage here with the RTX 3080 clearly the better card and making the RTX 3090 look like poor value too.
+However, at 4K the RX 6900 XT managed it's best result here, ultimately beating the RTX 3090 fair and square and offering a noticeably higher average frame rate than the RX 6900 XT.
+Another good result was Borderlands at 1440p where it came a close second to the RTX 3090 on the minimum 99th percentile frame rate, but lost out on the average frame rate to both the RTX 3090 and 3080, despite managing a much higher minimum than the latter too. Again it was around 10 percent quicker than the RX 6800 XT.
+At 4K, while it maintained the lead over the RX 6800 XT both Nvidia cards leaped ahead with much higher numbers.
+Wolfenstein is heavily optimised for Nvidia and it's no surprise to see the RTX 3080 snapping at the heals of the RX 6900 XT. Given it's cheaper, if this is one of your most-played games, Nvidia is far stronger here and the RTX 3090 is a monster. Also the RX 6800 XT punches above its weight here too.
+At 4K things don't improve much and the RX 6900 XT is essentially matching the RTX 3080, although it offers more noticeable gains over the RX 6800 xT.
+At 1440p with ray tracing disabled it's another good result for the RX 6900 XT, bettering the average frame rate of the RTX 6900 XT although suffering a slower minimum frame rate. However, it was significantly faster than both the RTX 3080 and RX 6800 XT, largely justifying the extra outlay.
+At 4K the RTX 3080 gained ground and essentially matched the RX 6900 XT, but the RTX 3090 didn't offer much more performance for the extra cash either. The RX 6900 XT was also much faster than the RX 6800 XT.
+With ray tracing enabled at 4K along with DLSS, Nvidia once again has the advantage and the RTX 6900 XT did it's usual thing of matching the DLSS-enabled RTX 3080 and offering significantly more performance than the RX 6800 XT too.
+AMD's power efficiency is impressive with the RX 6900 XT drawing a huge amount less power than the RTX 3090, but with this result dealing with Ray Tracing and maximum visuals in Metro Exodus, the extra hardware Nvidia has and extra performance means this is maybe expected to some degree.
+Finally, the thermals are a fair bit higher for the RX 6900 XT than they were for the RX 6800 XT, yet the card remained very quiet during testing except for the odd bit of coil whine.
+This card more than any other from AMD and Nvidia over the last few months, needs more consideration before reaching for your wallet. It's a monster to be sure, but it rarely offers RTX 3090-beating performance, at least in my tests, and there are plenty of instances, even when DLSS and ray tracing are disabled, that the RTX 3080 is faster, never mind the RTX 3090. The RX 6800 XT is rarely that far behind either, meaning the value proposition is questionable over both the 6800 Xtand 3080, which are both great high-end cards. It's not a clean sweep, then, and there are certainly some early driver gremlins to be ironed out that will likely improve performance too.
+Ultimately, in many tests the RX 6900 XT managed to better the RTX 3080 and even match or better the RTX 3090 in some situations too, which shows promise for the forces behind AMD's graphics architecture. It also in these situations offers significantly more performance than the RX 6800 XT and has very low power draw compared to the RTX 3080 and 3090.
+You'll also see more performance using PCIe 4.0 from both red and green teams as well as from Smart Access Memory - neither of which I've used here, but they will require the latest AMD motherboards and Ryzen processors as well - items only a minority of gamers have. Even with these features though, it's not a clean sweep for the RX 6900 XT and you'll need to carefully weigh up your options if you have around $1000 to spend.
+
+NVDA price 3 days before article release: 13.357709884643556
+
+NVDA price 1 day before article release: 13.56785774230957
+
+NVDA price the day of article release: 13.311842918395996

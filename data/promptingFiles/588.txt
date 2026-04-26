@@ -1,0 +1,25 @@
+Mercedes-Benz And Nvidia Want To Make The World’s Most Advanced Autonomous Cars
+
+Jun 26, 2020, 02:09pm EDT
+
+Mercedes-Benz and NVIDIA want to make the world's most advanced autonomous cars. They plan to implement an in-vehicle computing system and artificial intelligence (AI) computing infrastructure that will roll out across the next-generation Mercedes-Benz fleet starting in 2024.
+Ola Källenius, CEO of Mercedes-Benz AG and NVIDIA CEO Jensen Huang, made the announcement at a digital media event on June 23, 2020.
+The new infrastructure will enable perpetually upgradeable automated driving functions and the ability to automate driving of regular routes from address to address. Every next-gen model will have the highest performance NVIDIA DRIVE AGX Orin solution and be capable of a wide range of automated and assisted modes from day one and during the car's lifespan.
+“For consumers, having a fundamentally upgradeable car means [..] they will be able to enjoy their vehicle a lot longer than before,” said Bernhard Wardin, a spokesperson for autonomous driving and artificial intelligence at Mercedes-Benz. “It becomes more desirable and is even able to improve on safety. We truly believe, that added functionalities over time will be a significant value proposition to our customers.”
+Danny Shapiro, Senior Director of Automotive at NVIDIA, said that all modern devices are software-defined and upgradeable today.
+"Think of your smartphone, tablet, or laptop. Why shouldn't the same be true for your car? The car of the future must be software-defined," said Shapiro. "It starts with having a high-performance computing platform in the vehicle that runs a complex software stack enabling the most advanced features today, and is ready to run future applications that may have not even been envisioned yet."
+Shapiro says that with over-the-air software updates, vehicles can continuously receive the latest automated driving features. This means the cars will be state-of-the-art longer, no matter the year of the model.
+"For consumers, this will bring more value over the entire lifetime of the car," said Shapiro.
+As for the fate of the automated car, Shapiro says this a watershed moment for the industry.
+"Breakthroughs in AI and computing are opening future fleets to dramatic new functionality, fundamentally transforming the vehicle architecture for the first time in decades," said Shapiro. "This transformation is occurring rapidly, as the market for AI hardware, software and in-car services is worth about $5 billion today."
+Shapiro says that by extending these capabilities to a fleet of approximately 100 million vehicles, the market can grow to $700 billion.
+"This software-defined architecture is also opening up new business models for automakers. Mercedes-Benz can add capabilities and services over the air at any time through the life of not just one customer but also across customers through the life of the car," said Shapiro.
+Shapiro also believes that new business models will open up for any carmaker that adopts a software-defined architecture.
+"Revenues can be realized at the point of sale, as well as any time during the life of the vehicle. New features may be free of charge, single charge, pay by use, or subscription-based," said Shapiro. "Customers have shown that when they see the value, they are more than willing to pay for new apps and services."
+“The shift from fixed functions of mobile phones to app-based smartphones dramatically changed the competitive landscape and created a developer ecosystem, as a result of this, consumers have benefited from the continual technology innovation,” said Shapiro.
+
+NVDA price 3 days before article release: 9.417387962341309
+
+NVDA price 1 day before article release: 9.457249641418455
+
+NVDA price the day of article release: 9.123406410217283

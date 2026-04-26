@@ -1,0 +1,17 @@
+AMD Beats Nvidia in GPU Shipments For First Time In 5 Years
+
+Aug 29, 2019, 12:34pm EDT
+
+The GPU market has been a rollercoaster for the last decade, in no small part thanks to the cryptocurrency mining, but it seems that 
+AMD
+ is the one that's turned its fortunes around so far in 2019, overtaking Nvidia in desktop PC GPU shipments for the first time since 2014.
+The data, compiled by Jon Peddie Research, shows AMD trailing Nvidia until Q1 this year and by Q2 there's a clear gap between the red and green teams - the first time in five years that AMD has been on top.
+According to the research, AMD increased shipments by 9.8% from Q1 to Q2, while Nvidia's shipments were flat by comparison. Speculation about just what this means and the figures involved has been rife as so many factors come into play, not least of all the aftereffects of the cryptocurrency mining boom. However, we're not talking on-the-ground market share here in a Steam Hardware Survey sense - more on that in a minute - but actual GPUs sold and AMD is on the rise.
+This doesn't just take discrete GPUs into account, though, but also integrated GPUs such as those found in APUs. The figures do not include consoles - only desktop products including notebooks. My guessing is that Nvidia's pricy RTX series not leaving too many options for those on low to medium budgets and price drops/better availability for older AMD GPUs such as the Radeon RX 580 had something to do with these figures as that's exactly around time the RX 580, which is a relatively affordable GPU, became sought after again.
+Similarly, laptops are not entirely Nvidia's domain and while it doesn't offer steller market share, AMD does have a presence both with APUs and GPUs in notebooks - something the report also highlighted, in addition to falling tablet sales, but rising PC sales. Meanwhile, the mountain AMD still has to climb is fairly evident in the Steam Hardware Survey, which still paints an enviable position for Nvidia, which dominates market share, in no small part thanks to the venerable GTX 1060. AMD has disputed these figures, but even if reality swings more in AMD's favor, the green team would still be on top. Thankfully, the Radeon RX 5700XT and RX 5700 have proven themselves to be competitive, at least with Nvidia's mid-range GPUs, so revisiting the Steam Hardware Survey in a few months might paint a slightly different picture.
+
+NVDA price 3 days before article release: 4.110527992248535
+
+NVDA price 1 day before article release: 4.009401321411133
+
+NVDA price the day of article release: 4.153143882751465

@@ -1,0 +1,27 @@
+Nvidia’s GeForce RTX 4070 Super Arrives For Gamers And Shakes-Up Pricing
+
+Jan 16, 2024, 06:43pm EST
+
+If there’s one dial you can turn that will get the attention of PC gamers and content creators when it comes to graphics cards, it’s pricing. And if a major player also happens to deliver more performance and features for less, typically it’s a winning combo. Today, NVIDIA launched the first salvo in its GeForce RTX 40 Super series GPU line-up, with the new GeForce RTX 4070 Super leading the charge, along with a stronger overall value proposition.
+NVIDIA’s new GeForce RTX 4070 Super Founders Edition graphics cards for gamers and creators drop into the $599 price band, where a good chunk of market demand exists for enthusiast that want more performance, but on a reasonable budget versus higher-end GeForce RTX 40 series and AMD Radeon RX 7000 series graphics cards.  There will also be new OEM partner offerings based on the RTX 4070 Super, from the usual suspects like MSI, ASUS, Gigabyte and others. In addition, GeForce RTX 4070 Ti Super and GeForce RTX 4080 Super cards will soon flank the RTX 4070 Super as well. However, what we know so far of the GeForce RTX 4070 Super, is that it will offer a compelling alternative to gamers and content creators alike, that are looking to build or upgrade cost-efficient, power-efficient, but powerful desktop systems.
+GeForce RTX 4070 Super cards are based on NVIDIA’s Ada Lovelace GPU architecture, specifically the Ad104. On-board are 7,168 CUDA cores and 224 4th Gen NVIDIA Tensor cores, clocked at a 1,980MHz Base Clock and 2,475MHz Boost Clock. Backing these cores up is 12GB of GDDR6X high bandwidth video memory operating at 10,500MHz over a 192-bit interface, pushing 504GB/s of memory bandwidth. While competitively AMD markets its larger 16GB frame buffer at these price points, practically speaking, overall performance isn’t affected all that much with the extra 4GB of VRAM in most titles. The new GeForce RTX 4070 Super can drive up to 4K displays at 240Hz or even 8K60 displays, though only DP 1.4 is supported.
+The RTX 4070 Super is also a much thinner, more compact card than its more powerful  GeForce RTX 4080 and 4090 siblings.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+In the benchmarks that our team over at HotHardware ran, this card puts up GeForce RTX 4070 Ti-class performance, acing AMD’s Radeon RX 7800 XT and occasionally catching even the more expensive and technically more powerful Radeon RX 7900 XT. Here’s a quick taste of the results...
+Here we can see that the new GeForce RTX 4070 Super, generally speaking, slots in just behind a GeForce RTX 4070 Ti in terms of gaming performance and it can even approach Radeon RX 7900 XT performance, depending on the game title involved. Even when testing in games like Returnal (not shown above), which is a PlayStation 5 port, the RTX 4070 Super can come within striking distance of AMD’s current top gaming GPU.  And finally, for content creators, as you can see in the above Blackmagic RAW image decoding speed test for video creators, GeForce RTX 4070 Super cards can really lay down some lead, and it’s a virtual tie between the RTX 4070 Super and RTX 4070 Ti.
+Historically, NVIDIA’s GeForce RTX Super series rollout is sort of a midlife kicker product for the company, launching after it has fleshed-out various price points in the stack, from entry-level to the high-end. Today’s introduction of the GeForce RTX 4070 Super is no exception, and true to form, these products bring better performance-per-dollar and even performance-per-watt metrics. The jury is still out on the forthcoming RTX 4070 Ti Super and RTX 4080 Super, but if I were a betting man, I’d wager we’re going to see more of the same in their respective price bands.
+Ultimately, the $599 GeForce RTX 4070 Super could possibly force price reductions on AMD’s side, in an effort to maintain a competitive posture. After all, it’s not rocket science (well, GPU architectures kind of are) — the pace of innovation in the PC graphics space is relentless, and there will always be a more capable GPU on the horizon. The question is, how will these two competitors respond moving forward? I’d offer that it’s about capturing as much market share while the lime-light lasts, and the new GeForce RTX 4070 Super is likely to bring strong sell-through numbers, starting in the next few days and in the near-term months ahead.
+Dave co-founded and is principal analyst at HotTech Vision And Analysis, a tech industry analyst firm specializing in consulting, test validation and go-to-market strategies for major chip and system OEMs. Like all analyst firms, HTVA provides paid services, research and consulting to many chip manufacturers and system OEMs, including companies mentioned in this article. However, this does not influence his unbiased, objective coverage.
+
+NVDA price 3 days before article release: 54.31679153442383
+
+NVDA price 1 day before article release: 54.67657852172852
+
+NVDA price the day of article release: 56.34755706787109

@@ -1,0 +1,26 @@
+Nvidia Stands To Grow Taller In The Tech World
+
+Aug 10, 2025, 01:32pm EDT
+
+In some ways, this is a strange market. It’s not like the tech industry of the past – where we had linear progress on hardware, and a collection of hardware companies in vibrant competition.
+Now, there’s one big standout, evidenced by some of the numbers getting thrown around this week after two of the other biggest tech companies, Microsoft and Meta, did earnings.
+Under the aegis of Jensen Huang and company, Nvidia has spiraled up into a towering monolith, becoming the biggest publicly traded tech company in the American market. Just a few years ago, it was just one of the chip makers powering laptops and other devices. But that was before AI turned everything on its head.
+With a stock increase of over 75% over the past year, Nvidia has reached the $4 trillion dollar mark in terms of market cap. That’s staggering, but recent projections are even bigger – the common consensus is that the company will add another 20% to that, reaching $5 trillion, in another year.
+Conventional wisdom holds that there are two keys to Nvidia’s future growth: robust domestic demand for hardware, and access to the Chinese market. Nvidia recently made inroads in that second category, as the Trump administration has lifted export controls on H20s. The other prong of this gets a shot in the arm from publicly available data about Microsoft and Meta’s AI planning.
+First, Meta has raised its 2025 capital expenditure (capex) forecast to around $66–$72 billion with plans for multi-gigawatt data centers, custom in-house compute systems, and NVIDIA GPU clusters.
+Microsoft is projecting over $30 billion in AI-focused capex in a single quarter, putting its full-year 2025 investment at $80 billion or more, and is expected to invest in NVIDIA hardware like Blackwell and H100 accelerators, while expanding global cloud data centers and supporting AI-powered products like Microsoft Copilot.
+It’s strange for one (or two) company’s investment news to make another company’s stock jump, but that’s where we’re at, with the singular forces in play in the chip market. Nvidia went all in on AI hardware – and it paid off handsomely.
+I was intrigued by a little aside in a tech column on this news, about how Zuckerberg talks about Meta’s “Prometheus/Hyperion” plans. Are these more GPU names?
+Well, it turns out that Prometheus and Hyperion refer to Meta’s massive-scale AI datacenter and compute infrastructure projects, respectively, where Meta’s Prometheus multi-GPU clusters will feature high-performance AI training and tens of thousands of GPUs in large-scale mesh systems, and the Hyperion AI data center design will have architecture optimized for AI workloads, power-hungry training jobs, and future in-house silicon tech called Meta Training and Inference Accelerator — a custom, in-house silicon chip family developed to optimize AI model inference and training workloads, especially for large-scale models like LLaMA and Meta AI assistants.
+My interest was piqued by the Prometheus reference (and the Hyperion reference too, really) – I remember early screeds on AI comparing it to fire brought by the gods. So I did a little research. ChatGPT presented some interesting correlations to mythology, which I’ll share in two pieces, first, for Prometheus:
+And then for Hyperion:
+One interesting aspect is Prometheus’ punishment by Zeus, related to current needs for AI regulation. The entries for Hyperion are a little weirder (overseer of skies and cycles – echoes Meta’s reality labs etc.) but I guess it fits.
+Here’s one more in-depth comparison I was given that further mythologizes other contenders like Google and Amazon:
+People have been saying we need more of the humanities in AI, and this seems like a neat use case.
+Anyway, look for that Nvidia stock to continue its climb, and for GPUs to proliferate in an age where we are finding out more and more about the power of AI.
+
+NVDA price 3 days before article release: 178.23037719726562
+
+NVDA price 1 day before article release: 180.73997497558597
+
+NVDA price the day of article release: 182.6696319580078

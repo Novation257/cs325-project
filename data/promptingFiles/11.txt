@@ -1,0 +1,30 @@
+Nvidia’s $5 Trillion Storyteller-In-Chief
+
+Oct 31, 2025, 05:30am EDT
+
+A plaque that hangs above a Denny’s booth in San Jose, California, celebrates the birth of Nvidia, or a “$2 trillion company.” It’s only been two years since the plaque went up, and it’s already in need of an update.
+Nvidia, the chip maker that powers the AI revolution, has just crossed the remarkable milestone of becoming the first $5 trillion company. But while the company that took shape over coffee and pancakes at Denny’s is now worth considerably more than $2 trillion, the heart of the plaque’s message still resonates:
+“Who knew that an idea started here could change the world?”
+As it turns out, very few people knew that Nvidia started at Denny’s until someone with deep personal knowledge leaked the information—Nvidia CEO, Jensen Huang.
+The story Huang has shared publicly goes like this:
+At the age of 15, Huang started working at Denny’s as a dishwasher, busboy, and waiter. Years later, when Huang was an engineer in Silicon Valley, he and two friends would meet at a Denny’s location near Huang’s home, where the trio would brainstorm ideas for a startup. The booth even functioned as their first office space.
+“It had all the coffee you could drink, and no one would chase you out,” Huang said in an Nvidia blog post commemorating the event.
+For Huang, the Denny’s story is much more than a funny anecdote. It reflects who he is and the values that mean the most to him.
+For leaders, the lesson is clear. As your company grows, the more crucial it becomes to share your origin story. A foundational, authentic story inspires others, communicates values, and builds an enduring culture.
+Idea sparks. A good idea starts with a spark. Think back to the moment or experience that triggered the idea for your company. It might have been something you read, something you saw, something you witnessed.
+The spark might have been a problem you identified that needed a solution. For Brian Chesky and his roommates, the problem was finding money to pay the rent on this San Francisco apartment. They came up with the idea of renting out air mattresses for people attending a conference in the city. It helped pay the rent and sparked a much more valuable idea: Airbnb.
+Relatable experiences. Few people can relate to running a multitrillion-dollar company—the size of the audience is very small. But most of us can relate to getting a part-time job to earn some extra spending money or working at the lowest rung on the ladder, as Huang did, clearing tables and taking breakfast orders.
+Stories of struggle, hardship, and humble beginnings are often inspiring because we—the audience—can see ourselves in the leader’s footsteps. The stories give people hope that they, too, can overcome life’s challenges or, with the right attitude and mindset, can become what they imagine themselves to be.
+Lessons learned. When Huang shares his experience of working at Denny’s, his stories always come with lessons that reflect his values.
+Huang likes to boast that he was the best busboy the diner had ever seen and that “no one could carry more coffee cups.” Working at the restaurant taught Huang the importance of hard work, hospitality, and humility. “No task was beneath me,” he says.
+Innovation requires all three elements—working incredibly hard, satisfying the customer, and having the humility to admit what you don’t know.
+Huang uses the lessons he learned at Denny’s to explain Nvidia’s culture of cross-functional collaboration, an ethos that encourages managers to roll up their sleeves, get close to the team and their work, and solve problems together.
+Repetition and consistency. Don’t just tell the origin story once. Repeat it early and often. Consistency builds trust and authenticity with your partners, stakeholders, customers, and teams.
+When a leader consistently shares an origin story over time, it evolves from reflecting one person’s experience to becoming “our story." No matter how big Nvidia gets, Huang’s story is a reminder that its cultural norms and values come from the experience of a young busboy who refused to leave a station empty-handed.
+“Culture building is storytelling,” Huang said in an interview for Wired. Leaders who articulate where they came from, and why it matters, don’t just build companies. They build cultures that endure.
+
+NVDA price 3 days before article release: 201.0079345703125
+
+NVDA price 1 day before article release: 202.8677215576172
+
+NVDA price the day of article release: 202.4677734375

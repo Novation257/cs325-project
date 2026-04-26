@@ -1,0 +1,20 @@
+Nvidia Backs Software Start-Up Enabling Complex Additive Manufacturing
+
+Sep 17, 2024, 11:03am EDT
+
+NVentures, Nvidia’s venture capital arm, is putting several millions of dollars behind a young company called nTop that’s become the leader in computational design software. This type of computer-aided design (CAD) software makes it easier and much faster for engineers and product developers to design very complex parts — everything from rocket engines to orthopedic implants — that are most often produced with additive manufacturing (3D printing).
+Companies exploring new product design with nTop include Siemens Energy, NASA, Ford, Tesla, Honeywell, Adidas, and the U.S. Department of Energy. Although it is not exclusive to additive manufacturing, nTop software enables the type of complex features and part consolidation that is not manufacturable with traditional processes.
+At its core, computational design uses algorithms and automation to generate solutions to engineering problems while helping engineers optimize part design and function, visualize and interact with designs in realistic virtual environments, and simulate a design’s real world performance, which takes a lot of computing power.
+Nvidia’s graphics processing units (GPUs) are already the recommended power behind nTop’s software, nTop 5, but now both companies are collaborating deeper to integrate nTop 5 with the Nvidia OptiX rendering framework and Omniverse technologies to help engineers better visualize their designs.
+Omniverse is a platform for developing applications for industrial digitalization and generative physical AI across a wide range of industries for everything from game development to simulating real-world environments for training self-driving cars.
+nTop plans to integrate its digital design files into the Omniverse ecosystem to provide users with an immersive 3D collaboration environment to see and interact with live digital twins of their parts and assemblies. As changes are made to designs in nTop of, for example, a new electric motorcycle, they’re reflected on the Omniverse platform in real-time for evaluation and simulations.
+“Product engineering and development teams working in every industry need powerful simulation capabilities to design their work in a physically accurate manner,” says Mohamed Siddeek, corporate vice president at Nvidia and head of NVentures.
+The first proof of concept in the collaboration integrates the Nvidia OptiX — a rendering technology for creating ultra-realistic images and simulations in a virtual environments — into nTop 5 to provide more lifelike renderings.
+“Through that integration, we’ve created a new feature called adaptive rendering, which is being rolled out to nTop customers this week,” says Bradley Rothenberg, co-founder and CEO, nTop. “This new feature will enable engineering teams to render extremely complex geometries into designs in seconds so they can iterate even faster through design options. In comparison, this would take other CAD systems hours, or may not even be possible.”
+Nvidia and nTop’s technology teams are collaborating on a variety of new tools and features, Rothenberg says, which will launch later this year. Recently nTop announced new partnerships with software giants Autodesk and Materialise that enable engineering teams designing in nTop to get their parts manufactured on dozens of different kinds of metal and polymer 3D printing systems.
+
+NVDA price 3 days before article release: 119.0927734375
+
+NVDA price 1 day before article release: 116.73370361328124
+
+NVDA price the day of article release: 115.54417419433594

@@ -1,0 +1,30 @@
+After Earnings, Nvidia Powers Ahead On Robotics And Automation
+
+Aug 29, 2025, 04:52pm EDT
+
+First of all, following the numbers for the past quarter on Nvidia’s scoreboard, analysts are considering the results a mixed bag, with some more impressed by revenue and growth than others.
+By any account, Nvidia is a big company, and it would be hard for anyone not to qualify its trajectory over the last few years as a success. After betting big on AI hardware, Nvidia rocketed to the top of the American tech market leaderboard. But the “what have you done for me lately” mindset often raises its head with quarterly reviews, so the iterative progress of Jensen Huang and company can be seeb through various lenses.
+Coverage at Investopedia points out that while some American bankers, like Morgan Stanley, are properly excited about Q3, other parties, HSBC as named, are more concerned about the ban on China’s importing of Nvidia H20 chips. Certainly, the future of that market is a wild card, but there’s a growing consensus that even if China won’t buy what Nvidia is selling, the company will still be okay.
+In fact, a closer look shows that Nvidia’s posted third-quarter revenue of $54 billion, plus or minus 2%, beats analyst projections of $53.8 billion, even without the missed Chinese H20 sales built in. So if sales of the chip resume there, that’s, as they say, gravy.
+Part of what Nvidia is doing, besides conquering the hardware market with its Blackwell architecture and becoming a top chip vendor to mega-clients, is developing a spectrum of new technologies around automation. In other words, this isn’t just a hardware firm anymore. Nvidia is cultivating a set of solutions for robotics and self-driving vehicles that are going to add flavor and dimension to the company’s footprint worldwide.
+There’s Nvidia Drive AV, a full-stack setup for self-driving cars, and Jetson AGX Thor, agentic tech that I covered last week. These, in addition to the Nvidia Halos AI safety program and Nvidia Cosmos world foundation models, are poised to give the company a lot more relevance in a developing market that represents big changes for global society.
+So what is all of this stuff?
+NVIDIA DRIVE AV is the company’s all-in-one software platform for self-driving cars. It combines vision, prediction, planning, and control, all in one system, with lidar, sensors, and other gear tied to robust AI decision-making capabilities.
+This might be a good place to break down an industry term often used here: sensor fusion.
+What does this mean?
+Sensor fusion is the process of combining data from multiple sensors—like cameras, radar, lidar, and ultrasonic detectors. That’s all. You could call it joint sensor management, or sensor aggregation, but for some reason, the term “fusion” has become an industry standard, presumably because you’re bring data from multiple sensors together and “fusing” it into a coherent whole. This is a major part of how stakeholders are making self-driving solutions safer for users.
+Anyway, that’s one of Nvidia’s big contributions in this area. But the company is making big inroads into non-vehicular robotics, too.
+This robotics application is something fans call a “powerhouse” – with 128 GB RAM and the capacity for up to 2070 FP4 TFLOPS of AI compute, the model towers over the previous iteration, Orin, and proponents foresee that Nvidia will be competitive in helping to deliver to us the next generation of robot butlers. And yes, it’s powered by Blackwell.
+Other robotics people outside of Nvidia’s stable are paying attention.
+“(Thor) offers the computational horsepower and energy efficiency necessary to develop and scale the next generation of AI‑powered robots … transforming how we move and manage goods globally,” said Tye Brady, Chief Technologist at Amazon Robotics, in response to the unveiling of this technology.
+Then there’s Halos, a program aimed at making sure that all of these autonomous vehicles will operate safety on the road.
+Halos is accredited by the ANSI National Accreditation Board (ANAB), a U.S. organization that evaluates and verifies compliance with rigorous international standards for self-driving cars, trucks, buses, etc.
+The program is also supported by the Nvidia AI Systems Inspection Lab, where people work on testing, validating, and certifying AI-powered systems like self-driving cars and advanced robots. Engineers run deep simulations to see how the AI behaves in tricky driving or robotics scenarios. They also test “edge cases” — which you also might call “black swan events” – where challenges like sudden obstacles, unpredictable drivers, or sensor failures might jeopardize the security that the systems were built to sustain.
+Let’s not forget about Nvidia Cosmos. This project is not aimed at self-driving cars: it’s more focused on world simulations with robust models. However, it does tie back into autonomous vehicle safety: Nvidia Cosmos creates ultra-realistic, physics-aware video simulations for AI training. That means it’s working on the premise of helping the applications to “see” objects, evaluate landscapes, and understand context, all things that can be applied to either vehicle automation or mobile robotics.
+That’s a bit of a survey of some of the major things going on at Nvidia as outsiders read the tea leaves from recent earnings releases. As for whether Nvidia can break back into the Chinese market, we’ll just have to see. This isn’t even the first time this year that the international sales of H20s have been in question. And there’s a lot of geopolitical context. The market doesn’t operate in a vacuum – and as a global society, we also have to figure out how we feel about the rapid advancements in AI that might lead us toward “the singularity.” Stay tuned.
+
+NVDA price 3 days before article release: 181.7397918701172
+
+NVDA price 1 day before article release: 180.1400604248047
+
+NVDA price the day of article release: 174.1510467529297

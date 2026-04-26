@@ -1,0 +1,28 @@
+China Blocks Import Of Nvidia H20s
+
+Aug 30, 2025, 11:11am EDT
+
+There’s a new problem for Jensen Huang and the people at Nvidia, where a powerful American tech firm is going all-in on AI. The problem, according to recent reports, is that China is rethinking its import protocols for what Nvidia is selling, proving that, when it comes to Sino-U.S. trade policy, two can play at that game.
+I’ll explain: earlier in the year, the U.S. had been banning Nvidia exports to China, even after the company had come up with a dedicated H20 chip that allowed Nvidia to forego offering China the biggest and best new tech. And the previous U.S. administration had eventually cleared those for export.
+Then the Trump white house created a new requirement for an export license, cutting of that sale pipeline, and Nvidia was once again under the same pressure. Huang worked his magic, and soon, the H20s were allowed to ship to China again.
+Prior to that change, Huang had cited a $4.5 billion write-down due to lack of access to the Chinese market. It’s worth mentioning, though, that even without the Chinese market, Nvidia had posted 69% year-over-year revenue growth to $44 billion for Q1, exceeding analysts’ estimates, with a corresponding 4% stock increase.
+So now, it seems, it’s the Chinese who are getting cold feet about buying the same chips.
+Recent reports indicate the Chinese have been wanting to create a national security review to evaluate the chip sales in question, and that they are worried about the chips having “backdoors,” even though Huang has assured them that this is not the case. Chinese officials have apparently recently asked companies like ByteDance, Alibaba and Tencent to stop buying the H20s. CNBC coverage Aug. 21 confirms that Nvidia has asked Amkor Technology and Samsung Electronics to stop H20-related production, due to the Chinese actions, citing news from The Information.
+“A separate report from Reuters, citing sources, said that Nvidia had asked Foxconn — officially known as Hon Hai — to suspend work related to the H20s,” wrote Dylan Butts. “Foxconn did not immediately respond to a request for comment.”
+If Jensen Huang has told the Chinese that there are no backdoors or tracking and locating gear in the chips, why would officials there be wary?
+It turns out that this spring, according to AP reports, Rep. Bill Huizenga, R.-Michigan, and Rep. Bill Foster, D.-Illinois, introduced the Chip Security Act that would require the more powerful American chips to be outfitted with “security mechanisms” that sound a lot like what the Chinese are worried about. The stated purpose was to detect “smuggling or exploitation.”
+The fact that the bill has stalled in Congress doesn’t alleviate Chinese fears.
+So now, the shoe is on the other foot, and Nvidia is back in the proverbial doghouse.
+Realistically, Nvidia is still making money: it’s the country’s biggest tech firm by market cap, even with Huawei able to make chips for the Chinese. But in past comments, Huang had explained to Trump and others how selling chips to China is good for America. He also cited efforts to develop an energy plan to power data centers.
+"In order for this industry to thrive, we need to build these systems of course, but we also need a progressive growth and industry-oriented energy policy, which this president has really put his weight behind and I really appreciate that," Huang said back in April. And presumably, he’d be making the same points now, including that we should be selling hardware in China.
+However, that’s if the Chinese will let Nvidia peddle its products there. Huang has admitted that Chinese firms have the capacity to build.
+And then there’s the kind of international tension that gets amped up by words. According to reporting at Motley Fool this week, one of the major steps leading to wider Chinese import restrictions of the H20s was remarks by U.S. Commerce Secretary Howard Lutnick, who said publicly on American tv that Chinese companies would only get Nvidia's "fourth best" chip.
+“You want to sell the Chinese enough that they get addicted to the American technology stack,” Lutnick reportedly said, triggering a response from a country that is developing its own tech stack.
+If that’s the reason for the Chinese reaction, it’s unlikely that causal statecraft is going to reverse the momentum on the siloing of U.S./China processor trade.
+Stay tuned.
+
+NVDA price 3 days before article release: 181.7397918701172
+
+NVDA price 1 day before article release: 180.1400604248047
+
+NVDA price the day of article release: 174.1510467529297

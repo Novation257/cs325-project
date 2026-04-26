@@ -1,0 +1,20 @@
+Nvidia's Acquisition Of TransGaming's Technology To Enrich Its Gaming Platform
+
+Jun 12, 2015, 01:44pm EDT
+
+Nvidia announced its acquisition of TransGaming’s proprietary cross-platform portability technology for $3.75 million, yesterday. TransGaming is one of Canada’s most innovative game-technology companies. As per the deal, Nvidia will get access to Cider, TransGaming’s core-enablement or translation and related technologies, along with associated customer relationships. Cider helps game developers port PC games to Apple’sMac OS X. The deal does not include SwiftShader, the world's fastest pure software 3D rendering technology, and related patents. As part of the transaction, TransGaming also announced that it is becoming Nvidia GRID’s preferred partner, so that the latter’s cloud gaming technology may be used to power TransGaming’s GameTree TV service in the future.
+Nvidia will be opening an office in Toronto, its first in Canada. Being home to major game studios such as Ubisoft, Rockstar, Vancouver, and BioWare, Canada is an important destination in the gaming world. Additionally, Toronto is a leading force in deep-learning, a key focus area for NVIDIA.
+Nvidia believes that the acquisition of TransGaming’s technology will enrich its GameWorks effort. GameWorks represents Nvidia’s investment in real-time graphics and simulation for games. Over 300 engineers work on a combination of development tools, sample code and advanced libraries enabling developers to create the best performing games.
+Nvidia’s focus on addressing the top 30% of the market, mainly those vertical segments within a broader computing market where visual computing matters the most, has helped it outpace the PC market (where it has always had a significant exposure).
+Backed by the Maxwell refresh and the seasonal increase in consumer PCs, Nvidia's GPU business grew 11% and 25% year on year in fiscal 2015 and Q1 2016, respectively. The company strongly believes that PC gaming is a growing market, and expects the segment to see continued growth in the current quarter as well. Nvidia expects multiple drivers, including 4K, which quadruples the number of pixels to process, virtual reality, and the launch of Windows 10, to drive growth in gaming in the second half of fiscal 2016. PC gaming represents almost 40% of the worldwide gaming market, which is higher than consoles, phones, tablets or any other individual gaming segment.
+Our price estimate of $23 for Nvidia is slightly above the current market price. We estimate Nvidia will report revenues of around $4.7 billion and net income in excess of $700 million for calendar year 2015. Our forecast for GAAP EPS for the current year stands at $1.34.
+See our complete analysis for Nvidia
+View Interactive Institutional Research (Powered by Trefis):
+Global Large Cap | U.S. Mid & Small Cap | European Large & Mid Cap More Trefis Research
+Like our charts? Embed them in your own posts using the Trefis WordPress Plugin.
+
+NVDA price 3 days before article release: 0.5289502739906311
+
+NVDA price 1 day before article release: 0.5250787138938904
+
+NVDA price the day of article release: 0.5108024477958679

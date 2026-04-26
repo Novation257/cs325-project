@@ -1,0 +1,50 @@
+Nvidia RTX 2060 Super Review: An RTX 2070 For $399?
+
+Jul 02, 2019, 09:00am EDT
+
+If you were thinking this summer's gaming was going to revolve around 
+AMD's
+ new launches such as 3rd Generation Ryzen and its 5700-series Navi graphics cards, well, Nvidia had other plans. Enter the new Super series, which for the moment comprises the RTX 2060 Super, RTX 2070 Super and RTX 2080 Super.
+All feature more CUDA Cores than their predecessors, higher boost frequencies and in some cases faster memory or more of it too. The latter is the case with the RTX 2060 Super, which I'm looking at today, but you can see my sister review of the RTX 2070 Super here.
+What's so super?
+Back to the 2060, though, and while the RTX 2060 had 6GB RAM, that's been bolstered to 8GB, which should help performance, especially at higher resolutions. You also get 2176 CUDA cores compared to 1920 for the old card, a higher base frequency too, although the boost frequency is actually a little lower. Interestingly Nvidia has also bumped up the memory interface from 192-bit to 256-bit too, which increases the memory bandwidth from 336GB/sec to 448GB/sec. The L1 cache size has also been increased from 1920KB to 2176KB and combined, these are no small upgrade - this is a much more powerful card.
+Aesthetically things have changed too. The cooler is identical in terms of performance, or so Nvidia told me, but the outside casing now sports a mirror-finished plate with green super logo. I have to admit, it looks absolutely awesome, although it's a shame that super logo isn't illuminated like the text on the side.
+This likely explains the fact that while the RTX 2070 Super is set to cost about the same or a touch higher than the RTX 2070, the RTX 2060 Super costs around $50 more than the RTX 2060. It's no surprise then that the RTX 2070 and indeed RTX 2080 have not yet featured in future pricing documents Nvidia has sent me - it looks like they'll be end of life fairly soon, maybe following some price cuts.
+As Nvidia gave me less than a week from announcing samples were inbound to the launch today, this has been a rather tight deadline, so I haven't been able to include as many tests, cards or information as would otherwise have liked to. Hopefully, though, the performance numbers below give you some idea about where the RTX 2060 Super sits in the market, and just what Navi needs to do to beat it. For those numbers, though, you'll need to wait till the 7th July.
+Test system
+CPU: Intel Core i9-9900K overclocked to 5GHz
+Motherboard: MSI MEG Z390 Ace (latest BIOS and CPU security microcode updates)
+Memory: Corsair 3466MHz Vengeance Pro RGB
+SSD: 2TB Samsung 970 Evo
+PSU: Corsair RM850i
+Cooler: EK Waterblocks EK-MLC Phoenix
+OS: Windows 10 1903 (all updates installed)
+Drivers: AMD 19.6.3, Nvidia 431.16
+Nvidia RTX 2060 Founders Edition, Nvidia RTX 2070 (stock third party), Nvidia RTX 2060 Super, Nvidia RTX 2070 Super, Nvidia GTX 1080 Ti, AMD RX Vega 64
+Shadow of the Tomb Raider
+First up is Shadow of the Tomb Raider's built-in benchmark, where I recorded the minimum frame rate of the GPU-focussed section of the game as well as the overall average frame rate. at 1080p, it's a fairly easy game to run, but the RTX 2060 Super offered a decent edge over the RTX 2060 Founders Edition, which remember has higher clock speeds than stock cards too, adding 11% to the minimum frame rate and 12% on the average. I'll mention this now as well, but the new super card performed almost identically to the stock RTX 2070 I included too - almost frame for frame in nearly every test so it's safe to say that the RTX 2060 Super is basically the new RTX 2070.
+It was similar gains at 1440p, although a slightly higher edge over the old card, but again, identical to the RTX 2070.
+Above at 4K I introduced a little DLSS magic for those that are interested and interestingly, as well as being the usual 12% faster, the Super card was over 30% quicker using DLSS at 4K than the RTX 2060 was.
+Finally, I switched on Ray Tracing as well as DLSS but dropped down to 1440p to get some playable frame rates with this bunch of mid-range cards and again the RTX 2060 Super offered a huge lead over the RTX 2060, with the former once again performing identically to the RTX 2070.
+Far Cry 5
+Far Cry 5 can be summed up as loving the new Super cards, with the RTX 2060 Super outstripping its predecessor by over 20% at 1080p, 16% at 1440p and 14% at 4K on the minimum frame rates with the averages sitting fairly linearly to them.
+The Division 2
+It was back to usual with The Division 2, which saw increases of 10%, 12% and 11% on the minimum frame rates at 1080p, 1440p and 4K respectively over the RTX 2060 and again standing shoulder to shoulder with the RTX 2070.
+Forza Horizon 4
+Forza 4 is certainly biased towards AMD with the RX Vega 64 putting in a good show compared to its below average performance elsewhere, but with the RTX 2060 cards it was more of the same with between 5-10% performance gain at all resolutions.
+World of Tanks enCore
+I've included World of Tanks purely from a high frame rate/high refresh rate point of view as it's a popular free-to-play that also has a professional hard-core following. It's otherwise very easy to run, but seeing as you need super-high frame rates for the latest high refresh monitors, this data is still useful.
+There were sizable gains in World of Tanks of between 15-20% at all resolutions, which bodes well for other easy-to-run games and those making use of high refresh rate monitors to play them. For everyone else at 1440p and below, it's a pretty easy game to run that doesn't need particularly fast hardware.
+3D Mark Port Royal Ray tracing
+The final performance test is the 3D Mark Port Royal ray-tracing benchmark and as we saw in Tomb Raider, the super cards offer decent gains when accelerated ray-tracing is employed.
+Power consumption
+As expected, the RTX 2060 Super draws a little more power than the RTX 2060, but this was less than 10W more under load.
+Conclusion
+Getting an RTX 2070 for $399 is a pretty good deal in anyone's books but that's exactly what the RTX 2060 Super is, which means AMD's RX 5700, which is set to retail for $379 isn't going to have an easy ride. Once you factor in DLSS and Ray Tracing performance - whichever side of the fence you're on, the RTX 2060 Super offers a decent amount of performance for your cash, even managing smooth frame rates in Shadow of the Tomb Raider at 4K with DLSS enabled and similar speeds at 1440p with Ray Tracing and DLSS enabled, with big boosts over the RTX 2060 here too.
+Rather than being a questionable card out of the three announced Super cards, the RTX 2060 is actually the most interesting and while it's not going to replace the RTX 2060, it offers RTZ 2070 performance for less cash. Now we just need to wait to see how Navi performs.
+
+NVDA price 3 days before article release: 4.055373191833496
+
+NVDA price 1 day before article release: 4.128416538238525
+
+NVDA price the day of article release: 4.030527114868164

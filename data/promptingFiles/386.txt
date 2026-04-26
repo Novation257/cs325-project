@@ -1,0 +1,19 @@
+Nvidia Earnings Mark Another Historic Quarter For AI Titan
+
+Feb 21, 2024, 04:23pm EST
+
+Nvidia again shattered Wall Street’s lofty expectations in its quarterly earnings report Wednesday afternoon, sending shares of the Silicon Valley giant surging as the artificial intelligence kingpin maintained its winning streak.
+Nvidia brought in $22.1 billion of sales during the three-month period ending last month, 265% higher than the same quarter the year prior and well above average analyst estimates of $20.4 billion, according to FactSet.
+The firm’s $12.3 billion of Q4 net income resulted in eye-popping year-over-year profit growth of 769%, and its $5.16 adjusted earnings per share shattered estimates of $4.59.
+Nvidia has not missed consensus analyst earnings estimates since the quarter ending October 2022 and hasn’t missed on revenue since before 2020, the extent of FactSet data.
+It’s the firm’s third-consecutive quarter reporting record profits and sales.
+The company also said it expects $24 billion in revenue in the current quarter, beating analyst estimates of $22.2 billion.
+Shares of Nvidia rose about 8% within an hour of the earnings release, wiping out the 9% selloff dating back to last Wednesday.
+
+409%. That’s how much sales in Nvidia’s AI-heavy Datacenter division rose during Q4 on an annual basis, surging from $3.6 billion to $18.4 billion.
+
+NVDA price 3 days before article release: 72.61360168457031
+
+NVDA price 1 day before article release: 69.4095687866211
+
+NVDA price the day of article release: 67.4307861328125

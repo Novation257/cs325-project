@@ -1,0 +1,29 @@
+NVIDIA Wins First AI Benchmarks
+
+Dec 13, 2018, 04:57pm EST
+
+While the AI market has attracted a large number of would-be 
+NVIDIA
+ competitors for acceleration chips, including 
+Intel
+, 
+AMD
+, and dozens of well-funded startups, up until recently, there was not a set of benchmarks to enable apple-to-apple comparisons. The industry was simply too immature and fast-moving to take the time to develop one. That is about to change with the MLPerf benchmark suite, announced last May with the support of over thirty companies and seven research universities. The first results from NVIDIA, Intel, and 
+Google
+ were published this week, so let’s take a look at what they can tell us.
+The results: it's complicated
+It turns out to be quite a challenge to get competitors and researchers to agree on a suite of benchmarks and rules to directly compare different chips and the systems they go into. The MLPerf v0.5 suite consists of seven benchmarks representing important AI workloads: image classification, object instance segmentation, object detection, non-recurrent translation, recurrent translation, recommendation systems, and reinforcement networks. Only Intel submitted results for the latter, since accelerators today are not very useful for reinforcement learning. Each vendor must follow stringent rules to ensure they are all running the same software stack, reporting the time it takes to train a neural network to perform the job to a specific accuracy level.
+At first glance, the benchmarks make for difficult comparisons and may lead to confusion, since the server systems (nodes) in which the run may have 2, 4, 8, or 16 chips on board. Comparing a 2 Intel Xeon CPU server to an NVIDIA DGX-2h behemoth with 16 V100 accelerators is hardly fair or useful. Luckily, the MLPerf results specify how many chips were used, so one can normalize the results to allow for a chip-to-chip comparison—as NVIDIA has done in Figure 1. At least this works in theory; more on this later.
+This chip-level comparison is interesting, as the results contradict the claim that a special purpose ASIC should produce superior results over a GPU. Still, nearly all serious Deep Learning training is done “at scale,” using dozens or even hundreds of accelerators. In other words, MLPerf allows results that demonstrate performance at scale as well as single node performance. Once again, NVIDIA wins out, as shown in Figure 2 below. What strikes me as odd is the complete lack of submissions by Google on the three other benchmarks. Hopefully, the company is still in process here.
+As is usually the case with benchmarking, the companies are always anxious to show their side of the story. Google posted a blog that claims that it, not NVIDIA, had the best performance. See Figure 3 for the gist of its claims. Google portrays its results as being normalized to 16 accelerators, but in fact it used 20, with 4 older V2 TPUs doing the work of validating the accuracy of the predictions (see the little “4” in the circle?). In NVIDIA’s case, this work is done by the same GPUs that are doing the training in the DGX-2 system, so this seems more like a 20 to 16 accelerator comparison to me. A Google spokesperson explained that its approach was intended to be more cost-neutral between two configurations, saying “The best way to compare very different systems is via cost. Our MLPerf post compared the closest-available system configurations, each of which used 16 chips for training, which is the bulk of the compute.” That makes sense, but Google is still ignoring the fact that it used 4 more chips for work that NVIDIA encorporated in the 16 GPUs, detracting from its claims of superiority.
+I’d also point out Google did not compare to the newer DGX-2h, the higher power and performance server NVIDIA announced last month, which delivered a modest 3.9-minute advantage over the DGX-2. Not a huge difference, but when combined with the fact that Google used 25% more TPUs to get these results, one can see that NVIDIA indeed is the faster chip. Still, to Google’s credit, it is close for ResNet-50 (image classification).
+From these results, I conclude that:
+Finally, I would point out that NVIDIA is still the only game in town for accelerating neural network training using on-premises infrastructure, in any cloud service (AWS, Azure, Alibaba) other than GCP, or even in any GCP-hosted training other than for TensorFlow. Consequently, this is all a bit of a tempest in a teapot.
+Nonetheless, NVIDIA’s breadth of AI hardware and software solutions, TensorCore performance, ease-of-use with the Nvidia GPU Cloud repository, and global ecosystem in AI production and research will keep NVIDIA in the lead for some time to come.
+Disclosure: Moor Insights & Strategy, like all research and analyst firms, provides or has provided research, analysis, advising and/or consulting to many high-tech companies in the industry mentioned in this article, including Intel, AMD, and NVIDIA. The author holds no investment positions in any of the companies named in this article.
+
+NVDA price 3 days before article release: 3.764708995819092
+
+NVDA price 1 day before article release: 3.691329956054688
+
+NVDA price the day of article release: 3.691081523895264

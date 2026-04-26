@@ -1,0 +1,22 @@
+Why Nvidia's New RTX Marketing Trick Is Psychological, Diabolical And Absolutely Genius
+
+Apr 11, 2019, 01:16pm EDT
+
+Today Nvidia released its GeForce 425.31 driver, delivering on its promise to enable millions of non-RTX graphics card owners to enjoy a glimpse of that sweet, beautiful ray tracing eye candy. If you own a 10-Series GPU like the GTX 1080, 1070 or 1060, you can simply update to the latest driver and get a taste of basic ray tracing effects like global illumination, realistic shadows and lighting in games like Metro Exodus and Shadow of the Tomb Raider. But that's not the real story here. The real story is the the subtle psychological tricks Nvidia is pulling off by disguising a clever marketing strategy as a dose of goodwill toward gamers.
+At first blush, it's easy to interpret this move as a way of bringing more awareness to ray tracing in general. It's undoubtedly the future of gaming graphics, but as always the install base of the hardware has to explode before developers adopt it en masse. Sure, Nvidia is doing its part to push gaming forward and let's applaud them for that. (Then again, so is Crytek in its own way.) Seriously though, Nvidia deserves credit for aggressively pushing ray tracing to the masses. And of course that benefits Nvidia in the long run.
+With this approach, though, you may be inclined to think that Nvidia is cannibalizing sales of their expensive, bleeding-edge RTX 20-Series graphics cards by bringing Microsoft's DirectX Ray Tracing (DXR) to the GTX masses with this new driver. In reality, they're doing the exact opposite.
+Let me explain.
+Nvidia provided press with several graphs showing how synthetic benchmarks like 3DMark's Port Royal and games like Battlefield V fare on its range of RTX and GTX graphics cards. The results are sobering to put it mildly.
+The 3DMark Port Royal benchmark demonstrates just how worthless your GTX card is with DXR switched on. The previously badass GTX 1080 Ti is reduced to a slideshow at 1440p. But hey, look how much better even an RTX 2060 (the cheapest in the next-gen Turing stack) performs thanks to its dedicated Tensor Cores and DLSS. It delivers a 184% framerate improvement over the GTX 1080 Ti.
+By the way, you can't have DLSS (deep learning super sampling) on your GTX card. That's an RTX-exclusive trick.
+Moving over to Battlefield V, we see the GTX 1080 struggling to even muster 23 FPS at 1440p under DXR Ultra settings. Similar examples proliferate across other graphs focused on Metro Exodus.
+Think about this from a different angle. How often do you see Nvidia publishing any benchmarks that don't paint their GPUs in a considerably positive light? To show multiple last-gen products cranking out 20 FPS and below? That's not a typical page from Nvidia's playbook.
+No, what's driving this move is Nvidia saying "the first taste is free." Nvidia can blow all that marketing hot air in our direction, extolling the virtues of RTX cards and why you should buy one, but now you're getting a first-hand experience of what the future of gaming looks like -- with the extreme performance penalty that comes with it. The power (or the lack of it) is in your hands. First you get hooked, then you gaze longingly toward the greener side of the grass. Then you convince yourself that you simply have to have that new RTX card.
+You used to be elite with that GTX 1080 Ti. You used to be an early adopter. Now the lowest-tier card in Nvidia's next-generation stack is outperforming you by 184%.
+I may sound like I'm bashing Nvidia, but I'm not. This is an exceptionally shrewd,  diabolical marketing strategy. Subtle and smart. It carries the benefit of further pushing ray tracing into the spotlight -- even if gamers with those lowly GTX cards may ultimately be disappointed by what they see.
+
+NVDA price 3 days before article release: 4.759501457214356
+
+NVDA price 1 day before article release: 4.76719331741333
+
+NVDA price the day of article release: 4.753296375274658

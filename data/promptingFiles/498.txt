@@ -1,0 +1,23 @@
+NVIDIA Grace And Hopper Superchips Are Poised To Be AI And HPC Powerhouses
+
+Aug 25, 2022, 01:26pm EDT
+
+Data center AI powerhouse NVIDIA offered more details this week at the Hot Chips 2022 symposium, with respect to its forthcoming Grace CPU architecture, along with its Grace Superchip implementation for HPC (High Performance Compute) and cloud workloads, and its Grace Hopper integration of Grace CPU and Hopper GPU silicon for large scale AI training. These new NVIDIA multi-chip module products mark the company’s first foray into data center and supercomputing core CPU technologies, melded with its pervasive GPU technologies. It’s also a major milestone for Arm-based architectures in the data center as well.
+Anatomy Of NVIDIA’s Superchip – Enter Grace
+NVIDIA’s Grace CPU architecture is based on Arm Neoverse cores and the ArmV9 instruction set. Though Grace’s architecture has been heavily optimized for scalability, shared memory and cache coherency, this Arm architecture has been gaining significant traction in the industry with major chip players like NVIDIA.
+A base Grace core CPU complex is comprised of a 72-core implementation with 117MB of distributed cache, and can scale to 144 cores (234MB cache) in a single Grace Superchip implementation — or 72 cores with a Hopper GPU in a Grace Hopper implementation — and they’re all tied together with what NVIDIA calls Scalable Coherency Fabric or SCF. SCF offers a mesh fabric architecture and distributed cache design with up to a blistering 32 TB/s of bandwidth.
+From there further scaling is achieved via NVIDIA’s NVLink-C2C high speed chip to chip interconnect that offers 900 GB/s of bidirectional bandwidth between chips in a single package (Grace Superchip or Grace Hopper) and further scalability up to four socket designs, with SCF supporting coherency across sockets. It also allows an extended GPU memory pool in Grace Hopper implementations, allowing Hopper to directly access LPDDR5X memory attached to Grace via the NVLink network.
+All told, not only does NVIDA’s Grace employ a cutting-edge Arm core architecture for modern data center, cloud, AI and HPC workloads, but it has very robust plumbing for maximum inter-chip communication and scalability.
+NVIDIA Grace Hopper – A Top Brass Namesake For AI
+While Grace Superchip is optimized for more general purpose HPC and cloud workloads, NVIDIA’s Grace Hopper combo Superchip marries a 72-core Arm CPU core complex with an NVIDIA Hopper GPU on a single module via NVLink-C2C. Named after US Navy Admiral and computer programming pioneer, Grace Hopper, the chip is optimized for more intensive HPC and AI training workloads, with shared memory and coherency throughout.
+In fact, as I briefly noted previously, a Hopper GPU can access the memory of a neighboring Grace CPU, via NVLink-C2C as well. This saves costs over adding expensive HBM2e memory to the Hopper GPU module, and expands memory capacity significantly, while also remaining more power-efficient, for workloads that don’t necessarily need the massive bandwidth provided by HBM2.
+Expectations, Market Impact And Key Take-Aways
+NVIDIA is making bold claims in terms of its Grace and Grace Hopper Superchip performance, and as the proverbial 800 lb. gorilla in data center and cloud AI acceleration, the company has already staked a major beachhead from which to launch these full platform server solutions.
+Arriving in the first half of 2023, NVIDIA’s Grace Superchips will become part of a building inertia with respect to the highly scalable ArmV9 architecture in the data center. Other major players, like Ampere Computing, which already has a 128-core “cloud-native” processor in market, are ushering in the Arm ecosystem as well, and it will give legacy X86 architectures from Intel and AMD a run for their money this coming year.
+With major OEM’s like HPE, Google Cloud and Microsoft Azure announcing commitments for Arm-based solutions, the opportunity in TAM expansion for NVIDIA is excellent in the new year.
+
+NVDA price 3 days before article release: 17.006637573242188
+
+NVDA price 1 day before article release: 17.194337844848633
+
+NVDA price the day of article release: 17.88422203063965

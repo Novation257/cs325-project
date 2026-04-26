@@ -1,0 +1,18 @@
+NVIDIA’s Deep Learning Super Sampling (DLSS) 2.0 Technology Is The Real Deal
+
+Mar 29, 2020, 07:22pm EDT
+
+This past week, NVIDIA announced an update to its Deep Learning Super Sampling technology, aptly dubbed DLSS 2.0. If you recall, DLSS originally a launched alongside the company’s Turning-based GeForce RTX series graphics cards in the fall of 2018, and this latest iteration improves the technology in a number of meaningful ways, that benefit not only gamers, but game developers as well.
+DLSS essentially takes lower-resolution imagery, and intelligently upscales it to looks like native, higher-resolution output. DLSS 1.0 required game developers to provide game assets to NVIDIA, who would then feed the data to a DGX-1 neural network to evaluate the game’s visuals, frame by frame, comparing them to a “ground truth” golden sample of image quality. The ground truth reference was a full resolution image with 64x super-sampling (64xSS) applied, to provide extreme detail and ultra-high-quality anti-aliasing. The neural network is then tasked with producing an image output, measuring the difference between it and the 64xSS ground truth image quality target, and adjusting its weights accordingly in an effort to perfect the image on the next iteration; and the process continues until the model is built for that particular game.
+In practice, DLSS 1.0’s effect on game visuals and performance was a mixed bag, that varied from title to title. Performance was universally improved to varying degrees since the game was being internally rendered at a lower resolution, but image quality wasn’t always optimal and sometimes resulted in unwanted artifacts.
+DLSS 2.0 improves upon the original release in just about every way. Game developers are still required to implement the technology into their games (it’s not a tick-box feature than can be enabled universally via drivers), but they no longer have to provide game-specific assets to NVIDIA. DLSS 2.0 is trained using generalized game content on a neural network that works across virtually all games. NVIDIA has also improved DLSS 2.0’s performance by leveraging the Tensor cores available in its GeForce RTX-series GPUs and image quality is drastically improved as well.
+Users have three quality options to choose from with DLSS 2.0: Quality, Balanced, and Performance. And the feature can now be enabled at any resolution. The lower-resolution internal rendering target will vary, but generally speaking, DLSS 2.0 should off significant performance and image quality gains versus DLSS 1.0.
+Although the feature is brand new, a couple of games already support DLSS 2.0. In this evaluation at HotHardware, which tested DLSS 2.0 with MechWarrior 5 and Control, both a mainstream GeForce RTX 2060 and high-end GeForce RTX 2080 Super showed massive performance gains at all DLSS 2.0 quality levels. In-game image quality was clearly improved as well.
+Ben Funk states, “NVIDIA deserves a lot of credit for what it's doing with DLSS 2.0. Not only does it overall improve image quality and performance, it does so at no cost to GeForce RTX owners. It's not very often that mid-generation software updates bring along this kind of improvement.”
+To date, only a few games that support DLSS 2.0 have been announced and existing titles that already support DLSS 1.0 will need to be patched to support the new technology. Considering the barriers NVIDIA has removed to more easily implement DLSS 2.0 though, and the performance and image quality benefits, additional game developers are likely to hop on board.
+
+NVDA price 3 days before article release: 6.205169677734375
+
+NVDA price 1 day before article release: 6.4058837890625
+
+NVDA price the day of article release: 6.29357385635376

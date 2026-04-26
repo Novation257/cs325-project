@@ -1,0 +1,19 @@
+Is NVIDIA Becoming A CPU Supplier, Competing With Intel And AMD?
+
+May 23, 2023, 03:23pm EDT
+
+NVIDIA Announces First Arm-Based Supercomputer Without GPUs
+The fact that NVIDIA is partnering with HPE to build a Grace-based Supercomputer should not surprise anyone. They had previously announced two; a monster machine called Alps at the  Swiss National Supercomputing Centre which is expected to go live later this year, and Venado at the Los Alamos National Laboratory  Both of these will be based on the Grace Hopper Superchip.
+But in this case there is a surprise: No GPUs! Does this signal something larger about CEO Jensen Huang’s ambitions?  I think not, but let’s explore.
+The new system to be based at the Bristol & Bath Science Park, in the U.K., will feature 384 Arm-based NVIDIA Grace CPU Superchips. While not a huge system, it is expected to be one of Europe’s most energy efficient systems,  delivering 6 times the performance and energy efficiency of Isambard 2. (Isambard, “Bright Steel”, is named after Isambard Kingdom Brunel, whose most famous achievement was his pioneering work in the design and construction of the Thames Tunnel.)
+When NVIDIA announced it was building Grace, its own Arm Neoverse-based CPU, there was considerable buzz about the GPU-maker’s intentions. At the time, Jensen Huang assured his partners and investors that he did not intend to compete with x86 or Arm CPU vendors. Instead, he saw an Arm CPU as a means to and end, allowing his company to create a more tightly-coupled and integrated system base on three silicon pillars: Arm CPUs, DPUs, and GPUs.  OK, so everyone relaxed a little and watched the show unfold.
+Now, with the new Isambard 3, NVIDIA is in the CPU business to deliver a cost- and energy-efficient supercomputing platform. Is this just the first step?
+We don’t think so. There is a huge gap between providing a CPU to HPE (Cray)  to create a customer super computer and getting into the business of supplying CPUs to OEMs and ODMs for vanilla servers and desktops. Competing with Intel for server sockets is a resource-intensive and relatively low margin business compared to working with HPE on a super computer. And it requires a different skill set focussed on optimally managing supply chain logistics.  Instead, Jensen wants his team to focus on things that are HARD to do, pushing the envelope and creating what has not yet been created. In this case, its an energy-efficient high-performance system.
+Conclusions
+Relax. NVIDIA is not even close to competing with Intel and AMD for CPU sockets.  Jensen knows what he is good at, and will stay above the low-margin fray.
+
+NVDA price 3 days before article release: 31.649980545043945
+
+NVDA price 1 day before article release: 31.148426055908203
+
+NVDA price the day of article release: 30.66085624694824

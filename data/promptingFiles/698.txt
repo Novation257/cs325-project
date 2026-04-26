@@ -1,0 +1,29 @@
+Pop In Video Gaming Pushes Nvidia CEO To Billionaire Heights
+
+Jun 23, 2016, 08:30am EDT
+
+A dominating presence in the PC gaming market and a growing business in data centers have lifted graphics card maker Nvidia’s stock up 120% in the past year, and minted its co-founder and CEO Jen-Hsun Huang a new billionaire. With virtual reality gaming on the horizon, plus a slew of big titles set to be released in the fall (such as Mafia 3, Battlefield 1 and Call of Duty: Infinite Warfare), momentum is on Nvidia’s side to reach new record highs.
+Formerly a microprocessor designer at semiconductor company 
+Advanced Micro Devices
+, Jen-Hsun Huang started 
+Nvidia
+ in 1993 with Chris Malachowsky and Curtis Priem. The trio aimed to create chips that could power full motion videos and stereo sound in personal computers, releasing its first graphics processing unit (GPU) two years later. Nvidia began making a name for itself shortly after, creating one of the first 3D processing chips on the market, then listed the company on the NASDAQ in 1999.
+Over a decade later, global PC sales started skidding as the popularity of mobile devices rose, yet Nvidia continued on its upward swing. The Santa Clara, Calif. based firm has built a strong foothold in a niche yet profitable business - selling graphics cards to gamers who own high-end PCs, which allows independent components to be swapped in and out. Enthusiasts routinely upgrade their graphics cards to keep up with the ever rising technical requirements of the latest titles. And video gaming is booming -- the industry generated $61 billion in worldwide revenue in 2015, up 8% from 2014, with PC games making up $32 billion of the total sales, according to research firm SuperData.
+“The PC market and [high-end] gaming has decoupled from each other,” says Matt Ramsay, an analyst at investment bank Canaccord Genuity. Nvidia’s original business - supplying computers with discrete graphics - has eroded significantly in the face of advancing integrated graphics technologies and falling PC sales. But its gaming segment, which now makes up more than half of the company’s revenue, grew 35% in each of the last two years, according to Ramsay.
+While AMD concentrated on providing graphics chips to consoles like Xbox, Nvidia renewed its focus on personal computing, becoming the industry leader in high-end graphics cards. Moving on from side ventures such as mobile chips also made its operations more efficient. “The only challenge for Jen-Hsun and his track record as a CEO… is that sometimes the company would have trouble focusing on where to spend money,” Ramsay says. “[But now] they’ve shown more discipline in exiting those businesses than they have in the past, and investors have been keen to reward that.”
+Now at the helm of Nvidia for nearly two and a half decades, Huang has been praised for his ability to see around corners. Ramsay calls the Taiwan-born entrepreneur a “visionary” who forecasted trends like GPU accelerators in data centers and GPU applicability in cars. “One of the hallmarks of the company is the way they find new growth opportunities,” says Craig Ellis, the director of research at financial services firm B. Riley & Co. And the vision paid off; Huang, who once worked as a waiter at Denny’s, has a $1.3 billion net worth as a result of his 4% stake in the company and the stock surge.
+Under the Stanford grad, Nvidia also moved beyond designing computer graphics chips. An example is its latest automotive technology, which used to be limited to powering in-car consoles and displays. At the Las Vegas Consumer Electronics Show in January, Nvidia wowed with driver-assist chips that can direct autonomous vehicles. The system would allow cars to find empty parking spots and park themselves, and discern details to recognize a police car apart from a regular sedan.
+
+As cloud computing expands, the growing need for data centers also falls in Nvidia’s favor, which produces GPUs that sit alongside CPUs in servers to help process increasingly complex information. Its parallel processing chip architecture is well-suited for tasks like weather modeling and genomics. Huang presciently built up the software platform around Nvidia’s microprocessors in the past five to ten years, giving Nvidia an advantage over rivals trying to hop on the bandwagon now.
+
+“[Huang has] done an exceptionally good job of building an ecosystem around his core competencies,” says Ellis. “[He’s evolved] the business from chip sale to platform sale, and platform sale is inherently higher margin and more sticky to the customer base.”
+
+Competition from 
+Intel
+ and AMD is coming -- the latter is expected to gain back some computer gaming market share after releasing a new line of graphics cards this year. But potential growth in Nvidia’s core businesses -- gaming, data centers and automotive -- remains vast. “In Asia and other fast growing gaming markets, the PC has been the platform of choice,” says Ramsay, who predicts that a rise in discretionary income and internet access in countries like China will fuel higher sales for Nvidia. “Each of [the three] businesses have a very profound revenue driver that will impact the company now or in the next 12 months,” concludes Ellis.
+
+NVDA price 3 days before article release: 1.1672980785369873
+
+NVDA price 1 day before article release: 1.1591984033584597
+
+NVDA price the day of article release: 1.1901235580444336

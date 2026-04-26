@@ -1,0 +1,18 @@
+Nvidia To Make AI Supercomputers Entirely In U.S.
+
+Apr 14, 2025, 01:08pm EDT
+
+Chipmaker Nvidia said it is building new factories that can produce its AI supercomputers entirely on U.S. soil as trade war tensions build with top chipmaking countries such as China and Taiwan.
+Nvidia is working with Taiwanese electronics manufacturers Foxconn and Wistron to build two supercomputer factories in Houston and Dallas, the company announced Monday, and “Mass production at both plants is expected to ramp up in the next 12-15 months.”
+The U.S. chipmaker said it is already producing its Blackwell chips, which provide capacity for generative AI and accelerated computing, at the Taiwan Semiconductor Manufacturing Company (TSMC) factory in Phoenix.
+Nvidia expects the investment to result in “hundreds of thousands of jobs and drive trillions of dollars in economic security over the coming decades,” according to a news release.
+The Trump administration is touting the news of building U.S. supercomputer factories as a win in its efforts to boost domestic manufacturing.
+White House officials, who previously issued an exemption on semiconductors from tariffs, said over the weekend the exemption is temporary, with President Donald Trump posting to Truth Social that he is “taking a look at Semiconductors and the WHOLE ELECTRONICS SUPPLY CHAIN in the upcoming National Security Tariff Investigations.”
+Shares of NVIDIA, one of the Magnificent 7 tech stocks, ticked down slightly to $110.83 during afternoon trading, even though major markets were making gains.
+Hewlett Packard Enterprise describes AI supercomputing as “when organizations use ultrafast processors made up of hundreds of thousands of powerful machines to manage and interpret vast quantities of data using artificial intelligence (AI) models.”
+
+NVDA price 3 days before article release: 114.30306243896484
+
+NVDA price 1 day before article release: 110.90386199951172
+
+NVDA price the day of article release: 110.68391418457033

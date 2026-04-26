@@ -1,0 +1,18 @@
+NVIDIA Adds New Software That Can Double H100 Inference Performance
+
+Sep 08, 2023, 01:00pm EDT
+
+TensorRT-LLM adds a slew of new performance-enhancing features to all NVIDIA GPUs.
+Just ahead of the next round of MLPerf benchmarks, NVIDIA has announced a new TensorRT software for Large Language Models (LLMs) that can dramatically improve performance and efficiency for inference processing across all NVIDIA GPUs. Unfortunately, this software came too late to contribute to the company’s MLPerf benchmarks, but the open source software will be generally available next month. We will opine on how the impact of this software could impact MLPerf results when they are released. But I wanted to give my readers a heads up with this short note; we will dive more deeply soon.
+Software can have a massive impact on the performance of GPUs, and TensorRT has been the optimization engine for NVIDIA inference processing for years. Now, the company is applying new techniques specifically for LLMs to TensorRT, and the impact is dramatic. While the H100 is four times the performance of the previous A100, based on benchmarks for the GPT-J 6B LLM inferencing, the new TensorRT-LLM can double that throughput to an 8X advantage for JPT-J and nearly 4.8X for Llama2.
+One of the most impactful features of TensorRT-LLM is the in-flight batching which brings a new level of efficiency of GPUs. Batch processing greatly improves the total throughput of a GPU, but the batch is not concluded until the slowest element of the batch completes. By adding this dynamic to batch processing, NVIDIA is basically doubling the efficiency of its GPUs.
+This is breaking news, and was unexpected since the MLPerf briefings are already underway based on results produced a month ago before in-flight batching and the other elements of  TensorRT-LLM  were available.  Those results are somewhat obsolete before they are published, which will create some chaos and confusion.
+We will try to clear this up when MLPerf results are published soon. But we also note that TensorRT-LLM is open source, a dual-edged sword which can help NVIDIA advance technology through community contributions,  but can also be used to help competitors learn the tricks that NVIDIA has invented and possibly employ them in their own software stacks and improve their efficiency as well.
+Stay tuned!
+Disclosures: This article expresses the opinions of the authors, and is not to be taken as advice to purchase from nor invest in the companies mentioned. Cambrian AI Research is fortunate to have many, if not most, semiconductor firms as our clients, including Blaize, BrainChip, Cadence Design, Cerebras, D-Matrix, Eliyan, Esperanto, FuriosaAI, Graphcore, GML, IBM, Intel, Mythic, NVIDIA, Qualcomm Technologies, Si-Five, SiMa.ai, Synopsys, Ventana Microsystems and Tenstorrent. We have no investment positions in any of the companies mentioned in this article and do not plan to initiate any in the near future. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 48.51007843017578
+
+NVDA price 1 day before article release: 46.20869064331055
+
+NVDA price the day of article release: 45.540157318115234

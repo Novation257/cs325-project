@@ -1,0 +1,33 @@
+LG Pledges To Fix Latest OLED TV Nvidia RTX 30 Glitch
+
+Oct 20, 2020, 01:03pm EDT
+
+There’s no doubt that LG’s latest X series of OLED TVs are better equipped than the TVs of any other brand right now to cope with the heavy graphical demands of the next generation of videogaming devices. That hasn’t stopped them, though, from hitting a few snags with the first of these next-gen gaming devices: Nvidia’s RTX 30 graphics cards.
+To LG’s credit, as I’ve reported before, it has already fixed (for most owners) two big initial issues involving black screens when using Nvidia’s G-Sync variable refresh rate technology at 120Hz, and some rather ugly chroma downsampling. Once those issues were resolved, though, people using RTX 30 cards with LG’s X Series of 2020 OLED TVs started to report a further issue: noticeable stuttering when using G-Sync with high frame rates and colour sampling settings.
+This stutter effect basically sees the picture freezing momentarily and then skipping ahead every few frames - something that’s particularly noticeable in the context of the ultra-smooth visual experience that G-Sync variable refresh rate technology is supposed to deliver.
+Users have compiled the following list of settings of where the stutter occurs - and one relatively low bandwidth setting where it does not:
+4:2:0
+8bit 3840X2160 120Hz 4:2:0 NO G-SYNC Stutter
+10bit 3840X2160 120Hz 4:2:0 G-SYNC Stutter
+4:4:4
+8bit 3840X2160 120Hz 4:4:4 G-SYNC Stutter
+10bit 3840X2160 120Hz 4:4:4 G-SYNC Stutter
+RGB
+8bit 3840X2160 120Hz G-SYNC Stutter
+10bit 3840X2160 120Hz G-SYNC Stutter
+Although the above list only covers 4K feeds, the issue also impacts sub-4K resolutions. Even 1080p and 720p.
+I fed the above information, along with an illustrative video, over to LG last week, and I’m happy to report that its engineers have come back to say that once again this is a problem they are confident they can fix via a firmware update.
+This update will not, it seems, be available for roll out quite as quickly as the update that fixed the previous RTX 30 issues; LG’s response suggests that it hopes to have the ‘stutter’ firmware in circulation before the end of the year.
+The end of the year is, though, only a couple of months away now. And the news that any fix is possible at all will come as a major relief to all X Series OLED TV owners, given that this particular problem had raised concerns over whether it might be related to the CX series’ 40GBps HDMI bandwidth (versus the HDMI 2.1 maximum 48GBps supported on 2019’s C9 models), and therefore be potentially insurmountable.
+If LG lets me know an exact roll out date for the new firmware I’ll pass it on. Or if anyone affected by the issue notices the new firmware arriving before I do, please let me know via the Twitter account linked to at the bottom of this article.
+—
+Related Reading
+LG OLED48CX OLED TV Review: The Xbox Series X And PS5’s Best Friend?
+LG OLED TVs Having Issues With Latest Nvidia RTX 30 Graphics Cards
+Fix For LG OLED TV’s RTX 30 Problems Goes Live. But It’s Not The One We Expected
+
+NVDA price 3 days before article release: 13.925955772399902
+
+NVDA price 1 day before article release: 13.455194473266602
+
+NVDA price the day of article release: 13.602478981018066

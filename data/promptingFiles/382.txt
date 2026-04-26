@@ -1,0 +1,19 @@
+Nvidia Tops $2 Trillion Market Value For First Time Ever
+
+Feb 23, 2024, 09:33am EST
+
+Nvidia became the third American company in history to score a $2 trillion valuation, riding its post-earnings euphoria to the remarkable feat as investors fawn over the artificial intelligence chip designer’s growth story.
+Nvidia’s market capitalization rose by about $50 billion to $2.01 trillion Friday, according to Yahoo Finance data, joining Apple and Microsoft in the exclusive $2 trillion market value club.
+After being less valuable than the fellow west coast technology titans as recently as Wednesday, Nvidia is now some $190 billion bigger than Amazon and $212 billion larger than Google parent Alphabet.
+Nvdia’s $2 trillion crown comes a day after it recorded the single-largest daily market cap gain of any company ever, soaring by more than $275 billion.
+Nvidia shares accordingly rose to an all-time high of $808 on Friday, with its 67% year-to-date rally helping boost the S&P 500 and Nasdaq Composite stock indexes to their top levels ever.
+Nvidia’s market cap (calculated by multiplying a company’s outstanding shares by its share price) puts it in the company of Apple, Microsoft, Amazon, Alphabet and Meta as the only $1 trillion American firms, but Nvidia’s current financials point to a much smaller company than its 13-figure peers. Nvidia’s $61 billion in sales and $30 billion in net income during its latest fiscal year are the lowest of any of those six trillion-dollar companies. UBS analyst Timothy Arcuri, who was one of the few analysts to cut its price target for Nvidia following the latter’s Wednesday earnings report, noted that it’s still the “early innings” of AI and that Nvidia’s sales could be entering a “steady state” after more than doubling last year.
+The consensus on Wall Street buys into the narrative of further growth for Nvidia, projecting both sales and profits to roughly double this year. Nvidia, which designs the semiconductor chip technology needed for generative AI, counts the likes of fellow tech giants like Microsoft and Alphabet as its top customers. Nvidia has actually transformed its business model in recent years. Its gaming unit moved from 53% of total revenues in its 2019 fiscal year to just 17% last year, coinciding with its AI-centered datacenter division’s move from a 25% revenue share to 78%. Nvidia’s CEO and cofounder Jensen Huang has grown incredibly wealthy as Nvidia’s valuation soared, with his net worth exploding from below $4 billion to about $70 billion over the last four years, according to Forbes’ estimates.
+
+
+
+NVDA price 3 days before article release: 69.4095687866211
+
+NVDA price 1 day before article release: 78.49002838134766
+
+NVDA price the day of article release: 78.76885223388672

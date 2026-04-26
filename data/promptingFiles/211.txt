@@ -1,0 +1,18 @@
+Nvidia RTX 5000 Under Threat In AMD Radeon RX 9070 XT Performance Leak
+
+Jan 09, 2025, 05:31am EST
+
+An interesting performance benchmark leak has revealed what could be the first decent indication of the performance of AMD's highly anticipated Radeon RX 9070 XT, which in one benchmark matches Nvidia's second most powerful graphics card , the RTX 4080 Super.
+Tech website Videocardz reported today that images of 3DMark results and specifications were posted on the Chiphell forum, apparently by one of the website's reviewers and have since been removed. They also warned readers not to buy Nvidia's graphics cards stating everything had changed.
+However, the 3DMArk benchmark results paint a very rosy picture for the Radeon card, matching AMD's existing flagship, the RX 7900 XTX and Nvidia RTX 4070 Ti Super in the Speed Way DX12 benchmark at 4K resolution and beating the RTX 4080 Super in the Time Spy Extreme benchmark at similar settings.
+Above we can see the leaked results of the RX 9070 XT alongside average results on the database for other graphics cards using the same CPU - an Intel Core Ultra 285K, so they should be roughly comparable. We've yet to hear any significant information about AMD's new RDNA 4 Radeon RX 9070 XT and 9700 with only the vaguest hint of performance and nothing about pricing at its CES keynote this week. As expected from previous rumors and statements from AMD itself, the company confirmed that it does not plan to challenge Nvidia's flagship graphics cards, which include the current RTX 4090 and next generation Blackwell based RTX 5090 due for release later in January.
+Instead it will focus on hitting the mid-range hard in an attempt to boost its flagging market share, but the performance here suggests it will be offering RTX 4080/4080 Super performance in some scenarios. The RTX 4080 Super currently costs around $1,500 minimum, but expectations are that AMD will launch the RX 9070 XT for potentially half that.
+In a recent interview with Tom's Hardware, AMD's David McAfee stated "We made a lot of decisions in RDNA 4 that are different from prior generations. We know that most gamers buy graphics cards that are well, well south of $1,000, and we built the RDNA 4 architecture really from the ground up to make sure that we're delivering features and the performance and capabilities that gamers in the largest volume segments of the market care about most"
+Nvidia's RTX 5000 series is also expected to see significant performance uplifts and the key competitors for the RX 9070 XT will be the RTX 5070 ($549) and RTX 5070 Ti ($749). At the very least, AMD may well be able to challenge those cards in terms of price and performance. Nvidia may have had an inkling that this would be the case, which is why these two RTX series cards cost $50 less than their original RTX 4000 series equivalents, whereas the RTX 5090 costs $400 more than the RTX 4090 did at launch. With no competition at the top end, Nvidia saw fit to price its flagship as it saw fit.
+There's still no indication of when exactly AMD will release its new Radeon graphics cards, other than a Q1 timeframe, while Nvidia's RTX 5080 and 5090 will launch this month and the RTX 5070 Ti and 5070 will follow next month.
+
+NVDA price 3 days before article release: 144.4226837158203
+
+NVDA price 1 day before article release: 140.09408569335938
+
+NVDA price the day of article release: 140.06410217285156

@@ -1,0 +1,20 @@
+Microsoft Delivers Graphics-Intensive Applications Via Azure With NVIDIA GRID 2.0 Technology
+
+Sep 29, 2015, 03:55pm EDT
+
+NVIDIA just announced that Microsoft will offer professional graphics applications and accelerated computing capabilities to customers worldwide through its Azure cloud platform, by leveraging NVIDIA GRID 2.0 virtualized graphics technology. 
+Microsoft
+ will be offering the capabilities with its new N-Series virtual machine offerings, which makes Azure the first cloud-computing platform to provide access to 
+NVIDIA
+ GRID 2.0 for enterprise customers.
+“Our vision is to deliver accelerated graphics and high performance computing to any connected device, regardless of location,” said Jen-Hsun Huang, co-founder and CEO of NVIDIA. “We are excited to collaborate with Microsoft Azure to give engineers, designers, content creators, researchers and other professionals the ability to visualize complex, data-intensive designs accurately from anywhere.”
+NVIDIA GRID 2.0 essentially gives users access to NVIDIA Quadro-accelerated professional graphics applications in a virtualized environment. Microsoft is able to provide said access via the cloud through Azure, or via a hybrid of the two using both Windows and Linux virtual machines.
+Azure will also offer customers access to NVIDIA Tesla Accelerated Computing Platforms, including the flagship Tesla K80 GPU accelerators, for highly parallelized operations or high performance computing (HPC) applications.
+“As a leader in advanced visualization, NVIDIA GPUs were a clear choice for our new N-Series compute family,” said Jason Zander, corporate vice president at Microsoft Azure. “NVIDIA and Microsoft have a long history of enabling industry-wide innovation and we look forward to working with them to bring this revolutionary cloud experience to our customers.”
+With these new capabilities, Microsoft’s Azure can offer customers access to applications from companies such as Autodesk, Esri and others via the cloud. NVIDIA GRID 2.0, which was just announced last month, provides full NVIDIA Quadro GPU driver support, features and performance at much higher performance levels than the company’s first generation offerings.
+
+NVDA price 3 days before article release: 0.5695682764053345
+
+NVDA price 1 day before article release: 0.5661662220954895
+
+NVDA price the day of article release: 0.576129138469696

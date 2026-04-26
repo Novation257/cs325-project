@@ -1,0 +1,28 @@
+Magna And Nvidia Partner On Tech For Vehicles To Behave More Like Humans
+
+Mar 18, 2025, 04:00pm EDT
+
+Major automotive supplier Magna International and technology giant Nvidia have reached a deal to combine technologies aimed at boosting accuracy and speed of on-board safety and self-driving systems, the companies announced Tuesday.
+“Our goal is to make sure that the car behaves in the same way as you would expect from a human driver, in fact, better,” said Steven Jenkins, vice president of technology strategy at Magna Electronics, in an interview.
+“As the automotive industry transitions to safer, more intelligent vehicles with autonomous driving capabilities, our collaboration with Magna is the latest in our endeavors to bring our safety-certified in-vehicle accelerated compute and AI to the transportation industry,” added Ali Kani, vice president of automotive at Nvidia, in a statement. “By combining core technologies and Magna's integration expertise, we aim to shape the future of mobility.”
+The deal calls for Magna to integrate Nvidia’s Drive AGX platform within its next generation of advanced technology solutions. The Drive AGX platform Thor system-on-a-chip which runs the safety-certified DriveOS operating system and is built on the Blackwell GPU architecture. It consolidates increased functionality to improve efficiency, speed, and scalability.
+Indeed the Nvidia Drive AGX Thor delivers up to 1,000 trillion operations per second of AI compute power, featuring 8-bit floating point support optimized for transformer models, large language models and generative AI workloads.
+For Jenkins, it’s a capability that’s coming none-too-soon.
+“I've been waiting for this time to come around for a long time, having the capability of such a chip,” remarked Jenkins. “What it really means is you can process the world around you in a much better way, with much more responsiveness, much more perception, much more ability to do things.”
+Things, such as integrating advanced driver assistance systems, autonomous driving and interior cabin AI features and providing system solutions that meet specific market needs and regulatory requirements.
+MWhen combining all that increased computing power assisted by AI integrated into Magna’s systems, the goal is reaching that human-like or better performance to which Jenkins referred.
+“What that really means is you shouldn't feel that you're in a car and you're having someone drive you,” explained Jenkins. “That will be partially because you'll be able to communicate with this thing properly. It will be able to help you and guide you and guide you along your route. But it will also be very robust. It won't turn off suddenly, if the weather gets bad or it won't turn off suddenly, if it can't understand the scenario, it will be on for the long term. So it will be as robust as a person.”
+The next step is developing a working demonstration model of the platform, which is expected to arrive during the fourth quarter of this year, according to Jenkins.
+As is the custom for automotive suppliers, the names of specific automakers that are likely to become customers for the new combined platform are under wraps for now, but “we have a lot of customer interest,” Jenkins teases.
+
+
+
+
+
+
+
+NVDA price 3 days before article release: 115.55277252197266
+
+NVDA price 1 day before article release: 119.50183868408205
+
+NVDA price the day of article release: 115.40280151367188

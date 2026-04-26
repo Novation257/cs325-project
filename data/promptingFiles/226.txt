@@ -1,0 +1,27 @@
+Nvidia GeForce RTX 5080 Rumored For Jan. 21 Release
+
+Jan 01, 2025, 06:30pm EST
+
+As CES nears, we finally have information on when Nvidia's GeForce RTX 5000-series could be available. Widely expected to be announced at CES, which starts Jan. 7 in Las Vegas and is expected to offer plenty of PC hardware announcements, it appears that the Nvidia GeForce RTX 5080 could be hitting the shelves first a couple of weeks after the show, shoving aside last year's RTX 4080 Super in the process.
+Jan. 21 is the date given by Twitter user HKepcmedia (via Videocardz), who offered no more information about other models such as the RTX 5090, so for now it appears the RTX 5080 will be the first card you can buy, with other cards following. Unfortunately the Tweet has now been deleted so it's not possible to show it here.
+If the RTX 5080 does come first, this would suggest, based on the RTX 4000 card launch schedule, that the RTX 5090 would be released a month or so later in mid-February/early march. That's assuming a similar time scale to what we saw with the RTX 4090, with availability a few weeks after the initial announcement, followed by the RTX 4080 a month later and RTX 4070 Ti.
+The second card to launch seems to follow a month later, but looking back the third launch card with the RTX 4000 series two years ago - the  RTX 4070 Ti - it took even longer, not appearing for another eight weeks, albeit with Christmas and New Year’s in between. That would mean we'd be unlikely to see an RTX 5070 Ti before April.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+Pricing could also be announced next week, at least for the first wave of cards, which would likely include the RTX 5080 and RTX 5090, which have been rumored to cost as much as $1,500 and $2,500, respectively. There's hope that the pricing might be less eye-watering than that, but we'll hopefully get some clarity during Nvidia's announcement.
+The RTX 5000 series is unlikely to have a competitor at the top end, with AMD likely to stick to RTX 4080-level performance, but with an emphasis on value and gaining market share, starting with a Radeon RX 9070 XT. Memory capacity hasn't increased much across the board, but the RTX 5090 is likely to offer an enormous 32GB of GDDR7 VRAM, with all models offering the same memory type as well as PCIe 5.0 support.
+The RTX 5080 is expected to have 16GB, while the RTX 5070 Ti is rumored to have 16GB too. This isn't an increase over the RTX 4070 Ti Super, but is more than the RTX 4070 Ti. Meanwhile, at the bottom of the stack the RTX 5060 is rumored to stick with the same 8GB as its predecessor, which hasn't gone down well with some gamers and commentators.
+While some of the new graphics cards are also rumored to use more power, a representative from Chinese PSU manufacturer Segotep claimed the RTX 5090 would use the same 16-pin 12VPWR connector as the RTX 4090, with a single 600W connector being enough to power the card.
+There will likely me more news and leaks over the next week as we approach CES in Las Vegas, and I'll be covering the hardware launches announced at the event, including the GeForce RTX 5080, so follow me here on Forbes using the blue button below, Facebook or YouTube to get the latest news and reviews.
+
+NVDA price 3 days before article release: 139.88417053222656
+
+NVDA price 1 day before article release: 137.4449462890625
+
+NVDA price the day of article release: 134.2460174560547

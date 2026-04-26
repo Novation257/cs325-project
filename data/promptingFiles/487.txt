@@ -1,0 +1,28 @@
+What’s Wrong With Nvidia, And What To Do About It
+
+Oct 25, 2022, 12:20pm EDT
+
+There is a new battlefront in the cold war between the United States and China, and it is a big problem for technology investors.
+A filing from Nvidia (NVDA) in September revealed that the Biden Administration has banned sales in China of the company’s high-end computer chips, a business worth billions. Shares plummeted.
+The risk to tech share valuations is real. It is time to protect investments.
+The goal of Washington policymakers is clear.
+The Biden Administration sees China as a growing military threat and officials are determined to do everything possible to undermine that emergence. This strategy now includes weaponizing the dominant position of America-based technology firms like Nvidia. While nationalizing key intellectual property is a short term fix, in the absence of financial offsets, the longer-term impact to American innovators, and their stakeholders will be catastrophic.
+Nvidia is a dynamic business. Under the leadership of Jensen Huang, chief executive officer, the Santa Clara, Calif.-based company built a completely new microchip business out of the graphics processing units it originally designed for use in Xbox and PlayStation game consoles. Years of research, software development, and billions of dollars allowed GPUs to become the backbone of the artificial intelligence movement. The transformation of Nvidia, and the emergence of AI is a true American success story.
+Huang, rightfully sees broad uses cases for the Nvidia AI platform.
+Healthcare and telecommunication companies are currently using AI to design new drugs, and speed up digital networks. Climate researchers are even using Nvidia gear to tackle climate change.
+GPUs and AI systems are being quickly adopted by the world’s largest cloud computing businesses. Their hyperscale data centers have become a key market for Nvidia, especially in Asia.
+Big Chinese companies such as Alibaba (BABA) have committed to use Nvidia’s A100, and the next-generation H100 AI GPUs. The Asian eCommerce giant is in the process of using GPUs to remake its entire high performance computing platform, according to a report in August from Bloomberg.
+Unfortunately, the Biden Administration believes the A100 and H100 chips might also be used to build next-generation military devices. A September filing from Nvidia with the Securities and Exchange Commission says the sale of those processors to companies in China and Hong Kong are being specifically targeted. That business would have been worth $400 million alone in the current fiscal quarter.
+Losing that revenue will definitely hurt Nvidia shareholders. However, the bigger concern for tech investors is the White House might nationalize many other geopolitical strategic markets. This could range from biotechnology to materials science, and everything in between.
+The policy is dangerous.
+Technologies developed in the United States do not belong to the American people. They are owned by the shareholders of the companies that build them. Moreover, Nvidia is not selling weapons to China. The company is selling microchips to hyperscale data centers, and high-performance computing operators, presumably to process data. When the government unilaterally collapses a market for political leverage the process destroys shareholder value, and the incentive for American companies to invest in cutting-edge technologies.
+It has been a rough ride in 2022 for Nvidia shareholders. The stock is down 55%, making it among the worst performing issues within the Nasdaq Composite Index. Shares may bounce this week ahead of the GTC developer conference starting on Tuesday, though. Huang is expected to talk about potential new markets for Nvidia’s breakthrough H100 GPUs.
+At a of $131.98, Nvidia shares trade at 29.4x forward earnings and 10.8x sales. Those ratios are significantly below historical levels marks, yet investors should still exercise caution. This is a different era. The cold war between the U.S. and emergent China means that geopolitics matter more than ever.
+Bullish investors should expect substantial selling pressure on any near term rally into the $150 area. The longer-term support level is $126, the 200-week moving average. A decline below that level would put a whole new coloration on this bear market and thus is an absolute no-go zone.
+Safety is for suckers. Our suite of research services have helped thousands of independent investors grow wealth by harnessing the power of peril. Learn to turn fear and confusion into clarity, confidence — and a fortune. Try our flagship service for only $1. Tactical Options newsletter recommends entry, target, and stop levels for in-the-money, near-month, highly liquid options of large companies. Trades typically take one to five days to play out and aim for gains of 40% to 80%. Results in 2022 through Aug 1 are about 180%. Click here for a 2-week 1$ trial.
+
+NVDA price 3 days before article release: 12.178030967712402
+
+NVDA price 1 day before article release: 12.58249855041504
+
+NVDA price the day of article release: 13.243633270263672

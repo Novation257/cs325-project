@@ -1,0 +1,20 @@
+Cadence Design And Nvidia Team To Create AI Data Center Digital Twin
+
+Sep 19, 2025, 11:42am EDT
+
+The data center business is in a bit of a panic. Demand is skyrocketing. Rack power requirements have increased from ~12KW per rack to over 125 KW in just the last year. Now they are preparing for a Gigawatt rack in the next two to three years (Nvidia Rubin Ultra).  When the power goes up, the cooling demands do as well. Enter liquid cooling, with cooling distribution units demanding space where the computer racks used to go. The modern AI factory doesn’t look like any data center we know.
+And there is no way the complex interactions of all the mordern data center components behaviour, power, and cooling can be simulatred by humans, especially as workload demands in AI can raise or drop power dramatically every second.
+Enter AI and Digital Twins.
+I’ve covered Digital Twins and Nvidia Omniverse and have  also covered the Cadence Reality Digital Twins Platform here on Forbes and in a white paper I co-authored with Dr. Jonathon Koomey. There is no question in my mind that this type of simulator will become an absolute requirement for future data centers, especially AI Factories.
+Jensen Huang said at the Cadence Live event last year that Nvidia uses the Cadence Reality platform to simulate Nvidia’s own supercomputing data centers. Cadence has adopted Nvidia Omniverse as the Digital Twin collaboration platform. (Disclosure: Cadence Design and Nvidia, like many companies in the semiconductor space, are clients of Cambrian-AI Research.)
+One of the disclosures at the recent AI Infra Summit in Sunnyvale, Ca., was that while Cadence has engaged some 99% of the semiconductor industry with simulation and AI, only 20% of data center systems are currently being simulated before construction or in operation. As this infrastructure prepares for the future of AI, its a pretty safe bet that this number will increase dramatically over the next three to five years. After that, Cadence believes its has more opportunities in simulating drug discovery.
+At the Summit, Nvidia and Cadence announced they have developed a comprehensive physics model to enable simulation of a DGX SuperPOD with GB200 GPUs. This work brings the Cadence Reality DC platform to contain over 14,000 devices (servers, networking, storage, power, cooling, etc.)  from over 750 vendors in its library of reference designs and workflows. This database  enables simulation of customized accurate operational behaviour of the air- and water-cooled components in the AI Factory, resulting in faster design, lower risk, better operational efficiency of Gigawatt AI Factories
+Adding support for the DGX SuperPOD to Cadence Reality DC is an important piece of the puzzle, but is only the start of a more comprehensive capability that will extend to NVL72, Rubin, and other roadmap technologies that populate the AI Factory.
+In a few years, designers will wonder how the early days of AI data centers was ever possible without rigorous physics-based simulation.
+Disclosures: This article expresses the opinions of the author and is not to be taken as advice to purchase from or invest in the companies mentioned. My firm, Cambrian-AI Research, is fortunate to have many semiconductor firms as our clients, including Baya Systems BrainChip, Cadence, Cerebras Systems, D-Matrix, Esperanto, Flex, Groq, IBM, Intel, Micron, NVIDIA, Qualcomm, Graphcore, SImA.ai, Synopsys, Tenstorrent, Ventana Microsystems, and scores of investors. I have no investment positions in any of the companies mentioned in this article. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 174.86080932617188
+
+NVDA price 1 day before article release: 176.2206573486328
+
+NVDA price the day of article release: 176.6505889892578

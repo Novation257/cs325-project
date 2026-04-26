@@ -1,0 +1,26 @@
+Why Tesla Dropped Nvidia's AI Platform For Self-Driving Cars And Built Its Own
+
+Aug 15, 2018, 05:01pm EDT
+
+Earlier this month, Tesla CEO Elon Musk finally let "the cat out of the bag" about his plans to replace Silicon Valley chipmaker Nvidia's artificial intelligence (AI) system for self-driving cars with its own "super kick-ass" computer designed specifically for autonomous operation.
+Tesla's own AI computer is 10X faster than its current autonomous system based on Nvidia chips
+"I'm a big fan of Nvidia, they do great stuff," said Musk before adding that using a graphics chip (GPU) is not as fast and cost-effective than a custom chip (ASIC) Tesla has designed and is currently testing in the field.
+"But using a GPU, fundamentally it's an emulation mode, and then you also get choked on the bus. So, the transfer between the GPU and the CPU ends up being one of the constraints of the system."
+According to Musk, the Nvidia Drive PX2 computing platform - with one Pascal GPU and 2 Parker processors or CPUs - currently used in Tesla's custom autonomous computerAutopilot Hardware 2.5 can process 200 frames a second, compared to "over 2,000 frames a second" with full redundancy and fail-over with Tesla's designed computer.
+Tesla's AI chip will be used in Autopilot Hardware 3 which, the carmaker maintains, supports full autonomous driving (level 5) and will ship with its vehicles in 4 to 6 months, Musk confirmed.
+However, the Palo Alto, California-based automobile manufacturer insisted that its current Hardware 2.5 system was powerful enough to handle Tesla's Enhanced Autopilot including features like matching speed to traffic conditions, keep within a lane, automatically change lanes without requiring driver input, transition from one freeway to another, exit the freeway when your destination is near, self-park when near a parking spot and being summoned to and from your garage.
+Atherton Research's Take
+Musk's revelations about Tesla's own AI chip development is a blow to the dominance of Nvidia's autonomous vehicle Drive platform in the automotive industry as it proves to the chipmaker's current 370 customers including Audi, Mercedes-Benz, BMW, and Honda, that 3 years and tens of millions of dollars of investment could bring them there as well.
+A similar strategy that Apple adopted when it decided to design its own mobile chip.
+"We've been like semi-stealth mode basically for the last two to three years on this," admitted Musk during the company's Q2 earnings call. The electric carmaker openly hired recognized experts in the field including legendary chip architect Jim Keller, formerly at AMD and Apple and who's now heading Intel's AI chip development.
+We believe that the main reasons for Musk's decision are a combination of performance and control, with the price of the custom chip being the icing on the cake as it will end up costing less than the current Nvidia chips.
+A custom AI chip is an order of magnitude more performant and less power hungry than a GPU-based system to run complex neural networks which are at the core of a machine-learning system.
+Google ended up with the same conclusion when it revealed 2 years ago that it had secretly built its own AI chip (Tensor Processing Unit or TPU) for the company's data centers, delivering an order of magnitude better-optimized performance per watt for machine learning.
+Similarly to Apple, with its own AI chip, the carmaker is finally in total control of the development and deployment of its autonomous system for its current and future vehicles (semi, pickup truck, van, roadster...), and is not dependent anymore on an external supplier for this technology that is so key for its future and a major differentiator from every other car makers.
+Last year, Musk also confirmed that it will switch from Nvidia to Intel chips for its onboard infotainment system, which is now powering the large center console of all Tesla cars. Nvidia has mostly abandoned this market, seen as a commodity, and might suffer the same fate in its self-driving car business.
+
+NVDA price 3 days before article release: 6.306649208068848
+
+NVDA price 1 day before article release: 6.471003532409668
+
+NVDA price the day of article release: 6.412836074829102

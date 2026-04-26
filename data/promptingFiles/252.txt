@@ -1,0 +1,41 @@
+Behind The Scenes: Nvidia’s Great Rise And The New Data Center Era
+
+Nov 08, 2024, 11:46am EST
+
+There’s no denying that we’re making great strides in technology right now, not only in large language models, but also in infrastructure.
+In fact, I’ve seen a lot of pivoting of focus in the community toward the benchmarks that we are looking at with GPU and hardware. Of course, there’s still the lightning speed at which the models evolve, but it’s worth looking at the bare metal side, too.
+With that in mind, there’s a lot to unpack from a recent episode of the No Priors podcast where Nvidia CEO Jensen Huang contributes some insights.
+And it’s certainly Nvidia’s time, as the company eclipses both Apple and Microsoft for the title of the largest tech corporation around. The premier data centers being built right now are using Nvidia products, high-design GPUs, in the racks, and Huang has a lot to say about this transformation.
+“The world has changed,” he said, talking about parallelism of clusters and advances in co-design. “The scale has changed.”
+Huang went over his view of some of the history of hardware evolution with the hosts, talking about how a maxim in the community known as Moore’s Law held true for many years, in which people referenced more prediction of doubling in transistor and processing capacity every year or so.
+For reference, here’s how ChatGPT explains Moore’s law to us:
+“Moore's Law is an observation made by Gordon Moore, the co-founder of Intel, in 1965. It predicts that the number of transistors on a microchip would double approximately every two years, leading to a corresponding increase in computational power and a decrease in relative cost. This trend has driven rapid advancements in computing power and has been a foundational principle guiding the semiconductor industry for decades.”
+It's a little ironic, because the company being beat out by Nvidia, principally, is none other than Intel. But I digress…
+Now, Huang said, with an even faster piece of change, we’re looking at some type of what he called “hyper Moore’s law.”
+In order to get there, he suggested, planners have to look at the architecture and the system together in a ‘full stack approach.’
+“You could treat the network as a compute fabric, and push a lot of the work into the network, push a lot of the work into the fabric,” he said. “And as a result, you're compressing …at very large scales.”
+Inference and Latency: Making Real-Time Systems Smarter
+Huang also mentioned the work of adapting to language models and neural networks that are accomplishing inference-time scaling, generating chains of thought and reasoning on the fly.
+“We have to go invent something new,” he said, noting that essentially, low latency and high throughput are at odds. In addition, he mentioned the possibility that the industry will move into a diverse era with all kinds of sizes of language models, including tiny language models or TLMs.
+“You're still going to create these incredible frontier models,” he said. “They're going to (be used for) the groundbreaking work. You're going to use (them) for synthetic data generation. You're going to use the models, big models, to teach smaller models and distill down (to) the smaller model.”
+Later, Huang revealed some very interesting elements of building the X.AI data center that the company worked on with Elon Musk.
+He gave Musk a lot of credit for the quick implementation and making the decisions that stood up this supercluster, as lots of people were working on doing everything quickly.
+“It's really a testament to his willpower and how he's able to think through mechanical things, electrical things, and overcome what is, apparently, you know, extraordinary obstacles,” Huang said.
+He also revealed that the stakeholders used the process of digital twinning to help implement systems.
+“We simulated all the network configurations, we pre-staged everything as a digital twin. We pre-staged all of the supply chain. We pre-staged all of the wiring of the network. We even set up a small version of it, kind of a, you know, just a first instance of it …so by the time that everything showed up, everything was staged. All the practicing was done, all the simulations were done. And then massive integration, … a monument of gargantuan teams of humanity falling all over each other, wiring everything up, 24/7, and within a few weeks, the clusters were up.”
+What was special about the project? With literally tons of equipment, he said, the pace of the project was “abnormal.”
+Huang confirmed that the company uses AI entities as chip designers and software engineers.
+“We couldn’t have built Hopper without (them),” he said. “They can explore a much larger space than we can. They have infinite time to explore space.”
+Reminiscing on the last few years, in which Nvidia’s market cap has shot up like a rocket, Huang talked about what the effect has been like inside of the enterprise.
+“A company can’t change as fast as it stock price,” he said, citing the value of deliberation, of knowing what’s actually happening within the industry to drive change.
+What he has realized, he said, is that Nvidia has basically reinvented computing for the first time in around 60 years, bringing the marginal cost of computer down until it makes sense for computers to just do tasks themselves.
+That is a game-changer – and that’s an understatement! I’ve been looking at Claude, and OpenAI’s o1 and Orion, and one thing is for sure – when we get to the market effects, things will never be the same.
+I might cover more of Huang’s comments elsewhere, as he’s going deeper into that new capability of systems to really do things themselves – with minimal supervision, and for AI to take a greater role in company processes.
+This is where you really start to see the effects of ‘agentic AI’ – that you will have AI entities assuming engineering and design roles, and credited with the results.
+It is, without a doubt, a time of incredible change.
+
+NVDA price 3 days before article release: 139.8545379638672
+
+NVDA price 1 day before article release: 148.8209991455078
+
+NVDA price the day of article release: 147.5714569091797

@@ -1,0 +1,40 @@
+Nvidia GeForce GTX 960 Review Part II: 1440p Benchmarks, 2-Way SLI, And Radeon 285 Showdown
+
+Feb 12, 2015, 05:12pm EST
+
+Welcome to part 2 of my Nvidia GeForce GTX 960 review. If you missed it, part 1 focuses on single card 1080p benchmarks, performance, and temps. Get a primer on the GTX 960 by referring back to that. In this installment we'll analyze how the 2GB, 128-bit GTX 960 handles 1440p (2560 x 1440) gaming in single card and 2-way SLI configurations. We'll also continue the showdown between Nvidia's latest "sweet spot" graphics card and the comparatively priced Radeon 285 from AMD.
+Note: This review marks a permanent transition from my original 
+Intel
+ Core i7-4770K test bench to my X99 platform. As such, I'm gradually redoing all prior benchmarks of existing GPUs, which are normally used for direct performance comparisons, charts, etc. The bad news is that the results today will only include the GTX 960 and Radeon 285 as tested on my new system.
+New Test System Specifications:
+The cards being evaluated both belong to the ASUS Strix line, and both are factory overclocked above reference levels. What this means is that an apples-to-apples comparison of both cards is impossible, as the GeForce GTX version can't even be underclocked to reach those reference levels. For our 1440p testing I've simply left clock speeds untouched from their factory levels, though it's worth noting again that the GTX 960 has an insane amount of overclocking potential -- up to 22%.
+1440p Single GPU Gaming Benchmarks
+Only recently has gaming at 1440p become a viable, affordable upgrade to 1080p, with the prices of display tech and graphics card hardware alike inspiring adoption at the enthusiast level. When Nvidia's GTX 660 -- even their GTX 760 -- launched, I don't remember them handling 1440p demands with such grace, and the 760 launched at $249 compared to the 960's street price of about $209.
+1440p is pushing 1.7 times more pixels than 1080p, so you won't see the consistent 60fps or better performance that was on display in Part 1. That said, I didn't dial back the graphics settings, and the framerates you're seeing below are from fairly demanding games at High to Ultra, with taxing options like Anti-Aliasing and Tessellation activated. These just aren't settings you're used to seeing at playable framerates with a $200 card, but the Radeon 285 and 960 are both up to the task.
+Across these 7 games, a mixture of titles optimized for either AMD or Nvidia hardware, the GTX 960 averages 48fps, whereas the Radeon 285 averages 47.8fps. There are strange discrepancies like Alien: Isolation and Middle Earth: Shadow of Mordor, but from a top down view they offer almost dead even performance.
+That performance holds true when looking at 3DMark's Fire Strike Extreme benchmark, with the GTX 960 scoring 3551, and the Radeon 285 a nearly identical 3516.
+1440p Two-Way SLI/CrossFire Gaming Benchmarks
+Just one appealing factor of these "sweet spot" graphics cards is that, provided you have an adequately sized case, power supply, and supporting motherboard, you can upgrade your initial $200 investment by adding another identical graphics card to the mix. Traditionally, this has been a compelling option.
+I remember pitting two $269 MSI 760s -- the predecessor to this 960 -- against a $1000 Nvidia Titan and staring at my spreadsheet, awestruck, as that SLI setup consistently outperformed the 
+Titan
+ and 980 at multiple resolutions. Sure, it's going to consume marginally more power and expel a lot of waste heat, but it's going to cost less which is often the primary concern for PC gamers.
+As I mentioned above, due to some technical difficulties (namely, my motherboard frying) I don't have a full spectrum of benchmarks to show you across multiple GPUs, so for now let's directly compare two GTX 960s against two Radeon 285s.
+Again we see the cards trading blows, but ultimately settling for a photo finish. Across these seven games, dual GTX 960s turn in an average framerate of 80.8fps. The dual Radeon 285 setup? 83.2fps, barely edging out its competitor.
+That's not the only consideration though. What about scaling? That's the performance increase we see when moving from single to double cards. At 1440p Nvidia's 960 turns in 51.3% performance upscaling across all 7 games, and AMD's Radeon 285 yields a slightly better 56.7% average. Neither of these percentages are fantastic. The situation improves a bit when calling on synthetic benchmarks to test scaling, such as 3DMark's Fire Strike, where I saw a more realistic 65% upscaling boost in Nvidia SLI, and 66% in CrossFire. Still no outright, decisive victory.
+But the real-world difference while gaming sure is noticeable, elevating most of these games to 60fps and well beyond at 1440p. Add an Nvidia G-Sync or forthcoming AMD FreeSync monitor to the mix and you've got high resolution gaming nirvana.
+Is GTX 960 2-Way SLI Worth It?
+I'm still testing the $209 GTX 960 in 2-way SLI against the $559 GTX 980, and my preliminary results show the dual 960s matching or slightly exceeding a single 980s performance, though I've only tried 3 games at this point (Tomb Raider, Metro: Last Light, Battlefield 4). Interestingly, the real champion here would seem to be the GTX 970. A pair of 960s will cost you 21% more than a single $329 970 and only yield about 12% better performance.
+tl;dr -- If you want a solid gaming experience at 1440p, pick up Nvidia's GTX 970 (or a shockingly cheap Radeon 290/290x). The SLI option doesn't make as much sense here.
+The Full Picture: Beyond The Benchmarks
+What we have thus far is arguably a tie, but gaming benchmarks alone don't paint the entire picture. With pricing this aggressive, we need to evaluate the software ecosystem, power consumption, and temperatures.
+Even though the ASUS Strix line boasts exceptional thermals, Nvidia's second-generation Maxwell architecture just sips power -- requiring only a single 6-pin PCIe cable -- and with less juice coursing through its veins, that means less heat gets generated.
+Running a Furmark Stress Test, I measured the maximum temperatures of both SLI and Crossfire configurations in an open-air case after an hour. The pair of 960s maxed out at a balmy 65C, while the pair of Radeon 285s hit the ceiling at 75C. Still not too shabby, and a testament to ASUS' DirectCU II cooler. But the smaller size and cooler temperatures win the day here.
+Software is another equally important consideration. Both companies offer game DVR options, auto-optimization for graphical settings, and automatic driver updates, although Nvidia handles all of these more elegantly. Raptr's Game DVR compression leaves much to be desired, and right now G-Sync is the only dynamic refresh rate game in town, although AMD should be launching their G-Sync competitor in March according to a spokesperson.
+In my eyes, GeForce Experience is less invasive than Raptr, offers better video recording, and serves up a more elegant approach to driver updates. If only raw performance matters to you, then brand loyalty or simply cheaper prices should help make up your mind, but if the software you'll use on a daily basis is important, Nvidia has the edge for now.
+All told, Nvidia's GTX 960 is definitely a sweet spot card offering an exceptional amount of performance for the price. Its cooler temperatures and better software suite give Nvidia the victory over its similarly-priced AMD competition for now.
+
+NVDA price 3 days before article release: 0.4889836311340332
+
+NVDA price 1 day before article release: 0.4993007481098175
+
+NVDA price the day of article release: 0.5350508689880371

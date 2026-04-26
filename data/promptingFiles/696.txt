@@ -1,0 +1,52 @@
+Crunching The Numbers: Nvidia GeForce GTX 1060 Vs. AMD Radeon RX 480
+
+Jul 19, 2016, 09:00am EDT
+
+Today Nvidia continues their steady rollout of Pascal with the launch of its GeForce GTX 1060 graphics card. It's a product I suspected would be aggressively priced to compete with AMD's Radeon RX 480, and tuned to convince people running Nvidia's 700 or 900 series GPUs that it was definitely time for an upgrade. Looks like that hunch was spot on.
+Instead of a traditional review, I'm going to test two of Nvidia's claims surrounding the GeForce GTX 1060. First and most importantly, does it indeed match the performance of the GTX 980? Because regardless of the competitive landscape, if that claim shakes out to be true its $249 (ish) price tag makes it a compelling upgrade with an incredible generational performance leap. And let's be honest, that's a trend they've confidently established with the GTX 1080 and GTX 1070.
+Second, does it beat AMD's Radeon RX 480 by 15 percent? This is important, because as I've argued before, AMD has effectively conceded the high-end graphics card war to Nvidia until Vega -- and the inevitable Radeon RX 490 -- is released much later this year. That means it's crucial to AMD that they claw back their desktop GPU market share at the midrange and low end of the spectrum. If Nvidia boxes them in at the sub-$300 range, that could spell trouble for Team Red.
+GTX 1060 Specs and Partner Cards
+First some brief details: Nvidia's GeForce GTX 1060 begins at $249, and that's for cards from a dozen board partners, which we'll see trickling out beginning today. For those who appreciate Nvidia's signature design, reference cooler and premium materials, a GTX 1060 Founder's Edition SKU will launch for $299, but will only be available at Nvidia.com.
+Here's a sampling of the GTX 1060 SKUs you can expect:
+The Test Bench
+This year I reconsidered my stance on benchmarking and decided to build a system I dubbed “The People’s Bench.” The goal was to show you what’s realistic and attainable, not what’s possible only for the upper echelon of PC gamers out there with insanely expensive CPUs. My philosophy is that the most expensive component of your gaming PC should be the graphics card, so while Intel’s i7-5960x — the CPU most tech outlets use for testing — is an absolute monster, its price excludes it from my personal bench. So I settled on the Core i5-6400 because it meets the requirements for VR and still delivers awesome performance for mainstream gaming.
+Here are the components I'm using:
+This means that you might see higher scores and framerates from other outlets, but mine are more representative of the average PC gamer, and the respective card vendors' target audience.
+Operating Temps and Power Draw:
+Beginning with power draw, we see the GTX 1060 pulling 245W from the wall when under load (I measure during Fire Strike Extreme's Combined Test). Comparing it directly to AMD's Radeon RX 480, it sucks in 12% less juice. Plus it's rocking 20% less energy consumption than the GTX 980 reference card. Considering that one of Maxwell's key pillars was power efficiency -- and considering that the GTX 1060 does indeed perform at GTX 980 levels -- this is an awesome improvement.
+Remember, this also means you don't need a beefy power supply to run these cards. In fact, you can easily get away with a 450W PSU if you're building a PC around either of them.
+Nvidia gets another win with operating temperatures. The GTX 1060 didn't exceed 78 degrees Celsius under load, while the Radeon RX 480 hit 84 degrees. This is using out-of-the-box fan profiles, but keep in mind that you'll definitely see improvements in thermals with third party cards from the likes of Asus, PNY, EVGA, MSI, and others.
+DirectX 12 Benchmarks
+Games utilizing DirectX 12 aren't commonplace yet, but in 2 or 3 years they'll be the standard. So let's dive into a handful of games tapping into the benefits of DX12 and see if there's a decisive winner.
+We'll kick it off with FutureMark's brand new "Time Spy" synthetic benchmark, which is basically the DirectX 12 equivalent of the popular Fire Strike test. As we've seen time and time again with Fire Strike, Time Spy also renders a pretty solid approximation of a system's overall gaming performance.
+Despite the wonkiness of my chart, you'll notice that both overall scores and graphics scores between the GTX 1060 and Radeon RX 480 are quite close. In point of fact, the difference is within the margin of error and variance we can see from run to run. Technically Nvidia wins this one, but it's neck and neck in terms of 3DMark scoring.
+Remember the Gears of War Ultimate launch fiasco? Things have improved dramatically since then for Radeon users. In fact, AMD's RX 480 takes the lead in Gears of War Ultimate and Hitman by about 4% and 18% respectively.
+Then Rise of the Tomb Raider comes along and throws a curveball to upset what would be a pretty convincing DirectX 12 win. Here, Nvidia's GTX 1060 pulls way ahead, registering a 22% performance increase over the Radeon RX 480.
+And to wrap things up in this section, here's definitive proof that Nvidia didn't take AMD's early DirectX 12 victories lying down. These two cards are neck-and-neck in Ashes of the Singularity's DX12 benchmark, a test which has historically favored AMD by a noticeable margin.
+Next page: Synthetic benchmarks, SteamVR Performance Test, and DX11 games.
+3DMark Firestrike
+Before we take a look at DirectX 11 game performance, let's circle back and get some synthetic results courtesy of Fire Strike and Heaven 4.0.
+3DMark’s Fire Strike is a synthetic benchmark that tests a system’s overall graphics capabilities, but it’s not a replacement for real-world gaming results. Still, it tends to provide a fairly accurate snapshot of the competitive advantage one card can have over another. You can’t hand down a verdict based solely on this test, but it’s a solid indicator of expected performance.
+And as we've been expecting from leaked benchmarks, the GTX 1060 mostly matches the GTX 980, especially at 1440p and 4K resolutions, falling ever so slightly behind it at 1080p. It also maintains a slight edge over AMD's Radeon RX 480. But it's closer to 10% than 15%.
+Theoretically a reference-level GTX 1060 from board partners will cost only 4% more than the Radeon RX 480. When thinking about performance-per-dollar, it's a really close race so far.
+Let's keep going.
+Unigine Heaven 4.0
+Unigine’s Heaven Benchmark is an awesome tool that utilizes the Unigine Engine, and testing can be done with DirectX 10, DirectX 11, or OpenGL. I run the Heaven benchmark in DX11 mode which utilizes tons of tessellation and screen-space ambient occlusion. As with 3DMark’s tests, it’s not always indicative of real-world gaming scenarios, but it does provide that performance snapshot we need to start identifying trends. Will the GTX 1060 maintain that 10% lead in DirectX 11?
+Nope. It actually exceeds it, clocking 23% better performance under Heaven 4.0 Extreme settings at 1080p, and about 15% more frames at 1440p. Part of this, I believe, is that Nvidia has always had a strong tessellation engine. That reasoning is reinforced by looking at the GTX 1060 vs Radeon Fury scores. As far as synthetic tests go, I place more faith in Fire Strike as a measure of typical performance.
+DirectX 11 Benchmarks
+Let's quickly cruise through benchmark results Grand Theft Auto V, Far Cry Primal, and Middle Earth: Shadow of Mordor to see how the GTX 1060 and Radeon RX 480 fare.
+Given the slight price difference between cards, it's fair to say that the Radeon RX 480 has a slight edge in both Shadow of Mordor and the demanding, system-crushing visuals of the Far Cry Primal benchmark. Grand Theft Auto V gives the advantage to Nvidia's GTX 1060 at both tested resolutions.
+SteamVR Performance Test
+When I reviewed the Radeon RX 480, my only concern was its VR performance. It's not that it didn't handle virtual reality demands well and offer a great experience at an entry-level price. It's that I was uncertain whether that card could continue to deliver a premium VR experience for 2 or 3 years to come. While we can't peer into the future and render a verdict for the GTX 1060 either, what we can point to is a touch stronger performance in the SteamVR Performance Test.
+Specifically, it stands up to the score of 8.1 delivered by the GTX 980, which is not even the minimum required GPU for the Oculus Rift and HTC Vive. That title belongs to the GTX 970. Meanwhile, the Radeon RX 480 falls a bit behind with a score of 6.8. Make no mistake: both cards deliver awesome VR performance today. But at the same average price range, Nvidia is doing it a bit better.
+Final Thoughts
+In my mind, there is no clear cut winner in this graphics card grudge match. While the Radeon RX 480 and GTX 1060 are evenly matched in FutureMark's DirectX 12 benchmark, they trade leads in other DirectX 12 titles. In DirectX 11 testing, Nvidia takes a slight lead with the older GTAV, but again the two cards are turning in mostly equal performance numbers.
+Where Nvidia's GTX 1060 -- at least the Founder's Edition -- brings in a decisive victory is thermals and VR performance. We can also safely say that Nvidia lives up to their promise of GTX 980-level performance for less power and way less cash. Keeping promises is a good thing!
+Judging the GTX 1060 on its own merits, and without the threat of competition, it's a fantastic product. When stacked against the Radeon RX 480, it's a much more difficult decision. As it sometimes does, that decision may need to be made by evaluating the software ecosystem, too. Even then, both companies are kicking ass delivering frequent and timely drivers, and AMD has finally caught up on the UI side of things with the Radeon Crimson software and their "WattMan" overclocking utility.
+I know it's pretty non-committal, but there's no slam dunk victory here. This one may just come down to brand loyalty and whether or not you need the most VR performance you can extract from $250. Either way, the GTX 1060 gets a glowing recommendation from me, and I'm curious to see how board partners compliment and improve on the design.
+
+NVDA price 3 days before article release: 1.308669924736023
+
+NVDA price 1 day before article release: 1.3000794649124146
+
+NVDA price the day of article release: 1.3135782480239868

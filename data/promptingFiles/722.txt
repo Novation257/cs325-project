@@ -1,0 +1,60 @@
+Alienware 18 Gaming Laptop Review: A PC-Killer With Nvidia SLI Graphics
+
+Aug 14, 2014, 09:51am EDT
+
+When it comes to gaming laptops. Alienware (actually owned by Dell) is synonymous with the ultra-premium end of the market. It's not just other-worldly design, illumination and hot air exhausts bigger that rival those on fighter jets that set its laptops apart from most of the competition either.
+Your average Alienware gaming laptop sports PC-killing specifications too that churn out ludicrous framerates at 1080p. The model I'm looking at today is the Alienware 18 with a model number P19E001. It's a monstrous machine with a huge 18.4in display and resolution of 1,920 x 1,080 (1080p).
+Many ultrabooks and macbooks sport higher resolutions, however no laptop (and few PCs too for that matter) would be able to play games at maximum settings smoothly as you approach the resolution known as 4K.
+
+This has a resolution of 3,840 x 2,160 -  a huge step up from a 1080p screen in terms of pixel count.This is a key factor as the screen still looks sharp but you'll have the advantage of using the Alienware's awesome specification to achieve playable framerates in today's demanding games.
+
+Under the hood
+Current pricing starts at $2,099, which offers an 
+Intel
+ Core i7 processor, 8GB of memory and two Nvidia GeForce GTX 860M graphics cards in SLI. Our model is slightly older, and sports two GeForce GTX 780M's but the latest models offer dual AMD Radeon R9 M290X or Nvidia GeForce GTX 880M graphics cards with prices topping $5,000 in some places with crazy specifications to match.
+
+
+The rest of the specification on the model here stands at 16GB of RAM and an Intel Core i7-4930MX processor, which has a maximum clock speed of 3.9GHz and has four physical CPU cores backed up by Hyper-Threading, giving it eight threads in total - more than enough for today's games.
+
+
+There's a 500GB Samsung SM841 mSATA SSD  and to give you some extra storage space there's a 750GB 
+Western Digital
+ Black hard disk inside too, with space for a second 2.5in drive - either a hard disk or SSD. With such a large screen, it's likely you'd be watching movies on it at some point and as well as a Gigabit Ethernet port for hooking straight up to a router, there's a speedy Intel dual Band 802.11ac WiFi adapter which will handle HD streaming services such as 
+Netflix
+ with bandwidth to spare. Or, of course, you could use the built-in Blu-ray and DVD drive.
+Ergonomics
+The keyboard is large with the full complement of numpad keys and even a row of macro keys that can be programmed using Alienware's on screen display software. The keys are individually back-lit and both these, the touch pad and the external case illuminations can be cycled through many different colors.  You can even assign different colors to different areas of the keyboard and there are a number of presets that change the color according to themes, some of which gradually scroll across the keys or indicate battery level for example.
+
+
+Even the touchpad is back-lit - it's bizarre when you first use it but the pad itself is a joy to use and the backlight only makes things easier on low light. the buttons offer good resistance without being stiff too and the keyboard is very responsive. However, the main issue I found is that because the laptop is so high - well over 5cm/2in, that the sharp, angular edges of the front of the palm wrest can dig into your wrists. You'd need a pretty low-lying desk for this not to be a problem too and having the laptop sitting on your lap probably isn't a great solution either. It gets very warm, you'll risk blocking one of the numerous air intakes plus the laptop itself weighs in at nearly 6kg - three times your average 15in model.
+
+
+With all that volume to fill with hardware, there's plenty of space for speakers and the 2.1-channel set includes a subwoofer too. However, these still fall well short of even a modest desktop set, especially with bass. Inside is a mass of hardware, with some extensive cooling systems to deal with the heat from the two graphics processors and the Core i7 CPU. As a result, when you're just web browsing or watching videos, the Alienware 18 is remarkably quiet. Fire up a game or put the CPU under heavy load, though, and the fans kick into action and we'd certainly recommend using headphones to cut out the noise.
+Build quality and screen
+I've been very impressed with the build quality of this laptop. It's exceptionally solid-feeling and it's the first laptop I've come across (and I've tested a few other Alienwares in my time too) that has little flex or bend in the screen. Even if you push down in the middle from the outside there's no distortion. I can easily see this product lasting many years of knocks and scrapes - something its smaller, thinner contemporaries will likely struggle to match.
+
+
+The screen itself isn't spectacularly bright, but the contrast is respectable and at full brightness it's perfectly visible outside in bright conditions. Colours are well above average too and there was no noticeable merging of blacks in dark scenes in games and movies either. As I've already mentioned, this isn't on-par with an 
+Apple
+ Retina display resolution-wise, but its 1080p screen means that its two graphics cards are able to handle all current games at maximum settings.
+Performance
+Plugged into the mains, the Alienware 18 runs at full speed, tapping into the power of both 780M GPUs. However, as soon as you unplug the power cable, the whole system goes into power saving mode. This sees frame rates plummet in games and sadly there's nothing you can do to prevent this. I tried delving into the depths of Windows' power management and also Alienware's own Command Center program where you can access various power saving features but none would force the laptop to run at maximum speed without mains power.
+This is a bit of a shame but in reality, the battery will likely be depleted in less than an hour anyway. PC Mark 8's battery test put general battery life at just under two hours. This is a fairly heavy power test, which I ran on Window's balanced power saving setting, so if you switched off WiFi, ran the graphics off the integrated Intel HD graphics and lowered the screen brightness, you'd likely see more than this.
+
+Of  course, games are where the money is at and the Alienware 18 certainly didn't disappoint.   In Battlefield 4, it was slightly slower than desktop graphics cards such as AMD's R9 290X and Nvidia's GeForce GTX 780, although with a minimum frame rate of 57fps, there's clearly a huge amount of headroom for future games or connecting a higher resolution monitor.
+
+Crysis 3 loved the Alienware 18's SLI configuration and it was noticeably faster than AMD's R9 290X and Nvidia's GTX 780. Again, there's plenty of scope here for playing games at higher resolutions on a PC monitor if you're considering the Alienware as a desktop PC replacement.
+
+The Unigine Valley benchmark is one you can run at home (download it here) to compare your PC or laptop to the Alienware 18. Once again, it topped the graphs with a score of 4,185, but this  dropped to just 848 when using the battery - an indication of just what a hit games will see.
+
+Finally, Cinebench R15 is a rendering program that stresses all of a CPU's cores/threads. The Alienware 18 has eight threads, so it wasn't surprising to see it better the desktop Intel Core i5-4690K, which only has four and it also beat AMD's FX-8350, which has eight. Perhaps more impressively, it came fairly close to matching the powerful desktop Core i7-4790K, proving that the Alienware can certainly keep up with some of the fastest CPUs available.
+Conclusion
+If there's one thing I made my mind up about the Alienware 18 it's that it isn't a laptop for gaming on the move. This is a desktop replacement - a PC killer and in that role it excels. You'd hope so given you could buy a half-decent second user car for this money. However, it's certainly easier to lug it around than it is your average PC. Fancy a round of Battlefield 4 in Starbucks or at the airport? So long as you have mains power, then you'll be fine, although again, the noise and heat from this high-end gaming machine are very noticeable.
+This is a huge amount of money to pay for a laptop too and a similarly-performing PC could be had for a third of the price. Perhaps where the Alienware 18 is most at home is literally that - in the home. Chuck our your gaming PC, connect the laptop to your favorite mouse, keyboard and monitor and you've got a powerful gaming machine that takes up a lot less space than your average PC and can be neatly tucked away when not in use. It demands a premium price tag but the build quality, awesome specification and funky features are aspects you simply won't find on your average $1,500 gaming laptop.
+
+
+NVDA price 3 days before article release: 0.449573665857315
+
+NVDA price 1 day before article release: 0.4521903693675995
+
+NVDA price the day of article release: 0.4471950531005859

@@ -1,0 +1,27 @@
+NVIDIA Tech Adds Real World  Models To Gatik Autonomous Truck Simulator
+
+Jul 29, 2025, 07:00am EDT
+
+Autonomous middle-mile delivery trucking company Gatik has incorporated technology from NVIDIA to its next-generation simulation platform, providing more real-life scenarios for truck validation and development at lower cost, the company announced Tuesday.
+Gatik’s next-generation Arena simulation platform includes NVIDIA’s Cosmos World Foundation Models, which the company says produces ultra high-fidelity environment simulations in an exponentially higher number than could be generated without Cosmos.
+To illustrate the dramatic increase, Gatik co-founder and chief engineer Apeksha Kumavat explained that passing 10 miles of data from a customer site in Dallas, Texas through Arena without Cosmos could generate perhaps as many 100,000 miles of additional scenarios.
+“As we plug in NVIDIA’s Cosmos at the end of it, we are now further able to completely change the location, the geography of where we were actually testing this, for example, those 10 miles from Dallas now can be recreated on a completely different section in Toronto or in in Phoenix,” explained Kumavat, in an interview. “All of this is high fidelity, really photorealistic simulation. So those 10 miles now have gone into millions of miles with different kinds of weather conditions.”
+It’s an important capability for several reasons, Kumavat says. For one, a greater variety of more realistic scenarios improves and speeds development of the company’s autonomous technology. Second, she points out, it eliminates the need for actual on-road testing in scenarios that might be considered too dangerous to create “in the real world.”
+Some of the scenarios Arena can generate include:
+“NVIDIA Cosmos has been purpose-built to accelerate world model training and accelerate physical AI development for autonomous vehicles,” said Norm Marks, NVIDIA vice president of global automotive, in a statement. “Our collaboration with Gatik unlocks the development of safe, reliable, ultra-high-fidelity digital environments for robust AV training and validation, and is helping to accelerate the commercialization of Gatik's autonomous trucking solution at scale."
+Grocery store chains Kroger and Loblaws, along with Tyson Foods and Walmart are among the biggest companies using trucks equipped with Gatik’s autonomous technology to move goods on so-called middle-mile routes.
+Development and use of autonomous commercial trucks has picked up speed in the last five years as a way to reduce costs and deal with a driver shortage that’s been lingering since before the Covid pandemic took hold in 2020.
+As of last summer there were more than 78,000 unfilled truck driver positions according to CDLjobs.com, while a report by Ryder System Inc. notes “industry experts predict that if trends continue, the number of unfilled positions could exceed 170,000 by 2030.”
+Just last week, Texas door and millwork manufacturer Steve & Sons announced a deal with autonomous tech startup Bot Auto to start running some delivery routes in that state with self-driving trucks.
+Companies such as Kodiak Robotics, Aurora, Einride and Plus are not only major players in autonomous commercial truck technology, they use a variety of simulation systems to improve performance, capabilities and safety.
+Gatik’s Kumavat is especially excited about this next generation of Arena that includes NVIDIA’s Cosmos World Foundation Models, which she enthuses, “ almost makes the gap between simulation and the real world testing, down to zero.”
+
+
+
+
+
+NVDA price 3 days before article release: 173.7111358642578
+
+NVDA price 1 day before article release: 176.7206268310547
+
+NVDA price the day of article release: 175.4808349609375

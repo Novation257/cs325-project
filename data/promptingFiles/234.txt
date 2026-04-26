@@ -1,0 +1,16 @@
+Nvidia Shares Slide After China Starts Antitrust Probe
+
+Dec 09, 2024, 09:54am EST
+
+Nvidia shares slid about 2% in early market trading Monday morning after China announced it was opening an investigation into one of the world’s most valuable companies over potential antitrust law violations.
+Beijing opened a probe into Nvidia’s 2020 $7 billion acquisition of computer networking equipment company Mellanox Technologies, China’s State Administration for Market Regulation said Monday, according to multiple news outlets.
+The Chinese government had approved the deal on condition that Mellanox provide rivals with information about new products within 90 days of Nvidia, along with the agreement that Chinese chip companies would be able to ensure their products work well with Mellanox’s.
+Shares of Nvidia were down just over 2% at around 9:45 p.m. EST.
+Nvidia did not immediately respond to request for comment.
+Nvidia shares have enjoyed a meteoric rise in recent years, propelled by the artificial intelligence boom. The investigation follows President Joe Biden’s expansion of restrictions on the sale of advanced technology to China, including the sales of certain chips and machinery, last week. The Chinese government announced it would ban the export of several rare minerals to the US and imposed sanctions on US defense companies and executives in response. Nvidia is also facing antitrust problems in the US – the Justice Department sought information about whether the company had violated antitrust laws earlier this year through its acquisition of startup RunAI and in other aspects of its chip business, Bloomberg reported.
+
+NVDA price 3 days before article release: 145.0824737548828
+
+NVDA price 1 day before article release: 142.3933563232422
+
+NVDA price the day of article release: 138.7645263671875

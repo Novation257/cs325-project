@@ -1,0 +1,31 @@
+Meet NVIDIA's New GTX 780: Titan-Like Performance For $350 Less
+
+May 23, 2013, 09:00am EDT
+
+At some point during the GeForce GTX 780 briefing I had last week, someone playfully uttered the phrase "Titan junior." And while NVIDIA has transferred the Titan's premium chrome and black design to the GTX 780, I didn't grasp how accurate that statement was until I spent several hours running benchmarks and game FPS tests to directly compare the two GPUs. With each new result, the wait until today's 9 a.m. embargo grew ever more excruciating.
+In the grand scheme of things, NVIDIA's GTX 780 is the inevitable numbered successor to the GTX 680, packing about 34% more performance, 50% more CUDA cores, and 50% more memory. But it uses the same cooler found in the GTX Titan, as well as the same Kepler architecture. In reality, its unwritten tagline could be "The Titan for the rest of us."
+Especially since at $649, the GTX 780 costs roughly $350 less than the mighty Titan. High-end PC gaming (which we'll define as at least 1440p, not 1080p) just got significantly less expensive.
+The specifications above will satisfy the hardcore techie and GPU junkies, but I'm not one to physically disassemble a card, utilize frequency spectograms, or carry out extensive video conversion tests. What we can assess from the 780's specifications is that it's darn close to the Titan, which until today was quickly becoming NVIDIA's halo product.
+The next step for me was to put the GTX 780 and the Titan side-by-side to measure the comparative performance. Note that the following tests were conducted multiple times for accuracy, using the same rig, same NVIDIA drivers, and out of the box base clock speeds (meaning they haven't yet been overclocked).
+Heaven 4.0 is a critical part of evaluating a video card, as it measures the DirectX 11 capabilities of the GPU independent of the hardware environment surrounding it. Pitting these two high-end cards against each other meant cranking up the settings. For those familiar with Heaven, quality has been set to Ultra, tessellation to Extreme, and anti-aliasing to 8x.
+The GTX 780 held its own against the Titan even at an increased resolution of 2560x1600, consistently falling only 2 frames per second behind and, like the Titan, never crossing the 80 degrees Celsius threshold. (Note that EVGA's Precision will allow you to overclock your card, set target temperatures, and much more.) Hoping I could duplicate these similar results in real-world tests, I booted up BioShock Infinite's benchmark utility, Crysis 3, and the new "system-killer" Metro: Last Light.
+Again, we see a consistent 3 to 4 frames per second gap between the two cards. The Metro: Last Light result at 1600p is especially impressive for the GTX 780; it's a demanding (and downright gorgeous) game that runs circles around even Crysis 3. Not even a dual-Titan monster rig can smoothly run Metro: Last Light at maxed out settings across three 2560x1600 monitors. (Trust me, I tried!)
+A high frames-per-second rate is meaningless if your GPU fans are deafening you and the plastic on your chassis is threatening to melt. Thankfully NVIDIA has a vastly improved adaptive temperature control, designed to minimize fan speed fluctuations. The human ear easily detects those variations, and it can rip you out of the immersion you're trying to achieve with that very hardware!
+This chart from NVIDIA illustrates how the new fan controller keeps things smooth and steady, a claim I can vouch for.
+Honestly, this article is less a review and more of an attempt to convey my surprise and satisfaction at the performance and comparative value of the newly released GTX 780. As they always do, NVIDIA will continue to have Day 1 drivers ready for marquee PC releases, and GeForce Experience (now out of beta) will continue to usher new PC gamers into the flock, removing the need to fiddle with endless graphical settings.
+As a tech writer, I also have to applaud NVIDIA for a recommendation they issued to the press in their review guide for the GTX 780: "In many cases, the GeForce GTX 780 is so powerful the CPU can actually become a bottleneck. To avoid this from occurring, we highly recommend you conduct your testing on a 2560x1440/2560x1600 display. We also suggest you use the highest graphics settings and high levels of AA in most games."
+Translation: feel free to punish our hardware, you'll probably just find yourself more impressed. I'm certain boutique PC vendors will sell these like hotcakes, especially as what was once an incredibly expensive hobby becomes more and more affordable.
+To wrap things up, I grabbed a quote from Origin PC's Kevin Wasielewski. Though he runs a a boutique PC vendor, he's a self-confessed console gamer -- or at least he was until seeing the new offerings from 
+Microsoft
+ and 
+Sony
+. This statement feels like the summary of a conversation we had recently, sharing each other's reactions to the Xbox One:
+"I expect more and more gamers to evolve their gaming experience and choose an ORIGIN PC equipped with an NVIDIA GeForce GTX 780 over the PS4 and Xbox One. With backwards compatibility, gaming in 4K resolutions, a huge library of AAA-quality free to play games, wireless PC game streaming from the NVIDIA SHIELD, and game changing Virtual Reality technology, it’s becoming more and more obvious that PC gaming is the best gaming experience right now -- and that won't change even with next generation consoles launching.”
+NVIDIA is stepping up and playing hard, and I haven't even brought ShadowPlay into the equation yet (for that, I'll direct you here). With the GTX 780, they continue to proclaim that the next generation isn't available this holiday season -- it's already here.
+Follow @killyourfm
+
+NVDA price 3 days before article release: 0.3444215357303619
+
+NVDA price 1 day before article release: 0.3359074294567108
+
+NVDA price the day of article release: 0.3412726521492004

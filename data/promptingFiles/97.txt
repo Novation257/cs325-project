@@ -1,0 +1,21 @@
+How Valuable Is Nvidia? More Than 97% Of Countries' Economies—And Much More
+
+Jul 09, 2025, 01:07pm EDT
+
+After becoming the world’s first-ever $4 trillion company Wednesday, the scope of artificial intelligence colossus Nvidia’s size is hard to grasp, as the less than 40,000-person company is now worth more than 97% of the world’s economies and all of the world’s military spending.
+All but five global economies: Only the U.S., China, Germany, India and Japan had larger 2024 gross domestic products than Nvidia’s market value, according to the International Monetary Fund, meaning Nvidia is worth more than the total economies of powerhouses such as the United Kingdom, Canada and Russia.
+The world’s 30 richest people: With a combined net worth of $3.76 trillion, the 30 wealthiest people are worth less than Nvidia, according to Forbes’ real-time estimates.
+Social Security, Medicaid and Medicare spending: The federal government spent $2.98 trillion on the three primary components of the U.S. safety net during the government’s 2024 fiscal year, according to the Congressional Budget Office.
+Global defense spending: Countries spent $2.46 trillion on military items in 2024, according to the International Institute for Strategic Studies.
+The New York area housing market: Nvidia is far less valuable than the $49.7 trillion U.S. residential real estate market, according to Redfin’s end of 2024 estimates, but it’s still more valuable than the housing market in all of the country’s metropolitan areas, including the priciest markets of New York ($2.43 trillion) and Los Angeles ($2.18 trillion).
+The U.S.’ most valuable car, entertainment, financial services, healthcare and energy companies – combined: Tesla, Netflix, JPMorgan Chase, Eli Lilly and ExxonMobil have an aggregate market cap of just under $3.5 trillion.
+The global cryptocurrency market: All cryptocurrencies combined are worth $3.45 trillion, according to CoinGecko, led by leading digital asset bitcoin’s $2.17 trillion market cap.
+The S&P 500’s 200 smallest companies: Nvidia is more valuable than the $3.52 trillion combined market value of the S&P 500 benchmark’s 200 smallest companies, a group of blue chip American companies including Campbell’s, HP Inc., Tyson Foods and United Airlines, according to FactSet data.
+Nvidia’s $4 trillion milestone is a testament to the soaring valuations of the U.S.’ largest public companies. General Electric was the biggest American company in 1995 with a $92 billion market cap and Exxon was the largest in 2010 with a $314 billion market cap, less than a tenth of Nvidia’s 2025 market value, according to the American Business History Center’s data, which does not adjust for inflation. The stock market has also turned to American exceptionalism in recent years, as the U.S.’ proportion of global equity value shot up from 41% to more than 60% from 2008 to 2024, according to LSEG research. Tech companies make up nearly 30% of the global equity market, according to LSEG, making it by far the most valuable sector. Nvidia is the poster child of the U.S.-driven tech boom, as it is the unquestioned leader in AI. The Silicon Valley firm enjoys a 75% share in the market for AI accelerators, the highly expensive systems used to train advanced machine learning models, according to Bank of America estimates.
+36,000. That’s about how many employees Nvidia had at the conclusion of its 2025 fiscal year, the company said. That’s a tiny fraction of the more than 1.5 million workers employed by both Amazon and Walmart.
+
+NVDA price 3 days before article release: 159.3135223388672
+
+NVDA price 1 day before article release: 159.97340393066406
+
+NVDA price the day of article release: 162.85293579101562

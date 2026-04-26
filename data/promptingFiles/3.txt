@@ -1,0 +1,23 @@
+8 Robotics Startups Backed By Nvidia And Amazon
+
+Nov 06, 2025, 02:20pm EST
+
+Amazon and Nvidia are backing eight AI and robotics startups in a Physical AI Fellowship managed by MassRobotics, the Massachusetts-based robotics hub. The eight startups are getting science and engineering support, $200,000 in AWS credits, access to Nvidia’s hardware and software stack, and go-to-market support at major Amazon, Nvidia and MassRobotics events.
+The focus: physical AI.
+“Physical AI is really effectively saying how do you use spatial awareness and apply that with intelligence to be able to now have actuation done on physical objects and in physical settings,” Amazon’s head of generative AI innovation and delivery at AWS Taimur Rashid told me recently on the TechFirst podcast.
+There’s a massive opportunity here, Rashid says: 2.5 billion people globally do physical labor that represents almost $50 trillion worth of annual output that automation and physical AI can help with.
+The eight startups are applying AI to tasks as diverse as controlling self-piloting sea-going vessels, self-driving construction equipment, accelerating logistics, and growing food on farms. Amazon knows this works: Rashid says robotic automation in its fulfillment centers has contributed to boosting efficiency 25% already.
+Here are the eight startups:
+The opportunity is huge right now, Rashid says, thanks to the confluence of three major forces: increasing labor shortages in wealthier countries as the population ages, falling hardware costs for sensors, cameras, processors and motors for robots, and increasingly capable generative and agentic AI that are helping us train robots and give them intelligence much easier than before.
+But it’s still early days.
+“While I do feel like we are still in the very early days of agentic AI,” Rashid says, “we are even in the earliest days of physical AI.”
+That future will include many different types of robots, he adds.
+Rashid says the future of robotics will include both general-purpose robots and highly specialized ones. In his view, physical AI will mirror the pattern already seen in generative AI, where some systems will be broad and adaptable, capable of handling a variety of tasks in many environments, and others will be trained and optimized for very specific, high-precision work.
+Both types are necessary. Generalist robots provide flexibility and scale, while specialist robots deliver the accuracy and reliability required for sensitive or highly skilled operations.
+These eight current companies should graduate from the Fellowship later this year. For next year, Amazon is looking at bringing more enterprise companies into the program.
+
+NVDA price 3 days before article release: 206.85728454589844
+
+NVDA price 1 day before article release: 195.18858337402344
+
+NVDA price the day of article release: 188.05935668945312

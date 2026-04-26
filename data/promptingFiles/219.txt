@@ -1,0 +1,20 @@
+Nvidia RTX 5080 Image Leak Confirms Specifications, Ready To Launch
+
+Jan 06, 2025, 01:36pm EST
+
+Less than nine hours away from Nvidia's official keynote address at this year's Consumer Electronics Show in Las Vegas, and there’s yet more evidence of Nvidia's possible release schedule and specifications for the graphics card expected to be available first — the GeForce RTX 5080.
+A post on Twitter has revealed an actual retail box of the GeForce RTX 5080 from partner card manufacturer Gainward, confirming various specifications and also that the RTX 5080 appears to be in a most advanced state of readiness of any of the RTX 5000-series cards.
+The post, via Overclock3D, shows user @wxnod revealing three RTX 5080 retail boxes, potentially in a retailer warehouse looking ready to ship. Previous rumors have pointed at a Jan. 21 release date for the card, and the existence of these retail boxes presumably with cards inside, suggests that's likely accurate to some degree while also suggesting that review embargoes may be closer still.
+The box also reveals the memory type and amount for the RTX 5080, which as expected based on previous leaks and rumors is 16GB of GDDR7 memory, the same as the RTX 4080 Super and RTX 4080. The RTX 5090, meanwhile, is due an upgrade from 24GB to 32GB, with the rest of the product stack staying mostly the same, albeit with some small upgrades compared to the original RTX 4000-series.
+Sadly, there were no other specifications revealed on the box, but it certainly adds weight to rumors that the RTX 5080 will launch first, possibly followed by the RTX 5090. The latter was also revealed recently, and will likely be just as much a worry, if not more so, to owners of small cases as the RTX 4090.
+
+The Nvidia keynote address will be a keenly awaited presentation for both investors as well as gamers, with the former looking for signs Nvidia's stellar recent growth in value will continue. Gamers, meanwhile, will be hoping for pricing information as well as more information on specifications, availability and what other models it plans to release later in 2025.
+Power connectors, dimensions, performance and power consumption are all factors we know little about yet, but pricing is probably the information most gamers want to know as recent rumors have pointed at an eye-watering $2,000-2,500 for the RTX 5090 and $1,200-1,500 for the RTX 5080, with that upper limit approaching what the RTX 4090 cost at launch. There has been very little confirmation of these prices, though, so the hope is that the price hikes might not be this significant.
+If they are then AMD and Intel's plans to offer more value-conscious options to boost their meagre market share could be successful. AMD is expected to announce the Radeon RX 9070 XT with RTX 4080-like performance, but for far less cash, while Intel has already been making waves with its $250 Arc B580 graphics card, with a cheaper Arc B570 expected to be announced at CES, too.
+I'll be covering the hardware launches in January, so follow me here on Forbes using the blue button below, Facebook or YouTube to get the latest news and reviews, and don't forget to comment below about your views on Nvidia's launch.
+
+NVDA price 3 days before article release: 134.2460174560547
+
+NVDA price 1 day before article release: 144.4226837158203
+
+NVDA price the day of article release: 149.38104248046875

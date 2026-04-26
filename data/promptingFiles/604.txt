@@ -1,0 +1,23 @@
+Nvidia, Anthem, UPS And More: Meet The Leaders Of The 2020 Just 100
+
+Nov 12, 2019, 06:40am EST
+
+In ranking the 2020 Just 100, Forbes and Just Capital analyzed America's largest publicly-traded companies based on how they treat five critical stakeholders: their workers, their customers, their communities, the environment and their shareholders. This number-crunching didn't only create a top 100 overall; each of these five stakeholder categories has, within it, a top 100.
+Here are the members of the Just 100 that scored the best in each of these areas:
+For the third year in a row, Nvidia has outpaced the rest of the Just 100 in how it treats its employees, thanks to programs like same-sex health insurance coverage in every country where it operates (and is legal) and unlimited adoption coverage for all employees. “We wanted an equitable approach,” says Beau Davidson, the semiconductor producer’s VP of employee experience. “We didn’t want to make an unintended value statement that one way of building your family is better than another.”
+
+Since health insurance industry vet Gail Boudreaux took over as Anthem’s chief executive in 2017, the stock has popped 20%. With experience turning around UnitedHealthcare’s core business—under her time as its CEO she took enrollments from a 4% decline to 4% growth—she’s gotten plaudits from Wall Street and her peers alike. “Gail has a passion for improving healthcare outcomes while lowering the cost of care and making it more accessible,” says Elizabeth Tallett, the chair of Anthem’s board.
+
+As the global population booms and cities grow more congested, making quick deliveries gets harder for UPS. The logistics giant’s solution? Data analysis to reduce drivers’ mileage on the road and the replacement of trucks with Tuk Tuk-like bikes that have already debuted in Dublin and Hamburg. These ideas “started with city officials in Europe choosing to impose access restrictions because of air quality,” says Peter Harris, UPS’s international sustainability director. But, he adds, these programs do far more for UPS: “The public connects with it—they see the benefits from getting vehicles off the road.”
+
+Human resources software provider Workday has reached a net-zero carbon emissions rate at its offices and data centers, but its environmental efforts extend beyond its own walls. Its 2,800 corporate customers include 40% of the 500 largest companies in America that have their own climate impact goals. “We are helping our customers meet their sustainability commitments,” says Erik Hansen, Workday’s sustainability director, “by providing them with a carbon-neutral cloud.”
+
+With many of its Silicon Valley peers under fire for privacy breaches and plummeting consumer trust, Apple has taken a different tack, strengthening what was already an impressive approach to data security. It publishes biannual reports on the volume of customer- data requests received from governments around the world, and a recent update to its mobile software added a privacy icon—two people shaking hands—to indicate when an app is collecting personal information.
+
+To see the full list, click through here, and be sure to play with the tools on Just Capital’s site, too.
+
+NVDA price 3 days before article release: 5.181233882904053
+
+NVDA price 1 day before article release: 5.1772541999816895
+
+NVDA price the day of article release: 5.212818145751953

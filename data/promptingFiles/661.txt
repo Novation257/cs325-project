@@ -1,0 +1,26 @@
+Buyer Beware: Nvidia's GeForce GT 1030 Is A Very Misleading Graphics Card
+
+Jul 09, 2018, 09:08am EDT
+
+Remember when Nvidia's now-defunct GeForce Partner Program aimed to provide "transparency" for gamers? How bitterly ironic, then, that the company is now selling two grossly different versions of its GeForce GT 1030 graphics card. They're both the same price. They both carry the same exact name. But one of them will disappoint entry-level PC gamers by delivering less than half the performance of the other.
+I wish I was exaggerating.
+Before we get into the details here, let's have a quick history lesson. In May 2017 Nvidia released the original GT 1030 and it was regarded as a very affordable dedicated graphics card, ideal for first-time PC builders or buyers on a budget. It shipped with a base GPU clock of 1227 MHz and 2GB of GDDR5 memory with a 64-bit memory bus. That yielded a memory bandwidth of 48 GB/s. That's nothing remarkable, but at a $70 launch price the GT 1030 could play a modest amount of games at 1080p and maintain 60 FPS.
+Fast forward to March 2018 and Nvidia stealthily reconfigured some GT 1030 cards with 2GB of DDR4 memory -- the same used in most smartphones and desktop PCs -- instead of GDDR5. As Hardware Unboxed points out today in an exhaustive video exposing this problem, the net result is a crippling 65% decrease in memory bandwidth.
+Today, if you're a PC gamer shopping for a sub-$100 graphics card and aren't necessarily a geek who pays attention to specs like this, you can roll the dice and up with a GT 1030 that is 118% percent faster than another GT 1030. One hundred eighteen percent faster.
+What does this look like in actual gameplay practice? To put it bluntly, it's revolting.
+In the video linked above, Hardware Unboxed put both versions of the GT 1030 into their test bench and came out with results like this:
+Battlefield 1, Low Quality, 1080p: The GT 1030 with 2GB GDDR5 scored an average 61 FPS, while the GT 1030 with 2GB of DDR4 scraped by with an average 28 FPS.
+Far Cry 5, Low Quality, 720p: The GT 1030 with 2GB GDDR5 managed an average 50 FPS, while the crippled GT 1030 with 2GB of DDR4 couldn't even hit 30 FPS.
+Fortnite, Medium Quality, 1080p: As the most popular game on the planet, it's easy to imagine a ton of PC users wanting to give their system just enough of an upgrade to enjoy Fortnite. While the game is playable on both versions of the card, the differences are drastic. In this test, the GT 1030 with 2GB GDDR5 locked in above 60 FPS (66 FPS to be exact) while the DDR4 version only produced an average of 38 FPS.
+Many more games were tested, and the pattern above was consistently reproduced. The DDR4 version of the same card can only produce about half the average framerate of its more sophisticated GDDR5 counterpart.
+Even AMD's Ryzen 5 2400G -- an APU with integrated graphics -- beats the GT 1030 DDR4 version every time.
+When you can look at a box and see the same name and spend the same amount of money but walk away with one GPU that delivers only half the performance of the other, that's an entirely different class of product. Applying any logic to this massive performance gap should yield only one scenario: giving the card a different product name altogether. Call it a GeForce GT 1020. Call it a GT 1030 Budget Edition. Differentiate it somehow.
+There simply is no excuse for Nvidia deceiving its customers this way, especially with such a high-volume part aimed at mainstream users. The reviews for the GT 1030 have been published for over a year. The data is there to make an informed decision. Except that now the data has become irrelevant and outright wrong for the average consumer shopping on name alone. The type of consumer shopping for an entry-level graphics card isn't paying attention to hard specs.
+So if you, like many others, are in the market for an entry-level GeForce card (or potentially a PC from a large OEM like Dell or HP),  train your eyes on the specs. If it says "DDR4" on the box, keep looking. Better yet, don't support a company with a lengthy history of anti-consumer practices just like this.
+
+
+NVDA price 3 days before article release: 5.862343311309815
+
+NVDA price 1 day before article release: 6.12199592590332
+
+NVDA price the day of article release: 6.169520378112793

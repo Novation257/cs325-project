@@ -1,0 +1,19 @@
+Nvidia Has Delayed The GeForce RTX 3070 Retail Launch
+
+Oct 02, 2020, 04:24am EDT
+
+Nvidia’s GeForce RTX 3090 and RTX 3080 graphics cards have launched to critical praise but frustratingly scarce availability. In an effort to curb further consumer frustration, Nvidia has decided to delay availability of its upcoming RTX 3070 to October 29 from its original launch date of October 15.
+For those of you paying attention to the next-gen graphics card war, yes, that is exactly one day after AMD’s scheduled RX 6000 Series announcement on October 28.
+The ever-watchful eyes over at VideoCardz noticed the stealthy change on Nvidia’s GTX 3070 landing page.
+Nvidia later issued the following statement:
+“Production of GeForce RTX 3070 graphics cards are ramping quickly. We’ve heard from many of you that there should be more cards available on launch day. To help make that happen, we are updating the availability date to Thursday, October 29th. We know this may be disappointing to those eager to purchase a GeForce RTX 3070 as soon as possible, however this shift will help our global partners get more graphics cards into the hands of gamers on launch day.”
+I’m sure there are some tinfoil hats out there speculating that Nvidia executed this delay to throw a monkey wrench into AMD’s RX 6000 launch plans. I disagree, and this is an absolute win for consumers.
+With the RTX 3070 selling for a $499 MSRP and allegedly delivering faster gaming performance than the RTX 2080 Ti (which launched at an eye-watering $999), it’s a foregone conclusion that demand will be high.
+Fortunately for AMD, this gives Team Red just enough time to convince people to wait for its RX 6000 Series — as long as the price and performance claims can compete with the RTX 3070.
+But most importantly, it gives savvy consumers a chance to evaluate both sides before plunking down their hard-earned cash on a next-gen GPU.
+
+NVDA price 3 days before article release: 13.184052467346191
+
+NVDA price 1 day before article release: 13.571575164794922
+
+NVDA price the day of article release: 13.021068572998049

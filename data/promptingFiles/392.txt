@@ -1,0 +1,26 @@
+Why Nvidia Is Entering The $30B Market For Custom Chips
+
+Feb 09, 2024, 03:52pm EST
+
+Nvidia’s largest customers (e.g., Google, Amazon, Microsoft, Meta, and OpenAI) are developing AI chips that compete with Nvidia, presenting a potential long-term threat to the AI leader.  Jensen’s response?  “We can help you do that.”
+Warning: this blog contains speculation that has not been verified.... But fun to think about!
+When I was working at AMD, I was always impressed with how the company managed to keep two teams in complete isolation from each other to protect client confidentiality. One team was designing the next chip for the Microsoft XBox, while the other was designing a chip for the Sony Playstation. Each client had their own gaming console intellectual property and requirements which had to be protected from the other team. It was a successful model for AMD, who still owns that market.
+But all that secrecy can be difficult and expensive. And it is hard to scale that business. What if the chip vendor let the customer do more of the design work, and provide their IP for inclusion into the customers’ chips?  And of course, the client could leverage the vendors relationship with TSMC or Samsung for fabrication to lower costs and improve time to market.
+So it should surprise exactly nobody that Nvidia has announced it formed a group tasked with forging this new business model,  helping clients build their own solution using Nvidia IP or perhaps even chiplets. Nvidia is up yet another 3% on the news.
+Perhaps Nvidia didn’t need to buy Arm after all. With this move, it is beginning to build an AI licensing giant.
+I’m sure we will hear more about this at GTC next month, but here is our perspective.
+Many companies who design their own chips to lower cost or provide a more bespoke solution to their computational needs already partner with companies like Broadcomm and Marvell  for back-end physical design, SerDes blocks, or IP such as Marvell’s high-performance Arm CPU cores. And EDA solution providers like Cadence and Synopsys make a good business of providing blocks of IP that SOC designers can drop into their chips, saving money and speeding time to market. But this is not new news. Sima.ai, for example, uses an image processor from Synopsys in its edge AI chip.
+Startup Tenstorrent, led by Jim Keller, saw this opportunity coming, and has pivoted the Toronto- and Austin-based company from a potential Nvidia competitor to an IP and design shop, provide chiplets and intellectual property to companies like Kia and LG.
+In the world of AI, we are seeing a new trend, where designers of TVs or cars or networking equipment want to build a bespoke solution to lower costs or provide a differentiated solution including AI, but they don’t have the need or expertise to build the whole chip. Google, Amazon AWS, Meta (projected to use their own chip later this year), and Microsoft Azure already have their own custom chips for in-house AI alongside their Nvidia GPUs for cloud customers. Could they partner with Nvidia for future designs?
+Could these Nvidia custom-chip clients tap into Nvidia’s in-house and AWS  supercomputers to accelerate and optimize those design efforts?  It would be a nice piece of additional revenue as well as an incredible differentiator.  If so, this could be why Nvidia is hosting their latest “internal” supercomputer, Project Cieba, at AWS data centers, where the infrastructure for secure cloud services are already available. Nvidia could make chip design optimization services available on Cieba.
+While this speculation may be a bridge too far, doing so would indicate that Nvidia sees the writing on the wall, and is already gearing up to transform the industry once again.
+Ok, perhaps I went to far in my speculations. But if any company can pull this off, it would be Nvidia. All tech commoditizes over time, especially previous generations of silicon. When Nvidia was courting Arm, I often said the acquisition would give Nvidia the possibility of monetizing that which they do not want to productize, through licensing deals.
+Looks like thats exactly what Nvidia is doing now.
+Disclosures: This article expresses the author's opinions and
+should not be taken as advice to purchase from or invest in the companies mentioned. Cambrian AI Research is fortunate to have many, if not most, semiconductor firms as our clients, including Blaize, BrainChip, CadenceDesign, Cerebras, D-Matrix, Eliyan, Esperanto, FuriosaAI, Graphcore, GML, IBM, Intel, Mythic, NVIDIA, Qualcomm Technologies, Si-Five, SiMa.ai, Synopsys, Ventana Microsystems, Tenstorrent and scores of investment clients. We have no investment positions in any of the companies mentioned in this article and do not plan to initiate any in the near future. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 68.18132019042969
+
+NVDA price 1 day before article release: 69.59845733642578
+
+NVDA price the day of article release: 72.08894348144531

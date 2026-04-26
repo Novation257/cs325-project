@@ -1,0 +1,20 @@
+Nvidia Brings Ada Lovelace Architecture To Mainstream Gaming
+
+May 19, 2023, 12:25pm EDT
+
+Update: The reference to “60 series” was changed to “40 series” to accurately reflect the GPU generation.
+Today, Nvidia announced the latest in its GeForce RTX 40 Series GPUs, the GeForce RTX 4060 and RTX 4060 Ti, for 1080p gaming and content creation applications. Like the GeForce RTX 4080 and 4070, the GeForce RTX 4060 cards are based on the latest Nvidia Ada Lovelace GPU architecture with AI-based DLSS 3 upscaling and frame generation technology. The RTX 4060 will be available for $299 and the RTX 4060 Ti will be available with 8GB or 16GB of GDDR6 memory for $399 and $499, respectively, bringing these technologies down to mainstream price levels with both higher performance and lower power than equivalent cards from the previous generations.
+A notable change from previous the Nvidia GPU generation (Ampere) is a huge increase in the L2 cache from 4MB with the 3060 to 24 MB with the 4060 and 32 MB with the 4060 Ti. The significant increase in the L2 cache reduces the number of data transfers required from memory, which has the effect of amplifying the GPU’s raw memory bandwidth. According to NVIDIA, as a result of these changes the RTX 4060 Ti has an effective memory bandwidth of 554 GB/sec, which is an improvement of 23.7% relative to their prior generation 60 series GPUs (the RTX 3060 Ti and RTX 2060 Super).
+The GeForce RTX 4060 also features an increase in power efficiency with a Total Graphics Power (TGP) of 115W, which is lower than both the 170W of the GeForce RTX 3060 and the 160W of the GeForce RTX 2060, the two previous generations. There are similar power reductions in average power consumption for gaming. GPU power limits have been on the increase for years and leveraging the latest process technology, architecture enhancements, and software efficiencies is allowing Nvidia to finally decrease power consumption, while still increasing performance. This may seem like a small gain for a system that plugs into the wall, but it can make a significant difference in the user experience from the cost of operating to the heat generated from the system, not to mention the noise of the fans if they are operating at a lower speed. I’ve often depopulated multi-GPU systems just because of these factors.
+In terms of performance, the GeForce RTX 4060 Ti consistently offers over 100 fps performance for many popular games plus Nvidia’s advanced hardware ray tracing technology. Compared to a GeForce RTX 2060, a card that is over 3 years old, the average performance is almost 2X. The reason to compare with a card that is three years old, is that is typically the time people feel the need to upgrade to play the latest titles with higher visual quality.
+In all, the GeForce RTX 4060 and RTX 4060 Ti offer a price competitive solution for 1080p games and content creation as a complement to the GeForce RTX 4070 and RTX 4080 for the high-end competitive games, especially for users that are likely using GPUs that are more than three years old. The GeForce RTX 4060 with 24MB of L2 cache and 8GB of GDDR6 will be available in July for $299, The GeForce RTX 4060 Ti with 32MB of L2 cache and 8GB of GDDR6 memory will be available May 24, 2023, for $399. And, the GeForce RTX 4060 Ti with 32MBof L2 cache and 16GB of GDDR6 memory will be available in July for $499.
+The author and members of the Tirias Research staff do not hold equity positions in any of the companies mentioned. Tirias Research tracks and consults for companies throughout the electronics ecosystem from semiconductors to systems and sensors to the cloud. Tirias Research has consulted for Nvidia and companies throughout the PC ecosystem.
+
+Jim McGregor
+Follow
+
+NVDA price 3 days before article release: 29.187158584594727
+
+NVDA price 1 day before article release: 31.649980545043945
+
+NVDA price the day of article release: 31.23634910583496

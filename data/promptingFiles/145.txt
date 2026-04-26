@@ -1,0 +1,37 @@
+Nvidia Stock Could Fall If 145% China Tariff Drives Price Increases
+
+Apr 10, 2025, 01:18pm EDT
+
+Updated, April 10, 2025: This post has been adjusted to reflect the change in U.S. tariffs on China to 145%.
+Nvidia stock has fallen 30% from its January 2025 peak of $153, evaporating $1.03 trillion from the company’s market capitalization, according to Google Finance.
+One thing contributing to the drop is the results of the 2024 presidential election which brought Donald Trump back to the Oval Office. Since April 2, his tariff policy has thrown markets into turmoil.
+And despite Trump’s trumpeting of a 90-day pause on most tariffs, Nvidia could be in worse shape. That’s because tariffs are high on countries where Nvidia products are built. More specifically, Taiwan faced a 34% tariff  – reduced Wednesday to 10% – while China’s rose to 145% on April 10, according to the Wall Street Journal.
+Is the drop in Nvidia’s stock a buying opportunity? I see no reason to buy now because although orders may have soared in the current quarter in anticipation of tariffs, I expect the company’s May 2025 earnings report to feature a disappointing growth forecast as a result of tariff uncertainty.
+More specifically, the uncertainty is due to the difficulty of answering precisely the following questions:
+Nvidia remains bullish. In March, CEO Jensen Huang said tariffs would not cause meaningful short-term harm to the company due to the company’s agile supply chain; demand for AI would drive demand, and TSMC was building a plant in Arizona, according to Barron’s.
+Nvidia declined to comment. A spokesperson referred me to a March 2025 company statement from Huang, which said. “Tariffs will have a little impact for us short term. Long term, we’re going to have manufacturing onshore.”
+Read on for why Nvidia’s costs could rise significantly, whether Nvidia will pass along those costs to customers, and how the uncertainty around future moves in the global tariff wars may crimp consumer spending and company’s investments in generative artificial intelligence.
+Nvidia will report quarterly financial results next month featuring slower top-line growth and thinner margins based on the company’s forecasts when it last reported in February.
+Nvidia expressed enthusiasm about its prospects. “We’ve successfully ramped up the massive-scale production of Blackwell AI supercomputers, achieving billions of dollars in sales in its first quarter," said Huang in a statement. "AI is advancing at light speed as agentic AI and physical AI set the stage for the next wave of AI to revolutionize the largest industries.”
+Analysts were underwhelmed by Nvidia’s results – which lacked “the positive shock value of some of last year’s reports,” Sungarden YARP Portfolio Investing Group Leader Rob Isbitts told SeekingAlpha. Nvidia’s stock is likely to trade “more on raw demand and supply, rather than on some sort of surprise element,” Isbitts added.
+“Guidance was slightly underwhelming,” Edward Jones analyst Logan Purk said in a report featured by Bloomberg. "We think it will be challenging for management to continue to significantly beat expectations for future growth,” Purk added.
+Tariffs could increase significantly the prices of some Nvidia products. However, it is unclear whether Nvidia will pass all of its increased costs on to customers and whether the higher prices would lower demand.
+A more significant question for Nvidia’s future is whether companies will view the high investment in generative AI as being worth the $1 trillion Goldman Sachs estimated. If the technology enables companies to do better work with fewer people, demand for generative AI may remain strong in the event of a recession.
+Not all of Nvidia’s products are vulnerable to being harmed by Trump’s tariffs.
+For example, fears of a Trump administration crackdown on Nvidia’s H20 chip – which the company has been exporting to China – may not be realized. The reason? “Nvidia promised the Trump administration new U.S. investments in AI data centers,” according to a report from NPR.
+However, tariffs could raise consumer personal computer prices by as much as 50%, according to WCCFTech. These estimates were made April 3 when the tariff on Chinese goods was a mere 54% – a far cry from the 145% tariff imposed on April 10.
+Tariffs could raise manufacturer’s suggested retail price  prices on the following Nvidia gaming machines by at least 50% – based on the latest triple-digit tariff:
+It remains unclear whether Nvidia will be able to avoid tariffs on GPUs for now. The tariffs could be avoided if actual products are assembled in the U.S., noted Tom’s Hardware.
+For now, Nvidia may be able to ship “actual GPUs and processors/chipsets to the U.S. without paying import duties along with half-finished logic boards – but paying an import tariff -- then assemble actual products in the U.S.,” reported Tom’s Hardware.
+Generative AI has been in search of a killer app, as I wrote in the Boston Globe. There has been no obvious progress on this goal and the investment required for the technology is enormous – potentially totaling $1 trillion.
+Prior to the tariff announcement, the largest hyperscalers – Amazon, Google, Meta Platforms, and Microsoft – announced plans to spend $270 billion on generative AI data centers in 2025, according to the Wall Street Journal.
+However, that spending could take a hit – especially for companies like Meta and Google which are dependent on advertising for much of their revenue. If tariffs and the resulting uncertainty cause a recession – due to rising prices and fear of declining demand and higher unemployment – companies could decide to cut back on their generative AI spending.
+The reason for cutting back would be a simple realization that the return on investment in generative AI is not yet compelling. Amazon’s cloud-computing arm historically has generated $4 of incremental revenue for every $1 of capital spending, TD Cowen John Blackledge tech analyst told the Journal. Generative AI’s ratio “is currently something like 20 cents for every dollar,” Blackledge added.
+Microsoft, which plans to spend $80 billion on infrastructure in the current fiscal year, is slowing construction – including a $1 billion project in Ohio. Microsoft canceled leases in the U.S. and Europe -- partly due to an oversupply of data-center space relative to the company’s demand forecast, noted TD Cowen analysts. However, “the moves signal a more cautious stance in the longer term,” the Journal reported.
+All that could be painful for Nvidia investors – unless surviving with fewer people during a long period of stagflation becomes the killer app for generative AI.
+
+NVDA price 3 days before article release: 97.61699676513672
+
+NVDA price 1 day before article release: 114.30306243896484
+
+NVDA price the day of article release: 107.5446548461914

@@ -1,0 +1,37 @@
+AMD Radeon RX Vega 64 Full Review: Can It Beat Nvidia's GeForce GTX 1080?
+
+Aug 14, 2017, 12:53pm EDT
+
+Competition is important, and we've seen just how much so with the processor market recently. The absence of AMD in competing against Intel's enthusiast processors meant we saw little growth in terms of cores and threads and had even less choice. AMD has forced Intel to cut prices and think about offering more cores both on its mainstream platforms and at the high end.
+It's the same with graphics cards, though, and Nvidia has had things all to itself at the high end for over a year, with the GeForce GTX 1070, 1080 and 1080 Ti giving enthusiasts plenty of grunt in games, but at some fairly high prices. That's not surprising given that AMD's last proper high-end card, the R9 Fury X, is now two years old, but thankfully, AMD has not only given Intel something to think about, but its Radeon RX Vega graphics cards launched today, aiming to topple the GeForce GTX 1080 and 1070.
+I've already reviewed the Radeon RX Vega 56 here, where you can see my overview of what's new with Vega as well as a full comparison between the GeForce GTX 1070 and Vega 56, which are fighting it out for the best $400 card crown. In short, The Vega 56 wins as it's cheaper and faster in most tests too, which is great news for AMD and of course for anyone in the market for a high-end graphics card.
+Radeon RX Vega 64
+Liquid Cooled Edition
+In this article, though, it's all about answering the Geforce GTX 1080 versus RX Vega 64 question - who's fastest and who's worth your cash? Again, AMD perhaps has a slight advantage in the adaptive synchronization stakes as its take on this - Freesync is cheaper to own than Nvidia's G-Sync with a much larger array of monitors available too. That's assuming AMD can compete with the legendary GTX 1080, of course, which has provided plenty of gaming grunt for over a year.
+There are several versions of the RX Vega 64, though, although at launch only one is available as a stand alone product. If you opt for AMD's $699 Aqua Pack bundle and hardware discounts, you get a liquid-cooled Vega 64 with higher clock speeds and I dare say, a quieter cooler too. For $599, there's the Black Pack, which will net you a custom air-cooled Vega 64 as well as the usual discounts, all of which are detailed in my RX Vega 56 review.
+The two Vega cards are physically identical with the same cooler, are both 270mm long, have two 8-pin power connectors plus three DisplayPort and one HDMI port. These are all arranged in a single slot, which is great news for space-saving as it means that many DIY liquid cooling water blocks will be able to convert the Vega 64 and Vega 56 into single slot graphics cards.
+It's with the Vega 64 that the memory and core frequencies ramp up, though, plus you get significantly more stream processors at 4096 compared to 3584 for the Vega 56. The Vega 64 Liquid Cooled edition goes even further on the frequencies with an extra 131MHz on the boost frequency, thanks to a much more potent cooling arrangement.
+Performance
+Ashes of the Singularity: Escalation
+Deus Ex: Mankind Divided
+Deus Ex: Mankind Divided benchmark
+Fallout 4
+
+The Witcher 3: Wild Hunt
+World Of Tanks
+3DMark VR Mark
+Unigine Superposition
+Overclocking, Power consumption, noise and temperatures
+Power consumption isn't a strong point for AMD here. This can be forgiven somewhat with the Vega 56, as while it has a power consumption higher than the GTX 1070, it is at least faster in most tests. The Vega 64, though, is a bit of a monster when it comes to power consumption, with the system drawing over 500W under full load. While the Vega 56 rarely edged towards the 80°C mark, the Vega 64 usually topped that under load and only massively ramping up the cooling to loud levels saw it lower.
+Overclocking was quite fruitful, though, with the latest 17.30.1051 beta6a driver from AMD allowing the Vega 64 to reach 1712MHz boost frequency on the core and a lofty 1050MHz on the memory. This saw the Vega 64 leapfrog the GTX 1080 in Deus Ex at 2560 x 1440, but still wasn't enough to beat the latter in Fallout 4 at the same resolution nor in Unigine Superposition.
+
+
+Conclusions
+There's still some uncertainty over stock and pricing, but we can only go by what AMD and channel partners have told me, which is that the standard Radeon RX Vega 64 will hit retailers shelves at $499. You can pick up GTX 1080's for around $485 if you shop around, and that's with a third party cooler that's undoubtedly better than the reference cooler on the Vega 64.
+Unfortunately, the GTX 1080 proved to be a match for the AMD card, with the latter performing better at 4K in some tests, but the GTX 1080 doing a better job on average at 2560 x 1440 and below. Personally, I'd wait a few weeks for partner cards to come out with beefier, quieter coolers, and hopefully for the prices to settle and more stock to appear too - only then will we know how the Vega 64 really sits in the market. However, it's only the allure of FreeSync or 4K gaming that might persuade gamers to opt for AMD here as the GTX 1080 is still very strong everywhere else.
+
+NVDA price 3 days before article release: 4.2481536865234375
+
+NVDA price 1 day before article release: 3.849526882171631
+
+NVDA price the day of article release: 4.156582355499268

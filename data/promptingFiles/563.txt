@@ -1,0 +1,16 @@
+Hyundai Adopts Nvidia Parker ‘System On A Chip’ For Infotainment
+
+Nov 11, 2020, 01:59pm EST
+
+Nvidia is by no means a newcomer to the automotive industry with many automakers from Honda to Mercedes-Benz now running infotainment systems on processors designed by the Santa Clara-based company. The latest to join the party is Hyundai Motor Group which will have its entire lineup including the Genesis, Hyundai and Kia brands using the Nvidia Parker system-on-a-chip (SoC) by 2022.
+The move to Nvidia has already begun starting with the new 2021 Genesis G80 and GV80. These latest models from the premium Genesis brand are using the Parker SoC to drive a 14.5-inch widescreen display that sits atop the dashboard along with the user interface and applications that run on it. The high-resolution display can show up to three panes of information and the system features a new rotary controller interface in the center console.
+The Mercedes-Benz MBUX system that debuted a couple of years ago is also powered by a Parker SoC. The Parker SoC debuted in 2016 and was utilized as part of Nvidia’s Drive PX2 development platform that was adopted by many of the startups in the automated driving sector. The PX2 used two Parkers and two Pascal GPUs.
+When TeslaTSLA launched its Autopilot V2 system that year after their relationship with Mobileye came to an end, they utilized essentially half of the PX2 with a single Parker and Pascal chip configuration. In 2018, Tesla upgraded to V2.5 with a second Parker chip added to the board. In 2019, Tesla began using its own in-house developed chips for Autopilot in V3.
+Parker, like most Nvidia SoCs, is actually a combination of multiple different types of processors on a single silicon die. There are six ARM instruction set cores, four of which are standard Cortex A57 cores that are widely used by many chip companies. The other two are custom-designed Nvidia Denver 2 cores that are compatible with the ARM v8 instruction set. There is also a Pascal GPU with 256 Nvidia Cuda cores. The Pascal GPU micro-architecture is used in the Nvidia GTX 1070 and GTX 1080 video cards.  Other elements of the chip include the input/output bus, security engine, video encoders/decoders, gigabit ethernet and LPDDR4 memory.
+By the end of 2021, Hyundai plans to start rolling out a new digital cockpit system that is also powered by these Nvidia processors and eventually a new in-house developed connected car operating system (ccOS). The ccOS will tie together a range of systems in the vehicle and make data available to third-party partners to provide new services to drivers.
+
+NVDA price 3 days before article release: 14.516091346740724
+
+NVDA price 1 day before article release: 12.72973918914795
+
+NVDA price the day of article release: 13.375699043273926

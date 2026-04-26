@@ -1,0 +1,20 @@
+Nvidia's GTX 1060 Specs Leak -- Faster than Radeon RX 480 And Launching July 7
+
+Jul 01, 2016, 03:32pm EDT
+
+True story: On the eve of AMD's Radeon RX 480 launch, I predicted that specifications would leak for 
+Nvidia's
+ inevitable Pascal-based GTX 1060 within 24 hours. It turns out I was wrong. It took 48 hours. A few days ago I also speculated that whatever release plans Nvidia originally had for its mainstream GTX 1060, they'd be moving those plans up with a vengeance and potentially launching it in early July. Guess what?
+According to leaked slides obtained by VideoCardz, Nvidia's GP106-based graphics card will pack 1280 CUDA cores, a 192-bit memory interface, a GPU boost clock of 1700MHz, and come in VRAM variants of 3GB and 6GB, but it's worth noting that one of my own sources says it's configured with 4GB and 8GB, similar to AMD's Radeon RX 480. This makes sense, as the GTX 1060 is assumed to be Nvidia's RX 480-killer in the mainstream market. As I mentioned in that review, I believe Nvidia will aggressively compete with AMD at the sub-$250 price point and launch the baseline GTX 1060 for $249 or less.
+There's also a leaked slide that suggests the GTX 1060 performs better than the RX 480 in both standard gaming and VR. While I don't doubt its validity, those are some rather disproportionate bars, eh?
+Perhaps most interesting of all is a special event Nvidia is hosting on July 7 in Melbourne, Australia at the Therapy Nightclub to celebrate Pascal with fans. Speculation is high that, since press has already been briefed on the GTX 1060, Nvidia will publicly announce the card at this event, possible via a livestream, and that the card will go on sale a week later on July 14th.
+Obviously, folks, I take this all with a grain of salt, but I'm much less skeptical than I've been in the past. That's because AMD and Nvidia have fallen victim to numerous leaks lately, the majority of which all rang true. I'll even go so far as to say I think some of them are intentional -- from Team Red and Team Green -- in order to both set and dash expectations for competing products.
+From a business perspective it makes complete sense for Nvidia to put a damper on AMD's RX 480 party as soon as possible in order to maintain and increase their desktop GPU market share. So yep, I believe these specs, and I believe the launch window. In my Radeon RX 480 review I suggest adopting a bit of patience to wait until this particular battle plays out. Looks like both parties will be at the battleground much sooner than expected.
+
+Note: I have not been briefed on Nvidia's GTX 1060 nor do I have any undisclosed knowledge of their launch plans.
+
+NVDA price 3 days before article release: 1.1265554428100586
+
+NVDA price 1 day before article release: 1.1537991762161257
+
+NVDA price the day of article release: 1.1452088356018066

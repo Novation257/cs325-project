@@ -1,0 +1,52 @@
+Nvidia GeForce RTX 2080 Super Review: How Much Faster Is It?
+
+Jul 23, 2019, 09:00am EDT
+
+Given the antics of earlier this month with the Nvidia Super and AMD 5700 series launches, The RTX 2080 Super's arrival is maybe something of an anticlimax. The RTX 2070 Super is already faster than anything AMD has in a majority of games, which means the RTX 2080 Super isn't competing against AMD, but with its own siblings.
+Nvidia RTX 2070 Super Review: Is It Really Faster Than GTX 1080 Ti?
+Nvidia RTX 2060 Super Review: An RTX 2070 For $399?
+AMD Navi RX 5700 Versus Nvidia RTX 2060: The $349 Winner Is Revealed
+AMD Radeon RX 5700 XT Versus Nvidia RTX 2060 Super: What's The Best $399 Graphics Card?
+There are several questions that need answering though. Firstly, just how close does Nvidia's latest Super card get to RTX 2080 Ti performance? We know now that Nvidia is not retiring its RTX flagship, but the RTX 2080 does indeed have a very limited shelf life as Nvidia has confirmed the RTX 2080 Super will be replacing it. This suggests the new card is going to be doing a similar thing to the RTX 2060 and RTX 2070 super - offering a little more performance than the original Turing-based cards rather than stepping on the toes of cards above them.
+Taking a look at the specifications above, it's fairly clear that the RTX 2080 Ti remains the beast of the RTX series. The RTX 2080 Super adds two more streaming multiprocessors, noticeably higher memory frequencies, 8 Tensor FLOPS and 8 texture units to the specifications of the RTX 2080, with noticeably higher texel fill-rates and memory bandwidth as a result.
+However, there's still only 8GB of GDDR6 memory - what we're not looking at here are the kind of leaps we saw with the RTX 2060 Super and RTX 2070 Super, with the former gaining 2GB memory, while the latter was essentially a cut-down RTX 2080.
+Pricing
+Nvidia was keen to state that the RTX 2080 Super is essentially offering a little more performance for slightly less cash. For the moment, this appears to hold true - it's own website offers the older RTX card for $799, although you can find RTX 2080's on Amazon right now for a little under $700. All depends, then, on the actual retail price of the RTX 2080 Super.
+If partner cards retail for between $700 and $800, that's essentially where the RTX 2080 sits now. It's not going to warrant an upgrade if you have an RTX 2080, but if the performance is noticeably better, then the RTX 2080 Super will quickly make the older card obsolete. On the other hand, there could be some bargain RTX 2080's around over the next few days as stocks are cleared.
+Test system
+CPU: Intel Core i9-9900K overclocked to 5GHz
+Motherboard: MSI MEG Z390 Ace (latest BIOS and CPU security microcode updates)
+Memory: Corsair 3466MHz Vengeance Pro RGB
+SSD: 2TB Samsung 970 Evo
+PSU: Corsair RM850i
+Cooler: EK Waterblocks EK-MLC Phoenix
+OS: Windows 10 1903 (all updates installed)
+Drivers: AMD 19.6.3, Nvidia 431.56
+Nvidia RTX 2060 Founders Edition, Nvidia RTX 2070 (stock third party), Nvidia RTX 2060 Super Founders Edition, Nvidia RTX 2070 Super Founders Edition, Nvidia RTX 2080 Founders Edition, Nvidia RTX 2080 Super Founders Edition, Nvidia RTX 2080 Ti Founders Edition, Nvidia GTX 1080 Ti, AMD RX Vega 64, AMD RX 5700, AMD RX 5700 XT
+Performance
+The Division 2
+As predicted, the RTX 2080 Super offers reasonable gains over the RTX 2080 here at 1440p (both are Founders Edition cards), while the RTX 2080 Ti sits way out in front, cementing its king of the hill status and leaving the RTX 2080 Super in a distant second place. Stepping up to 4K and it was a near-identical situation, with the RTX 2080 Super adding 10% to the minimum frame rate while the RTX 2080 Ti was the only card to manage an average frame rate of 60fps.
+Far Cry 5
+The venerable GTX 1080 Ti leaped up the table here to sit between the RTX 2080 and 2080 Super at 1440p, while the RTX 2080 Ti didn't offer anywhere near as much of a gap as it did in The Division. However, at 4K, things changed - the RTX 2080 Ti leaped ahead of the 2080 Super by a bigger margin and the GTX 1080 Ti dropped down to fourth place, battling with the RTX 2070 Super.
+Forza Horizon 4
+Forza is a heavily AMD' biased game and particularly towards to the RX Vega 64. Only the RTX 2080 Ti managed to beat it and the RTX 2080 Super wasn't much faster than its predecessor either, matching the RX 5700 XT.
+Shadow of the Tomb Raider
+The first benchmark here leaves out any RTX features, so no DLSS or ray tracing, which are included later. At 1440p, Nvidia holds the top five slots although admittedly with much more expensive graphics cards compared to the RX 5700 XT. Things were as expected here too, with a huge lead for the RTX 2080 Ti, while the RTX 2080 Super offered reasonable but not upgrade-worthy gains over the RTX 2080.
+At 4K, I added DLSS to boost those frame rates and both the RTX 2080 and RTX 2080 Super out-stripped the non-DLSS RTX 2080 Ti, but overall things are as expected here too - a resounding win for the RTX 2080 Ti with the RTX 2080 Super offering meager gains over the RTX 2080.
+Gunning for maximum RTX mode now with DLSS and ray tracing turned on at 1440p, the RTX 2080 Ti shows what a monster it has sitting under that dual-fan cooler - the RTX 2080 Super doesn't get close, while only offering small gains over the RTX 2080.
+World of Tanks
+I've included World of Tanks purely from a high frame rate/high refresh rate point of view as it's a popular free-to-play that also has a professional hard-core following. It's otherwise very easy to run, but seeing as you need super-high frame rates for the latest high refresh monitors, this data is still useful. It was a familiar story, though, with the RTX 2080 Ti offering a huge lead at 1440p and 4K with the RTX 2080 Super offering small gains over its predecessor.
+3DMark Port Royal Ray tracing benchmark
+As well as raw frame rates, the RTX 2080 Ti's ray tracing grunt is fairly evident in 3DMark's Port Royal benchmark too, with a massive lead over the RTX 2080 Super, with the latter offering a small lead over the RTX 2080.
+System power consumption
+There weren't too many surprises in the power numbers either, with the RTX 2080 Super drawing around 30W more from the wall than the RTX 2080 in the same system and the RTX 2080 Ti adding another 30W on top of that.
+Conclusion
+The RTX Super series was designed to do one thing - spoil AMD's plans at besting the RTX 2060 and RTX 2070. They largely succeeded, but the result was somewhat of a stalemate - the RTX 2060 Super was a better option than the noisy RX 5700 XT, while the RX 5700 was quicker and a better but than the RTX 2060. Above these battles, though, Nvidia is fighting itself, so there was no point risking RTX 2080 Ti sales and beefing up the RTX 2080's specification too much.
+While I always want to see more performance, the best card is still, a little disappointingly, the RTX 2080 Ti, and by a long way in most benchmarks. The RTX 2080 Super is as I said at the start - a modest boost over the RTX 2080 and will soon occupy that price range on its own once the latter sells out. Thankfully, the idea is that the new Super card will cost the same or less and offer a little more performance. The latter is certainly true, so I hope partner card models follow through on the rest of the deal. Goodbye RTX 2080, hello shiny RTX 2080 Super.
+
+
+NVDA price 3 days before article release: 4.228043079376221
+
+NVDA price 1 day before article release: 4.25636625289917
+
+NVDA price the day of article release: 4.364190101623535

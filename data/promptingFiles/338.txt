@@ -1,0 +1,18 @@
+Nvidia Stock Hits New All-Time High Ahead Of 10-For-1 Split
+
+Jun 05, 2024, 10:49am EDT
+
+Nvidia shares just hit their highest price ever, but they are about to get a whole lot cheaper, and, no, that's not some bold prognostication for the world’s hottest stock: the artificial intelligence semiconductor chip designer is on the cusp of executing a stock split announced last month.
+Nvidia shares jumped 3% to a new record of $1,199 on Wednesday, expanding its market capitalization to a whopping $2.95 trillion after Bank of America analysts upped its price target for Nvidia to a Wall Street-leading $1,500 per share, implying 25% further upside for the stock.
+The rally comes just before Nvidia’s stock will split 10-for-1 after Friday’s market close, a move announced May 22 as part of its blowout quarterly earnings report, with shares trading at their new post-split price beginning next Monday.
+That means Nvidia shareholders will receive nine additional shares for each share they owned prior to the split, which will cut the value of each share to a tenth of its prior value.
+The split will trim Nvidia’s share price from its almost $1,200 share price Monday to around $120.
+That’s pending any further movements for Nvidia’s stock, which is extremely price sensitive for a company of its size.
+Get Forbes Breaking News Text Alerts: We’re launching text message alerts so you'll always know the biggest stories shaping the day’s headlines. Text “Alerts” to (201) 335-0739 or sign up here.
+Stock splits do not affect a company’s market capitalization or dilute the value of its shares, as the issuance of new shares is directly proportional. Historically, companies executed stock splits to make the purchase of its shares more accessible to investors, but it’s a more procedural move with today’s fractional trading, most directly assisting companies in awarding equity awards to its employees. Nvidia was the eighth company to announce a stock split this year, according to Bank of America research, and follows big technology peers Alphabet, Amazon and Tesla in splitting its shares over the last two years. Nvidia’s split comes after its share price exploded as investors flooded into the stock amid the generative AI explosion, as Nvidia is the primary seller of the semiconductor graphics processing units (GPUs) powering AI. Stocks tend to outperform the broader market following splits, returning 18% in the 12-month period after the move dating back to 2010, according to Bank of America, outstripping the S&P 500’s 13% gain.
+
+NVDA price 3 days before article release: 109.57115936279295
+
+NVDA price 1 day before article release: 116.37133026123048
+
+NVDA price the day of article release: 122.3709487915039

@@ -1,0 +1,40 @@
+Watch Nvidia's Valuation As High Growth Set To Continue
+
+Feb 23, 2024, 03:56pm EST
+
+Future expected AI market growth likely outweighs present valuation concerns
+By Oliver Rodzianko
+Summary
+
+
+Nvidia Corp.'s (NVDA, Financial) valuation may look unappealing to some, but my peer analysis reveals only a moderate overvaluation at most. However, this needs to be monitored closely as the technology industry is prone to speculative prices. High growth is indicated by long-term artificial intelligence market expansion forecasts and, as such, I consider the stock worth holding long term.
+Founded in 1993, the company is a global leader in the design and manufacture of graphics processing units for the professional and gaming markets and system-on-a-chip (SoCs) units for the mobile computing and automotive markets.
+It is best known for its GeForce GPUs, used for gaming, professional visualization and in data centers for high-performance computation. Nvidia's GPUs are also fundamental to the development and running of artificial intelligence models and it is accelerating machine and deep learning capabilities. It has also developed a platform called Drive, which is designed for autonomous vehicles, providing the computing power necessary for self-driving technology.
+Its Quadro GPUs are tailored for professionals needing design, visualization and simulation, aiding high precision and performance. Additionally, Nvidia's GeForce NOW platform and service is a cloud gaming infrastructure that allows users to stream games on various devices without requiring high-end hardware.
+Additionally, Nvidia develops software. For example, CUDA harnesses the power of GPUs for higher computing performance.
+The company acquired Mellanox Technologies in 2020, adding networking and interconnect technology to its portfolio.
+Nvidia is a critical investment in long-term AI growth and major cutting-edge technologies. As such, understanding the broader market demands and growth outlook for its industry is crucial to assessing its valuation. My research proposes that Nvidia's growth may continue as the AI market expands and, as such, investors would be wise to hold the stock throughout present overvaluation concerns.
+Bloomberg reported that the AI industry could grow at a compound annual rate of 42% over the next 10 years, with demand for generative AI products adding about $280 billion of new software revenue. The research estimates a $1.30 trillion AI market by 2032. Here is a breakdown of what AI segments could be worth in 2032, as outlined by Bloomberg Intelligence:
+
+
+Considering the high CAGR anticipated for the AI market over the next decade, it is important to put Nvidia's historical growth in perspective to understand if the stock is rationally valued at this time.
+Over the past year, Nvidia has grown its earnings per share without non-recurring items at a rate of 173.20%, which is unprecedented historically considering its 10-year average of 34.30%.
+Also consider free cash flow growth of 269.10% over the past year and 28.50% on average annually over the past 10 years.
+Considering the broader trend in Nvidia's industry, arguably the fastest-growing market in the world, it may be possible for the company to maintain 20% or higher earnings per share growth over the next decade. Some reduction to past results is necessary to consider due to an already established business, even considering future market CAGR expectations. My earnings growth estimate is also roughly in line with the common consensus.
+My future growth estimate leads me to my analysis of the stock valuation. I consider Nvidia's price the most significant risk when investing in it at this time. The stock has a price-earnings ratio of around 96, which comes down to around 36 based on future earnings estimates. Its forward price-earnings ratio is in the bottom 30% of companies in the semiconductors industry.
+Nvidia is evidently overvalued by traditional discounted cash flow analysis, but this method is unlikely to fully account for the premium that is usually attributed to high-tech stocks. Looking for leading advanced technology companies trading below fair value is often impossible. As such, I believe a peer analysis is the better way to gauge technology company valuations.
+I think Nvidia can correctly be compared to AMD (AMD, Financial), Taiwan Semiconductor (TSM, Financial) and Broadcom (AVGO, Financial).
+
+
+As such, Nvidia does not seem unreasonably valued based on the stock price of its peers. However, it is likely there is a moderate overvaluation to consider, as indicated by the GF Value Line.
+Considering future earnings estimates for the next three years, including 44 analysts on consensus expecting 72.32% year-over-year growth reported in January 2025 and 30 analysts expecting on consensus 24.24% growth in January 2026, the future for Nvidia looks like it might have the most upside potential in the next few years. However, investors may want to consider how the market will react when earnings growth comes down to more reasonable levels. It could continue to price the company at a premium, or more likely, the valuation will drop to a more reasonable level, creating some short-term volatility before the stock price begins to grow more conservatively.
+It is also important to understand Nvidia's forward price-earnings ratio of around 36 at this time is considerably lower than its median price-earnings ratio of 43.50 over the last 10 years. That could present a reasonable buying opportunity right now as long as investors are willing to tolerate some future volatility. The medium-term potential instability in the price of the stock seems worth it, considering the large long-term expected market growth of AI and Nvidia's crucial function in this area. If the market presents a moderate price drop in the stock soon, that is when I will be looking to take my first proper stake in the company.
+Nvidia is very closely related to Taiwan Semiconductor and, as such, remains significantly exposed to geopolitical tensions between China and the U.S. surrounding Taiwan at this time. While an invasion of the country seems unlikely to me based on my ongoing analysis of international relations, investors must be cautious not to allocate too heavily to technology at this time. If a larger war breaks out, I believe technology stocks will be the most significantly negatively impacted, although the broader economic effects will reach all industries.
+Overall, Nvidia still looks appealing to me. I would be cautious of allocating to the stock at this time too heavily, but even if bought at the present valuation, I believe long-term growth can still be expected over the next decade even if the stock experiences some volatility. My rating for the stock is a hold.
+I/we have no positions in any stocks mentioned, and have no plans to buy any new positions in the stocks mentioned within the next 72 hours.
+
+NVDA price 3 days before article release: 69.4095687866211
+
+NVDA price 1 day before article release: 78.49002838134766
+
+NVDA price the day of article release: 78.76885223388672

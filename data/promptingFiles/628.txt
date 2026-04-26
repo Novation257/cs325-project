@@ -1,0 +1,18 @@
+NVIDIA Launches Jetson Nano - A Competitor To Google Coral And Intel Up Squared
+
+Mar 19, 2019, 07:52am EDT
+
+At the GTC conference in San Jose, NVIDIA has announced Jetson Nano, an edge computing platform to run machine learning and AI models. With a price tag of $99, Jetson Nano developer kit is the most affordable GPU platform from NVIDIA. The compatible module meant for production scenarios costs only $129.
+Nano is the latest to join the Jetson platform. The other products of this portfolio include Jetson TX2 and Jetson Xavier. Jetson TX2 is preferred for vision computing projects while Xavier module is typically used for autonomous machines and robots.
+Jetson Nano is not only the cheapest but also the most developer friendly. With a form factor that looks like Raspberry Pi, the computing device is powered by a quad-core ARM A57 processor that runs at 1.43 GHz. It is backed by a 128-core Maxwell GPU to deliver unmatched power to run neural networks at the edge. The small but powerful CUDA-X based computing device delivers 472 GFLOPS of performance for running modern AI workloads and is highly power-efficient, consuming as little as 5 watts. The device comes with 4GB of RAM and a host of connectors including HDMI, Ethernet, GPIO, I2C, I2S, SPI, and UART which makes it an ideal platform to run IoT and AI applications.
+Jetson Nano competes with two devices that target running AI at the edge – Google Coral and Intel Up Squared AI Vision X Developer Kit. Google recently announced the Coral development board that brings the TPU to the edge. Priced at $149.99, Google Coral runs TensorFlow Lite on a Cortex-A53 backed by 1GB RAM and Google Edge TPU. Intel’s UP Squared AI Vision X Developer Kit is an x86-based edge computing platform based on an Intel Atom CPU and Intel Movidius Myriad X accelerator. The developer kit costs $420 making it the most expensive kit in the market.
+NVIDIA is moving towards unifying the programming model across the Jetson family. NVIDIA CUDA-X is a collection of over 40 acceleration libraries that enable modern computing applications to benefit from NVIDIA’s GPU-accelerated computing platform. JetPack SDK, the development libraries for Jetson are built on CUDA-X and is a complete AI software stack with accelerated libraries for deep learning, computer vision, computer graphics and multimedia processing that supports the entire Jetson family.
+NVIDIA has partnered with AWS to make Jetson Nano Greengrass compatible. The device can run AWS IoT and Greengrass stack including the support for ML model inferencing. AWS customers can train neural networks powered by NVIDIA K80 or P100 GPUs in the cloud and move the models to Jetson platform for inference.
+Developers can preorder the Jetson Nano dev kit from SeeedStudio or SparkFun.
+With machine learning models moving to the edge, the market for accelerating AI is getting competitive. NVIDIA, Google, Intel, and ARM are shipping AI-optimized edge computing platforms.
+
+NVDA price 3 days before article release: 4.108572483062744
+
+NVDA price 1 day before article release: 4.192697525024414
+
+NVDA price the day of article release: 4.360456466674805

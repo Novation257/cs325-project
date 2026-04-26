@@ -1,0 +1,15 @@
+Nvidia Earnings: Stock Slumps Despite Another Record Quarter For AI Leader
+
+Nov 20, 2024, 04:22pm EST
+
+Nvidia’s hotly anticipated earnings report exceeded consensus expectations, as the world’s biggest company continued its streak of delivering explosive financial growth as the clearest beneficiary of the artificial intelligence gold rush, though its stock still slipped following the report.
+Nvidia reported $0.81 adjusted earnings per share, or $19.3 billion net income, in the three-month period ending last month, topping average analyst projections of $0.75 EPS, or $17.4 billion net income, according to FactSet.
+The semiconductor chip architect generated $35.1 billion in sales, crushing estimates of $33.2 billion.
+Nvidia indicated growth will continue in the fourth quarter, guiding for about $37.5 billion in revenue, compared to consensus forecasts of $37.09 billion.
+Despite the top and bottom line beats and improved outlook, shares of Nvidia slipped as much as 3% in limited afternoon trading within 20 minutes of the release. The cause of the decline was not immediately clear, but it’s a reflection of the sky-high expectations for the AI colossus. The 7% quarter-over-quarter growth implied by the $37.5 billion Q4 sales guidance would be the weakest such result since the quarter ending in January 2023 for Nvidia. The stock trimmed losses to less than 2% following the start of the company’s 5 p.m. EST earnings call as Collette Kress, Nvidia’s chief financial officer, touted “staggering” demand for the company’s newest graphics processing unit platform, Blackwell.
+
+NVDA price 3 days before article release: 141.9237060546875
+
+NVDA price 1 day before article release: 146.95172119140625
+
+NVDA price the day of article release: 145.83216857910156

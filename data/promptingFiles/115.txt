@@ -1,0 +1,17 @@
+Nvidia Stock’s 1 Big Risk
+
+May 30, 2025, 07:00am EDT
+
+Nvidia’s (NASDAQ:NVDA) primary customers — Microsoft, Google, Meta, and Amazon — each spent tens of billions on their chips last year. Can these tech giants realistically double their spending on Nvidia chips again next year, and the year after, when their own revenues are only growing by about 15% annually? Absolutely not.
+The music of Nvidia's 80-100% growth has to stop. When this high-pitched growth finally slows, Nvidia's valuation will drop significantly. The point is, even slowing growth can be devastating.
+In fact, Nvidia has experienced strong declines time and again. Earlier this year, the stock saw a large correction amid the rise of DeepSeek. It was again hit over tariff concerns and issues with H20 chips. Looking back slightly further, the impact on Nvidia stock has been worse than the benchmark S&P 500 index during some recent downturns. For instance, Nvidia stock fell 66% during the 2022 inflation shock, versus a peak-to-trough decline of 25.4% for the S&P 500.
+Now, Nvidia’s phenomenal growth is a recent phenomenon and might not last. The entire AI boom could fizzle, or perhaps large AI models could be deemed unnecessary. DeepSeek's demonstration that smaller models can perform just as well without Nvidia's latest chips raises serious questions.
+What are the odds that demand for Nvidia’s chips will suddenly vanish? That’s where the speculation truly begins. Nvidia's revenues have surged by more than 80% annually for the past three years, exceeding 100% growth last year. But can this growth decelerate to 60% or even 40%? It almost certainly has to — and soon!
+As mentioned, Nvidia's largest customers cannot sustain 2x year-over-year increases in spending on Nvidia chips when their own revenues are growing in the mid-teens. When this rapid expansion concludes, Nvidia’s valuation will likely drop significantly.
+However, growth could then stabilize at a more sustainable pace of 20-30%, which, while not exceptionally high, is still respectable. That’s why you build a portfolio — a resilient one — to balance risk and reward. We did exactly that with the Trefis High Quality (HQ) portfolio. Balancing risk-reward is precisely how HQ outperformed the S&P 500, the Nasdaq, and the Russell 2000, clocking over 91% returns since inception!
+
+NVDA price 3 days before article release: 135.4680633544922
+
+NVDA price 1 day before article release: 139.15721130371094
+
+NVDA price the day of article release: 135.09817504882812

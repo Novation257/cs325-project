@@ -1,0 +1,34 @@
+Nvidia Stock Goes Down—And The Internet Cracks Up
+
+Jan 28, 2025, 06:05am EST
+
+The biggest market loss in history happened on Jan. 27, with with Nvidia stock plummeting 17% by the close of U.S. markets. This led to a record $589 billion loss in market capitalization.
+Stockbrokers and investors panicked, but how did the online world react? Well, it did what it does best: joked about the whole debacle.
+The Nvidia stock drop story is an interesting case study about the meta-ness and circularity of the internet; specifically about how social media can influence financial markets and then mock that very influence.
+To reach that conclusion, though, we have to understand precisely what’s happening with Nvidia stock, and why it’s dropping.
+Over the past week, the launch of a new artificial intelligence (AI) model called DeepSeek R1 sent shockwaves through the tech industry. Without getting bogged down in detail, this open-source AI is reported to deliver the same performance as  models from other companies, such as OpenAI, but at a far lower cost.
+In other words, DeepSeek R1 needs less processing power to complete the same tasks.
+Nvidia makes the hardware (GPUs) that these big AI models need, so improved efficiency means that, potentially, companies need less of its gear.
+This is one of the key reasons why Nvidia stock nosedived. Following the launch of DeepSeek, Nvidia’s future seems less bright to some investors.
+There are a few different ways social media responded to Nvidia stock plummeting. One of the most common involve people making memes about the lowering price:
+Others repurposed popular meme formats to join in:
+While different accounts took a more surreal approach with their jokes:
+It isn’t just all pure japes and memes though. Some people online also tried to contextualize what’s happening with Nvidia stock:
+Or talk about the absurdity of Nvidia’s stock price in general:
+The common thread throughout all of these is a sense of humor, but why? What’s happening for the internet to act this way?
+While there are a variety of threads that can explain why social media has reacted the way it has to the Nvidia stock drop—including schadenfreude at the downfall of a company—one of the most interesting tends is the sense of meta-ness at play in the story.
+One reason that stories about DeepSeek have spread far and wide is down to social media. Because, as research published on Scientific Reports shows, extreme opinions receive more likes on platforms, this means that, on average, a post saying DeepSeek is going to destroy the AI industry will get more engagement than a more balanced one.
+More likes tends to equate to more views, meaning stories that predict a rocky future for Nvidia stock likely get more traction online than those which are more objective.
+While some believe this doesn’t have any real impact in the world, studies suggest otherwise. Social media has been shown to directly impact stock prices. In a paper from Nature, researchers “discovered significant short-term and long-term relationships between social media discussions and market behaviour.”
+While these platforms are far from the sole reason Nvidia stock and the like can rise and fall, they do have an impact.
+And this is where things get particularly interesting.
+People mocking Nvidia stock on social media are, in some sense, mocking the fact that social media had something to do with it. The internet is almost like a snake eating its own tail.
+Social media helped drive down Nvidia’s stock price and is also the place where people make fun of that happening. It’s a never-ending cycle.
+Ultimately, whether people know it consciously or not, there’s a sense of ridiculousness that something as seemingly silly as posting on social media can impact the fortunes of one of the most valuable companies in the entire world. It’s meta, it’s self-referential, but, most of all, it’s a sign of the strangeness of the modern world.
+So what comes next? It’s likely that, at some point, Nvidia stock will recover, but after that? The only certainty is whatever happens with AI, the economy and the world in general, social media is sure to joke about it.
+
+NVDA price 3 days before article release: 147.17178344726562
+
+NVDA price 1 day before article release: 118.38121032714844
+
+NVDA price the day of article release: 128.94773864746094

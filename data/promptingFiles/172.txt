@@ -1,0 +1,27 @@
+The Ultimate Nvidia Geforce RTX 5070 Ti PC Build Guide
+
+Feb 19, 2025, 09:02am EST
+
+
+Today, reviewers around the world will publish their reviews of the Nvidia GeForce RTX 5070 Ti, which is the third instalment of the company’s 50-series graphics cards, following the RTX 5080 and RTX 5090. This article will cover what’s new including features such as DLSS4 and Multi Frame Generation, the new graphics card’s specifications, what you can expect if you upgrade to it, and what hardware you need to use it. Nvidia has confirmed Feb 20. availability for the RTX 5070 Ti.
+The RTX 50-series uses the new Blackwell architecture and supports the latest DLSS 4 features, with Multi Frame Generation being exclusive to this series. All new models we know of so far use GDDR7 memory and the RTX 5070 Ti has 16GB of this which is an upgrade from the 12GB used with the RTX 4070 Ti, while being the same as the RTX 4070 Ti Super.
+The only specific requirement to make sure your PC is ready for the RTX 5070 Ti relates to the power supply. Nvidia recommends at least a 750W power supply. The RTX 5070 Ti measures between 250W and 300W in games, which is about the same as previous mid-range cards such as the RTX 3070 Ti. Nvidia’s 50-series graphics cards use a 16-pin 12VPWR connector and some power supplies also include these, in which case you need at least a 350W 12VPWR cable, which is usually the standard anyway. Adaptors to make use of 8-pin PCIe power cables on older power supplies is usually included with every model, although using them can look a little unsightly.
+DLSS 4 is Nvidia’s latest neural rendering upscaling technology that helps to increase frame rates and boost image quality. It introduces a new transformer based model, Multi Frame Generation, improved Ray Reconstruction and Super Resolution. Most of these features are backwards compatible with older RTX-series graphics cards, although the RTX 50-series features enhancements to better enable them. While DLSS is known for upscaling images to boost frame rates, features such as Deep Learning Anti-Aliasing and Ray Reconstruction drastically improve image quality too.
+There are a number of graphics cards that you’d consider upgrading from to the RTX 5070 Ti and some alternative options too. The graphs below give an indication of what you can expect between models and generations in games, excluding features such as DLSS and frame generation, except for Black Myth: Wukong where the universal TSR upscaling mode has to be used as a minimum.
+
+DLSS is supported in hundreds of game titles currently, while some DLSS 4-specific features are limited to 75 games at launch last month. However, an Nvidia app can force certain features on in some games. DLSS 4 has been received well by various websites that have reviewed it such as TechPowerUp as its features do improve image quality as well as performance. The graphs below show DLSS use in games and for AMD graphics cards the latest FSR in that particular game was used.
+Multi Frame Generation is an upgrade over Frame Generation where AI is used to generate artificial frames in games. The latter added one frame between two traditionally-rendered frame, but Multi Frame Generation adds up to three. It is limited to RTX 50-series graphics cards while older models support standard Frame Generation. You can see in the graphs below the benefits of enabling Frame Generation (x2 mode) and Multi Frame Generation (modes x3 and x4) with the RTX 5070 Ti without anything enabled at the bottom of the graph for reference in Cyberpunk.
+A great choice of processor for an Nvidia RTX 5070 Ti system is AMD’s Ryzen 7 9800X3D. To house and cool this a Gigabyte X870 Aorus Elite Wi-Fi 7 Ice is ideal if you’re building a white PC like I’m doing here. I’ve also chosen Cooler Master’s Hyper 212 Hato White CPU cooler, so I needed to remove the CPU socket clips first.
+Installing the processor below isn’t too hard but you need to be extremely careful not to drop the processor into the CPU socket as it can damage the pins.
+You’ll want to use at least DRR5 6000 memory, such s the Kingston Fury Renegade 32GB kit I’ve used here. Ideally, you’ll also want an EXPO-certified kit, which is tuned specifically for AMD systems.
+The Gigabyte RTX 5070 Ti Aero is one of few white RTX 5070 Ti models available and is much larger than some other cards too, requiring three slots. The benefit is that’s extremely quiet as a result, but as usual you’ll need to check that your case can house it.
+Below we can see the 12VPWR connector from the power supply, which is an NZXT C1000 Gold. This comes with a native 600W 12VPWR  cable, which more than meats the 350W required by Nvidia.
+The cable is best placed running out the side of the graphics card and down through a cable tidying hole in your case like you can see below.
+The finished system looks great and there’s plenty of cooling inside thanks to four case fans to keep the RTX 5070 Ti cool.
+As usual I’d recommend checking out various review websites for full reviews of the RTX 5070 Ti today as many will include large numbers of game tests for a good overview of the performance, or perhaps the performance in specific games that you play.
+
+NVDA price 3 days before article release: 135.24566650390625
+
+NVDA price 1 day before article release: 139.35433959960938
+
+NVDA price the day of article release: 139.18438720703125

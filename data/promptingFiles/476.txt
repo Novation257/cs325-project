@@ -1,0 +1,18 @@
+Cyberpunk 2077 Gets Nvidia DLSS 3 Support For Big Frame Rate Boost
+
+Jan 31, 2023, 01:45pm EST
+
+If you want a big frame rate boost in one of the visually toughest PC games out there, then there's good news - Nvidia's DLSS 3 has finally been added to Cyberpunk 2077.
+Released in beta form for Nvidia's RTX 4000-series launch, DLSS 3 promisses much faster frame rates and smoother visuals even with all the eyecandy such as ray tracing turned on. Today, DLSS 3 in available to the masses.
+Nvidia is promissing some impressive performance numbers, with the RTX 4070 Ti offering double the frame rate of the RTX 4090 without DLSS 3 and four times the performance of the RTX 3090 Ti.
+At the top of the stack, the RTX 4090 manages a silky smooth 138fps at 4K and with all the visual settings set to maximum - more than three times it's performance without DLSS 3. Meanwhile, the RTX 4080 stays above 100fps with DLSS 3 enabled, but only manages 26fps without it.
+DLSS 3 uses frame generation to increase frame rates, creating 7/8ths of a new frame using AI and avoiding the intensive process of generating new fames using traditional methods. Instead, fourth-generation Tensor Cores and the optical flow accelerator of the Nvidia Ada Lovelace architecture. This cal also help to remove bottlenecks elsewhere in a system - for example with the CPU, as the frames are generated within the GPU itself, independant of the rest of the system.
+You'll need the latest drivers from Nvidia, along with an RTX 40 series graphics card such as an RTX 4070 Ti, RTX 4080 or RTX 4090 as well as the latest update for Cyberpunk 2077 itself. The update will not change the game version (currently 1.61) but it's worth checking out this page on the CD PROJEKT RED website for other settings you may need to adjust.
+If you access Cyberpunk 2077 using GOG Galaxy, then you'll need to update the app too elose the GOG Galaxy overlay will not run. In Cyberpunk 2077, to enable DLSS 3, you'll need to head to graphics in the settings menu and then set DLSS Frame Generation to on. If you're keen to test the performance benefits yourself, don't use the built-in benchmark in Cyberpunk 2077 as this is innacurrate when measuring increases due to DLSS 3 Frame Generation. Instead, you can use Nvidia's FrameView software or another FPS recording too.
+Cyberpunk 2077 will also get an Overdrive Mode update later in 2023. First announced in September last year, it will enhance the ray-traced visuals further still. You can see examples of what Overdrive Mode will look like in Cyberpunk 2077 in the video above.
+
+NVDA price 3 days before article release: 19.7811222076416
+
+NVDA price 1 day before article release: 19.14180374145508
+
+NVDA price the day of article release: 19.51640510559082

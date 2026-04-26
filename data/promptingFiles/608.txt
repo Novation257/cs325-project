@@ -1,0 +1,17 @@
+Ray Tracing Comes To Minecraft And It Looks Fabulous On NVIDIA RTX
+
+Aug 19, 2019, 10:00am EDT
+
+If there was any doubt in your mind that real-time ray tracing was the wave of the future for cutting-edge gaming and 3D graphics, one of the most popular game titles of all time, Minecraft, just got a full scene RT makeover and it looks gloriously good. Mojang, Microsoft and NVIDIA just announced in a Gamescom 2019 unveil that full-scene, path-based ray tracing will be made available in Minecraft with a full menu of effects, including ray-traced lighting, reflections and shadows. With over 176 millions copies sold worldwide, Minecraft is literally the best-selling game in history, so this is big news for traditional gamer-creators and also Minecraft's expanded venues and genres, like Minecraft: Education Edition.
+“Minecraft will expose ray tracing to millions of gamers of all ages and backgrounds that may not play more hardcore video games,” noted Matt Wuebbling, head of GeForce marketing at NVIDIA. “The world’s best-selling video game adding ray tracing on PC illustrates the momentum that ray tracing has built in the gaming ecosystem.”
+Path traced visuals for the Windows 10 version of the game will drive lighting effects that are based on the precise way light should travel through a scene from various sources and reflecting off objects. Direct lighting from the sun, sky and emissive surfaces like glowstone and lava will all be rendered realistically, along with more accurate hard and soft shadows that will render properly based on the distance of a light source. In addition, accurate reflection, refraction and scattering effects over water, ice and glass will add to the realism, along with atmospheric effects, like volumetric fog and light shafts. However, as you can see, a picture really is worth a thousand words. You have to see ray-traced Minecraft in action to fully appreciate its impact on the gaming experience.
+"With the capabilities of this tech, you’ll be able to experience your Minecraft worlds with realistic lighting, vibrant colors, , realistic water that reflects and refracts naturally, and emissive textures that light up. What does ‘emissive’ mean? It means you’re about to see Minecraft like you’ve never seen it before!" noted the Mojang staff in an early morning blog post today.
+Minecraft is available across virtually any platform, from Windows to Linux, Xbox, PlayStation, Nintendo Switch and mobile devices. However, when the feature is previewed in a future beta sometime in the new year, it will require Windows 10 with Microsoft DXR and ideally an NVIDIA GeForce RTX GPU. NVIDIA noted that since it does support ray tracing on its non-RTX GeForce cards in software as well, that it should also work on GeForce GTX cards, but couldn't yet comment on expected performance. Microsoft and Mojang also plan to bring ray tracing to Minecraft on other platforms in the future as well.
+———
+Dave Altavilla serves as Principal Analyst for HotTech Vision And Analysis. HotTech, like all technology analyst firms, provides paid services, research and consulting to many semiconductor manufacturers and system OEMs. Some of the companies in this article may be clients of the firm.
+
+NVDA price 3 days before article release: 3.728419542312622
+
+NVDA price 1 day before article release: 3.96419358253479
+
+NVDA price the day of article release: 4.242950916290283

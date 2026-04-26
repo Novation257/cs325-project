@@ -1,0 +1,15 @@
+DeepSeek Billionaire Rout: Nvidia’s Huang And Oracle’s Ellison Lose Combined $48 Billion
+
+Jan 27, 2025, 04:18pm EST
+
+Several notable billionaires experienced massive hits to their fortunes Monday as the Chinese generative artificial intelligence startup DeepSeek upended the U.S. stock market, hitting the American AI leader Nvidia the hardest.
+As Nvidia shares tanked 17% and the company lost a record $589 billion in market capitalization, the net worth of its CEO and biggest individual shareholder, Jensen Huang, dove, falling $20.8 billion by market close.
+Huang’s fortune slide from $124.4 billion to $103.7 billion knocked him from the 10th spot on Forbes’ real-time billionaires ranking to 17th, slipping behind Spanish fast fashion mogul Armancio Ortega, Walmart heirs Rob Walton, Jim Walton and Alice Walton, Microsoft cofounder Bill Gates, Dell CEO Michael Dell and former New York mayor Michael Bloomberg.
+Rivaling Huang’s percentage drop Monday was a $27.6 billion loss for Oracle chairman Larry Ellison, as Oracle stock tanked 14% — Ellison fell from third-richest person on Earth to fifth, falling behind Meta CEO Mark Zuckerberg and LVMH luxury tycoon Bernard Arnault.
+Nvidia and Oracle were among several Big Tech losers Monday as DeepSeek’s large-language model that was reportedly developed for a fraction of its American competitors like OpenAI’s ChatGPT sent questions about whether companies will continue to spend lavishly on the technology necessary to power and train generative AI.
+
+NVDA price 3 days before article release: 147.02183532714844
+
+NVDA price 1 day before article release: 142.5732879638672
+
+NVDA price the day of article release: 118.38121032714844

@@ -1,0 +1,19 @@
+Nvidia’s Agentic AI Agenda At CES Was Smart, But It Could Go Further
+
+Jan 28, 2025, 05:27pm EST
+
+The surprise was not that Nvidia got on the agentic bandwagon at CES. The surprise to me was how well it was done.
+Don’t get me wrong: Nvidia is a great company loaded with smart people. But so far, agentic thought leadership has been mostly coming from software or cloud-first companies, so it was interesting to see it coming from a chip company instead. And before someone yells that Nvidia is a software company, too: I know it is, but it’s still GPUs that are driving its business results.
+So it was a pleasant surprise that the company’s agentic announcements at CES 2025 were quite solid relative to what we have seen from other leading companies over the past few months. The word I keep coming back to is smart.
+So let's talk about what makes Nvidia’s approach here stand out.
+Long story short, there’s a lot of good in the company’s approach to agentic AI. But I do see some ways that Nvidia can take it further. First, what Nvidia has announced so far is visionary but not extraordinary. Its picture of the future is definitely well done, but if you look at the most well-baked features available right now, similar capabilities can be found in other platforms such as Bedrock. This makes me wonder whether there are optimizations that Nvidia can deliver in the near term; I tend to think so, considering that the company has more hardware control thanks to the tight integration between its chips and software.
+Nvidia could also partner more. I like the Accenture partnership, but again, it’s not necessarily unique given that most of the AI cloud providers have at least one GSI partner. But what if Nvidia chose to go the same route as Nutanix and partner its agentic software stack with Dell, Lenovo or HPE? That could be a big deal, and you’d have to think it’s readily attainable, considering that all three of those big server makers are already partnered with Nvidia for AI datacenter tech. To get a little more inventive, what if Nvidia partnered with one of the new-school cloud providers like Coreweave?
+Finally, I think Nvidia needs to get clearer on its software strategy. Consider this comparison: Over many years, Intel has made good software that is sellable. Intel has also made massive contributions to the open source world. But the software was always secondary to selling more semiconductors. That led to a gap in credibility, and it has stymied Intel’s ability to sell software innovation.
+If Nvidia truly wants to succeed in agentic, it will need to turn the (smart) blueprints it announced into some sort of true business model — and provide enterprises with more assurance that production will be sustainable. And again, Nvidia does not need to do all of this by itself; we could see even more opportunities for partnering in the months and years to come.
+Moor Insights & Strategy provides or has provided paid services to technology companies, like all tech industry research and analyst firms. These services include research, analysis, advising, consulting, benchmarking, acquisition matchmaking and video and speaking sponsorships. Of the companies mentioned in this article, Moor Insights & Strategy currently has (or has had) a paid business relationship with Accenture, AWS, Dell, HPE, Intel, Lenovo, Microsoft, Nutanix, Nvidia.
+
+NVDA price 3 days before article release: 147.17178344726562
+
+NVDA price 1 day before article release: 118.38121032714844
+
+NVDA price the day of article release: 128.94773864746094

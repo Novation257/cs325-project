@@ -1,0 +1,21 @@
+Nvidia Joins Japanese Startup Sakana AI’s $100 Million Series A Round
+
+Sep 05, 2024, 02:00am EDT
+
+Sakana AI, a Tokyo-based artificial intelligence startup cofounded by ex-Google researchers, has hit unicorn status after raising more than $100 million in a funding round that included billionaire Jensen Huang’s Nvidia.
+The Series A round was led by Silicon Valley venture capital firm New Enterprise Associates, whose portfolio includes U.S. stock trading app Robinhood; Khosla Ventures, an early investor of AI poster child OpenAI; and Lux Capital, who had invested in leading AI startup Hugging Face.
+It boosted Sakana AI’s valuation to more than $1 billion, according to a source with direct knowledge of the deal.
+The one-year-old startup said in a statement Wednesday that it will team up with Nvidia on AI research, data center access and growing the AI talent pool in Japan. It will also use the fresh capital to expand its team and develop its technology for creating smaller and more cost effective AI models.
+Nvidia’s Huang said in the statement: “The team at Sakana AI is helping spur the democratization of AI in Japan by developing cutting-edge foundation models to automate and speed up scientific discovery.”
+Unlike many AI startups like OpenAI, which create large-scale models with a vast amount of training data, Sakana AI develops smaller models with less data and then have them work together to achieve higher efficiency. The startup’s name, which means “fish” in Japanese, draws inspiration from the way smaller animals like fish work together. It has released three AI models for applications including image generation.
+Sakana AI previously raised a $30 million seed round in January, led by Lux Capital with participation from Khosla Ventures. Its other investors include Sony, Japanese telecom giants NTT Group and KDDI, as well as Google’s chief scientist Jeff Dean, Hugging Face cofounder Clem Delangue and U.S. billionaire Alexandr Wang, the cofounder of AI unicorn Scale AI.
+Sakanaa AI was established by former Google employees David Ha and Llion Jones, as well as former Japanese diplomat Ren Ito. Prior to Sakana AI, Ha led Google Brain’s research in Tokyo while Jones co-authored a landmark research paper that underpins many of today’s popular AI products such as OpenAI’s chat bot ChatGPT. Ito was previously the COO of U.K. AI startup Stability AI and CEO of the European operations of Japanese tycoon Shintaro Yamada’s online used-goods marketplace Mercari. He had a brief stint at the Ministry of Foreign Affairs of Japan.
+Update: September 6, 2024
+This article has been updated to include Sakana AI’s post-money valuation.
+
+
+NVDA price 3 days before article release: 117.5333251953125
+
+NVDA price 1 day before article release: 107.9479522705078
+
+NVDA price the day of article release: 106.1588134765625

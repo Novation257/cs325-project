@@ -1,0 +1,18 @@
+Nvidia's Monster Titan RTX Has $2500 Price Tag
+
+Dec 04, 2018, 04:51am EST
+
+Nvidia has unveiled the Titan RTX - one of it's most expensive desktop graphics card ever, putting to shame the $1300 you'll currently need to lay down to own a GeForce RTX 2080 Ti, with a price of $2500.
+The Titan RTX uses the TU102 Turing GPU from the RTX 2080 Ti and indeed the Quadro RTX 6000, but has specifications that differ in some areas to both. Amazingly, it's not the most expensive Titan ever, as the Titan V with its expensive HBM2 memory cost $3000 when new.
+The Titan RTX matches the Quadro RTX 6000 in having 4608 Cuda cores, 672GB/sec memory bandwidth and the use of a wider 384-bit memory bus as well as memory frequency of 1750MHz - all of which better the RTX 2080 Ti. The Titan and Quadro cards also have a massive 24GB of GDDR6 - more than twice the 11GB on the RTX 2080 Ti, which also lags behind on just 4352 Cuda cores, 616GB/sec memory bandwidth and smaller 352-bit memory bus.
+
+The Titan RTX has a 30W higher TDP and significantly higher boost frequency at 1770MHz compared to 1545MHz, while the Quadro RTX 6000 still outstrips the new Titan in base clock and TDP.
+It will be aimed not just at wealthy gamers, but also at workstation users and those that deal with AI and maybe can't quite stretch to the  $6,000+ Quadro RTX 6000. As always with its ultra-premium Titan cards, there is a risk that the next generation Ti card will outstrip its performance in games at a fraction of the cost, as happened with the Titan X and GeForce GTX 1080 Ti - the latter being released barely more than 6 months later and retailing for $699 compared to $1200 for the Titan X, which surely must have left owners of the latter feeling a little gutted.
+For anyone that's interested in grabbing Nvidia's latest graphics card when it's available, you can see the product page here.
+
+
+NVDA price 3 days before article release: 3.901057958602905
+
+NVDA price 1 day before article release: 4.215403079986572
+
+NVDA price the day of article release: 3.89486026763916

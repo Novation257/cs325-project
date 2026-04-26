@@ -1,0 +1,20 @@
+Nvidia Surprise: PhysX Is Now An Open Source Technology
+
+Dec 04, 2018, 04:13am EST
+
+I've long been a critic of Nvidia's "black box" approach to its proprietary graphics libraries. In fact, GameWorks was one of the primary motivators for AMD's GPUOpen initiative, which aims to empower software developers, researchers, and game makers with low-cost, open source technologies for getting their work done. So, this is a sentence I never thought I'd write: Nvidia has introduced the PhysX 4.0 SDK, and is making its popular PhysX simulation engine fully open source.
+As gamers we typically associate PhysX with the realistic physics we see in games like Borderlands 2, The Witcher 3: Wild Hunt and VR titles like Chronos among many others. It's been a staple feature for AAA and indie games alike. It's not an exclusive to GeForce hardware -- it runs on Radeon graphics cards as well. However, there have been plenty of controversies around the theory that PhysX cripples performance on Radeon hardware.
+Now, AMD itself can dig into the full source code on Github and improve PhysX performance for the Red Team. But that's not remotely the biggest implication.
+In Nvidia's blog post -- which corresponds with the launch of its new RTX Titan GPU -- Rev Lebaredian, Nvidia's Senior Director of Engineering for Content & Technology -- explains why Nvidia is making this surprising move:
+"We’re doing this because physics simulation — long key to immersive games and entertainment — turns out to be more important than we ever thought. Physics simulation dovetails with AI, robotics and computer vision, self-driving vehicles, and high performance computing."
+Nvidia has its hands in multiple pies, after all. As it continues to proliferate into the worlds of machine learning, automotive AI and high performance compute, open-sourcing PhysX may be seen as not just a gesture of goodwill, but also a way to increase adoption of the PhysX engine itself.
+"PhysX will now be the only free, open-source physics solution that takes advantage of GPU acceleration and can handle large virtual environments," Lebaredian writes. You can read the entire announcement here.
+And there's no doubt it may also see an increase in adoption from game developers.
+PhysX is now available under the BSD-3 license, which allows for virtually unlimited freedom to distribute, modify, and commercialize the software, as long as the BSD license and copyright are included.[via Phoronix]
+
+
+NVDA price 3 days before article release: 3.901057958602905
+
+NVDA price 1 day before article release: 4.215403079986572
+
+NVDA price the day of article release: 3.89486026763916

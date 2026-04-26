@@ -1,0 +1,30 @@
+Nvidia RTX 2000-Series Turing Graphics Card Details Finally Revealed
+
+Sep 14, 2018, 09:27am EDT
+
+Today marks the first of several big days for Nvidia as it's first in a series of launch days where journalists can reveal all the details of its new RTX series 'Turing' GPUs. Nvidia has been kind enough to send me both the RTX 2080 Ti and RTX 2080 and I'll be blasting through numerous game benchmarks for the big launch later this month when we can reveal performance numbers. Today, though, is about the cards themselves and what lies underneath so here's a quick overview of Nvidia's RTX series graphics cards including confirmed features and specifications.
+There are two parts to the RTX launch that we need to be concerned with and one Nvidia has obviously been very forthcoming with - the fact the new GPUs support ray tracing and deep learning. The other, of course, is how much faster they are in current games that don't support any of these new features and given how much of a beast the likes of the GTX 2080 and GTX 2080 Ti were compared to their predecessors, the lack of information for that second part has certainly flared tempers, especially given we're looking at a minimum of $999 for the flagship base model.
+There are some key improvements in the architecture that will indeed mean that performance in current games and other tasks will be quicker. The Turing architecture sports a new integer pipeline, that will remove some of the load placed on the CUDA cores due to the fact they had to deal with both floating point and  integer instructions. Integer cores now sit alongside CUDA cores and deal with those extra calculations, with Nvidia claiming floating point performance is boosted by over a third. Turing also has two times the L1 cache bandwidth and a lower L1 cache latency. It has nearly three times the L1 cache capacity and L2 cache capacity has increased too, from 3MB to 6MB. Nvidia claims it will be up to twice as fast as Pascal and has 50% higher memory bandwidth.
+Turing GPUs now have GPU-controlled LOD selection relating to their mesh shaders which means this load is removed from the CPU onto the GPU. In addition, Turing can also remove a huge amount of load from the CPU during streaming, reducing load while 4K streaming from 70% on the CPU to just 1% - this could have quite large ramifications for 
+AMD
+ and 
+Intel's
+ marketing presentations as streaming is traditionally one big selling point for their desktop processors, especially those above the typical four cores.
+Nvidia is clearly massively involved with deep learning and Turing is obviously designed with this in mind. However, it can be useful with games. Useful is perhaps something of an understatement given the magnitude of what Nvidia is trying to achieve here, but proving this will inevitably rely on games supporting the new features introduced by the RTX series GPUs. Ray tracing is an up and coming feature not just with Nvidia, but with 
+Microsoft's
+ DirectX too and is quite hard to get right.
+
+
+Calculations have, in the past, been very time consuming and inefficient. The BHV algorithm that splits an object down into sections in order to work out how to render a light ray is now done on a new RT core - dedicated hardware. The numbers are impressive if you believe Nvidia's figures, with its new ray-creating performance metric - GigaRays, increasing from 1.2 with the GTX 1080 Ti to a massive 10.9 with the RTX 2080 Ti.
+The result here are some very fancy visuals as we've seen in some demos, but there's more to it than just ray tracing. Nvidia has also introduced features such as Deep Learning Super Sampling (DLSS) and this brings about two very interesting improvements. By training neural networks with reference images in a particular game, Nvidia can deliver this information to RTX GPUs through driver updates, allowing them to improve image quality compared to typical temporal anti-aliasing, but it can deliver that image quality - either similar to or better than - at much higher frame rates. If it works, that's some seriously impressive stuff. The demo I saw in Germany a few weeks back showed this in action - the RTX 2080 Ti was dishing out frame rates double that of the GTX 1080 Ti.
+The downside is that you need a game to support DLSS for this to work - you'll be relying on the uplift from other improvements otherwise, but in addition to the 16 titles announced last month, the following titles have been added to the DLSS support list.
+We'll be seeing the enhanced ray-traced visuals in forthcoming titles such as Battlefield V, but at the moment there's not much to test with in order to stretch the legs of Nvidia's new GPUs either with ray tracing or DLSS, which means that it's likely my full review will be focussing on performance in current titles only. Given how little concrete information we've seen here, though, that's something I for one am very keen to see.
+
+Which all begs the question - just how good are the new GPUs in these new features and are they worth the huge amounts of cash that Nvidia is asking for them? Well, this looks like a story that will play out over the next few months as more RTX and DLSS-enabled titles hit the shelves so it will need some re-investigating at the very least. Having seen the demos first hand in a range of games, the future is both hopeful and exciting in seeing Nvidia's promises come to fruition. However, this means it's even more important to see the performance from both these aspects before reaching for your wallet.
+I'll be covering the launch of the RTX 2080 and RTX 2080 Ti in full on launch day with lots of benchmark results so be sure to follow me here on Forbes or at any of the social media outlets below.
+
+NVDA price 3 days before article release: 6.756130695343018
+
+NVDA price 1 day before article release: 6.719974517822266
+
+NVDA price the day of article release: 6.846029758453369

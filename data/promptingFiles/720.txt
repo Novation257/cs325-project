@@ -1,0 +1,19 @@
+Leaked Performance Numbers Of AMD's R9 390X: Should Nvidia Be Worried?
+
+Nov 27, 2014, 12:20pm EST
+
+With many PC hardware launches, especially graphics cards, leaked performance numbers sometimes give us a glimpse of what we can expect from the shiny, new bits of kit that are just around the corner. Just such numbers have been leaked for AMD's next-gen flagship gaming graphics card - what some think will be called the R9 390X. They're impressive. Very impressive.
+Nvidia's recent launches of its Maxwell architecture-based GeForce GTX 980 and GTX 970 - two excellent products that are both faster and more power efficient than their predecessors, has laid down a benchmark for AMD to follow. It's a tough one too. AMD is already behind in the power consumption stakes with its R9 290X performing well, but consuming much more power than the newer and faster GeForce GTX 980.
+There is some light at the end of the tunnel for AMD, though, and it seems to have cracked the high power consumption of its previous generation graphics cards too. Leaked benchmarks that appeared recently on the Chip Hell forum here, claim to show that a yet unknown graphics card is over 15% faster than Nvidia's GeForce GTX 980, yet consumes only 12W more power on average.
+
+While these numbers aren't official, several websites, including WCCFTech, claim that the style of the leaked slides is the same as those that appeared for several previous GPU launches too, so there is some credibility to the results as well.
+
+If true, AMD could well be launching a stunning graphics card early in 2015. It needs to, though, as Nvidia currently rules the roost above $300, with its GeForce GTX 970 and GTX 980 out-performing AMD's equivalents both in terms of speed and power efficiency. Nvidia is expected to launch its GTX 960 soon too, which will further cement its dominance a little lower down the price range.
+The current situation has seen some hefty price cuts for AMD too, with its top-end R9 295 X2 falling to less than $680, in the US and under £480 in the UK. With pre-Christmas sales too, prices will likely continue to fall as retailers look to clear stock ahead of fresh launches in the new year, especially as Nvidia is currently sitting happy with its high-end offerings - the GTX 970 and GTX 980 already being available.
+Are you waiting to see what AMD comes up with? Already bought an Nvidia graphics card? Feel free to comment below or on my Twitter page - @antonyleather
+
+NVDA price 3 days before article release: 0.4906630516052246
+
+NVDA price 1 day before article release: 0.4935424923896789
+
+NVDA price the day of article release: 0.5019401907920837

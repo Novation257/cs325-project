@@ -1,0 +1,43 @@
+Forbes Daily: Intel Shares Spike After Deal With Rival Nvidia
+
+Sep 19, 2025, 07:55am EDT
+
+andForbes Daily,
+Forbes Staff.
+Fans have long complained about the pains of buying tickets to their favorite shows on sites like Ticketmaster and Live Nation. Now, the FTC is stepping in.
+The agency filed a lawsuit against the two ticketing giants on Thursday, alleging they deceived artists and consumers by allowing resellers to purchase large numbers of tickets and charge higher prices on the secondary market. The FTC said the companies failed to stop the reselling practices because they allow the firms to “triple dip,” initially collecting fees from the mass ticket buyers, then again from the buyers when they resell tickets, and finally from the consumers who purchase the resale tickets.
+It’s the latest in a slew of recent regulatory problems for the industry, and comes after the Justice Department sued to break up Live Nation last year.
+Nvidia is making a $5 billion investment in rival chipmaker Intel, leading Intel’s shares to jump 23% Thursday on the heels of the Trump Administration’s recent announcement that it would take a 10% stake in the company. The firms will collaborate to develop custom data center and personal computer products, as Nvidia’s stock purchase will give it around a 4% stake in the struggling company.
+President Donald Trump said that “maybe” licenses should be taken away from TV networks with shows critical of him, his latest suggestion about deplatforming critics after ABC’s removal of Jimmy Kimmel Live! from the air. Meanwhile, legal experts have raised concerns that the Trump Administration unconstitutionally influenced the show’s suspension through “jawboning,” a practice in which officials use strongman tactics to try and indirectly silence critics or influence private companies’ actions.
+President Donald Trump continued his efforts to fire Federal Reserve Governor Lisa Cook on Thursday, asking the Supreme Court to step in and pause a lower court ruling that blocked the termination. Two federal courts have now ruled that Cook can only be fired for an issue related to her job performance, and recent reports have suggested she did not falsify details in her mortgage applications as the Trump Administration has claimed.
+Volvo isn’t a giant in the auto industry, but its sustainability ambitions are: By the end of the decade, the Swedish carmaker wants 35% of all content used to make a new vehicle to be recycled. Even in the midst of the Trump Administration’s upheaval of the U.S. auto industry, carmakers are competing globally to show consumers they’re making big changes to cut carbon pollution and go electric.
+A week after its billion-dollar fundraise, AI data storage and analytics company Databricks said Thursday it is launching an accelerator program for seed and pre-seed stage AI startups that use its tools and platform. The company, now valued at $100 billion, wants to go beyond standard venture capital, offering startups mentorship from its executives and helping them grow.
+The Trump Administration offered few details on the substance of the TikTok deal, but Chinese officials said it would involve a new U.S. TikTok entity licensing algorithms from ByteDance—an arrangement that suggests TikTok will still rely, at least in part, on its Chinese parent company. That’s causing bipartisan alarm in Congress, as the law requiring ByteDance to sell TikTok or face a ban placed explicit restrictions on any operational ties to ByteDance after a sale.
+Tom’s Watch Bar has expanded to 18 locations in six years, despite competing with established sports bar chains like Buffalo Wild Wings, Beef ‘O’ Brady’s and Walk-On’s Sports Bistreaux. Its strategy is to cater to fans on their way into or out of stadiums: Of Tom’s 18 locations, 15 are adjacent to a stadium or arena.
+The AI revolution hasn’t materialized on Main Street just yet. Three business owners who spoke with Forbes said they are largely using the technology when it comes bundled inside the software they already use, or as a faster way to search the internet. Some said it helps them speed up routine tasks, like responding to Google reviews.
+As CEO and cofounder of the consumer packaged goods spinoff of the iconic high-end restaurant Carbone, Eric Skae has the task of selling more affordable access.
+With its $7 to $11 jarred sauce, Carbone Fine Food has become the fastest-growing pasta sauce brand in America—with sales expected to reach $100 million by the end of this year, nearly doubling 2024’s performance.
+But Skae, who previously ran the retail business for another New York red sauce cathedral—Rao’s in East Harlem—and led its 2017 acquisition, is enjoying his second act. Carbone Fine Food’s 18 sauces, from arrabiata to pizza sauce, are now sold across 27,000 stores in America and he’s hungry for more expansion. “This will be the No. 1 brand in America,” says Skae, who believes sales will one day reach $1 billion.
+For the past year, around 154,000 new households purchased a jar of Carbone sauce each month. Carbone Fine Food’s household penetration is still small, at around 2.7%, but Skae says he is closing the gap with Rao’s, which has 23.7% of the market share. “It’s me against Rao’s,” Skae adds.
+The tomato sauce aisle was already fairly crowded before Carbone joined the fray—with $4 billion in annual sales and more than 500 brands sold nationwide. The bevy of startups that have launched in the past few years include a hot sauce extension from Truff (founded by two Forbes 30 Under 30 alums), a line from the New York City restaurant Rubirosa, as well as the Cavu-backed Sauz with $21.8 million in investor funding.
+WHY IT MATTERS “Brands are trending towards becoming more premium, and cleaner ingredient lists like Carbone Fine Food and Rao’s have are driving this trend,” says Forbes staff writer Chloe Sorvino.
+MORE Meet The New Big Cheese At The World’s Largest Mozzarella Maker
+Since Meta banned a surveillance firm called Cobwebs from gathering intelligence across its platforms in 2021, ICE has spent millions on the company’s tools. Critics say the software enables warrantless online surveillance:
+Over $5 million: The amount ICE has spent on its tools, including a $2 million purchase this week
+$35,000 a year: The amount law enforcement in Virginia spends to access a Cobwebs tool for “AI face detection and AI face search”
+‘Nothing new here’: “For years law enforcement across the nation has leveraged technological innovation to fight crime. ICE is no different,” ICE spokesperson Mike Alvarez told Forbes
+The IRS is continuing to roll out drafts of some 2026 tax forms, and there will be a few key updates for those who fill out a W-9, which is used by independent contractors. New instructions on the draft form clarify that sole proprietors of businesses must use their Social Security number and disregarded entities must use the owner’s taxpayer identification number. There’s also a new category of exempt recipient for sales of digital assets.
+
+New York Attorney General Letitia James is accusing a business of bribing an auditor to reduce its tax bill. What kind of business is it?
+A. Casino
+B. Strip club
+C. Marijuana dispensary
+D. Liquor store
+Check your answer.
+Thanks for reading! This edition of Forbes Daily was edited by Sarah Whitmire and Chris Dobstaff.
+
+NVDA price 3 days before article release: 174.86080932617188
+
+NVDA price 1 day before article release: 176.2206573486328
+
+NVDA price the day of article release: 176.6505889892578

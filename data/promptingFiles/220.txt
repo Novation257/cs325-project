@@ -1,0 +1,17 @@
+Nvidia Stock Pops 3%—Hits Record Close Ahead Of Jensen Huang CES Keynote
+
+Jan 06, 2025, 04:10pm EST
+
+Nvidia added some $140 billion in market value Monday ahead of a key speech from its centibillionaire CEO Jensen Huang, briefly reclaiming the mantle as the most valuable company on earth for the unquestioned leader of the generative artificial intelligence wave.
+Shares of Nvidia climbed 3.4% to $149.43 per share, besting their previous record close of $148.88 set Nov. 7.
+The Monday surge sent Nvidia’s market capitalization to as high as $3.73 trillion, briefly eclipsing the market cap of Apple before the iPhone maker narrowly took back its title later in the afternoon — Nvidia is less than $40 billion away from its first market close as the world’s highest valued company since Nov. 25, according to YCharts data.
+The Nvidia rally came amid a broader rally in U.S. technology stocks — the tech-heavy Nasdaq rose more than 1% to a 2025 high — and a global spike in share prices of other players in the semiconductor chip industry, as shares of Netherlands-based ASML, Taiwan-based TSMC and UK-based Arm Holdings gained at least 4% apiece.
+Semiconductor stocks received a boost from record fourth quarter revenue data from the Taiwanese manufacturer Foxconn, a bullish signal for to-be-reported Q4 data for Nvidia and other AI companies.
+Also helping Nvidia and its peers was the Washington Post reporting President-elect Donald Trump’s tariffs will initially target sectors other than semiconductors, good news for an industry heavily reliant on the global supply chain for designing and manufacturing the chips powering technology from iPhones to ChatGPT, OpenAI’s generative AI chatbot (Trump denied the report).
+Huang will deliver Monday’s keynote address at the CES 2025 technology conference beginning at approximately 6:30 p.m. EST. The speech should include “reassuring updates” on the company’s Blackwell and Rubin graphics processing unit systems, Bank of America analyst Vivek Arya wrote in a recent note to clients, predicting Huang’s speech will be a “positive catalyst” for the stock. Rosenblatt analysts Kevin Cassidy and Hans Mosesmann concurred they expect to see a “bullish Jensen Huang” on Monday, laying out a case for Nvidia’s competitive advantage in addressing the full-stack of technology needed to power AI.
+
+NVDA price 3 days before article release: 134.2460174560547
+
+NVDA price 1 day before article release: 144.4226837158203
+
+NVDA price the day of article release: 149.38104248046875

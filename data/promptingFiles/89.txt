@@ -1,0 +1,22 @@
+Nvidia: Raising Price Target To At Least $190 By Year-End
+
+Jul 15, 2025, 03:43pm EDT
+
+Nvidia’s China Comeback: H20 Export Policy Reversal Strengthens the $200 By Year-end Bull Case
+Just a week after I flagged the possibility of a U.S. policy reversal on Nvidia’s China-bound AI chips, that very pivot has materialized.
+On July 15th, the Trump administration authorized Nvidia to resume exports of its H20 AI chips to China, reversing an April ban that had effectively shut Nvidia out of one of its most important markets. Nvidia’s CEO Jensen Huang has spent months pushing for resumption of H20 chip exports.
+On July 7th I wrote here
+The U.S. decision to allow Nvidia to resume H20 chip exports to China is a significant turning point, as China accounts for approximately 13% of Nvidia’s total revenue.
+Reopening this channel could help Nvidia:
+Notably, the Blackwell-based China chip rumored to be in development was expected to be priced lower than the H20. So even if it were approved for export, Nvidia’s revenue from it would likely have been significantly lower than what it stood to gain from H20 sales.
+More importantly, The U.S. reversal on Nvidia’s H20 exports marks more than a tech trade shift, it’s a strategic recalibration in U.S.–China relations, and suggests that the U.S. is now weighing economic competitiveness alongside national security risks, especially as Huawei gains ground.
+Other than recovering lost reveue and making new sales, if export frameworks evolve further to allow next-gen Blackwell chips, Nvidia’s China story could reaccelerate beyond H20. Nvidia became the first $4 trillion company last week, and with such a huge positive development, the Nvidia stock could be well on its way to $200 by year-end. I am thinking more like $190.  Nvidia stock has a forward PEG (Price-to-earnings-growth) of 1.37 vs. its historical 5-year average of 1.76. On a back-of-the-envelope calculation, a PEG rerating to 1.5 (conservatively) will see the stock at $190.
+Looks like, the chips are falling into place…
+Please note that I am not a registered investment advisor and readers should do their own due diligence before investing in this or any other stock. I am not responsible for the investment decisions made by individuals after reading this article. Readers are asked not to rely on the opinions and analysis expressed in the article and encouraged to do their own research before investing.
+
+
+NVDA price 3 days before article release: 164.07273864746094
+
+NVDA price 1 day before article release: 164.04273986816406
+
+NVDA price the day of article release: 170.671630859375

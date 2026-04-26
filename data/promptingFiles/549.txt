@@ -1,0 +1,20 @@
+NVIDIA Enhances Quality, Introduces New Membership Tiers To Its GFN Game Streaming Service
+
+Mar 18, 2021, 12:39pm EDT
+
+NVIDIA has been the most consistent and persistent player in on-line game streaming with its GeForce NOW service, in my opinion. Though GFN has undergone some re-branding and transformation over the years, and hasn’t gotten the same type of initial fanfare as some competing services, it has been – and continues to be – arguably the best game streaming service in terms of performance, quality, game selection and flexibility for its users, especially if they game on multiple platforms. NVIDIA’s consistency and its continued support for additional platforms with GeForce NOW is why the company’s game streaming service is about to reach the 10 million user milestone.
+This morning, NVIDIA announced some major updates and changes coming to GeForce NOW. In addition to bringing new servers on-line and forging partnerships in additional regions to expand the service, NVIDIA is enabling some new quality enhancements and introducing a new premium membership tier.
+With an update that’s set to roll-out over the course of the next week or so (v2.0.28), NVIDIA is enabling adaptive Vsync technology with GeForce NOW. Adaptive Vsync will synchronize frame rates at 60 or 59.94 Hz server-side to match the refresh rate of the client-side display. This technology will reduce stutter and latency on supported games. NVIDIA is also introducing a new adaptive de-jitter technology that will allow the company to increase bit rates (which increases video quality) for improved quality over sub-optimal network connections.
+NVIDIA also plans to enable account linking with GeForce NOW, so members can access key games more quickly, and the company is working on game preloading updates that it claims could cut load times by about 50%. These updates should hit over the course of the next 1 – 2 months.
+In addition the new features coming to GeForce NOW, NVIDIA is expanding its reach and capacity as well. NVIDIA plans to have data centers in Phoenix, Arizona and Montreal on-line later this year. It just launched with a new partner in Turkey (Game+), and partners in Saudi Arabia (Zain) and Australia (Pentanet) will be enabled soon.
+Since it’s “GeForce NOW Thursday” (the day NVIDIA typically launches new games on the platform), a handful of new titles are coming as well, including:
+
+
+When NVIDIA officially launched GeForce NOW and took it out of beta last year, the company offered a limited Founders Membership tier for $4.99 monthly, that granted users priority access to gaming sessions, extended session lengths, and enabled RTX ray-traced graphics effects and DLSS in supported games. A free membership tier was available too, which granted users access to the service, but with 1-hour session limits. With today’s announcements, newly-subscribing members to GeForce NOW will no longer have the option to join as a Founders member, and will have to choose between the existing free tier or a new Priority Membership tier for $9.99 monthly. A yearly Priority Membership option is available as well at a discounted rate of $99.99 yearly, which brings the monthly cost down to $8.33.
+Existing Founders Members need not worry, however. As long as their account remains in good standing, NVIDIA will keep the introductory pricing intact through what it’s calling the Founders for Life benefit. The Founders for Life benefit grants users who started a paid Founders membership on or before March 17, 2021 the opportunity to continue to use their Founders membership at the $4.99 introductory price without a set end date, so long as NVIDIA continues to offer the GeForce NOW service in their country.
+
+NVDA price 3 days before article release: 13.158084869384766
+
+NVDA price 1 day before article release: 13.307708740234377
+
+NVDA price the day of article release: 12.690516471862791

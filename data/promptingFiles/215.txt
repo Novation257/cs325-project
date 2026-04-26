@@ -1,0 +1,17 @@
+Nvidia Stock Suddenly Slips To Worst Day In Months As Tech Stocks Pull Back
+
+Jan 07, 2025, 04:07pm EST
+
+Nvidia stock briefly touched a new record Tuesday following a high-profile speech from its billionaire leader Jensen Huang, but surprisingly reversed quickly to a significant daily loss, headlining a surprise stark selloff across technology stocks.
+Nvidia stock rallied as much as 2.5% to a new intraday all-time high of $153 shortly after market open, coming on the heels of Huang’s Monday evening keynote at the CES 2025 conference, before turning negative as trading progressed amid a broader technology stock selloff.
+Nvidia fell more than 6% to $140.14 by close, making Tuesday the artificial intelligence titan’s worst day on Wall Street since Sept. 3
+The Nvidia slump, which wiped out more than $220 billion in market value for the semiconductor chip designer, weighed on equity indexes.
+The S&P 500 sank 1.1% and the tech-heavy Nasdaq faltered 1.9%, losses tied to investors’ sharpening concerns about U.S. fiscal and monetary policy.
+Joining Nvidia among other notable fallers Tuesday were the stocks of government contractor Palantir, and electric and autonomous vehicle firm Tesla, both AI-heavy names which have surged in recent months—their shares fell 8% and 4%, respectively.
+The Nvidia selloff comes despite an overwhelmingly positive reaction from Wall Street analysts on the the speech largely focused on Nvidia’s efforts in robotics, or physical AI, in addition to advancements in its graphics processing units used for gaming. Nvidia showed Monday it “continues to enhance and develop both AI hardware and software offerings that will help maintain its AI leadership as the market transitions to physical AI,” remarked Rosenblatt analyst Hans Mosesmann in a note to clients. Huang’s speech also unveiled a variety of new or enhanced partnerships for Nvidia with other major companies, including naming data storage firm Micron as Nvidia’s memory partner for its gaming GPUs and a trio of deals in the space of autonomous driving, perhaps the clearest application of physical AI. Huang said Nvidia will supply the semiconductor chips for Toyota’s driver assistance programs and announced it will provide the technology powering the self-driving trucks of Colorado-based Aurora, while ride-hailer Uber said it will use Nvidia’s Cosmos physical AI platform to power its own autonomous driving initiative. The “string of announcements, at a minimum, highlight the company’s ability to innovate at industry-leading speed across hardware and software as well as its robust partner and customer eco-system,” noted Goldman Sachs analysts led by Toshiya Hari. Huang highlighted Nvidia’s “continued dominance in genAI compute and ecosystem, quickly expanding from the cloud all the way to enterprise and consumers,” wrote Bank of America analysts led by Vivek Arya in a Tuesday note.
+
+NVDA price 3 days before article release: 138.2646942138672
+
+NVDA price 1 day before article release: 149.38104248046875
+
+NVDA price the day of article release: 140.09408569335938

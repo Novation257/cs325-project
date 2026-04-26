@@ -1,0 +1,22 @@
+Nvidia’s Enormous GeForce RTX 5090 Cooler Is Not What You Think
+
+May 28, 2024, 01:45pm EDT
+
+Images have been circulating online claiming to show Nvidia's GeForce RTX 5090 Founders Edition cooler and as you'd expect, they show an enormous cooler with huge heatsink and a pair of massive fans. The massive four-slot cooler images surfaced recently ahead of an expected announcement for Nvidia's RTX 5000-series later this, but they're not what they appear to be.
+
+The images have, in fact, already leaked online a year ago by twitter user @harukaze5719, amongst rumors of an RTX 4090 Ti, which never materialised, reducing the chances they are in fact for a future GPU at all.
+Further weight is added to that conclusion given that the shroud for the heatsink in the new post looks identical to those used in the original RTX 4000-series graphics cards, with newer Super models such as the RTX 4080 Super, using a newer black design.
+
+Below you can see the cooler shroud listed in the original set of images leaked last year year. It has the exact color scheme of older RTX 40-series GPUs and as the RTX 30 series and RTX 40 Super series all have slightly different colour schemes, it seems unlikely that Nvidia would chose to copy the exact same design used with the RTX 4090 with the RTX 5090 too, even if the cooler was much larger.
+
+Nvidia is rumored to be planning to launch the RTX 5080 before the RTX 5090 and the former could be up to 70% faster than the current RTX 4090 flagship, with the RTX 50 series expected in late 2024.
+The PCB design has remained roughly the same for the RTX 30 and 40-series cards, but the latest rumors point at a different memory layout for the RTX 5090 to cater for up to 16 memory modules and using the same capacity modules as the RTX 4090, albeit in expected GDDR7 guise, the RTX 5090 could offer up to 32GB of memory.
+Something that hasn't changed as far a we know is the 16-pin power connector. This has seen quite a few issues, especially with the RTX 4090, with connectors being shown to have melted due to the high power draw for that card especially. Angled connectors such as those offered by CableMod also suffered issues and were recalled leading to some experienced influencers such as der8auer to claim the connector is 'an engineering failure' and will 'remain a problem' so long as the current design is used.
+AMD has continued to use the standard 8-pin connectors on its graphics cards and there's little to suggest this will change any time soon. It remains to be seen if Nvidia will alter the design of the power connector but it seems unlikely given it's now widely adopted in the latest power supplies that regularly offer native 600W PCIe 5 16-pin connectors and cables.
+We may know more at June's Computex event where I'll be reporting from on on all the latest PC hardware so follow me here on Forbes using the blue button below, on Facebook, Twitter or YouTube for the latest news.
+
+NVDA price 3 days before article release: 94.89645385742188
+
+NVDA price 1 day before article release: 106.40895080566406
+
+NVDA price the day of article release: 113.83675384521484

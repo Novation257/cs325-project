@@ -1,0 +1,27 @@
+TSMC To Double Production Based On Nvidia Numbers And Overall Demand
+
+Nov 07, 2024, 11:41am EST
+
+The growth of Nvidia’s customer base is having a major impact on the hardware industry.
+News from the world of hardware production shows that we’re in another kind of market crunch, similar in some ways to the broader chip shortage we faced a few years ago.
+It’s the same primary player, too. Taiwan Semiconductor Manufacturing is the principal supplier of high-precision technology that’s very much in demand right now.
+To put this in context, as we reported last week, Nvidia just surpassed Apple and Microsoft in terms of market cap - that gives you an idea of the kind of demand that the company is going to put forward, for the materials needed to create their much-lauded GPUs.
+Now, those with a front-row seat are reporting TSMC is going to double its production capacity next year, and Nvidia is going to take more than 50% of that supply. In fact, it seems that the drive for production is mostly led by Nvidia’s orders.
+The Apple of Nvidia‘s eye is TSMC’s CoWoS or chip-on-wafer-on-substrate design that is trying to ramp up in order to fulfill orders.
+So what is this type of hardware engineering?
+CoWoS allows for more input/output connections, and three-dimensional stacking of components. It uses an interposer to facilitate shorter connection length and decrease the need for power consumption. That makes it really useful for AI applications, because these sophisticated systems need all of that power to operate.
+One way to describe it is that by locating different components, close to each other at the edge, there’s less transit time, and less latency. Another point would be that the innovators are trying to match the need for robust data flow with new routing and the kinds of specific gating that CoWoS and related design offers.
+Additional Benefits of CoWoS
+Simply put, TSMC’s setup will allow companies to scale their GPU connections and hardware systems. They help with cooling and maintenance, and provide better power integrity for ongoing operations.
+One way to describe the interposer design is that unlike stacking, it offers more of a bridge for signal flow, and shortens the distance between IP blocks.
+This advanced packaging solution, combined with other innovations, is helpful in building those specialized hardware environments of the future.
+Specifically, Nvidia is shipping tons of its GB200 and H100/H200 GPUs that are really effective for use in massive data centers like Elon Musk’s Colossus project that’s by far the biggest project kind.
+I was checking out the videos giving a tour of Colossus, and when you see the massive cooling systems and infrastructure required, you get a sense of how much demand there is for the hardware itself, which is shelved up to scale AGI’s ability to generalize and move to the next level.
+Of course, you’re going to see the output of these hardware systems in the logical operations of our best and newest models, the most detailed training and testing data, and new things like inference. These types of activities allow the machines to “sit and think” more like humans do, and to make more detailed decisions, also providing transparent chains of thought and reasoning for their outputs.
+A few of the takeaways would be that Nvidia is poised to dominate given its lion’s share of TSMC production, and that we will continue to see quick transformation, while companies like OpenAI and others are innovating AI agents. It seems like not only the models, but the hardware, change in the blink of an eye. It’s good to stay on top of these changes as they happen.
+
+NVDA price 3 days before article release: 135.99606323242188
+
+NVDA price 1 day before article release: 145.5522918701172
+
+NVDA price the day of article release: 148.8209991455078

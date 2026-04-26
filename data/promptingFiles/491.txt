@@ -1,0 +1,20 @@
+NVIDIA Omniverse: The Useful Metaverse
+
+Oct 07, 2022, 06:02pm EDT
+
+A few weeks ago I read an article on another media platform that asserted the need for the metaverse to embrace users beyond the creative teams of game developers and entertainment studios. Specifically teams of designers, engineers, marketeers, and manufacturing can collaborate throughout the design and implementation process in a virtual 3D world. Unfortunately, the author focussed on the lack of a strategy to do so at AppleAAPL and Meta, instead of pointing to NVIDIANVDADIA as the poster child of already doing exactly that. While other metaverse implementations may be entertaining, NVIDIA’s omniverse digital twins creates comprehensive and photo-realistic design platforms for professional teams to enable better designs with fewer costly mistakes in less time.
+While artistic talent can use a metaverse to create and host a 3D communication and interaction platform (aka, a game), the environment envisioned by these companies do not extend to the real world. They are not populated with objects based on high-res volumetric design and material specifications. They are rendered, but not simulated. They aren’t real.
+These platforms are designed to inform, entertain, and socialize its users to maximize the amount of time they spend in the virtual world. More time translates into more revenue from advertising and services for the platform or game provider. But you cannot hand off a virtual dragon to the biology department and say “Ok, this is done. Go build one.” With Omniverse, you can. Ok, perhaps not a dragon, but an aircraft engine? A working model for a heart to be used guide a catheter and stent? Sure.
+I heard an interesting comment at GTC from Rev Lebaredian, head of NVIDIA Omniverse, to the effect that the initial  market for Omniverse was expected to be the content creation community; creators of games, animation, etc. But it turns out that companies like AmazonAMZN, AT&T, BMW, Ericsson, Foxconn, GM, KrogerKR, Lowe’s, Mattel, Pepsico, Siemens, Sony, Universal Robots, and Valeo are using Omniverse to model reality (as digital twins) in the metaverse to improve operations and designs. “Its happening a lot faster that I had thought,”, says Mr. Lebaredian. “Companies that have figured this out will have superpowers and blow past the rest of the field.”
+The technology is finally reaching critical mass of users, connections, and applications where people around the world are doing real work in the un-real world. While the creative sector provided the initial impetus for virtual worlds using animation, industrial concerns are realizing tremendous benefits from the engineering simulation available on the NVIDIA Omniverse. As the video above shows, BMW is using Omniverse to imagine and analyze factories before they are built.
+The metaverse is hardly just a game. In fact, Meta has said the future will require 500 times today’s computing capacity. Some estimate that the infrastructure needed for the metaverse will amount to some $13-$16T by the end of this decade.  NVIDIA plans to own the part of that infrastructure where reality and virtuality intersect.
+With Omniverse, being able to assess different possible futures becomes not only possible, it will become main-stream.
+Disclosures: This article expresses the opinions of the authors, and is not to be taken as advice to purchase from nor invest in the companies mentioned. Cambrian AI Research is fortunate to have many, if not most, semiconductor firms as our clients, including Blaize, Cerebras, D-Matrix, Esperanto, FuriosaAI, Graphcore, GML, IBM, Intel, Mythic, NVIDIA, Qualcomm Technologies, Si-Five, SiMa.ai, Synopsys, and Tenstorrent. We have no investment positions in any of the companies mentioned in this article and do not plan to initiate any in the near future. For more information, please visit our website at https://cambrian-AI.com.
+
+
+
+NVDA price 3 days before article release: 13.149755477905272
+
+NVDA price 1 day before article release: 13.112804412841797
+
+NVDA price the day of article release: 12.060185432434082

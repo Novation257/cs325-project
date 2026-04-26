@@ -1,0 +1,16 @@
+Nvidia Confirms RTX 40 Super Surprise Low Pricing And Specifications
+
+Jan 08, 2024, 11:30am EST
+
+Nvidia has announced its new GeForce RTX 40 Super series graphics cards and confirmed many rumors including surprise aggressive pricing that, for example, puts the RTX 4080 Super at $200 below the launch price of the RTX 4080.
+The RTX 4080 Super, RTX 4070 Ti Super and RTX 4070 Super will all launch this month, and for once, most of the rumors about their pricing and specifications were true.
+The RTX 4080 Super sees it gain a higher boost frequency, more CUDA cores, Tensor cores, more RT cores and also gets faster memory at 23Gbps—the fastest for any Nvidia card. It will perform much closer to RTX 4090 performance as well as being twice as fast as the RTX 3080 Ti, so Nvidia claims. Even better is that its launch price is $200 lower than the RTX 4080 at $999. It will replace the RTX 4080 and arrives on January 31, so most of the rumors were true.
+The biggest upgrade comes to the RTX 4070 Ti Super, which gets 16GB of GDDR6X memory compared to 12GB for the RTX 4070 Ti. It also gets a fatter memory bus at 256-bit versus 192-bit, along with a big increase in CUDA cores, from 7,680 to 8,448. This will make it much faster and likely give the RTX 4080 a run for its money. Its price will be $799, which is the same as the RTX 4070 Ti's launch price. It lands on January 24 and will replace the RTX 4070 Ti. There will be no Founders Edition version.
+Finally, there's the RTX 4070 Super. This doesn't get a memory upgrade, staying at 12GB of GDDR6X, but has more CUDA cores than the RTX 4070 at 7,168 versus 5,888m as well as having more RT and Tensor cores and ROPs. Everything else is the same, but this should still see it perform very close to RTX 4070 Ti levels and for just $599. It will be available from January 17.
+I’ll be reviewing all three cards this month, so make sure you follow me here on Forbes for the latest on Nvidia's January graphics card bonanza or find me on Facebook.
+
+NVDA price 3 days before article release: 47.53993606567383
+
+NVDA price 1 day before article release: 49.0670051574707
+
+NVDA price the day of article release: 52.22107696533203

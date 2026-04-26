@@ -1,0 +1,23 @@
+MLPerf Shows AMD Catching Up With Nvidia’s Older H200 GPU
+
+Jun 04, 2025, 11:00am EDT
+
+As you AI pros know, the 125-member MLCommons organization alternates training and inference benchmarks every three months. This time around, its all about training, which remains the largest AI hardware market, although not by much as inference drives more growth as the industry shift from research (building) to production (using).  As usual, Nvidia took home all the top honors.
+For the first time, AMD joined the training party (they had previously submitted inference benchmarks), while Nvidia trotted out their first GB200 NVL72 runs to demonstrate industry leadership. Each company focussed on their best features. For AMD it is larger HBM memory, while Nvidia exploited its Arm/GPU GB200 superchip and NVLink scaling.
+The bottom line is that AMD can now compete head to head with H200 for smaller models that fit into MI325’s memory. That means AMD cannot compete with Blackwell today, and certainly cannot compete with NVLink-enabled configurations like NVL72.
+Let’s take a look. (Note that Nvidia is a client of Cambrian-AI Research, and I am a former employee of AMD.)
+AMD has more HBM memory on their MI325 platform than any Nvidia’s GPU, and can therefore contain an entire medium-sized model on a single chip. So, they ran the training benchmark that fits, the Llama 2-70B LORA model. The results are reasonably impressive, besting the Nvidia H200 by an average of 8%. While a good result, I doubt many would choose AMD for 8% better performance, even at a somewhat lower price. The real question, of course, is how much better the MI350 will be when it launches next week, likely with higher performance and even more memory.
+One thing AMD will not offer soon is better networking for scale-up; the UA-Link needed to compete with NVLink is still many months away (possibly in the MI400 timeframe in 2026).  So, if you only need a 70B model, AMD may be a better deal than Nvidia H200; but not by much.
+AMD is also showing traction with partners, and better performance from its ROCm software, which took quite a beating from SemiAnalysis last December. With better ease-of-use from ROCm, partners can benefit from offering customers a choice; many enterprises do not need the power of an NVL72 or NVLink, especially if they are focussed on simple inference processing. And of course, AMD can offer better availability, as NVIDIA GB200 is much harder to obtain due to overwhelming demand and pre-sold capacity. The rumor mill says GB200 still takes over a full year delivery time if you order today.
+So, if you net it out, the MI325 result foreshadows a decent position for the MI350, but support for only up to 8 GPUs per cluster limits their use for large-scale training deployments.
+Nvidia says the GB200 NVL72 has now arrived, if you were smart enough to put in an early order. With over fifty benchmark submissions using up to nearly 2500 GPUs, Nvidia and their partners ran every MLPerf benchmark on the ~3000 pound rack, winning each one.  CoreWeave submitted the largest configuration, with nearly 2500 GPUs.
+While the GB200 NVL72 can outperform Hopper by some 30X for inference processing, its advantage for training is “only” about 2.5X; thats still a lot of savings in time and money. The reason is that inference processing benefits greatly from the lower 4- and 8-bit precision math available in Blackwell, and the new Dynamo "AI Factory OS”  optimizes inference processing and reuses previously calculated tokens in KV-Cache.
+While AMD does not yet have the scale-up networking required to train larger models at Nvidia’s level of performance, this benchmark shows that they are getting close enough to be a contender once that networking is ready next year. And AMD can already out-perform the Nvidia H200, once you clear the ROCm development hurdle.
+It could take a year or more for AMD to be able to scale efficiently, and by then Nvidia will have moved on to the Kyber-based NVL576 with the new NVLink7, Vera CPU and upgraded Rubin GPU.
+If you start late; you stay behind.
+
+NVDA price 3 days before article release: 135.09817504882812
+
+NVDA price 1 day before article release: 141.1867218017578
+
+NVDA price the day of article release: 141.88656616210938

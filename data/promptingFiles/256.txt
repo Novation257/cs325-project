@@ -1,0 +1,15 @@
+AI Titan Nvidia Overtakes Apple As World’s Most Valuable Company
+
+Nov 04, 2024, 09:43am EST
+
+Artificial intelligence kingpin Nvidia became the largest company in the world Monday, surpassing iPhone maker Apple, marking another feather in the cap for the Silicon Valley titan Nvidia.
+Nvidia overtook Apple as the most valuable public company on the planet at Monday’s open, with its $3.39 trillion market capitalization topping Apple’s $3.36 trillion valuation by mid afternoon.
+Shares of Nvidia rose 2% and shares of Apple fell 0.2% Monday, continuing the 2% gain Friday for Nvidia and 1% loss for Apple.
+Helping boost Nvidia was the Friday afternoon announcement it will replace Intel in the blue-chip Dow Jones Industrial Average (the change will go into effect Friday), while Apple shares were dinged by one of its largest shareholders, the Warren Buffett-led Berkshire Hathaway, disclosing this weekend another major sale of its Apple stock.
+Nvidia briefly surpassed Apple as the biggest company in the world Oct. 25, but Nvidia hasn’t ended a trading session as the largest firm since June. Nvidia designs about 75% of the world’s AI accelerators, the semiconductor technology powering generative AI applications like OpenAI’s ChatGPT chatbot, as demand spikes for the graphics processing units produced by Nvidia. This “insane” demand has translated into a massive earnings uptick and stock market boom. Nvidia’s net income rose from $2.3 billion during the first half of 2022 to $31.5 billion during the first half of 2024, and its share price is up 850% over the last two years. Still, Nvidia stock is actually down 4.8% from its all-time closing high set Oct. 21, but Apple shares are down 6.7% over the same period, hence the flip in their market values. In its earnings report Thursday, Apple beat Wall Street expectations for revenue and adjusted profits, but its weaker outlook for the final period of 2024 disappointed investors.
+
+NVDA price 3 days before article release: 139.28475952148438
+
+NVDA price 1 day before article release: 135.34632873535156
+
+NVDA price the day of article release: 135.99606323242188

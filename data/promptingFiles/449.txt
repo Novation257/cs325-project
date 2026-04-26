@@ -1,0 +1,18 @@
+Gamers Are Angry At Stock Market Darling Nvidia—Here’s Why
+
+May 29, 2023, 11:13am EDT
+
+With a market cap nearing $1 trillion and a stock price that has surged more than 170% since the start of this year, Nvidia’s investors appear thrilled about the chip maker’s future, a sentiment the company’s oldest and most vocal consumers don’t seem to share as PC gamers and tech reviewers criticize the company’s gaming products.
+As Wall Street cheered Nvidia’s “cosmological” profit projections for upcoming quarters last week, gaming discussion boards and subreddits were filled with gloomy predictions of even pricier gaming graphic cards (GPUs) produced by Nvidia, which are used to help video games render their visuals and a key part of any gaming PC build.
+Gamer anger toward Nvidia stems mostly from what they believe is the company’s steep prices, confusing marketing, lack of features, and a lack of gaming performance uplift from its latest generation of gaming GPU—the RTX 4000 series.
+The upper-tier RTX 4080 and flagship RTX 4090 launched last year, priced at $1,199 and $1,599, respectively, compared with $799 and $1,499 for similar-tier products in the previous generation.
+The rollout was also marred by Nvidia “unlaunching” one of its upper-mid-tier GPUs, after backlash over its naming scheme from reviewers and gamers who accused the company of trying to mislead consumers into paying top-tier prices for a mid-level product.
+The “unlaunched” GPU—which was confusingly also named RTX 4080—was eventually released to the market more appropriately named as the RTX 4070Ti but it was still met with negative reviews for offering a relatively small performance uplift from a previous generation GPU, despite costing more.
+The company’s most recent gaming product, the RTX 4060Ti—usually its value tier GPU—hasn’t fared much better in reviews and is not selling well.
+Nvidia CEO Jensen Huang has responded to criticism about Nvidia’s gaming products by proclaiming that Moore’s law—the phenomenon where the number of transistors in a chip of a certain size doubles every two years—“is dead.” The Nvidia chief then added, “the ability for Moore’s Law to deliver twice the performance at the same cost, or at the same performance, half the cost, every year and a half, is over…so the idea that a chip is going to go down in cost over time, unfortunately, is a story of the past.”
+
+NVDA price 3 days before article release: 30.66085624694824
+
+NVDA price 1 day before article release: 37.946407318115234
+
+NVDA price the day of article release: 38.91155242919922

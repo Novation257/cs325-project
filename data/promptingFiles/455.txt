@@ -1,0 +1,28 @@
+Nvidia’s AI, Metaverse Investments Keep Business Humming After Crypto Mining Demand Withers
+
+May 23, 2023, 01:28pm EDT
+
+Nvidia is likely to report Q1 results Wednesday that show investments in artificial intelligence and metaverse offerings are paying off and replacing much of the chipmaker’s loss of semiconductor sales related to ether mining.
+The chipmaker is one of the best-positioned companies in the semiconductor sector this year, given its dominant position in generative AI and multiple new product cycles in its data-center and gaming divisions, according to KeyBanc Capital Markets, the corporate and investment banking unit of Cleveland-based KeyCorp
+KEY
+.
+“We see limited competitive risks and expect Nvidia to continue to dominate one of the fastest growing workloads in cloud and enterprise,” wrote John Vinh, managing director and equity research analyst at KeyBanc, in a Sunday note, adding that Omniverse, Nvidia’s platform for building and operating 3D industrial metaverse applications, also “represents an emerging software subscription revenue stream that is likely to support further re-rating of the multiple, as it grows and scales.”
+KeyBank reiterated its Overweight (Outperform) rating for the company’s stock and raised the price target to $375 from $320. The shares were trading around $308 on Tuesday afternoon.
+Matt Bryson, an analyst at Wedbush Securities, gave the stock a neutral rating with a more conservative target price of $290 (up from $216) but agreed that “with AI demand seemingly creating a strong tailwind for Nvidia through at least the next 12 months,” there’s “no fundamental stumbling block for the stock.”
+In his view, the question investors should focus on instead is what is Nvidia’s longer-term opportunity in artificial intelligence—for example, what efficiency gains can it drive that will convert workforce savings to IT spending— and what multiple does it deserve.
+Wall Street analysts expect Nvidia’s Q1 sales to come at $6.5 billion down 22% from $8.3 billion a year earlier, with EPS of 92 cents, a 17% decrease from $1.11, according to Bloomberg. Net income is expected at $2.2 billion, down from $2.8 billion reported last May.
+The declines reflect the loss of income from sales of graphic processing units, a kind of semiconductor that had been used for mining ether. The Ethereum
+ETH
+ network’’s shift to an energy-efficient business model obliterated most of that stream. Nvidia was well aware it would lose the cryptocurrency mining revenue, and decided to concentrate its technology on the now booming markets for metaverse-enabling software and artificial intelligence that take advantage of its graphics-oriented semiconductors.
+The bet seems to be paying off. The artificial intelligence boom, sparked by OpenAI’s chatbot ChatGPT, has caused demand for GPUs to soar. Coupled with the U.S. ban on AI chip sales to China, major Chinese corporations like Baidu
+BIDU
+ are buying up Nvidia's AI GPUs, DigiTimes reported.
+In March, Nvidia announced an alliance with Microsoft
+MSFT
+ that focuses on bringing the industrial metaverse and AI to enterprises via cloud computing platform Azure. Upon the announcement, Nvidia CEO Jensen Huang reiterated that his goal was to to bring new AI, simulation and collaboration capabilities to every industry.
+
+NVDA price 3 days before article release: 31.649980545043945
+
+NVDA price 1 day before article release: 31.148426055908203
+
+NVDA price the day of article release: 30.66085624694824

@@ -1,0 +1,19 @@
+Nvidia-Led Rally Boosts S&P 500 To Best Stretch Of 2024
+
+Aug 19, 2024, 03:04pm EDT
+
+The stock market recovery advanced further Monday, with two of the U.S.’ major indexes amidst their longest winning streaks this year, as a familiar name leads the latest bounce.
+Up 1% by late afternoon, the bellwether S&P 500 comfortably gained for its eighth consecutive trading session, while the tech-heavy Nasdaq Composite’s 1.4% rally also was also its eighth consecutive day in the green.
+That is the S&P’s longest winning streak since Oct. 30-Nov. 8, 2023 and the Nasdaq’s longest since Dec. 7-19, 2023.
+The S&P registered its highest intraday price since July 18 and the Nasdaq its highest since July 23.
+Buoying the rally was a 4% rally from artificial intelligence maven Nvidia as the semiconductor chip designer rose to its highest share price since July 15, and a 1% gain from Class B shares of Berkshire Hathaway, the Warren Buffett-run conglomerate which hit its most expensive price ever Monday.
+The 30-constituent Dow Jones Industrial Average hit its top level since Aug. 1 after rising 0.6% Monday; the Dow is only amid a five-day winning streak due in large part to its exclusion of Nvidia, whose 4% gain last Monday lifted the Nasdaq and S&P to mild gains as the Dow fell 0.4%.
+Nvidia surpassed Microsoft as the world’s second-largest company by market capitalization Monday for the first time since June, according to YCharts data. Nvidia stock is up almost 30% over the last three weeks, adding some $700 billion in market value.
+Monday’s rally extended the stock bounce from multi month lows set earlier in August: The Dow is up 6% from its August 5 bottom, the S&P 8% and the Nasdaq more than 10%. The Dow and S&P are both within about 1% of their all-time closing highs set last month, while the Nasdaq is within 5% of its peak. The recovery comes after the wipeout during the first week of August coinciding with a weaker-than-expected U.S. monthly jobs report and concerns about the potential for unusually aggressive monetary policy from the Bank of Japan.
+The CBOE Volatility Index (VIX), known as Wall Street’s fear gauge, fell a further 1% Monday to its lightest level in four weeks, now almost 80% below its Aug. 5 high, indicating restored confidence in the market.
+
+NVDA price 3 days before article release: 118.02310180664062
+
+NVDA price 1 day before article release: 124.51995849609376
+
+NVDA price the day of article release: 129.93736267089844

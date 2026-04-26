@@ -1,0 +1,18 @@
+IBM-Nvidia Servers Achieve High-Performance Computing Milestone In Oil Industry
+
+Apr 25, 2017, 07:00am EDT
+
+In February, Exxon Mobil bragged it had reached a major computing breakthrough in its industry. Across 716,800 processors (that's 32 processors on 22,400 servers) at the National Center for Supercomputing Applications’ Blue Waters supercomputer, the oil giant ran a billion cell model of a reservoir. Each one of those billion cells represents different characteristics of the reservoir -- soil, fluid pressure, etc. The more cells there are, the more accurate the simulations for the reservoir are (and the more efficiently companies can extract oil). The results gave the company a data output that was thousands of times faster than normal reservoir simulations, Exxon boasted.
+“This breakthrough has unlocked new potential for ExxonMobil’s geoscientists and engineers to make more informed and timely decisions on the development and management of oil and gas reservoirs,” said Tom Schuessler, president of Exxon's research unit, in a statement.
+But when Vincent Natoli, president of tiny Bel Air, Maryland-based reservoir simulation software company Stone Ridge Technology, heard of Exxon's accomplishment, he knew he could do better. He challenged his small team of 10 physicists and applied mathematicians to figure out a better way.
+In six weeks, his team succeeded in pulling together a billion cell reservoir simulation, but only using a tiny fraction of Exxon's computing resources: 30 IBM servers consisting of 60 IBM processors along with 120 Nvidia graphics processors. Each server, dubbed Minsky, is equipped with two Power8 central processing units (or CPUs) and four Nvidia Tesla P100 graphics processing units (or GPUs). With the servers running on IBM's cloud, the Stone Ridge's simulation took less than two hours to run.
+The results were significant for two reasons. First, the amount of computers running Exxon's simulations took up the space of nearly half a football field, while the IBM computers only took up the size of half a ping-pong table, IBM said. And second, the IBM computers also consumed one-tenth the power it took to run the Exxon simulations, the company said.
+One other detail about IBM's Minsky servers is that they use a communications protocol Nvidia developed called NVLink, which provides a faster linkage between the main CPU and GPU accelerator. IBM has been the only adopter of this technology so far.
+IBM's Minsky servers have only been out since September. For decades, IBM's Power processors have been falling behind as Intel's server chips have consumed more than 90% of the server market. IBM is hoping to make a comeback by tying up closer with Nvidia's GPUs, which have taken off in high-performance computing areas as well as deep learning, a branch of artificial intelligence.
+“What’s happening here is there’s a tremendous divergence of capability between what a GPU can offer and what a CPU can offer,” Natoli said. “Ten years ago, you’d get performance boosts by a factor of maybe two with a GPU. Now a GPU is an order of magnitude better. Our results show that.”
+
+NVDA price 3 days before article release: 2.496748924255371
+
+NVDA price 1 day before article release: 2.538419246673584
+
+NVDA price the day of article release: 2.5825557708740234

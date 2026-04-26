@@ -1,0 +1,35 @@
+NVIDIA Unveils GB200-Based Liquid-Cooled DGX SuperPOD
+
+Mar 18, 2024, 05:07pm EDT
+
+Nvidia unveiled its next-generation AI supercomputer, the Nvidia DGX SuperPOD, powered by its new Nvidia GB200 Grace Blackwell Superchip. The new system is designed for processing trillion-parameter models with constant uptime for superscale generative AI training and inference workloads.
+The new supercomputer introduces a highly efficient, liquid-cooled rack-scale architecture. It boasts 11.5 exaflops of AI supercomputing at FP4 precision and 240 terabytes of fast memory, which can expand with additional racks.
+The Nvidia GB200 Superchip is Nvidia’s latest AI accelerator, specifically designed to meet the demanding requirements of generative AI training and inference workloads involving trillion-parameter models. The new chop is a critical element of Nvidia's new DGX GB200 systems and integral to the newly announced Nvidia DGX SuperPOD.
+The GB200 Superchip contains 36 Nvidia Arm-architecture Grace CPUs and 72 Nvidia Blackwell GPUs. This hybrid configuration dramatically increases performance, enabling the processing of complex AI workloads with greater speed and efficiency.
+Connected through the fifth generation Nvidia NVLink interconnects, the GB200 Superchips in a DGX GB200 system operate cohesively as one supercomputer. The interconnect technology enables high-speed data transfer between the CPUs and GPUs, facilitating rapid communication and data processing essential for handling large-scale AI models.
+Nvidia tells us that one of the standout features of the GB200 Superchip is its ability to deliver up to 30 times the performance of Nvidia’s current leading H100 Tensor Core GPU for large language model inference tasks. This remarkable improvement pushes the boundaries of AI supercomputing and will enable the more efficient development and deployment of more sophisticated AI models.
+The DGX SuperPOD is Nvidia’s next-generation AI supercomputer designed to tackle the most demanding AI workloads, including training and inference tasks for generative AI models with trillion-parameter structures.
+Equipped with Nvidia DGX GB200 systems, the SuperPOD delivers 11.5 exaFLOPS of AI supercomputing capability at FP4 precision alongside 240 terabytes of fast memory. This massive computational power can be further scaled by adding more racks, ensuring the system can handle growing AI demands.
+Each DGX GB200 system within the SuperPOD features 36 Nvidia GB200 Superchips. These Superchips consist of Nvidia Grace CPUs and NVIDIA Blackwell GPUs, all connected via the fifth generation Nvidia NVLink.
+The SuperPOD can scale to tens of thousands of GB200 Superchips connected via NVIDIA Quantum InfiniBand, offering a massive, shared memory space for next-generation AI models.
+The architecture includes Nvidia BlueField-3 DPUs and supports Nvidia Quantum-X800 InfiniBand networking. Additionally, it utilizes the fourth generation Nvidia scalable hierarchical aggregation and reduction protocol, or SHARP, technology for increased in-network computing performance.
+AI is a power-hungry operation, and Nvidia addresses this with a new, highly efficient, liquid-cooled architecture that enhances performance while minimizing thermal constraints across the system. This design allows for more sustainable and energy-efficient operations, even under heavy computational loads.
+Nvidia’s DGX SuperPOD is a complete, data-center-scale AI supercomputer that integrates with high-performance storage solutions. It features intelligent predictive-management capabilities for monitoring and optimizing system performance to ensure constant uptime and efficiency.
+The Nvidia DGX SuperPOD with DGX GB200 and DGX B200 systems is expected to be available later this year through NVIDIA’s global partners.
+Oracle announced that it’s integrating the latest Nvidia platform into its OCI Supercluster and OCI Compute services, announcing that its OCI Compute will adopt the NVIDIA GB200 Grace Blackwell Superchip and the Nvidia Blackwell B200 Tensor Core GPU.
+Beyond the new platform, the collaboration between Oracle and Nvidia extends to deploying Nvidia DGX Cloud on OCI, with Oracle introducing its new GB200 NVL72—based instances for efficient training and inference. This expansion will see over 20,000 GB200 accelerators and advanced networking technology deployed, making for a highly scalable and performant cloud infrastructure to handle trillion-parameter LLMs efficiently.
+Google also plans to integrate Nvidia GB200 NVL72 systems into its cloud infrastructure. Google said that it will make the systems available through DGX Cloud, extending its current Nvidia H100-based DGX Cloud offering.
+Finally, Microsoft and AWS each announced upcoming support for the new platform, though didn’t provide details.
+Its notable that each of the top four public cloud providers announced support of the new accelerators during Nvidia’s launch at GTC, despite AWS, Azure and Google each having internally developed accelerators for inference and training.
+It’s clear that Nvidia is pushing the boundaries of what's possible in artificial intelligence, maintaining its position at the forefront of the AI revolution. The new DGX SuperPOD, powered by the GB200 Grace Blackwell Superchips, is a significant milestone in the evolution of AI supercomputing.
+The SuperPOD's impressive specifications, including its 11.5 exaFLOPS of AI supercomputing capability at FP4 precision and its advanced liquid-cooled rack-scale architecture, clearly demonstrate Nvidia’s ability to deliver high-performance, energy-efficient solutions for complex AI workloads.
+This level of computational power and efficiency is pivotal for the future of AI, enabling the processing of trillion-parameter models and setting new standards for AI research and application development.
+With the DGX SuperPOD, NVIDIA is not just selling a product; it's providing a foundational technology that could accelerate AI innovation across industries, making it a game-changer in the AI training space. While Nvidia has increasing competition across training and inference markets, it stands alone in its ability to deliver this class of AI supercomputing.
+Nvidia continues to flawlessly execute its strategy to cater to the increasing demand for more sophisticated AI models and, with the new DGX SuperPOD, its position as a leader in delivering high performance computing for AI.
+Disclosure: Steve McDowell is an industry analyst, and NAND Research is an industry analyst firm that engages in, or has engaged in, research, analysis and advisory services with many technology companies, including those mentioned in this article. Mr. McDowell does not hold any equity positions with any company mentioned in this article.
+
+NVDA price 3 days before article release: 90.83673858642578
+
+NVDA price 1 day before article release: 87.78746032714844
+
+NVDA price the day of article release: 88.40511322021484

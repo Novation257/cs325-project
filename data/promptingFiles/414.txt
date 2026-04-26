@@ -1,0 +1,26 @@
+Microsoft Announces Maia AI, Arm CPU, AMD MI300, & New Nvidia for Azure
+
+Nov 16, 2023, 01:56pm EST
+
+In case you missed Satya Nadella’s keynote, here is a summary of vast array of news and my perspectives. Big impact on MSFT, AMD, AWS, and NVDA.
+CEO Satya Nadella presented a keynote packed with new product announcements. In case you didn’t watch it, here’s the news in a nutshell, followed by my perspectives.
+
+
+First, Maia is not the rumored Chiplet Cloud Architecture for inference processing. But it is a good start for Microsoft, if for no other reason than to give Microsoft more pricing leverage with NVIDIA and AMD.  And it has adequate performance for many internal workloads. MSFT has upped its semiconductor game considerably. While not leadership overall, they are now competitive, especially with Amazon, which seems to be far behind in performance.
+Maia is built on TSMC 5nm, and has strong TOPS and FLOPS,  but was designed before the LLM explosion (it takes ~3 years to develop, fab, and test an ASIC). It is massive, with 105 B transistors (vs. 80B in H100). It cranks out 1600 TFLOPS of MXInt8 and 3200 TFLOPS of MXFP4. Its most significant deficit is that it only has 64 GB of HBM but a ton of SRAM. Ie. It looks like it is designed for older AI models like CNNs. Microsoft went with only four stacks of HBM instead of 6 like Nvidia and 8 like AMD. The second generation Memory bandwidth is 1.6 TB/s, which beats out AWS Trainium/Inferentia at 820 GB/s and is well under NVIDIA, which has 2x3.9 TB/s.
+AI performance will Depend on what you are doing. For LLM training, both NVIDIA and AMD should beat it handily. Inference for larger models will also perform much better on GPUs, but for smaller models like enterprises will be using, it should be quite adequate.
+The Cobalt 100 CPU follows and perhaps replaces for all practical purposes the Ampere Arm CPU in Azure. It brings 128 Neoverse N2 cores on Armv9 and 12 channels of DDR5. Arm Neoverse N2 delivers 40% higher performance versus Neoverse N1. Microsoft built Cobalt 100 using Arm’s Neoverse Genesis CSS (Compute Subsystem) Platform.
+No benchmarks were provided, unfortunately, but the CPU has a ton of cores and massive memory bandwidth to feed them. I’d expect it to outperform Ampere considerably, and that’s really the competition today.
+Microsoft and NVIDIA have been partnering for years. Unlike many other Cloud Service Providers, Azure supports all of NVIDIA’s technology without change, adopting the leading hardware, networking, and software that NVIDIA has ridden to market leadership.
+The newly announced NVIDIA Foundry Services on Azure provides an end-to-end collection of NVIDIA AI Foundation Models, NVIDIA NeMo framework and tools, NVIDIA AI Enterprise and NVIDIA DGX Cloud AI supercomputing — available for startups and enterprises to build and deploy custom AI models on Microsoft Azure. In addition, Microsoft announced the new NVIDIA H200 GPU as a service, available in 2Q 2024 and TensorRT-LLM on Windows.
+The H200 was not a surprise; they already announced GH200 so taking off the Grace CPU wasn’t hard 😉. NVIDIA H200 and GH200 will dominate the market in 2024, despite all the great engineering at Microsoft, given NVIDIA’s ecosystem, CUDA, and massive adoption of H100. I stand by my projection that NVIDIA will still account for 80% market share in 2024, but time will tell, especially in 2025.
+As expected, Microsoft has also decided to bring the upcoming AMD MI300 Instinct GPU onto Azure, offering customers early access to what may become a major alternative to NVIDIA GPUs. This is a key move for both Azure and AMD, as many developers want to get their hands on this new technology, which should help accelerate the needed software development on the MI300. Thanks to Microsoft, everyone will rush out to test it, and we will know much more and faster.
+We think the MI300 may be best suited for enterprises looking to lower inference costs, but it will also perform well for training. We hope AMD will include some benchmarks in their December launch.
+Microsoft is taking a Switzerland approach to AI acceleration, supporting its Maia 100 platform for internal use (as it does for OpenAI), and industry-leading platforms from NVIDIA and now AMD for cloud services, as it does today on the software front with Llama2 from Meta. Azure supports Intel, AMD, and Arm for CPUs, offering customers a wide range of choices to meet their specific performance and cost requirements.
+We believe this approach clearly sets Microsoft apart from its CSP competitors.
+
+NVDA price 3 days before article release: 48.58602142333984
+
+NVDA price 1 day before article release: 48.85383987426758
+
+NVDA price the day of article release: 49.44542694091797

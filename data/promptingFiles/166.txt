@@ -1,0 +1,32 @@
+The Verdicts Are In On Nvidia’s GeForce RTX 5070 And They’re Mixed
+
+Mar 04, 2025, 10:08am EST
+
+Reviews went live Tuesday for Nvidia’s fourth GeForce RTX 50-series graphics card, the RTX 5070. Slated to retail from $549, it’s competing directly with AMD’s recently announced Radeon RX 9070 and 9070 XT, which will cost from $550 and $599 respectively following AMD’s full announcement last week.
+The RTX 5070 is the first RTX 50-series model to dip below 16GB of video memory, offering 12GB of GDDR7 memory, which is 4GB less than the 16GB the RTX 5070 Ti has. It also matches the RTX 4070 Super and RTX 4070 Ti in the amount, while the RTX 4070 Ti Super has 16GB.
+As well as the climb down in memory amount, the new card has nearly 3,000 fewer CUDA cores and a narrower 192-bit bus. Both of AMD’s Radeon RX 9070-series cards will have 16GB of video memory, potentially putting Nvidia at a disadvantage in some situations.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+TechPowerUp’s review has a huge array of games tested both with and without ray tracing but raises concerns about continuing stock levels of all RTX 50-series cards and the likelihood that the RTX 5070 will cost far more than the claimed $549.  At 1080p, the RTX 5070 is just ahead of the RTX 4070 Super and offers more performance overall than the RTX 3090, RX 7900 GRE and RTX 3080.
+The same is true in 1440p gaming, while stepping up to 4K sees the RTX 3090 sit much closer, and the RTX 5070 still offers a decent lead over the  RX 7900 GRE and RTX 3080 again. The graphs suggest that for anyone with an RTX 3070 or 3070 Ti, the RTX 5070 offers a huge upgrade, but not so much from the RTX 4070, unless of course you’re talking about making use of Nvidia’s new RTX 50-series DLSS4 feature, Multi Frame Generation.
+“At 1440p, with pure rasterization, without ray tracing or DLSS, we measured a 22% performance uplift over the RTX 4070, which is a bit lower than expected, but alright I’d say,” noted the TechPowerUp review. “At 4K, the increase is 25%, which is certainly better than the meagre 15% that we got on RTX 5080, the RTX 5090 got +36%, and the RTX 5070 Ti was 27% faster.”
+It went on to say, “As mentioned before, AMD is launching their Radeon RX 9070 and RX 9070 XT tomorrow, at $550 and $600, which could introduce strong alternatives in this segment. If you are interested in a RTX 5070, definitely wait for the AMD reviews tomorrow.”
+Hardware Unboxed has undertaken another large test of games both with and without ray tracing. Below are the non ray-traced results with averages across a range of titles.
+Below are Hardware Unboxed’s six game averages using ray tracing with the RTX 5070 compared to a number of other cards including the RTX 3070, RTX 4070 and RX 7800 XT. Again, anyone with an RTX 3070 will see a huge boost opting for the RTX 5070, but the latter isn’t much faster if at all than the RTX 4070 Super.
+The review’s conclusion stated, “A compromised product that will struggle to leverage the RTX feature set due to its limited 12GB VRAM buffer. Although that might not be a significant issue right now, I expect it will be within the lifespan of this product. Performance is nothing special. It’s basically a refreshed RTX 4070 Super with $50 knocked off the MSRP. I imagine it will pay to wait just a little bit (to see AMD RX 9070 reviews). I suspect spending another $50 on the RX 9070 XT is going to be the real answer.  In a nutshell the RTX 5070 hasn’t impressed us.”
+The next 12 months will be critical in the graphics card market with Nvidia having a near monopoly and figures of between 80-90% share of the desktop market depending on what data you look at. It’s an enviable position, brought about by a range of factors from a glut of sales during the crypto mining boom a few years ago at a time when AMD was struggling more with supply issues. Nvidia has always invested heavily into its drivers and content creation, too.
+However, with high prices and their resulting complaints from enthusiasts having plagued its graphics cards for a number of generations and recent supply issues with its RTX 50-series exacerbating the problem, the door is open for the competition to strike a blow. That could come in the form of AMD’s Radeon RX 9070 series. AMD has made no secret of the fact it does not intend to compete with Nvidia at the high end with its next generation of graphics cards.
+This is for one reason: To allow it to focus on regaining market share in the far more populous mid-range, hopefully offering a range of graphics cards that perform well in their own right and also represent better value compared to Nvidia. However, it’s not just about performance or price, as Nvidia’s models have generally been considered expensive for a while. In fact, its previous flagship, the RTX 4090, while eye-wateringly expensive at over $1,600, still sold well and at one point late last year even topped 1% market share in Steam’s Hardware Survey, outstripping every AMD discrete desktop graphics card.
+As both TechPowerUp and Hardware Unboxed have stated, there are some key product launches to watch out for if you’re considering a new graphics card for your gaming PC, especially in a similar price range to the RTX 5070. The most important is AMD’s new RDNA4-based Radeon RX 9070-series, including the RX 9070 XT and 9070, with reviews of those cards expected this week, and retailing for $599 and $549, respectively. Currently there are no official launch windows for anything cheaper, such as Nvidia’s RTX 5060 or 5060 Ti as well as AMD’s RX 9600 models.
+
+NVDA price 3 days before article release: 120.11064910888672
+
+NVDA price 1 day before article release: 114.02263641357422
+
+NVDA price the day of article release: 115.9520034790039

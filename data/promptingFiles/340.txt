@@ -1,0 +1,19 @@
+Intel Shares Rise After It Unveils AI Chip To Rival Nvidia And AMD
+
+Jun 04, 2024, 07:10am EDT
+
+Shares of American tech giant Intel rose during premarket trading on Tuesday after the company unveiled new artificial intelligence chips for data centers, an offensive that comes just days after chipmaking rivals Nvidia and AMD announced new products of their own as the once dominant firm competes for market share in the AI age.
+Intel shares were up around 1.5% in premarket trading early Tuesday morning.
+The climb comes after CEO Pat Gelsinger revealed details about a series of upcoming AI products at the Computex tech conference in Taiwan that the company hopes will help move the dial against its formidable competition.
+Gelsinger showcased Intel’s new range of Xeon 6 data center processors, which he said are more efficient and powerful than their predecessors, which launched just six months ago.
+The first of these sixth generation chips, an “efficiency” model billed as a replacement for older chips, is available on Tuesday, according to Reuters, with a more powerful “performance” model designed to run computationally intensive AI models and other tasks slated to arrive before October.
+Intel also positioned itself as a more affordable option for AI hardware, revealing that its Gaudi 2 and Gaudi 3 AI chips would be cheaper than rival products from competitors like Nvidia.
+Gelsinger said the prices looked “pretty compelling” compared with Intel’s rivals, or, “in other words, it crushes the competition.”
+In Taipei, Gelsinger fired back at Nvidia president and CEO Jensen Huang, who this week claimed traditional computing methods cannot keep up with the “computation inflation” we are seeing right now. Jensen, who cofounded Nvidia and is worth an estimated $100 billion, said it is only through the use of accelerated computing tools like those Nvidia offers that companies will be able to keep up with modern computational demands. “Unlike what Jensen would have you believe, Moore’s Law is alive and well,” Gelsinger said, referring to the famous observation of Intel cofounder Gordon Moore that the number of transistors on an integrated circuit will double every two years with minimal changes to cost. Moore’s Law, which effectively describes how computing power gets smaller, faster and cheaper over time, has broadly held for nearly 60 years, though many experts are increasingly concerned it is losing its relevance with today’s advanced technology. Gelsinger stressed Intel will still play a major role in the AI revolution and likened the transformation to the rise of the internet 25 years ago. “It’s that big,” he said, adding: “We see this as the fuel that’s driving the semiconductor industry to reach $1 trillion by the end of the decade.”
+Get Forbes Breaking News Text Alerts: We’re launching text message alerts so you'll always know the biggest stories shaping the day’s headlines. Text “Alerts” to (201) 335-0739 or sign up here.
+
+NVDA price 3 days before article release: 110.43766784667967
+
+NVDA price 1 day before article release: 114.93514251708984
+
+NVDA price the day of article release: 116.37133026123048

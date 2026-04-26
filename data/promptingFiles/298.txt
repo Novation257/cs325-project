@@ -1,0 +1,24 @@
+Nvidia Stock Down On Slower Growth Despite Q2 Earnings Beat And Raise
+
+Aug 28, 2024, 04:37pm EDT
+
+Nvidia reported its latest quarterly results on August 28, exceeding Wall Street expectations and guidance as well as showing stronger-than-expected guidance for Q2, CNBC noted.
+Here are the key numbers:
+
+
+Demand for Nvidia’s Blackwell chips is “incredible,” CEO Jensen Huang said in a press release. “Global data centers are in full throttle to modernize the entire computing stack with accelerated computing and generative AI,” he added.
+Nvidia said it shipped samples of Blackwell chips during the quarter, and changed the product to make it more efficient to manufacture. “In the fourth quarter, we expect to ship several billion dollars in Blackwell revenue,” Nvidia CFO Colette Kress wrote in a statement.
+Nvidia said product issues were largely responsible for a decline in gross profit margins between the first and second quarters of 2024, noted the Wall Street Journal. More specifically, the company’s second quarter gross margin of 75.1% declined 3.3 percentage points from the previous period.
+For the full fiscal year, Nvidia — which approved $50 billion in share buybacks — expects gross margins to be in the “mid-70% range” — slightly below the StreetAccount consensus of 76.4%, CNBC reported.
+Nvidia also expects Hopper, the company’s current-generation chip, to increase total shipments for the next two quarters.
+Customers are enjoying a fast return on investment on the company’s chips. “The people who are investing in Nvidia infrastructure are getting returns on it right away,” Huang said on a call with analysts. “It’s the best ROI infrastructure, computing infrastructure investment you can make today.”
+What is the source of Nvidia’s return on investment? Despite charging a higher price than competitors do, the company’s chips perform better and cost less to run — more than offsetting their higher price due to their lowest total cost of ownership, according to my new book, Brain Rush.
+While Nvidia’s results are impressive, the company’s growth is slowing down. For example, the AI chip designer’s earnings grew at an average of 500% while the company’s revenues grew in a range of 206% to 265%, during the previous three quarters, according to Investor’s Business Daily.
+Nvidia’s forecast of 80% revenue growth in the third quarter represents a marked slowdown from the previous pace. “It appears the bar was just set a tad too high this earnings season,” Ryan Detrick, chief market strategist at Carson Group, told the Associated Press.
+“Death, taxes, and NVDA beats on earnings are three things you can bank on. Here’s the issue. The size of the beat this time was much smaller than we’ve been seeing. Even future guidance was raised, but again not by the tune from previous quarters,” he added.
+
+NVDA price 3 days before article release: 129.30764770507812
+
+NVDA price 1 day before article release: 128.23817443847656
+
+NVDA price the day of article release: 125.54946899414062

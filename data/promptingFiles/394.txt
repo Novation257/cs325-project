@@ -1,0 +1,29 @@
+Nvidia GeForce RTX 4080 Super Vs RX 7900 XTX: Which Should You Buy?
+
+Jan 31, 2024, 08:59am EST
+
+Today Nvidia is releasing the GeForce RTX 4080 Super and in this review of this new graphics card we'll be taking a look at it's gaming performance against the likes of the RTX 4080 that it replaces, the RTX 4090 and various models from AMD such as the Radeon RX 7900 XTX.
+This is the third and final GeForce RTX Super card to launch this month, the others being the RTX 4070 Super and RTX 4070 Ti Super. All three have different perks and upgrades. The RTX 4070 Super is the only one not to replace its predecessor and will continue to sit alongside the RTX 4070, which gets a price cut. Like the RTX 4070 Ti Super, it launches with the same retail price as its predecessor at $599.
+The RTX 4070 Ti is the only one to get a memory upgrade rising from 12GB to 16GB as well as a memory interface upgrade and more core counts. The RTX 4080 Super is the only one of the three new cards to get a price cut, launching at $999, which is $200 lower than the RTX 4080's launch price. Its specification gets the smallest upgrade, though, with minor increases to core counts and frequencies.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+The competition comes primarily from AMD's Radeon RX 7900 XTX, which has received a price cut rather than Nvidia's combination of boosted specification and lower price. Both cards sit at $999, but it remains to be seen where the RTX 4080 Super will sit, especially as RTX 4080 stock needs to be cleared. Even so, on paper it needs to match or better the AMD card.
+My test system includes an Intel Core i9-12900K that's watercooled and running at stock speed, 32GB of Kingston Fury Renegade 6000MHz DDR5 memory, a 2TB Solidigm P41 Plus SSD and an Asus ROG Maximus Z790 Hero motherboard. My test system uses the latest Windows updates and drivers as of January 2024 and I've also retested Nvidia cards using the 551.22 release driver for the RTX 4080 Super. As the RTX 4080 Super is a $1,000 graphics card, I've omitted 1080p testing as the vast majority of gamers will be running higher resolutions with a card of this price.
+
+
+
+It's pretty clear that the key headline with the RTX 4080 Super is its price. At $999 the original RTX 4080's launch price is 20 percent higher and the new card is automatically much better value, albeit still extremely expensive compared to previous generations. The price brings it in line with AMD's Radeon RX 7900 XTX and everything will depend how readily you can pick up RTX 4080 Supers for around  $1000.
+In terms of performance, this was never going to be significantly more than the RTX 4080. The new Super model only boasts modest core and frequency increases and Nvidia states the same TDP too. It's faster for sure, but overall not by more than a few percent. As usual, you'll need to focus on game performance in the titles you play most when it comes to picking between it and the AMD Radeon RX 7900 XTX. The latter is faster in a few tests, the RTX 4080 Super in others and when DLSS comes into play it's the Nvidia card that has the advantage and usually significantly so.
+It's a relatively close match on average, though, away from DLSS and FSR, and in a couple of situations the extra memory on offer with the AMD card and indeed the RTX 4090 did seem to come into play. Still, the RTX 4080 Super is an extremely powerful graphics card that is now significantly cheaper and if you're willing to dabble with DLSS in the ever increasing list of titles that support it, only the RTX 4090 is faster in most situations. It's maybe a shame it's not gapping the RTX 4080 a little more, but if you can afford it, this is a monster card for 1440p and 4K gaming.
+
+NVDA price 3 days before article release: 60.99371337890625
+
+NVDA price 1 day before article release: 62.73564529418945
+
+NVDA price the day of article release: 61.48941040039063

@@ -1,0 +1,15 @@
+Founder Of The ‘Nvidia Of China’ Triples His Wealth
+
+Nov 05, 2025, 04:39pm EST
+
+This story is part of Forbes’ coverage of China’s Richest 2025. See the full list here.
+One of the biggest gainers this year is former computer science researcher Chen Tianshi, whose wealth nearly tripled to $21 billion on skyrocketing shares of his Shanghai-listed AI chipmaker Cambricon Technologies.
+Dubbed the Nvidia of China, its clients include companies in sectors such as banking and telecoms. Cambricon’s chips are powerful enough to train and support AI models, including those developed by Alibaba, DeepSeek and Tencent, which are pivoting to local alternatives amid U.S. restrictions on exports of advanced semiconductors to China.
+For the first six months of 2025, the company reported its first-ever, half-year profit—of 1 billion yuan ($140 million)—since its 2020 IPO as revenue soared over 4,300% year-on-year to 2.9 billion yuan.
+The 40-year-old chairman and CEO, who has a Ph.D. in computer science from the University of Science and Technology of China, worked as a researcher at the Chinese Academy of Sciences’ Institute of Computing Technology before founding the company in 2016.
+
+NVDA price 3 days before article release: 202.4677734375
+
+NVDA price 1 day before article release: 198.66818237304688
+
+NVDA price the day of article release: 195.18858337402344

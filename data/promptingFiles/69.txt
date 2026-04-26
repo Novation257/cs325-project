@@ -1,0 +1,28 @@
+Nvidia Bets Big On Optics
+
+Aug 26, 2025, 05:04am EDT
+
+In times past, when you heard people talking about companies and “optics,” it was usually a code word for audience perception – what a given event would look like to a set of people, i.e. customers. But these days, there’s a move toward technical uses of light to speed up networking and enhance hardware performance, and we’re seeing that at the top of the American AI industry.
+New reports show Nvidia, the biggest U.S. tech company by market cap, is forging ahead with plans to introduce new kinds of optical data transfer systems. Nvidia’s Quantum-X (InfiniBand) and Spectrum-X, expected to debut next year, are optical networking switches par excellence: they get up to 1.6 Tb/s per port, operate on a lot less power, cut latency dramatically, and improve resilience and deployment speed for big systems.
+In general, this is the age of engineers looking at how to send signals with light, and not electrical impulses. This coincides with more powerful LLMs, lower costs of computing, and other aspects of what you might call the “singularity.” Will light be the way to provide real-time operation for complex systems?
+Some industry reports suggest that, in building out its optics technology, Nvidia will follow a plan made by the Taiwanese TSMC, a company that single-handedly provides the world with fab.
+TSMC’s plan, called COUPE, works like this: Step 1 involves an optical engine delivering 1.6 Tbps for top bandwidth. Step 2 is the addition of co‑packaged optics integrated in CoWoS packaging (with a switch), achieving up to 6.4 Tbps. Step 3 consists of something called a “COUPE-on‑CoWoS interposer” – and with all of this in play, performance is expected to reach near 12.8 Tbps.
+I looked up “co-packaged optics” just to be clear – it refers to putting the optical transceivers directly on the chip. That’s in contrast to having a component like this as a “middleman” between chip structures.
+Nvidia isn’t the only hardware provider looking to cash in on this process. Broadcom is reportedly working on “Bailly,” a CPO-based Ethernet switch delivering 51.2 Tbps on lower power usage, which the company wants to put into its StrataXGS Tomahawk 5 ASIC. IBM seems to be working on putting this kind of optical circuitry into data centers, and AMD, for its part, has completed an acquisition related to silicon photonics.
+“Enosemi has collaborated with us as an external development partner on photonics, and this acquisition extends that successful relationship,” wrote Brian Amick, SVP of technology and engineering at AMD, in a blog post. “Now as part of AMD, the team will help us immediately scale our ability to support and develop a variety of photonics and co-packaged optics solutions across next-gen AI systems.”
+What is the future of photonics?
+The technology is widely expected to be mainstream as the world gets used to AI.
+Here are three short quotes from a paper detailing the likely trajectory of this aspect of hardware engineering:
+“Advances in photonics technology have ignited interest in investigating photonic computing as a promising AI computing modality.”
+“Deep learning, as a subset of AI, presents efficient avenues for optimizing photonic design, developing intelligent optical systems, and performing optical data processing and analysis.”
+“Applying photonics technology in AI computing is expected to have a transformative impact on diverse fields, including optical communications, automatic driving, and astronomical observation.”
+I also liked this UPenn article showing how researchers and engineers like Deep Jariwala are working with this at the scale of nanotechnology:
+“That’s kind of the pipe dream for a lot of people in my field,” Jariwala says of these new designs. “In theory, the only electronic component would be a powerful laser sitting beside a computer. Instead of plugging the computer into an outlet, you’d plug it into the laser using a fiber optic cable.”
+That would be a different kind of interface.
+Let’s look for this to become an important part of distributed networks as we move forward.
+
+NVDA price 3 days before article release: 174.95091247558594
+
+NVDA price 1 day before article release: 179.78012084960938
+
+NVDA price the day of article release: 181.7397918701172

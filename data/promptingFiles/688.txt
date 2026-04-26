@@ -1,0 +1,23 @@
+Nvidia And Bosch Teaming Up To Make Computer Brains For Automated Cars
+
+Mar 15, 2017, 01:38pm EDT
+
+On the heels of Intel’s $15.3 billion plan to buy computer vision powerhouse Mobileye to lock in a big piece of the automated car tech market, Nvidia and Bosch are teaming up to make an AI-enabled computer that can be mass-produced to serve as the brains for driverless vehicles.
+The Silicon Valley maker of graphics processors and its new German partner, which ranks among the world’s largest auto parts makers, will develop a computer that utilizes Nvidia’s deep learning software and Drive PX processor, Bosch CEO Volkmar Denner announced at Bosch’s ConnectedWorld conference in Berlin. Financial details for the project weren't included in their statement, and Nvidia and Bosch both declined to elaborate.
+“Bosch will build automotive-grade systems for the mass production of autonomous cars,” Nvidia CEO and founder Jen-Hsun Huang said in the statement. The computer they create will use Drive PX with Nvidia’s Xavier “AI super chip” that allows for Level 4 autonomy. That designation describes an automated car than can drive itself under most, but not all, road conditions. Numerous automakers have set a goal of introducing Level 4 autonomous vehicles within three to four years.
+Nvidia has racked up a powerful array of alliances with global automakers and suppliers in the race to perfect vehicles that can drive without a human at the wheel. Prior to the Bosch project, it inked deals and collaboration with Volvo, Tesla, Audi, Mercedes-Benz, BMW, Honda and China’s Baidu, as wells as German parts maker ZF.
+Bosch and Nvidia initially announced plans to collaborate at CES in January. Given Bosch’s vast global production and customer base, the partnership announced on Wednesday should help ensure that Nvidia-based technology for driverless cars is truly automotive grade -- heavily tested, highly durable and reliable, and easily mass-produced.
+While Nvidia’s core business remains processors that power ever more complex gaming graphics, its chips turn out to be highly effective at running artificial intelligence software in autonomous vehicles. The particular branch of AI that Nvidia pursues, so-called deep learning, is intended to allow vehicles equipped with its technology to continually get smarter in terms of recognizing road conditions and patterns as they are fed data from external sensors and a vision system.
+“We are teaching the car how to maneuver through road traffic by itself,” Bosch's Denner said in a statement. "We are making the car smart."
+Bosch's North American research in Palo Alto, California, has been road-testing autonomous cars and was among 11 companies that filed "disengagement" reports with California's Department of Motor Vehicles for 2016, detailing the performance of its prototypes.
+The privately held parts maker is the latest non-tech company to move into autonomous car space, said Paul Cuatrecasas, CEO of London-based Aquaa Partners, an investment banking firm and M&A adviser.
+"It's clear that non-tech companies now recognise that autonomous technology is likely to drive the future, powering not only cars, but almost all electrical appliances too," Cuatrecasas told Forbes. "Bosch is defending itself against disruption, as well as staking a claim to the software that will likely power all smart devices in the future. If the gamble pays off, it could potentially drive a new round of significant growth at Bosch."
+The Intel-Mobileye deal is the most expensive to date in the automated car tech space. It’s also a particularly meaningful one, Barclays equity analyst Brian Johnson said in a research report.
+  “It introduces to the autonomous landscape a large, established and deep pocketed tech player in Intel, which arguably missed some of the big tech trends of the post-PC world,” Johnson wrote. “The deal also marks a continued entry of the large tech/electronics players into the automotive space (offering faster growth than core tech / smartphones).”
+While numerous startups developing automotive AI software and driverless car tech keep jumping into the space, presumably in search of their own lucrative deals, the pace at which Nvidia is announcing projects ensures its already well on its way to helping shape cars for the 21st century.
+
+NVDA price 3 days before article release: 2.443983554840088
+
+NVDA price 1 day before article release: 2.509570598602295
+
+NVDA price the day of article release: 2.528555631637573

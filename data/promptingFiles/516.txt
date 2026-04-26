@@ -1,0 +1,15 @@
+NVIDIA Acquires Bright Computing For Cluster Management
+
+Jan 10, 2022, 04:30pm EST
+
+Bright Computing has been around since 2009, providing large-scale cluster management for HPC installations. The platform supports x86 as well as Arm, and a variety of GPUs, but has never really penetrated the Enterprise market outside HPC clusters. NVIDIA hopes they can leverage Bright to provide more complete infrastructure platforms to ease adoption of accelerated computing in the Enterprise market.
+Bright has been busy within its HPC niche, and now counts Microsoft, NASA, Siemens, Samsung, Johns Hopkins University and Volvo among its many customers. Many also use NVIDIA GPUs, so this transaction should simplify business for the current client base. But more importantly for NVIDIA, Bright could help NVIDIA provide something closer to a one-stop-shop for Enterprises.
+Strategically, NVIDIA has been checking off all the boxes needed to be considered a full-range supplier of computing solutions for cloud and the enterprise, including servers, networking, and  software solution frameworks. Now they can add cluster management to the list. In fact, the only large hole remains storage hardware, however that low-margin business is probably not a good fit for the high-margin business model CEO Jensen Huang has built. And the company did acquired object storage management provider SwiftStack in 2020. So, yeah, they got that, too.
+While this is not a big deal, and is not materially significant to NVIDIA’s P&L, it is yet another milestone in NVIDIA’s journey to evolve from a chip company to a solution provider of accelerated data centers. Next year, we expect NVIDIA to begin shipping the next generation of DGX servers powered by the NVIDIA-designed Grace Arm CPU, the next generation GPU (Hopper), and the next generation Bluefield DPU. Bright just adds some more luster to an already compelling story.
+Disclosures: This article expresses the opinions of the author, and is not to be taken as advice to purchase from nor invest in the companies mentioned. My firm, Cambrian-AI Research, is fortunate to have many, if not most, semiconductor firms as our clients, including NVIDIA, Intel, IBM, Qualcomm, Blaize, Graphcore, Synopsys, Esperanto, Cerebras Systems and Tenstorrent . We have no investment positions in any of the companies mentioned in this article. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 27.54914093017578
+
+NVDA price 1 day before article release: 27.19285011291504
+
+NVDA price the day of article release: 27.345542907714844

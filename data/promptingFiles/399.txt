@@ -1,0 +1,36 @@
+Nvidia RTX 4070 Super Vs RX 7800 XT: What’s The Best Graphics Card?
+
+Jan 17, 2024, 04:20am EST
+
+This month sees graphics card manufacturer Nvidia release a trio of new GeForce RTX 40-series graphics card - the RTX 4070 Super, 4070 Ti Super and 4080 Super and in this review of the RTX 4070 Super today we're taking a look at gaming performance. You can also see my video review below.
+It's the only one of the three new Super cards that will not be replacing its predecessor, with the RTX 4070 continuing to sit alongside it and with an expected price cut too. The RTX 4070 Super gets some big upgrades, but sadly the 12GB GDDR6X memory and 192-bit memory bus of the original card are not amongst them.
+Instead there are big increases to the CUDA, Tensor and RT cores, ROPs and also to the L2 cache, which rises from 36MB to 48MB with the new card - the other figures you can see in the graph below, but they don't amount to a small upgrade. On paper at least the new card should be a lot faster and best of all is that the price hasn't seen an upgrade. It has the same $599 launch price of the RTX 4070.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+It's closest rivals are the AMD Radeon RX 7800 XT, which sits around the $500-550 mark, the RTX 4070, which has recently fallen closer to $500 and of course the RTX 4070 Ti, which is essentially end of life and is being replaced by the more powerful RTX 4070 Ti Super that launches next week.
+My test system uses a stock speed water-cooled Intel Core i9-12900K with 32GB of Kingston Fury 6000MHz DDR5 memory, a Solidigm P41 Plus SSD and Asus ROG Maximus Z790 Hero motherboard. I also used the latest drivers for each graphics card and the latest versions of each game as both improve performance over time so results gathered a few months ago could have totally changed as software becomes more optimised and this was certainly the case with several games here.
+
+
+
+
+
+
+
+
+
+There's little doubting that the Nvidia RTX 4070 Super is much better value than the RTX 4070, offering much better bang per buck across the board and generally warranting the $50 or so extra outlay and even $75. At $100, the price starts to swing in the RTX 4070's favor, but it's still worth noting that there were some big gaps between the two in some games where the RTX 4070 Super was a lot faster.
+Overall it's also got the measure of the AMD Radeon RX 7800 XT. Again that card is $50-100 cheaper and is a little faster in one or two areas, but when the RTX 4070 Super is quicker, it's usually by wide margins with DLSS extending those leads in supported games. The RTX 4070 Ti is rarely much quicker too, so beware of spending much more than $50 extra.
+Is it the perfect card for high refresh rates, 100+fps at 1440p? Not quite as it does drop well below 100fps on occasions at maximum settings at those resolutions, although again DLSS can help here in supported titles. However, it's certainly a far stronger card at 1440p than the RTX 4070 was and to get better performance from a current generation model, you need to spend several hundred dollars more.
+Power consumption aside - it was noticeably higher than the RTX 4070 - it's an encouraging sign for the rest of Nvidia RTX 40 Super-series. They're still not particularly wallet-friendly, but the RTX 4070 Super offers much higher frame rates for the same cash as its predecessor.
+
+NVDA price 3 days before article release: 54.78850555419922
+
+NVDA price 1 day before article release: 56.34755706787109
+
+NVDA price the day of article release: 56.01876068115234

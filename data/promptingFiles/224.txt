@@ -1,0 +1,26 @@
+Nvidia GeForce RTX 5090 Revealed And It’s Massive
+
+Jan 05, 2025, 06:31pm EST
+
+Nvidia is expected to announce its GeForce RTX 5000-series graphics cards at this coming week's Consumer Electronic Show in Las Vegas, with information likely to be revealed on models such as the RTX 5080 and RTX 5090 and it's the latter that has apparently been revealed by board partner Inno3D with an absolutely enormous cooler.
+Speculation has been rife about the size of this card before, with concerns over not just the depth, but also the width. These concerns seem to be realised here thanks to the leak of Inno3D's iChill X3 model (via Videocardz). The model in question is 3.5-slots deep, which is as big as the largest RTX 4090 models, but the width seems to be even larger than we've seen before. One of the largest RTX 4090 models was the Palit GameRock and a comparison of the two does seem to suggest the Inno3D iChill is slightly wider.
+The RTX 4090 is already a large graphics card and the leaked image from Inno3D proves that the RTX 5090 is unlikely to be any smaller and in fact might even be a little bigger on average across the various cooler designs including an expected Nvidia Founders Edition. This isn't good news for anyone with a small case with limited graphics card clearance, especially mini-ITX or small form factor.
+Plenty of rumors about specifications and pricing have been unleashed over the last few weeks, but nothing is officially confirmed yet by Nvidia itself. Board partners have provided plenty of  leaks such as this one, though, as well as potential leaks from regular community members that have provided accurate information in the past. If you haven't already, check out my article below about the RTX 5000 series.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+As well as a 3.5-slot cooler, the image confirms the rumor that the RTX 5090 will indeed come with 32GB of VRAM, which is expected to be GDDR7 - a sizeable upgrade from the 24GB of GDDR6X on the RTX 4090 and by far the biggest memory upgrade that we're likely to see of the entire product stack. In fact, it's 8GB upgrade might be larger than those of the rest of the stack combined, especially as Nvidia is rumored to be sticking with 8GB for the RTX 5060.
+Annoyingly we can't see the power connector in the photo, which would help to dispel rumors of twin 16-pin 12VPWR connectors on the RTX 5090, which have already been dismissed by a Chinese power supply manufacturer. Given Nvidia's previous launch schedules, it's highly likely we'll learn a lot more about the RTX 5090 this week, even if the latest rumors point at the RTX 5080 being launched first, possibly being released as soon as Jan. 21.
+Pricing is something little is known about apart from some fairly horrific figures from the rumor mill recently that puts the RTX 5090 at $2,000-$2,500. That's a sizeable markup from the $1,600 launch price of the RTX 4090.
+I'll be covering the hardware launches in January so follow me here on Forbes using the blue button below, Facebook or YouTube to get the latest news and reviews.
+
+NVDA price 3 days before article release: 137.4449462890625
+
+NVDA price 1 day before article release: 138.2646942138672
+
+NVDA price the day of article release: 144.4226837158203

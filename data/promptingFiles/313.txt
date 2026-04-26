@@ -1,0 +1,19 @@
+Apple, Nvidia Lead Big Tech’s $500 Billion Slump As Nasdaq Limps To Worst Day Since 2022
+
+Jul 17, 2024, 10:09am EDT
+
+Large technology stocks flailed Wednesday as the tech-heavy Nasdaq Composite index paced toward its worst day since Dec. 2022, highlighting the last week’s shifting market regime as lower interest rates appear on deck and investors view a Trump presidency as increasingly likely.
+The Nasdaq fell 2.8% by market close, a wider loss than the S&P 500’s 1.4% decline and the Dow Jones Industrial Average 0.6% gain, sinking to its lowest level since July 1.
+Among the most notable losers Wednesday were Nvidia (shares down 6.6%) and Apple (-2.5%)—both of which faced downward pressure due to concerns about their key China units after President Joe Biden reportedly moved to curb China’s access to high-end semiconductor chips and former President Donald Trump touted the “phenomenal” prospect of tariffs on Chinese goods in an interview with Bloomberg Businessweek published late Tuesday.
+All of the “magnificent seven” mega-cap tech stocks in Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla declined more than 1%, shedding more than $500 billion of aggregate market value.
+The magnificent seven’s rare slump, with the septet down an average of 5.8% over the last week, is the latest evidence of a major market repositioning since Thursday’s better-than-anticipated inflation data reignited bets of significantly lower interest rates and betting odds began to heavily favor Trump in November’s presidential election.
+Since last Wednesday, the wider spanning Dow is up 3.6% compared to the tech-concentrated Nasdaq’s 3.4% decline, both trumped by the small-cap Russell 2000’s 9.1% rally, evidence, signifying investors’ belief that lower rates can help stimulate earnings growth across corporate America, rather than just in the handful of artificial intelligence leaders as has been the case in recent quarters.
+The S&P’s energy and financial sectors are up 4% apiece over the past week, trouncing the information technology and communication services’ more than 5% respective drops, with bank and oil companies’ rallies likely tracing back to Trump’s promises for lighter regulation in the industries, opening the door for higher profits.
+Get Forbes Breaking News Text Alerts: We’re launching text message alerts so you'll always know the biggest stories shaping the day’s headlines. Text “Alerts” to (201) 335-0739 or sign up here.
+It’s a renaissance for the long forsaken small caps: The Russell 2000 tallied its best five-day stretch relative to the S&P ever from last Wednesday to Tuesday, according to Charles Schwab strategist Kevin Gordon.
+
+NVDA price 3 days before article release: 129.177734375
+
+NVDA price 1 day before article release: 126.29910278320312
+
+NVDA price the day of article release: 117.9331283569336

@@ -1,0 +1,20 @@
+Nvidia GTC-DC Event Highlights AI, Quantum, And 6G Advances
+
+Oct 28, 2025, 02:30pm EDT
+
+Nvidia GTC has become not only a key event for AI but has also branched out to Asia, Europe, and Washington, DC to keep developers and buyers up to date on the latest advances in high-performance computing technology. This year's DC event, which kicked off with a keynote from the effervescent leather-clad CEO Jensen Huang, was precisely what we expected: lots of GPUs, CPUs, NPUs, and now Quantum and 6G networking tech that could, at times, be a bit overwhelming.  Let's dive in. (Like many AI companies, Nvidia is a client of Cambrian-AI Research, LLC.)
+While a lot of attention of late has shifted to next year's Vera-Rubin racks, Blackwell continues to sell very well.  And while AMD has announced new US Department of Energy deals with next year's MI430, the Equinox and Solstice supercomputers at Argonne National Labs will be the world's largest AI Factory, according to Nvidia.
+Nvidia's acquisition of Mellanox in 2020 has proven to be an excellent investment, and Nvidia continues to drive both Ethernet and InfiniBand connectors for enterprise and supercomputing data centers.  The new ConnectX-9 Spectrum-X SuperNIC (that's a mouthful!) provides 1.6Tb/s networking.
+Nvidia sees an opportunity to shape the future of 6G and unveiled an all-American AI-RAN stack at the event. I suspect this section was more about communicating with the US Government than the US Telcos; Nvidia is a global leader in networking.
+At this point, Nvidia does not have, nor plans to offer, a quantum computer. While that could change in the future, Nvidia is now offering a bridge to connect GPU-based acceleration to Quantum computers from 17 quantum computing companies. Notably, IBM is not on the list of companies that will collaborate using NVQLink.
+When people complain about Nvidia, they usually point to two areas: high prices and proprietary software. I won't get into pricing, but the only area where Nvidia is now closed is CUDA.  But CUDA is basically a driver for GPUs. Nobody expects Nvidia or AMD to offer open drivers for running graphics.  It doesn't even make sense. Most other Nvidia software, such as TensorRT, RT-LLM and Dynamo, is already open. And while NVLink Fusion is not open source, it is available to partners under license. (Again, it's like a driver.)
+And Nvidia is now the #1 contributor to open AI models, data, and tools. But it is followed by Alibaba, not Google, not Amazon, not even OpenAI.
+Finally, Palantir is now supporting the Nvidia hardware stack and software for its Ontology suite of vertical solutions, critical to the Washington audience.
+Nvidia has continued to innovate across the data center hardware and software stack, even to the point of helping engineers design and manage efficient data centers. These announcements reinforce its commitment to high performance and open software for AI, including quantum computing.
+Disclosures: This article expresses the opinions of the author and is not to be taken as advice to purchase from or invest in the companies mentioned. My firm, Cambrian-AI Research, is fortunate to have many semiconductor firms as our clients, including Baya Systems BrainChip, Cadence, Cerebras Systems, D-Matrix, Esperanto, Flex, Groq, IBM, Intel, Micron, NVIDIA, Qualcomm, Graphcore, SImA.ai, Synopsys, Tenstorrent, Ventana Microsystems, and scores of investors. I have no investment positions in any of the companies mentioned in this article. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 182.13999938964844
+
+NVDA price 1 day before article release: 191.46897888183597
+
+NVDA price the day of article release: 201.0079345703125

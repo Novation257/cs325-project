@@ -1,0 +1,21 @@
+Nvidia To Sell Its Icera Business &amp; Exit The Mobile Chip Market
+
+May 07, 2015, 08:44am EDT
+
+Leading graphics processor developer, Nvidia is the latest company to get off the mobile baseband bandwagon, after Broadcom, Texas Instruments and ST-Ericsson. Yesterday, the company announced its decision to wind down its Icera modem operations in the second quarter of fiscal 2016. Nvidia said that it is open to a sale of the technology or operations. Mobile computing is an R&D intensive business, and the company has struggled to compete against the likes of Qualcomm and Samsung. Nvidia is currently fighting a lawsuit against the two companies for allegedly infringing its GPU patents covering technology including programmable shading, unified shaders and multithreaded parallel processing, via Qualcomm’s Snapdragon and Samsung’s Exynos application processors.
+Nvidia acquired Icera in 2011 for $376 million, in an effort to increase its foortprint in the mobile computing market. However, the company’s plan of integrating the Icera modems into its Tegra processors never fully materialized, except the Tegra 4i chip which despite a number of design wins has failed to increase Nvidia’s share in the mobile baseband market. Nvidia still has a negligible presence in the smartphone market, and the launch of its Tegra 4i LTE compatible chips was expected to challenge Qualcomm’s dominance in smartphones. The Icera 4G LTE modem meets Nvidia’s needs for the next year or more, but beyond that the company expects to partner with third-party modem suppliers and will no longer develop its own.
+Nvidia claims to have reshaped its strategy to focus on high-growth opportunities in gaming, automotive and cloud computing applications like deep learning, where its visual computing expertise is greatly valued. While mobile computing has been a key focus area and the largest segment for Nvidia's Tegra business in the last few years, the company claims that automotive and SHIELD (Nvidia's gaming device) now represent the vast majority of its Tegra revenue. Nvidia expects the two segments to be the biggest growth driver for its Tegra division in fiscal 2016. (Read: Automotive & Shield To Drive Nvidia’s Tegra Business In Fiscal 2016)
+The news of Nvidia’s exit from the mobile baseband market came just a day before the company is scheduled to report its Q1 2016 earnings. (Read Our Pre-earnings Article) Our price estimate of $23 for Nvidia is slightly above the current market price. We will update our valuation for the company after its Q1 2016 earnings release.
+See our complete analysis for Nvidia
+
+View Interactive Institutional Research (Powered by Trefis):
+Global Large Cap | U.S. Mid & Small Cap | European Large & Mid Cap
+More Trefis Research
+
+Like our charts? Embed them in your own posts using the Trefis WordPress Plugin.
+
+NVDA price 3 days before article release: 0.5445774793624878
+
+NVDA price 1 day before article release: 0.5322938561439514
+
+NVDA price the day of article release: 0.5416873693466187

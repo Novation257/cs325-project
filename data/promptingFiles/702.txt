@@ -1,0 +1,40 @@
+NVIDIA Extends Their Datacenter Performance Lead In Neural Network Computing at #GTC16
+
+Apr 11, 2016, 08:10am EDT
+
+At 
+NVIDIA
+’s GPU Technology Conference (GTC) 2016 in San Jose, California the company announced products based on their latest GPU architecture, code-named Pascal. This conference is traditionally attended by some of the leading researchers in GPU-accelerated compute technologies and over the past few years has become increasingly focused on Deep Neural Networks (DNN). DNNs are the latest key to artificial intelligence (AI) and cognitive computing. Incredible strides have been made over the last three years in AI thanks to Graphics Processing Units (GPUs). Companies like 
+Google
+, 
+Microsoft
+, 
+IBM
+, Toyota, 
+Baidu
+ and others are looking at deep neural networks to help solve many of their complex analytical and data-rich problems. NVIDIA is helping these companies  to harness the power of their GPUs to accelerate the deep learning these systems need to do. Thanks to NVIDIA’s early involvement in deep neural networks research and their latest GPU hardware, the company is in the driver’s seat right now when it comes to delivering silicon to accelerate deep neural networks.
+The GP100 is for Deep Neural Networks
+The newly announced GPU, named GP100 is the first of the Pascal family of GPUs from NVIDIA running on the 16nm FinFET process from TSMC and uses the company’s latest GPU architecture. The GP100 is designed first and foremost for the datacenter in an NVIDIA Tesla Compute card format which is for DNN, cloud, enterprise and other HPC purposes. I expect the GP100 will eventually find its way into the consumer market as a gaming card with many changes, but its primary purpose is to serve as an enterprise acceleration processor. Because of Pascal’s performance, power and software capabilities it will really start to challenge CPU-driven DNN. It also utilizes NVIDIA’s latest CUDA 8 programming language which has become the de-facto standard in GPU computing since it started nearly a decade ago.
+Significant compute cluster performance  increase via brute force
+As has been made quite clear with IBM, Google and Baidu’s adoption of GPUs for DNN workloads, GPUs are currently a better choice versus FPGAs in training. FPGAs may still have a role, but they are likely more useful in production. The GP100 GPU itself is a 15.3 billion transistor chip built on TSMC’s 16nm FinFET process, NVIDIA is able to cram these 15.3 billion transistors on a 610mm^2 chip which is actually larger than the previous generation even though the previous generation was a 28nm chip. Pascal is effectively a full node shrink from the previous generation Maxwell which fit only 8 billion transistors into 601mm^2 effectively the same amount of space. Pascal also increases the amount of FP32 CUDA shader cores from 3072 to 3584 which is a pretty sizable increase and helps deliver 10 TFLOPS of performance.
+The real important increase for HPC and datacenter comes in the FP64 CUDA cores which increase from 96 in Maxwell to 1792 in GP100. This increases the double precision capabilities of the Pascal GP100 from 213 GFLOPS to 5.3 TFLOPS, an absolutely massive increase. Maxwell itself was not very favored by those that needed double precision, so many stuck with Kepler generation Tesla cards if they needed double precision. That will change with the GP100 and Pascal architecture.
+Memory bandwidth, power enhancements via HBM2
+The GP100 also uses High Bandwidth Memory 2 (HBM2) which is a new memory technology pioneered in GPUs first by AMD with their Fiji family of graphics cards with HBM. HBM2 brings additional bandwidth and capacity increases so that cards based on the GP100 can have 16GB of memory compared to Fiji which can only have 4GB per GPU. This new memory technology also gets stacked on-die with the GPU which saves significant power and space allowing GP100-based graphics cards to be significantly smaller and more power efficient. The P100 Tesla card with the GP100 GPU inside has 16GB of HBM2 which operates at a mind boggling 720 GB/s effectively removing memory from being the bottleneck in this GPU while also natively supporting ECC.
+Scalability improvements via NVLink
+NVIDIA didn’t stop with just a new architecture, 16nm FinFET and HBM2, they also introduced NVLink into their first GPU. NVLink is designed to help NVIDIA GPUs interface with one another at a much higher bandwidth and lower latency than PCIe 3 and to connect directly into IBM Power8+ and newer CPUs which also feature NVLink.
+HPC enterprise datacenter leaders on-board
+All of the HPC OEM leaders like Dell, IBM, HPE and Cray are all on board to implement the P100 Tesla card with the GP100 inside. There will be no shortage of demand for these cards inside the enterprise, it will be more important to see if they can successfully fill that demand.
+It’s very important to understand that this isn’t about the beginning of a kick the tires stage. We are beyond that and into deployment.
+DGX-1 is the “rabbit” with supercomputer performance
+It will take time for the OEMs to get their systems ready. To accelerate the speed of Pascal’s implementation in universities, enterprises, and cloud service providers, NVIDIA also announced a P100-based server appliance called the DGX-1.
+The DGX-1 is a fully integrated solution that includes two Xeon processors and 7TB of SSD space as well as eight P100 Tesla cards in order to deliver the most performance per watt. This appliance is not intended to replace OEM solutions, but rather to allow people that want to start working on their DNNs using Pascal to do so sooner rather than later.
+There’s a very good chance that many of NVIDIA’s customers for Pascal may end up designing their own solutions and NVIDIA is simply enabling early adopters to buy a DGX-1 to get ready for when OEM solutions are available at large scale. NVIDIA is selling one DGX-1 for $129,000 and will be delivering them this summer.
+NVIDIA claims that a single DGX-1 appliance will replace 250 CPU-based nodes that would normally be used for DNN. In addition to replacing 250 CPU nodes, the company claims Pascal is 12X faster than the previous generation GPU in DNN. The DGX-1 delivers all of this performance in a compact 3U, 3200-watt server. This could amount to huge savings in space as well as overall cost for anyone looking to do serious DNN training.
+Wrapping up
+NVIDIA may have stumbled upon GPU accelerated DNN either by sheer luck, accident or the result of their close relationship And investment with the research community. Ultimately, it doesn’t matter what the answer is to the question because NVIDIA is clearly the leader in this space right now and it is proving to be a major driver of their technology focus. NVIDIA needs flawless execution on the GP100 for DNN and to deliver these GPUs and their software on time, if not early. CPUs currently own this space, but GPUs are extremely popular now but FPGAs want a piece of this, too. NVIDIA is in the driver’s seat right now but they cannot rest on their laurels and allow others to catch up to them. NVIDIA has a pretty well spread delivery roadmap leading all the way up to Q1 2017, so it will be critical which major design wins they get until then.
+
+NVDA price 3 days before article release: 0.8763883113861084
+
+NVDA price 1 day before article release: 0.8729608654975891
+
+NVDA price the day of article release: 0.878346860408783

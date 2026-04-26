@@ -1,0 +1,15 @@
+Nvidia Annoucnes GeForce GTX 1070 Ti: Official Prices, Pre-order And Specifications
+
+Oct 26, 2017, 10:05am EDT
+
+Nvidia has finally offered some official details about pricing and specifications for its new GeForce GTX 1070 Ti graphics card.
+The new model, which will sit between the GTX 1070 and GTX 1080 in terms of price and performance, will retail for $449 in US and £419 in the UK and is currently on pre-order (UK, US).
+The first model up for pre-order is Nvidia's Founders Edition, which is for sale direct from Nvidia, but partner cards will be available from the usual suspects such as Asus, Gigabyte, MSI and Zotac.
+The key differences are in the number of Cuda cores, which rises from 1920 with the GTX 1070 to a far more substantial 2432 with the GTX 1070 Ti - not far off the 2560 cores of the GTX 1080. However, the GTX 1080's boost frequency remains superior at 1733MHz compared to 1683MHz for the GTX 1070 Ti, while the new card also lacks GDDR5X memory, so has 8Gbps memory rather than 10Gbps.
+The cheapest Geforce GTX 1070 I could find as just under $400. AMD's RX Vega 56, meanwhile, still sits at $470, so with undoubtedly better performance in many games and for $20 less, the GeForce GTX 1070 Ti is clearly being introduced to counter the AMD card, which proved to be more competitive than its more expensive sibling, the RX Vega 64. Retail availability is expected in early November.
+
+NVDA price 3 days before article release: 4.857401371002197
+
+NVDA price 1 day before article release: 4.784275531768799
+
+NVDA price the day of article release: 4.834425926208496

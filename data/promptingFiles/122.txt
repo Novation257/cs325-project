@@ -1,0 +1,17 @@
+Dow, S&P 500 And Nasdaq Fall As Treasury Yield Spikes
+
+May 21, 2025, 04:17pm EDT
+
+Long-term Treasury yields eclipsed the 5% threshold again on Wednesday after an earlier auction for long-term U.S. government bonds had soft demand, pulling each of the three major stock market indexes toward their worst day in a month.
+The Dow Jones Industrial Average fell 817 points, or nearly 2%, while the S&P 500 and tech-heavy Nasdaq declined by 1.6% and 1.4%, respectively, as each index closed Wednesday with their worst single-day losses since April 21.
+UnitedHealth headlined a decline for the Dow, with shares falling 5.7% after a Guardian report claimed the company paid off nursing homes to reduce hospital transfers (UnitedHealth denied the claims in a statement to the Guardian).
+Other loss leaders of the day included Nike (4.1%), Apple (2.3%), Nvidia (1.9%), Amazon (1.4%), Palantir (3.9%) and Tesla (2.6%).
+Yields for 20-year U.S. Treasury notes reached 5.1% on Wednesday, the highest rate for the bonds since Nov. 2, 2023, while 30-year yields hit 5.08%, marking the second time the longer-term bonds eclipsed 5% this week.
+The 10-year yields briefly rose above 4.6% and neared this year’s peak of 4.62% set in February before ending Wednesday at 4.59%.
+The Treasury Department reportedly held an auction for $16 billion of new 20-year bonds on Wednesday, though demand for the bonds was much lower than expected. Investors accepted a yield of 5.04% on the bonds, the highest rate for a 20-year note since October 2023. Higher yields were offered to investors so they would be more interested in buying U.S. debt. Treasury yields also spiked earlier this week, after the financial ratings agency Moody’s downgraded the U.S. government’s credit rating. Moody’s said its downgrade reflected “the increase over more than a decade in government debt,” while U.S. interest payment ratios are “significantly higher than similarly rated sovereigns.”
+
+NVDA price 3 days before article release: 135.36810302734375
+
+NVDA price 1 day before article release: 134.3483428955078
+
+NVDA price the day of article release: 131.76895141601562

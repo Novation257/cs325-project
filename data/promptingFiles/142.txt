@@ -1,0 +1,19 @@
+Nvidia Announces RTX 5060 Graphics Cards To Be Priced From $299
+
+Apr 15, 2025, 09:02am EDT
+
+Nvidia has announced its highly anticipated GeForce RTX 5060-series graphics cards including pricing, availability and specifications.
+Three separate models will be available, with the RTX 5060 Ti in both 16GB and 8GB flavors arriving April 16. The cheaper RTX 5060 non-Ti version will be available next month in May and will also have 8GB of video memory.
+Nvidia’s pricing is rumored to sit at just $299 for the RTX 5060, which is the same launch price as the RTX 4060, although it remains to be seen if supply can match demand on launch and if pricing will rise higher than this given the far higher premiums we’ve seen for other RTX 50 series models such as the RTX 5080 and RTX 5090.
+The RTX 5060 Ti 16GB and 8GB models are rumored to have launch prices of $429 and $379 respectively. For longevity given many games make use of more than 8GB of video memory already, the 16GB model is likely to be the most sought-after.
+Unsurprisingly, the benchmarks Nvidia has released mostly include the use of frame generation, which has divided options with consumers and reviewers. Without it in Delta Force, the RTX 5060 Ti sees a frame rate rise from around 100fps with the RTX 4060 Ti to around 130fps. Elsewhere, the fact that the RTX 50-series cards support 4x frame generation, while older cards cap out at 2x isn’t particularly clear in the graph above (which uses the maximum frame generation mode for each card), and explains why the RTX 5060 Ti is further ahead.
+We’ll have to wait for reviews to land for a more comprehensive view on how the RTX 5060 and 5060 Ti perform and these are expected to go live no later than April 16. These will include benchmarks against various other models of graphics cards as well as at different resolutions.
+AMD currently doesn’t have any of its new Radeon RX 9000-series models that sit at this price range, with the RX 9070 launching at $549. The Radeon RX 9060-series is expected in the near future, though, with the rumor mill already churning away on reports of RX 9060 XT 8GB and 16GB models. For now, Nvidia’s new cards will have to compete with previous generation models from both AMD’s Radeon RX 7000-series and Nvidia’s own RTX 4000-series.
+AMD’s Radeon RX 7600 can be had for around $300 while the 7600 XT will set you back upwards of $400. Currently Nvidia’s RTX 4060 8GB costs around $330, with the RTX 4060 Ti available for less than $600 while the 16GB model rarely available for much less than $700. The release of the RTX 5060-series is likely to see prices of these older cards fall, assuming there is enough stock to prevent those annoying premiums, which is perhaps unrealistic given what’s happened following every RTX 50-series launch so far.
+I’ll be covering news and benchmarks on the day so follow me here on Forbes using the blue button below, Facebook or YouTube to get the latest news and reviews.
+
+NVDA price 3 days before article release: 107.5446548461914
+
+NVDA price 1 day before article release: 110.68391418457033
+
+NVDA price the day of article release: 112.1735610961914

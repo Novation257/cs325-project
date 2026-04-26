@@ -1,0 +1,19 @@
+NVIDIA Powering Increase In GPUs Deployed For VDI
+
+Mar 22, 2018, 02:49pm EDT
+
+NVIDIA
+ has been on fire lately with strong company growth aided by particularly impressive numbers in its datacenter business. NVIDIA’s Q4 results showed datacenter revenue up 105% year-over-year contributing over 40% of the company’s overall 34% year-on-year revenue growth. Much of the datacenter revenue growth is attributed to the success of NVIDIA’s latest GPUs in hyper-scale cloud and large enterprise infrastructure for high-performance computing (HPC) and artificial intelligence (AI) based applications. However, the steadily increasing use of GPUs in the evolving virtual desktop infrastructure (VDI) market is likely another growing driver.
+GPUs have been available for use in enterprise VDI deployments for years and were traditionally an add-on for graphics-intensive design and engineering workloads. Recently, however, they have become necessary in VDI solutions for many traditional knowledge worker roles due to the increasing graphics and video intensity of common productivity applications. NVIDIA has long been the leader in GPU use for VDI and is set to benefit as their usage becomes more prevalent in the VDI realm.
+Due to multiple factors, a potential inflection point for GPU use in VDI deployments is forming:
+
+
+The DaaS delivery model is optimal for a variety of cases, such as small, remote office deployments or when an organization is addressing substantial, unpredictable staffing increases and decreases. However, a subtler benefit of the addition of GPU options is that it makes DaaS attractive for trial GPU deployments. AWS Workspaces offers GPU-enabled virtual desktops with NVIDIA GPUs. VMware offers Horizon Cloud on Microsoft Azure compute instances with NVIDIA GPUs. IT can now test virtual desktop use with target organizations to better determine when GPU-enabled virtual desktops can better address the performance needs of various knowledge worker roles. This, in turn, better informs purchase of on-premise VDI infrastructure at scale. This option is typically only pursued by the more innovative, resourceful IT leaders, but adoption is growing.
+As more enterprises understand how widely and easily VDI solutions are being deployed with GPUs for Windows 10, they are likely to reconsider VDI for broader portions of their organizations. As deployments grow with adoption of Windows 10, I expect we’ll see more strong datacenter numbers from NVIDIA — not just from HPC and AI applications but from VDI deployments. We may see some of this at NVIDIA’s GPU Technology Conference (GTC) next week. I’ll be following with interest.
+Disclosure: My firm, Moor Insights & Strategy, like all research and analyst firms, provides or has provided research, analysis, advising, and/or consulting to many high-tech companies in the industry mentioned in this article, including Dell EMC, NVIDIA, and Microsoft. I do not hold any equity positions with any companies cited in this column.
+
+NVDA price 3 days before article release: 5.961627960205078
+
+NVDA price 1 day before article release: 6.14863920211792
+
+NVDA price the day of article release: 5.982651710510254

@@ -1,0 +1,17 @@
+China Says Nvidia Violated Antitrust Law, Chipmaker’s Shares Slip 1.5% In Premarket
+
+Sep 15, 2025, 07:50am EDT
+
+China's top competition regulator on Monday said a preliminary investigation found chipmaker Nvidia was violating the country’s antitrust laws, in an announcement that could further inflame tensions between the U.S. and China at a time when officials from both countries are meeting to discuss a potential trade deal in Madrid.
+In a brief announcement, China’s State Administration for Market Regulation said it has determined after a “preliminary investigation” that Nvidia “has violated the Anti-Monopoly Law of the People's Republic of China.”
+The agency said the probe was opened after the chipmaking giant allegedly violated conditions outlined in the agency’s approval of its 2020 acquisition of networking devices maker Mellanox Technologies.
+The regulator said it has decided to conduct “further investigation into the matter in accordance with the law,” without mentioning any timeline or additional details.
+The antitrust regulator had first mentioned plans to investigate Nvidia’s $6.9 billion acquisition of Mellanox in December last year.
+Nvidia’s shares are down more than 1.5% in premarket trading to $175.11 early on Monday.
+$17 billion. That is the amount of revenue Nvidia generated from China in its last fiscal year, which ended in January, around 13% of the company’s total sales. In May this year, Nvidia CEO Jensen Huang told the Stratechery Podcast that he estimates Nvidia could earn $15 billion from sales of its H20 AI chips to China.
+
+NVDA price 3 days before article release: 177.300537109375
+
+NVDA price 1 day before article release: 177.80047607421875
+
+NVDA price the day of article release: 177.73049926757812

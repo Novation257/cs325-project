@@ -1,0 +1,27 @@
+Intel Reveals $249 Arc A580 Video Card: Should Nvidia Be Worried?
+
+Dec 03, 2024, 06:47pm EST
+
+Intel has announced it's second generation of discrete desktop graphics cards designed for PC gamers. The Xe2 architecture-based Battlemage Arc B580 and B570, which were leaked last week,  are targeted at the $200-300 price segment, competing with Nvidia's GeForce RTX 3050 and 4060 and AMD's Radeon RX 7600 and 7600 XT with a view to disrupting the low end of the market.
+Intel has released various performance claims for the new cards. The Arc B580 is on average 24% faster at 1440p than the previous similarly-priced Arc A750 and has up to 50% more performance per watt and more importantly offers 32% better performance per dollar than the competition - presumably the models listed above such as the RTX 4060, although Intel didn't mention any specific models from AMD or Nvidia.
+
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+The Arc B580 will cost $249 and B570 $219. This puts them into contention with some of the cheaper options from AMD and Nvidia such as the GeForce RTX 3050 and Radeon RX 7600. Based on Intel's claims, the new cards will be on average 24% faster at a similar price.
+The biggest headline features, though, are the memory options. The Arc 580 is equipped with a decent 12GB of memory - 50% more than its predecessors. The ARC B570 meanwhile This is significant as 8GB is widely viewed as not enough to deal with todays games, even at lower resolutions such as 1,920 x 1,080p and with comparatively low-end graphics cards.
+Nvidia certainly came in for critisizm with its cheaper RTX 4000-series cards such as the RTX 4060 Ti, which started at 8GB, while AMD's equivalents had larger amounts.  The increased amounts of memory are likely add to the appeal in addition to Intel's claimed performance figures, even if the amounts are what would be expected for a graphics card in this price range to have launching right now. Of course, all eyes will be on Nvidia come January when it is expected to launch its RTX 5000 series.
+So far Intel has stated that add-in board partners Acer, ASRock, GUNNIR, ONIXX, MAXSUN and Sparkle will offer the Arc B580 from December 13th from $249, with Intel also offering a Limited Edition version too. The Arc B570 will be available from January 16th, 2025, starting at $219.
+Ultimately Intel is aiming to disrupt the most popular part of the market in terms of discrete graphics card sales - one currently dominated by Nvidia's RTX 4060 and 3060 cards. There has also been very little movement in terms of new releases at this price point with both AMD and Intel relying on older models to fill the gaps. Nvidia's for example, hasn't released an RTX 4050 - its product stack begins with the RTX 4060 8GB that cost over $300 when new.
+Intel hasn't had an easy time trying to break into the GPU market, though, with the unenviable task of optimizing drivers for hundreds of games to compete with AMD and Nvidia. the current situation based on recent tests by various tech review outlets is that there is still work to be done, but performance in much improved. Still, the release of a new graphics cards is encouraging and shows Intel's commitment to continue to push forwards and when graphics card prices show no signs of falling, additional options below $300 are very welcome.
+
+NVDA price 3 days before article release: 135.2863311767578
+
+NVDA price 1 day before article release: 138.57504272460938
+
+NVDA price the day of article release: 140.20440673828125

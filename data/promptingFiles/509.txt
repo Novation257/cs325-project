@@ -1,0 +1,22 @@
+10 Interesting Facts About NVIDIA Hopper H100 GPU
+
+Mar 27, 2022, 07:37am EDT
+
+At the Graphics Technology Conference (GTC), NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago. With 9X faster AI training and 30X faster inference, it’s more than just an incremental upgrade to A100.
+Here are ten facts about NVIDIA’s next-generation GPU:
+1) The GPU is based on Hopper architecture, a successor to the Ampere architecture that powers A100 and A30 GPUs. The A100 GPUs are available through NVIDIA’s DGX A100 and EGX A100 platforms.
+2) Compared to A100 GPUs that support 6912 CUDA Cores, the H100 boasts 16896 CUDA Cores. NVIDIA GPUs have CUDA cores, which are equivalent to the CPU cores. They can run many calculations simultaneously, something essential for modern AI and graphics workloads.
+3) The H100 GPU is packed with 80 billion transistors, while the previous generation of GPUs based on A100 had 54.2 billion transistors. Ths increase in transistors results in faster calculations and processing.
+4) H100 GPU features a 2nd-generation secure Multi-Instance GPU (MIG) with capabilities extended by 7x the previous version. NVIDIA claims the new GPU architecture provides approximately 3x more compute capacity and nearly 2x more memory bandwidth per GPU instance than A100.
+5) Confidential computing support in H100 protects user data, defends against hardware and software attacks, and provides better isolation and protection to virtual machines (VMs) from each other in virtualized and MIG environments.
+6) The H100 GPUs come with the 4th generation NVLink that delivers a 3x bandwidth increase on all-reduce operations and a 50% general bandwidth increase over the prior generation NVLink. NVIDIA’s NVLink is a direct GPU-to-GPU interconnect that scales multi-GPU input/output (IO) within the server.
+7) The H100 GPU comes with inbuilt support for DPX instructions that accelerate dynamic programming algorithms by up to 7x over the A100 GPU. Dynamic programming was developed in the 1950s to solve complex problems using two key techniques based on recursion and memoization. Applications that rely on complex SQL queries, quantum simulation, route optimization can take advantage of the DPX instruction set available in H100.
+8) The H100 GPU is optimized for transformers. The inbuilt transformer engine uses a combination of software and custom NVIDIA Hopper Tensor Core technology explicitly designed to accelerate transformer model training and inference. Transformers represent the latest developments in neural networks architecture for training computer vision and conversational AI models. They are used in large language models such as Google’s BERT and OpenAI’s GPT-3.
+9) NVIDIA is updating the HGX AI supercomputing platform with H100 GPUs. The HGX platform enables hardware vendors to design servers optimized for NVIDIA GPUs. The timeline for the availability of the HGX platform based on H100 GPUs is yet to be announced.
+10) Systems based on H100 GPUs will become available in Q3 2022. These include NVIDIA’s own DGX and DGX SuperPod servers, along with the servers and hardware from OEM partners using HGX baseboards and PCIe cards.
+
+NVDA price 3 days before article release: 26.47579574584961
+
+NVDA price 1 day before article release: 28.09884262084961
+
+NVDA price the day of article release: 27.64167594909668

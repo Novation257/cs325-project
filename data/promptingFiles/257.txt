@@ -1,0 +1,20 @@
+Bitcoin Outperformed Nvidia, Google And Amazon In Rewards Per Risk In October 2024
+
+Nov 04, 2024, 02:23am EST
+
+Bitcoin delivered the highest risk-adjusted returns among major tech assets in October 2024, with a Sharpe ratio of 4.35, surpassing NVIDIA (3.65), Google (1.38) and Amazon (0.33), my analysis shows. The results challenge the traditional view of bitcoin as a purely speculative asset.
+Sharpe ratio reflects how well an asset rewards investors for taking risk. A higher ratio means better returns relative to volatility, letting investors compare different types of assets fairly. The ratio, based on monthly returns, works better for predicting next month's performance, though past performance doesn't guarantee future returns.
+Seven out of ten analyzed tech stocks, including Apple, Tesla, Meta, Microsoft Intel and AMD, posted negative risk-adjusted returns for October. Only bitcoin, NVIDIA and Google delivered positive Sharpe ratios, suggesting bitcoin's growing maturity in balancing returns against risk versus traditional tech investments.
+"While Big Tech wrestles with slowing growth and shaky valuations, bitcoin has quietly stolen the spotlight, delivering superior returns that flip its volatile label on its head and prove it's the dark horse asset worth watching," commented Todd Ruoff, CEO at Autonomys in an email statement.
+My October volatility comparison adds context. Bitcoin's monthly price volatility was 11%, while Tesla moved 24%, AMD 16% and NVIDIA 12%. Yet bitcoin generated higher risk-adjusted returns than these major tech stocks.
+Apple's lowest volatility of 5.6% yielded slightly negative returns (-0.08), while Google's 6% volatility produced the third-best Sharpe ratio (1.38). Amazon's 7% volatility translated into modest positive returns (0.33), but Meta (7.8%), Microsoft (7.4%) and Intel (8.9%) all recorded negative ratios despite their relatively stable prices.
+The scatter plot shows how well each asset balanced returns with risk in October 2024. The higher position means better risk-adjusted returns, while moving right shows increasing volatility. The ideal position would be top-left: high returns with low volatility. Bitcoin came closest to this optimal balance, with NVIDIA following closely behind, while most tech stocks clustered in the lower-left quadrant, showing lower volatility but worse returns.
+It's the relationship between returns and volatility that matters. For example, both bitcoin and NVIDIA showed relatively high volatility (11-12%) but achieved the best Sharpe ratios because their returns more than compensated for the increased risk. This demonstrates that assets can succeed with higher volatility if they deliver proportionally higher returns.
+"However, BTC's current Sharpe ratio, while high, doesn't guarantee stability for the long run, many things can change daily, potential market shifts and election results could still introduce more volatility across all markets," warns Ronen Cojocaru, CEO at 8081 in an email statement.
+Methodology: I measured price movements by calculating daily logarithmic returns between October 1-31, 2024. The Sharpe ratio divides monthly returns by volatility to show how much return each asset generated per unit of risk. All price data comes from Investing.com. The formula uses zero as the risk-free rate due to the short one-month period. A positive ratio means the asset provided returns beyond its risk level, while negative ratios show returns didn't justify the volatility.
+
+NVDA price 3 days before article release: 141.19400024414062
+
+NVDA price 1 day before article release: 132.70738220214844
+
+NVDA price the day of article release: 135.34632873535156

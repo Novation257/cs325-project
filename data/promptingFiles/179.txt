@@ -1,0 +1,19 @@
+Apple, Nvidia And Tesla Among Hardest Hit As Tariffs Drag Down Stock Market
+
+Feb 03, 2025, 10:01am EST
+
+The U.S. stock market sold off Monday morning as Wall Street digested President Donald Trump’s tariffs on Canadian, Chinese and Mexican goods set to go into effect Tuesday, before recovering some after Trump announced the Mexican levies won’t start for at least a month.
+Broad indexes tumbled Monday morning, as the benchmark S&P 500 fell 1.5% by mid morning, the blue chip Dow Jones Industrial Average dropped 1.1%, or 470 points, and the tech-concentrated Nasdaq dipped 1.9%.
+Once Trump confirmed the Mexico tariffs would be delayed a month, markets bounced back some, with the Dow closing down just 0.3%, the S&P 0.8% and the Nasdaq 1.2%.
+After more than 90% of the S&P’s 500 constituents were negative early Monday, less than 60% were down by late morning, and the companies hardest hit by the tariff slide largely fell into four buckets: alcoholic beverage purveyors, automakers, multinational technology firms with heavy China exposure and cryptocurrency-focused companies.
+Shares of Constellation Brands (-4%), which controls the U.S. distribution for Mexican beers Corona and Modelo, tanked to their lowest level since October 2020, though the stock had dropped as much as 8% earlier.
+American car companies, an industry heavily reliant on Canadian and Mexican imports, also flailed, with car stocks declining across the board, including Ford (-2%), General Motors (-3%), Jeep parent Stellantis (-4%) and Elon Musk-led Tesla (-5%), though losses were much thinner than they were earlier, when Ford and Tesla traded down 5% and 7%, respectively.
+Tesla was particularly battered as it joined Apple (-3%) and Nvidia (-3%), as American multinational companies with the highest proportion of sales in China.
+Crypto-heavy stocks pared back a stark morning drop as crypto prices recovere from their weekend dive as shares of leveraged bitcoin whale MicroStrategy turned what was an 8% loss to a nearly 4% gain, while exchanges Coinbase (-2%) and RobinHood (down less than 1%) and bitcoin miner Marathon Digital (-2%) stayed red.
+About 5%. That’s how much of a hit the S&P’s fair-value price would take, Goldman Sachs strategists led by David Kostin wrote in a late Sunday note to clients. Goldman estimates a 2% to 3% total hit to corporate earnings directly from the tariffs and a further ding as policy uncertainty causes the market to reassess the historically lofty price-to-earnings ratios now enjoyed by American stocks.
+
+NVDA price 3 days before article release: 123.65947723388672
+
+NVDA price 1 day before article release: 120.03067016601562
+
+NVDA price the day of article release: 116.62178802490234

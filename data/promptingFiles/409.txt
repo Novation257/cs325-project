@@ -1,0 +1,16 @@
+Nvidia Sells 500,000 AI GPUs, RTX 4090D To Avoid Export Ban For Gamers
+
+Nov 30, 2023, 12:04pm EST
+
+Nvidia recently saw revenue rise by a massive 206% year on year thanks to the sale of AI-focussed GPUs, but happy shareholders are just one part of the story. Gamers and Chinese export bans are other issues the company is grappling with amid a surge in AI hardware sales.
+Off the back of the sale of half a million H100 AI GPUs in Q3, mostly purchased by Facebook's parent company, Meta, as well as Microsoft, aiding a 279% boost to year on year AI revenue, the company is predicted by TSMC to become the world's largest chip company. However, its China sales have been hampered due to the recent enforcement of an export ban.
+The ban is to limit the sales of advanced AI GPUs to China, which could find their way into the military, boosting its capabilities.  Older restrictions on GPU sales focussed on a bidirectional  transfer rate of 600GB/sec and chip performance of 4800TPP (total processing performance). It's AI GPUs such as the powerful A100, is banned from sale in China, but recently it came to light that hordes of gaming-orientated RTX 4090s with its AD102 GPU cores were purchased and are being repurposed as AI GPUs.
+The RTX 4090 is now also banned as its TPP is above 4,800 and the Biden administration implemented performance density restrictions in October, shifting the goal posts and making it even harder to ship high-end GPUs to China. With the RTX 4090 banned, AMD's Radeon RX 7900 XTX has been in high demand given it's the company's flagship card that can perform close to the RTX 4090 in some games.
+Nvidia is keen to keep sales figures up and is working on both gaming and AI-focussed models with less performance to sit below the restrictions and avoid the ban. A so-called RTX 4090 D has been detailed by MEGAsizeGPU, with the D standing for Dragon, will feature a A102 GPU on a diet - the AD102-250 rather than the AD102-300-A1 under the hood of the RTX 4090.
+Nvidia also has H20, L20 and L2 AI GPUs that are designed to sit under the performance and density restrictions for sale in China. These new AI GPUs are due for release in 2024.
+
+NVDA price 3 days before article release: 48.20828628540039
+
+NVDA price 1 day before article release: 48.10636520385742
+
+NVDA price the day of article release: 46.73731994628906

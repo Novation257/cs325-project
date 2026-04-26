@@ -1,0 +1,20 @@
+AMD Talked With Nvidia About Acquisition Before Grabbing ATI
+
+Feb 22, 2012, 05:43pm EST
+
+Advanced Micro Devices approached graphics processor designer Nvidia about an acquisition before snapping up Nvidia rival ATI in 2006, former AMD employees say.
+Like many in the processor industry, AMD leaders believed that shrinking transistors would create an opportunity to add new capabilities to the processors AMD and rival Intel designed for PCs and servers.
+For the full story, click here to read our profile of Advanced Micro Devices from the March 12 issue of FORBES magazine.
+So AMD Chief Executive Hector Ruiz decided to bet that AMD could get ahead of rival Intel by grabbing a piece of the market for the graphics processing units (GPUs) that allow PCs and gaming consoles to render sophisticated images.
+Unlike CPUs, which are typically built around a small number of powerful, hyper-responsive computing engines, GPUs rely on larger swarms of computing cores to grind through highly repetitive tasks -- like rending graphics -- in a hurry. Fusing CPUs and GPUs would let AMD hit the PC market with something Intel wasn’t ready to offer.
+AMD’s first target: Nvidia. But Nvidia Chief Executive Jen-Hsun Huang (see our January 7, 2008 cover story on Nvidia "Shoot to Kill") insisted on being chief executive of the combined company, according to a former AMD employee (Nvidia declined to comment for this story).
+Ruiz opted instead to acquire Nvidia rival ATI in July of 2006 for $5.4 billion. AMD’s acquisition ran into early trouble, however, as Nvidia unleashed a fussilade of strong products, gobbling up market share as AMD struggled to integrate its newly acquired graphics business.
+While AMD has fought its way back, with a strong lineup of graphics processors, Nvidia moved aggressively into the market for mobile processors.
+That paid off last year, when Microsoft announced its new operating system, Windows 8, will run on mobile processors built by Nvidia, Qualcomm, and Texas Instruments, in addition to chips sold by AMD and Intel.
+Nvidia now has a market capitalization of $9.7 billion. AMD is worth just $5.2 billion.
+
+NVDA price 3 days before article release: 0.3770276606082916
+
+NVDA price 1 day before article release: 0.3651094734668731
+
+NVDA price the day of article release: 0.3625884056091308

@@ -1,0 +1,40 @@
+Nvidia Reports A Record Q3'15: Continued Growth In PC Gaming, Automotives &amp; Large Scale Data Centers
+
+Nov 07, 2014, 01:42pm EST
+
+Graphics processor provider, Nvidia reported a strong Q3 2015 driven by record revenue and improved performance across all businesses. The company reported a 16.3% annual and 11.1% sequential increase in revenues ($1.23 billion) backed by strong growth in GeForce GPUs for gaming, datacenter GPUs and auto infotainment systems. At 55.2%, gross margins declined by 90 basis points sequentially (in line with company expectations) as higher GPU margins for PC platforms as well as datacenter and cloud GPUs were partially offset by the impact of Tegra processor margins, which are lower than the company's overall average. Backed by strong revenue growth and contained operating expenses, Nvidia’s GAAP earnings per diluted shares increased 57.7% for the first nine months of fiscal 2015, compared with the same period last year.
+Over the years, Nvidia has transformed into a business focused on graphics and computing platforms: PC and mobile gaming, cloud datacenters and supercomputers, as well as professional design systems and automotive electronics. The company claims that PC OEMs now represent less than 25% of its GPU business and much less than 25% of its overall business. Nvidia’s focus on addressing the top 30% of the market has also helped it outpace the growth of the PC market, where it has always had a significant exposure.
+Our price estimate of $18.83 for Nvidia is slightly below the current market price. We are in the process of updating our model for the Q3 2015 earnings.
+See our complete analysis for Nvidia
+PC Gaming Is A Growing Market & Nvidia’s GeForce Sits At The Center Of The Ecosystem
+Nvidia’s 13% year-on-year growth in GPUs was mainly driven by GeForce GPUs for gaming. The company witnessed 36% revenue growth in GPUs for gaming desktops and notebooks, mainly on account of the product transition to Maxwell based GPUs (desktop, notebook and workstation) in Q3 2015. Gaming notebooks performed particularly well, more than doubling compared to Q3 2014.
+Maxwell is Nvidia’s 10th generation GPU architecture, offering 2X the performance power of the Kepler architecture, which the company touted as the most energy-efficient GPU ever built by it. Nvidia claims that Maxwell received enthusiastic reception in the quarter, with both the desktop version and the notebook version of the processors winning extraordinary support from reviewers. With approximately 10 million gamers with GeForce GPUs installed in their systems that can benefit from a Maxwell upgrade, the company believes that it will continue to see growth in the PC gaming platform in the future as well.
+PC gaming represents almost 40% of the worldwide gaming market, which is higher than consoles, phones, tablets or any other individual gaming segment; GeForce sits at the center of the PC gaming ecosystem. The gaming business is expanding globally, which along with a brand new architecture helped Nvidia report a 30% growth in PC gaming revenue in Q3 2015. The company claims to be seeing great strength in developing countries, especially Asia.
+Another important factor driving Nvidia’s growth in gaming is its Shield tablet, which enjoyed solid demand during the quarter with sales extending into many worldwide markets. The company recently added the 32 gigabyte LTE model to the Shield family and expects to upgrade the tablet to Google's latest OS, Android 5.0 Lollipop.
+
+Automotive Segment Is The Fastest Growing Tegra Devision
+Nvidia’s Tegra processor sales grew 51% year-on-year in Q3 2015, led by auto infotainment systems, mobile devices, embedded systems and the onset of the Shield tablet sales. Auto infotainment systems revenue nearly doubled year-over-year with revenue up 11% sequentially.
+Though the mobile device segment is the largest sub-segment in the Tegra division, the automotive segment is the fastest growing and offers higher gross margins (compared to devices). Automotive electronics is a large market and it is going through a transition as cars have increased computing capability in both the drive train and the dashboard. Increasingly, dashboard functionality within cars (infotainment system, digital cluster and automatic driver assistance) are being computerized. Strategy Analytics expects the market for Advanced Driver Assistance Systems to be worth around $15 billion by 2016, with a CAGR of 23%.
+Nvidia has been working on building its automotive computing platform for over a decade and is in a strong position to take advantage of this growth. At present, there are more than 6 million cars using Nvidia processors on the road, and the company expects another 25 million processors to be integrated into vehicles over the next 5 years. Last month at the Paris Auto show, Honda announced that three of its popular models will come standard in the European market with a Tegra based infotainment and navigation system. This marks the first in-vehicle infotainment system to use the Android operating system running on Tegra. In addition to Honda, Nvidia’s clients list also includes Volkswagen, Audi, BMW, Lamborghini and Tesla Motors.
+
+Large-Scale Data Centers To Be A Significant Source Of Future Growth
+Nvidia also reported a record quarter for its datacenter business, which it claims is seeing expansion in multiple ways, in Q3 2015.
+Quadro revenue growth remained strong, with the new product platform launched in August delivering industry leading graphics and rendering performance. The Quadro professional solutions, including processors based on the new Maxwell GPU architecture, are seeing a fast ramp up in the market and are being shipped by all of Nvidia’s major OEM partners. The new line up provides up to two times the improvement in application performance and data handling capability.
+Nvidia’s Tesla processors reported another quarter of strong earnings as high performance computing customers and cloud service providers deployed large Tesla powered systems. Mobile web service companies like China Baidu are standardizing on Tesla as their common platform. Recently, IBM unveiled its first open power based system featuring Tesla GPU accelerators which can significantly enhance Java, Big Data and technical computing applications. IBM announced plans to accelerate their enterprise applications using Tesla GPUs, including their nearly pervasive IBM DV2 with Blue database software. According to IDC, 32% of all HPC computing systems are IBM implementations.
+Nvidia’s GRID graphics virtualization continues to gain momentum, with around 1,000 enterprises worldwide evaluating the GPU server platform though the tri-grid online demonstration. The company had launched a program with VMware for early customer access to GRID virtualized GPUs in August this year. The program is drawing wide global interest, and some of the early customers include: the aircraft maker Airbus, the international construction group CH2M Hill, healthcare provider MetroHealth, Villanova University and Halliburton.
+
+Q4 2015 Outlook
+- Revenues of $1.2 billion, +/- 2%.
+- GAAP and non-GAAP gross margin of 55.2% and 55.5%, respectively, +/- 50 basis points.
+- GAAP and non-GAAP operating expenses of approximately $470 million and $422 million, respectively.
+- GAAP and non-GAAP tax rate of 18%, +/- 1%.
+View Interactive Institutional Research (Powered by Trefis):
+Global Large Cap | U.S. Mid & Small Cap | European Large & Mid CapMore Trefis Research
+
+Like our charts? Embed them in your own posts using the Trefis WordPress Plugin.
+
+NVDA price 3 days before article release: 0.4809499680995941
+
+NVDA price 1 day before article release: 0.4831002056598663
+
+NVDA price the day of article release: 0.4728264808654785

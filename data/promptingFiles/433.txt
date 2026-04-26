@@ -1,0 +1,17 @@
+Nvidia In Surprise Graphics Card Price Drops
+
+Jul 09, 2023, 11:59am EDT
+
+Graphics cards are expensive and that's one reason Nvidia's RTX 40-series has received a luke-warm reception over the last few months, but in Europe at least, prices are falling quickly with both the RTX 4060 launched recently and the RTX 4080 too.
+Starting with the RTX 4060, which has 8GB of memory and was retailing for around 329 euros at launch, the card is now regularly spotted below 315 euros and even as low as 309 euros - a six percent drop in a week since the card's launch.
+Sadly, the US has not seen the same action, with prices stubbornly stuck at $299 despite a tepid reception by reviewers overall. As a result, thee are plenty of older cards from AMD and Nvidia itself that PC enthusiasts continue to flock to, especially of they're not invested in ray tracing or DLSS and mostly play older games or those not compatible with those features.
+Prices usually fall after launches, but more often in the months after a launch - not within days. However, a particularly stubborn price point has been that of the GeForce RTX 4080, which has not come close to $1,000 since launch.  In fact, it hasn't really been seen under $1200.
+At Newegg recently, though, the MSI Ventus GeForce RTX 4080 was available for $999, retailing for $1,099 and combining that with an available coupon. That's the first time the card has offered any kind of change from $1,000. While the RTX 4080 has also seen price drop in Europe, the 17 percent price drop in the US from $1,199 to $999 is the biggest, albeit a temporary one as the price has since increased again.
+Overall, graphics card pricing has reduced significantly over the last few months in the wake of new graphics card launches from AMD and Nvidia. The mid-range has been underserved here, though, with AMD only outing the lower end Radeon RX 7600 and high end Radeon RX 7900 XT and 7900 XTX. It's still expected to launch 7700 and 7800-series products, though, most likely this autumn.
+In the meantime you should check out this review of the GeForce RTX 4060, this review of the Radeon RX 7600 and this review of the RTX 4060 Ti for the latest gaming benchmarks to see which is the best graphics card so far in 2023. We're also waiting for the launch of Nvidia's RTX 4060 16GB model later this month.
+
+NVDA price 3 days before article release: 42.37986755371094
+
+NVDA price 1 day before article release: 42.07011795043945
+
+NVDA price the day of article release: 42.46979904174805

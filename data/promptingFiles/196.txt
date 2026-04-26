@@ -1,0 +1,29 @@
+Nvidia GeForce RTX 5090 Review: Just How Fast Is It In Games?
+
+Jan 23, 2025, 09:00am EST
+
+Today Nvidia has lifted the embargo on review benchmarks of its new flagship graphics card and in this Nvidia GeForce RTX 5090 Review you can see below just how fast it is in games. You can find results for framerates in a range of games to see just how fast it is compared to other models you might own or be considering such as the RTX 4090 or Radeon RX 7900XTX. The questions we all want to know are, of course, how much faster is it than those models both with and without new framerate boosting features such as Multi Frame Generation and DLSS 4.
+To answer those questions, both older and more current games are in the benchmarks below, with other review website undoubtedly covering even more titles. Ultimately, the RTX 5090 like its predecessor was never about selling to the masses. Its $2000 price tag is evidence enough of that. But, the RTX 4090 still boasts above 1% market share of graphics cards listed in the Steam Hardware Survey so there are plenty being sold, even at these prices.
+
+The RTX 5090 drew up to 562W according to Nvidia Frame View, but typically sat between 450-500W in games with the peak being in Alan Wake 2. The RTX 4090 seemed to draw noticeably less, typically sitting between 350-450W. However, the Founders Edition cooler seemed to do a great job, keeping the temperature below 65°C in games. While the compact, decent-performing cooler may mean that your case and cooling will be ample to deal with the RTX 5090 Founders Edition, you'll definitely need a power supply that has at least 600W on tap for the graphics card if it has a 16-pin 12VPWR PCIe 5 cable. Many sub 1000W power supplies lack that feature so check the specifications.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+The test system included a AMD Ryzen 7 9800X3D processor liquid-cooled with Alphacool cooling hardware, 32GB of DDR5 6000 memory and a Thermaltake Toughpower GF3 1200W power supply. The latest version of Windows 11 was used as of Jan. 2025 as well as the latest drivers for other graphics cards. Only 4K resolution was tested here and only with the RTX 4090 and Radeon RX 7900 XTX for now, but more results and cards will be added in my forthcoming RTX 5080 review.
+It's clear that while the RTX 5090 isn't on average a huge amount faster than the RTX 4090, in more demanding games and when switching on a lot of eye candy, the results can often be more significant. The bigger increases were nearly always with the average frame rate with 1% lows seeing less of a boost.
+There will likely be a huge amount of reviews and additional testing out there over the next few weeks thanks to the various AI powered bolt on features from Nvidia such as DLSS 4 and Multi-Frame Generation. Below I've carried out tests in two games, with and without ray tracing and at various levels of Multi Frame Generation using the RTX 5090. As these were using non-public builds of these games, I've not included other graphics cards for now, but will once direct comparisons can be made. Still, it's clear to see the benefits of these technologies below using the RTX 5090.
+The average frame rate is the one that benefits, usually increasing by three or four times compared to no frame generation and the benefits are roughly the same whether you enable ray tracing or not. In Cyberpunk 2077, the 1% low frame rate
+It's fairly obvious that a tiny proportion of you reading this review will even be considering buying the RTX 5090 given its $2,000 price tag and that could be higher still as websites begin listing various models today with bigger more elaborate coolers. Still, it maybe gives a glimpse of what we can expect with other models, which if the limited comparisons here are anything to go by are decent uplifts over the previous generation, but being worth an upgrade from an RTX 4090 only in specific games and to be sure I'd always recommend checking out other reviews from the likes of Techpowerup.
+Elsewhere, RTX 4090 owners won't see massive benefits, but there's no doubt the RTX 5090 offers a lot more performance and in the case of the Founders Edition model, takes up far less space too. If you've already used the likes of DLSS and frame generation, then you'll likely benefit far more as average frame rates can skyrocket in titles that support DLSS 4 and Multi Frame Generation. It's perhaps a personal decision but the features are widely considered useful tools in boost frame rates with little to no loss in image quality or game feel. That's certainly my view of them.
+Ultimately if you must have the fastest PC around, this is the graphics card for you, but if you're budget is significantly smaller, remember that the RTX 5080 launches at the end of the month with a price tag of $1,000 and AMD is also releasing new graphic cards in the next month or two. For now and probably for the next 24 months, though, the RTX 5090 is likely to reign supreme.
+
+NVDA price 3 days before article release: 137.66490173339844
+
+NVDA price 1 day before article release: 147.02183532714844
+
+NVDA price the day of article release: 147.17178344726562

@@ -1,0 +1,61 @@
+Generative AI’s $7 Trillion Ecosystem: Invest In Nvidia, Microsoft, Adobe And More
+
+May 30, 2023, 10:19am EDT
+
+Generative AI is all the rage — particularly since May 24, when chip maker Nvidia forecast mind-blowing revenue growth driven by demand for its chips from consumer internet companies like MicrosoftMSFT, GoogleGOOG and Meta Networks.
+After decades of unrealized hype, could the promise of artificial intelligence finally be here? If so, will it be as big as the internet or the iPhone — or bigger? How can investors pick the right stocks and how can business leaders grab a share of the right markets?
+Generative AI has seized the attention of the media and investors and experts predict it will have a huge economic effect and create enormous wealth.
+Those seeking to profit must understand the entire Generative AI ecosystem — potentially consisting of seven distinct industries — and pick the stocks that can win the lion’s share of the most attractive market opportunities.
+Generative AI — machines that respond to natural language prompts by “writing engaging text or painting photorealistic images,” according to TechTarget — could create major economic change and spur big growth opportunities.
+For example, according to Goldman Sachs, Generative AI could raise global GDP by $7 trillion (nearly 7%) and and boost productivity growth by 1.5 percentage points. The ecosystem could create markets for suppliers of technology and services worth hundreds of billions of dollars.
+Generative AI could increase global GDP by 7% — by nearly $7 trillion — and boost productivity growth by 1.5 percentage points.
+Goldman Sachs economists Joseph Briggs and Devesh Kodnani — while noting uncertainty about their forecast — wrote “generative AI’s ability to generate content that is indistinguishable from human-created output and to break down communication barriers between humans and machines” could contribute to higher GDP and productivity.
+Generative AI could automate 300 million full-time jobs. Goldman Sachs economists estimated that about 66% of 900 occupations are somewhat exposed to AI-induced automation. While 25% to 50% of these jobs could be replaced by AI, the technology would complement — rather than replace — most jobs.
+The analysts also forecast AI will produce demand for new workers. These new jobs would employ “webpage designers, software developers and digital marketing professionals” as well as service sector workers in “healthcare, education and food services,” noted Goldman Sachs.
+Generative AI models must be built and trained — creating significant growth opportunities for suppliers of technology and services.
+To build a generative AI model, developers must represent things — such as words, images, sounds, proteins, DNA, drugs, and 3D designs — as “vectors” to analyze patterns. For example, vectors might uncover “words often used in the same sentence or that mean similar things,” noted TechTarget.
+Training generative AI means testing and refining these models by unleashing them on huge amounts of data. For example, “a call center might train a chatbot against the kinds of questions service agents get from various customer types and the responses that service agents give in return,” according to TechTarget.
+As Google and Meta Platforms build their own versions of Microsoft’s ChatGPT, many technology providers are supplying the required picks and shovels. For example, application software developers are using generative AI to raise the productivity of knowledge workers, speed up scientists’ discovery of new drugs, and accelerate software development.
+Goldman Sachs Research estimates a $150 billion total addressable market for generative AI software — representing 22% of the global software industry — as software providers charge customers higher prices for AI-integrated applications.
+Another significant market opportunity is supplying the technology that cloud services providers — specifically Amazon Web Services, Google Cloud Platform, and Microsoft Azure — use to enable the design, training, and operation of generative AI models.
+Andreessen Horowitz estimated these CSPs spend “more than $100 billion” annually on capital expenditures for hardware such as Nvidia graphics processing units and/or AMD tensor processing units that control the systems for building, training, and operating generative AI models.
+Investors and entrepreneurs should map out the value network — the chain of industries between the raw materials and the ultimate consumer — to home in on the best opportunities.
+This is important because each link in the chain has varying levels of inherent profit potential, unique customer purchase criteria, differing capabilities required to succeed, and potential return on investment.
+The Generative AI value network consists 0f five more clearly-defined links and two — management consultants and capital providers — which could emerge as independent publicly traded companies, as they did during the dot-com boom.
+The Generative AI value network includes the following industry participants: semiconductors; network technology suppliers; cloud services providers; applications; consumers; management consultants; and capital providers.
+To train generative AI models, developers need computing networks that can do many computations simultaneously. To do that, they need semiconductors — specifically, graphics chips.
+Nvidia — which has added $245 billion to its stock market capitalization between May 24 and pre-market trading on May 30 — due to high demand for its GPUs — is the leader in this product category.
+Demand for the pricey GPUs is likely to rise. UBS analysts estimate an earlier version of ChatGPT required about 10,000 graphic chips — which cost $33,000 or more apiece at the retail level. TeslaTSLA CEO Elon Musk estimates “an updated version requires three to five times as many of Nvidia’s advanced processors,” the Wall Street Journal reported.
+One other semiconductor maker — Advanced Micro Devices — could also compete in this growing market. CEO Lisa Su is reorganizing AMD — whose shares rose 21% between May 24 and pre-market trading on May 30 — to prioritize AI chips such as its forthcoming MI300 CPU/GPU.  The company says this will cut the time to train and operate generative AI models.
+Nvidia outsources the manufacturing of its GPUs to Taiwan Semiconductor Manufacturing Company whose stock rose 16% between May 24 and pre-market trading on May 30. “TSMC is a key part of the manufacturing process for many semiconductor firms that design their own chips but can rely on TSMC to handle the delicate and technical manufacturing process,” according to CNBC.
+The GPUs reside within networks of servers that process the simultaneous calculations needed to build and operate generative AI models. To accelerate the communication among these servers, model developers need networking hardware.
+Selling such networking hardware for generative AI developers could become a multibillion-dollar market in the next five years.
+One provider that stands out in this segment is Arista NetworksANET — whose shares rose 24% between May 24 and pre-market trading on May 30. Rivals Cisco SystemsCSCO and Juniper NetworksJNPR saw shares gain 2% and 5%, respectively, during that time.
+Arista sells computer network switches that speed up communications among racks of computer servers packed into what it calls “hyperscale” data centers operated by Meta Networks. In 2022, Meta accounted for 26% of Arista’s revenue while Microsoft contributed to 15% of Arista revenues last year, according to Investor’s Business Daily.
+Arista is in the early days of developing technology for generative AI. At a May 23 JPMorgan tech conference, CFO Ita Brennan emphasized Arista’s early stage in the development of its strategy for AI.
+CEO Jayshree Ullal told investors during the company’s first quarter earnings conference call that Arista is “at the beginnings of understanding what AI really means and what the technology will look like" and the company is starting to envision future demand from its “larger hyperscale customers,” IBD reported.
+Morgan StanleyMS sees a significant opportunity for Arista. Analyst Meta Marshall estimates AI networking will be an $8 billion opportunity by 2028 “with Arista being one of the biggest beneficiaries.” AI revenue is expected to contribute to Arista later in 2023 and to become a far larger opportunity in 2024 and 2025, according to Marshall.
+Cloud services providers — such as Amazon AWS, Google Cloud, and Microsoft Azure — operate the computing networks that deploy the GPUs, network hardware and servers for generative AI models.
+Worldwide cloud revenue is expected to increase 21.7% in 2023 to $597.3 billion. GartnerIT expects generative AI to create “a surge in cloud revenue” driven primarily by these and other hyperscalers.
+Ultimately, all the investment in generative AI technology must result in applications that people pay money to use.
+Microsoft is the most prominent of these application developers, thanks to ChatGPT. From its November 2022, ChatGPT attracted 100 million users by February and 173 million users by April, according to NerdyNav.
+Microsoft could generate $40 billion in new revenue by selling the ChatGPT-powered Copilot in its Microsoft 360 applications — Word, Excel, and PowerPoint. While I am skeptical that Copilot will deliver enough value to users to be worth buying, Microsoft could prove otherwise.
+AdobeADBE — whose shares increased 17% between May 24 and pre-market trading on May 30 — has also entered the market for generative AI applications. In March 2023, it launched a “new family of AI models called Firefly,” according to TechCrunch. Firefly brings AI into the world of “generating media content,” said Alexandru Costin, Adobe VP of generative AI.
+PitchBook estimates the market for such enterprise generative AI applications will rise at a 31.6% annual rate to $98 billion in 2026 from nearly $43 billion this year.
+Businesses and individuals could find many ways to save time and money or generate revenue through the use of such applications. According to TechTarget, the uses of generative AI could include:
+
+
+As I wrote in my book, Net Profit, during the dot-com boom, consulting firms — such as Sapient — focused on helping companies develop strategies to profit from the internet. They grew so much that some became publicly traded companies.
+The same thing could happen for management consulting firms providing advice on how to deploy generative AI, how to protect against its business risks, and how to build the highest payoff generative AI applications.
+During the dot-com boom, venture capital firms — such as CMGI and Internet Capital Group — grew and went public. If venture capital firms fund generative AI startups that go public, investors could develop an appetite for publicly traded generative AI VC firms.
+PitchBook predicts 2023 venture investment in generative AI companies will exceed 2022’s level of $4.5 billion due in part to Microsoft’s recent $10 billion investment in OpenAI, the startup behind ChatGPT.
+Fortunes will be made and lost in generative AI. If you are looking to do that by investing, look for companies that pass three tests:
+
+
+If you want to capitalize on such opportunities through entrepreneurship, assess your strengths and weaknesses, and build a team that can turn your idea into a fast-growing publicly traded company.
+
+NVDA price 3 days before article release: 30.510990142822266
+
+NVDA price 1 day before article release: 38.91155242919922
+
+NVDA price the day of article release: 40.07552719116211

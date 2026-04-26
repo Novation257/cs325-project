@@ -1,0 +1,20 @@
+NVIDIA Broadens Focus On Women In STEM At GTC
+
+Oct 25, 2021, 10:25pm EDT
+
+Diversity and inclusion strategies remain a hot topic in board rooms across the globe. Over the past several years, technology companies have been heavily criticized for the low representation of women and minorities in technical and leadership roles. Many of these companies have since created hiring metrics and programs to recruit new talent. However, this isn’t a problem that can be fixed overnight. While women comprise nearly half the workforce, they hold only 28% of the jobs in science, technology, engineering, and math (STEM), according to the National Girls Collaborative Project.
+
+To change these figures, women must want to work in STEM and they need the educational background to perform the work. New foundations and programs such as Girls Who Code, Women in STEM and Latinas in STEM create an environment where young girls and women are encouraged to enter STEM fields. These organizations provide a vital sense of community, mentorship and advocacy. Signing on for a college program is one way to move into the AI field, but there are numerous educational paths to gain practical skills, from online courses to in-person events. Technology conferences play a crucial role in attracting and educating a diverse population about opportunities in emerging careers such as artificial intelligence.
+
+While AI is considered a largely male-dominated field, NVIDIA’s continues to drive its push for supporting women in STEM in its conferences and networking events.  NVIDIA's GTC highlights role models across gender, ethnicity and geographies. For example, GTC will feature sessions focused on business and technical topics in Africa, the Middle East, and Latin America. Speakers from organizations and universities, such as the Kenya AI Center of Excellence, Ethiopian Motion Design and Visual Effects Community, Python Ghana, Nairobi Women in Machine Learning & Data Science, and Chile Inria Research Center, will describe how emerging market developers are using AI to address challenges.
+
+Other speakers include Anima Anandkumar, the director of machine learning research at NVIDIA; Fei-Fei Li, professor of computer science at Stanford University; and Cristina Vasconcelos, a Research Software Engineer at Google. It's good to see NVIDIA showcasing a wide range of talent from across the globe.
+
+Why does it matter? It's essential for women, people of color, and various ages to have role models that highlight the opportunities available to anyone willing to learn new skills. Many technology vendors offer free or low-cost access to technology and online courses.  To create a balanced ethical culture, diversity and inclusion efforts must be executed in a way that promotes meritocracy and opportunities for learning and advancement.
+However, like any other area, a successful diversity and inclusion practice requires effort.  In addition to hiring diverse talent, organizations should evaluate how to cultivate talent from within the firm by leveraging the latest online educational tools. Also, supporting a hybrid and flexible work policy will enable companies to attract and retain talent.  One other tip, organizations should encourage employees to attend conferences like GTC to learn new skills and network with role models. Meanwhile, human resource departments should add AI courses as an option within a company’s educational curriculum. It's time to prepare for a more technology-driven future of work.
+
+NVDA price 3 days before article release: 22.056371688842773
+
+NVDA price 1 day before article release: 22.678056716918945
+
+NVDA price the day of article release: 23.117128372192383

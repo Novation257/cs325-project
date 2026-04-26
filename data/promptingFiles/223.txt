@@ -1,0 +1,19 @@
+Nvidia Reveals The RTX 5090: There’s Good And Bad News
+
+Jan 06, 2025, 10:50pm EST
+
+Nvidia has revealed four of its RTX 5000-series graphics cards at the CES event in Las Vegas and there's good and bad news when it comes to pricing. The RTX 5090, 5080, 5070 Ti And 5070 pricing was revealed as well as availability, with all four cards available from this month.
+With the pricing some cards are a lot more expensive, while others are cheaper compared to the original RTX 4000-series models. The RTX 5090 costs $400 more than the RTX 4090 did at launch, retailing for $1,999. The RTX 5080, though, costs $200 less than the RTX 4080 did at launch while the RTX 5070 Ti also sees a lower launch price than the RTX 4070 Ti by $50. Finally, the RTX 5070 will cost $549, which is a $50 price cut.
+This is probably not what AMD and Intel wanted to hear as they'd been focussing on the low end and mid-range with an emphasis on value and reigning in Nvidia's enviable market share. Price cuts for the likes of the RTX 5070 compared to the RTX 4070 is probably a worst case scenario so the graphics card market will be very interesting over the course of the next few months.
+In short, if you want an RTX 5090, it's going to cost you more. With everything else, you'll be paying less than you did with the original RTX 4000 series. This is a far cry from recent rumors that put massive markups on the RTX 5090 and 5080 expecially. There's been no mention of any cards below the RTX 5070 yet.
+Starting with the RTX 5090 and 5080, these will be available on Jan. 30 while the RTX 5070 Ti and RTX 5070 will be available in February. It seems Nvidia is skipping its own Founders Edition model on the RTX 5070 Ti, but will offer it on the other models, which will be available direct from its wesbite.
+The RTX 5060 TI and RTX 5060 are expected to make an appearance at some point in the near future, but as I left the keynote to head to bed here in the UK at 4am, no information had been revealed on those cards. That's to be expected, though, as the RTX 4060 and 4060 Ti took a few months to appear after the initial launch of the RTX 4000-series with cards such as the RTX 4090 and RTX 4080.
+There's more good news, though, as the card revealed today was the Blackwell architecture-based RTX 5090 and the most obvious feature about the beautiful, sleek new Founders Edition cooler design is how small it is. The RTX 4090 (below) was a massive triple-slot graphics card and required significant clearance in PC cases. The RTX 5090, though, appears to be a whole slot thinner, appearing to be around two slots.
+This likely means other models could be smaller in size and this also raises questions about existing information relating to specifications and power consumption as none of the rumors even came close to suggesting a two-slot RTX 5090. It's certainly a far cry from the enormous Inno3D model revealed earlier this week. Partner cards are often larger, but the difference here is an entire slot of depth, which is a huge difference. It will be interesting to see what other examples arrive from other board partners and whether any of those will be dual-slot too.
+I'll be covering the hardware launches in January as well as other announcements at CES this week, so follow me here on Forbes using the blue button below, Facebook or YouTube to get the latest news and reviews.
+
+NVDA price 3 days before article release: 134.2460174560547
+
+NVDA price 1 day before article release: 144.4226837158203
+
+NVDA price the day of article release: 149.38104248046875

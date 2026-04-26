@@ -1,0 +1,19 @@
+Nvidia Tops Expectations Again After Reporting Record Revenues
+
+Aug 28, 2024, 04:40pm EDT
+
+Nvidia continued its long run of topping Wall Street expectations in its latest quarterly earnings report published Wednesday, setting multiple earnings records amid significant year-over-year gains in sales and net income.
+Nvidia reported $0.67 earnings per share and a record $30 billion in sales for its second fiscal quarter ending in July, beating analyst expectations of $0.64 and $28.6 billion, according to FactSet.
+Nvidia’s $30 billion in sales marks a 122% increase from the same period last year.
+Net income totaled $16.5 billion in its latest quarter, signaling another profit record for Nvidia after reporting $6.1 billion in the same period last year and $14.8 billion last quarter.
+The tech giant’s datacenter division, the home of most of its artificial intelligence offerings, squashed analyst forecasts and raked in a record $26.3 billion in revenue, marking a 154% year-over-year increase.
+Shares of Nvidia closed up/down 2.1% at $125.61 before lowering to $121.18 in after-hours trading following the publication of its earnings report.
+This is a developing story. Check back for updates.
+Get Forbes Breaking News Text Alerts: We’re launching text message alerts so you'll always know the biggest stories shaping the day’s headlines. Text “Alerts” to (201) 335-0739 or sign up here.
+Blackwell, Nvidia’s highly anticipated AI superchip, has reportedly experienced production delays, according to The Information, though two of Nvidia’s supply partners have indicated a version of the chip could ship out in the fourth quarter. Delays are not likely to impact Nvidia’s third fiscal quarter, though pushouts could put pressure on the company’s stock “amidst ongoing market uncertainty around rates/geopolitics,” according to Bank of America Securities.
+
+NVDA price 3 days before article release: 129.30764770507812
+
+NVDA price 1 day before article release: 128.23817443847656
+
+NVDA price the day of article release: 125.54946899414062

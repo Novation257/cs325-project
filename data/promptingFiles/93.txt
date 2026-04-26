@@ -1,0 +1,24 @@
+Nvidia-Backed AI Startup Cohere To Open Asia-Pacific Hub In South Korea
+
+Jul 14, 2025, 08:00pm EDT
+
+AI startup Cohere, last valued at $5.5 billion, announced Tuesday plans to open an office in the South Korean capital of Seoul this year to serve as an Asia-Pacific hub.
+Cohere appointed Andrew Chang as vice president of Asia Pacific to lead the efforts in Seoul and oversee the company’s regional expansion. Chang was formerly the area vice president and Korea country manager at Nasdaq-listed Confluent, a data infrastructure software maker whose investors include Benchmark and Sequoia Capital. He previously worked at Google, Microsoft, IBM, Samsung SDS and Oracle.
+“We’re focused on building a strong local team, supporting forward-thinking customers, and partnering with the government to deliver secure AI solutions that drive meaningful impact across the public and private sectors to fuel economic productivity,” Aidan Gomez, cofounder and CEO of Cohere, said in a statement.
+The startup is headquartered in Toronto and San Francisco, and also has offices in New York and London. Cohere has raised $970 million so far from the likes of Nvidia, AMD, Oracle, Salesforce, Cisco, early CoreWeave backer Magnetar Capital, South Korea’s Mirae Asset and Japanese tech giant Fujitsu. Cohere’s last venture funding round was a $500 million Series D in July 2024. Cohere was featured on the Forbes AI 50 list this year.
+Founded in 2019 by Gomez, Nick Frosst and Ivan Zhang, Cohere was one of the earliest venture-backed developers of AI models. Gomez is one of the authors of the seminal 2017 research paper “Attention Is All You Need” that led to recent advances in generative AI technology.
+(Forbes is part of a group of publishers that has sued Cohere for allegedly scraping copyrighted works from the internet and using them to train its suite of large language models. Cohere has denied the claims.)
+Cohere develops large language models and customizes them for businesses, especially those in regulated sectors that manage sensitive data such as finance, healthcare, manufacturing, energy and government. The startup helps companies seeking better data security use AI to automate repetitive tasks like risk assessment, insurance claim processing and quality control.
+For example, the company helps LG CNS, the information technology services affiliate of South Korean billionaire Koo Kwang-mo’s LG Group, to develop custom AI models with state-of-the-art Korean language capabilities that can be integrated with Cohere’s AI agent product, North. Cohere has a similar partnership in Japan with Fujitsu.
+LG CNS said Thursday it co-developed a 111 billion parameter LLM with Cohere. The model supports 23 languages, including Korean, Japanese, Chinese, Hebrew and Persian, and is designed to run on companies’ own data centers.
+“Cohere empowers Korean enterprises by providing secure, multilingual AI solutions tailored to their unique needs,” Chang said in an email to Forbes. “We help businesses overcome the biggest hurdles to AI adoption: security, privacy, and making AI accessible to non-technical employees.”
+“Our partnership with LG CNS is a prime example,” he added. “We’re creating custom agentic AI solutions that excel at understanding Korean and finance-specific jargon. As the first South Korean enterprise to customize North to serve their customers, they’re already seeing results. Together we secured a major public sector AI project with South Korea’s Ministry of Foreign Affairs.”
+Cohere’s decision to open an office in South Korea comes as the country’s new president, Lee Jae Myung, pledged during his campaign to invest up to 100 trillion won (about $72 billion) in AI infrastructure and development.
+OpenAI, the world’s most valuable AI startup, announced in May that it plans to open an office in South Korea, where it has the highest number of paying subscribers outside the U.S. for ChatGPT.
+More from Forbes
+
+NVDA price 3 days before article release: 162.85293579101562
+
+NVDA price 1 day before article release: 164.89259338378906
+
+NVDA price the day of article release: 164.04273986816406

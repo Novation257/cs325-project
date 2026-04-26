@@ -1,0 +1,24 @@
+AV Receiver HDMI Bug Update: Good News For PS5 And Nvidia Gamers
+
+Dec 09, 2020, 04:34pm EST
+
+The arrival of the next generation of video gaming in the shape of the PS5, Xbox Series X and Nvidia RTX 30 graphics cards has been plagued - all too predictably, alas - by problems associated with the next generation of HDMI connection upon which many next-gen gaming features depend.
+Arguably the most alarming of these issues was the discovery (as reported in this earlier story) that the first generation of new AV receivers equipped with ‘HDMI 2.1’ ports capable of passing through such key gaming features as 4K at 120Hz, variable refresh rates and automatic low latency mode switching suffered with a bug that appeared to make it impossible to pass through 4K/120Hz feeds.
+This week, though, Marantz and Denon owner Sound United has provided Stereonet with an update on the situation stating that according to its own extensive in-house testing, its new AVRs can in fact pass 4K at 120Hz from both the PS5 and, more surprisingly, Nvidia’s RTX 30 graphics cards.
+When news of the new receivers’ HDMI issues first broke, it was thought likely then (before the consoles had arrived) that the PS5 wouldn’t be affected by the problem. But it’s still great to have this confirmed by Sound United (as well as numerous PS5 owners).
+The Nvidia RTX 30 discovery, though, is more unexpected. According to the magazine c’t, which first reported the HDMI problem, Nvidia’s new cutting edge PC cards were expected to join the Xbox Series X in not passing 4K/120Hz properly through Denon and Marantz’s latest AVRs. Sound United is now not only able to state that this is not the case, however, but has released a (very useful) video explaining how to make sure your AVR and your Nvidia card are set up correctly to ensure there are no issues. A similar video for PS5 users can be found here.
+During its tests, Sound United successfully got a Denon AVR-X2700H receiver to pass 4K/120Hz through from a PS5 and Nvidia RTX 3090 graphics card in all the formats you would expect. Namely RGB 8-bit, RGB 10-bit, YCbCr420 8-bit, YCbCr420 10-bit, and YCbCr420 12-bit.
+If you know your graphics formats and are wondering why 4K/120Hz in 12-bit RGB isn’t on this compatibility list, it’s because the Denon and Marantz ‘8K compatible’ HDMI ports are designed to handle 40Gbps data rates rather than the 48Gbps data rates required to carry 12-bit RGB 4K/120Hz signals. This isn’t a problem, though, given that there are currently no 12-bit TVs out there. In fact, not even LG’s latest game-friendly X series of OLED TVs carry 48Gbps HDMIs, also choosing to stick instead at 40Gbps.
+While Sound United’s tests add up to great news for PS5 and Nvidia RTX 30 owners looking to combine the cutting edge graphics of their new gaming beasts with high quality surround sound, though, it’s still a waiting game for Xbox Series X owners. Sound United has not as yet found a way to get Microsoft’s latest console to work in 4K/120Hz with any of its new AVRs.
+Some have speculated that this is down to the Xbox using the Display Stream Compression (DSC) option that’s available as part of the HDMI 2.1 specification. However, Sound United Product Marketer Frederic Filleul informs me that there are still several potential factors contributing to the problem.
+Filleul adds, though, that Sound United is continuing to work on finding a long-term solution for Xbox Series X owners - and that this work currently looks promising. Look out for a further update on my Forbes channel as and when some sort of solution for Series X owners is found.
+—
+Related reading
+PS5 And Xbox Series X-Friendly AV Receivers Reportedly Hit By Major HDMI Bug
+Yamaha Confirms Its Latest AVRs Suffer HDMI Bug That Impacts Xbox Series X and RTX 30 Gaming
+
+NVDA price 3 days before article release: 13.519498825073242
+
+NVDA price 1 day before article release: 13.311842918395996
+
+NVDA price the day of article release: 12.893791198730469

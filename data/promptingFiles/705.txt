@@ -1,0 +1,19 @@
+Nvidia Says VR Is Too Demanding For Most PCs: Bad News For Consoles
+
+Jan 04, 2016, 08:23am EST
+
+Virtual Reality is touted as the next big thing in gaming and with Facebook having snapped up Oculus Rift in 2014, it's looking likely that not just gaming will be the focus of VR either. However, One thing stands in the way of VR becoming a gaming phenomenon - processing power.
+Graphics card manufacturer Nvidia has claimed that for an immersive and enjoyable experience, PCs need to be around seven times faster than you're typical gaming PC today.
+It highlighted the problem talking to Venturebeat, where Nvidia's general manager of Nvidia Shield, Gaming and VR business, Jason Paul said that for a smooth experience, the raw processing power is roughly seven times that of running a game at 1080p at 30 frames per second. The latter is easily achievable by most gaming PCs out there - in fact, you could build one for less than $500 that could achieve this in most games.
+
+However, VR poses three big problems. Firstly, there's the need to render two screens at the same time (one for each eye). This doubles the power required as you're doubling the number of pixels that need to be rendered. Secondly, the resolution required for VR is, Nvidia claims, 1,680 x 1,512 - for each screen. That's a total resolution of 3,024 x 1,680.
+This is considerably higher than the typical 1,920 x 1,080 or 2560 x 1,440 screens the vast majority of hardcore gamers currently use. As if this wasn't enough, Nvidia also claims that for a smooth experience - critical to avoid some of the downsides to VR such as motion sickness, you need to be dishing out those frames at a rate of 90fps. That's one seriously tough frame rate at the best of times, never mind at a resolution that's not far off 4K.
+In short, at 1080p and a frame rate of 30fps, your average PC is dealing with 60 megapixels a second (MP/sec) due to the fact it's rendering a 2MP image 30 times a second. VR, by contrast, is dealing with a 5 megapixel image 90 times a second - equivalent to 450MP/sec or seven and a half times higher.
+So what does this mean? Well, firstly, current consoles simply don't have enough grunt to deal with this. In fact it's possibly even questionable as to whether next-gen consoles will manage it. Depending on the game, no current single graphics card can manage it either. Nvidia's GTX 980 Ti dips to below 80fps on average in Crysis 3 at 2,560 x 1,440, at decent detail settings, never mind a higher resolution, while AMD's R9 Fury X is even slower. However, the next generation of graphics cards is expected to offer better performance at higher resolutions, thanks to the fact that 4K screens are falling in price all the time.
+Of course, there will be different implementations of VR in gaming, and extreme high-end systems can of course use two or more graphics cards to solve the problem. From Nvidia's stance at least, when it comes to using a single graphics card, we need more power captain.
+
+NVDA price 3 days before article release: 0.8214976191520691
+
+NVDA price 1 day before article release: 0.8039358258247375
+
+NVDA price the day of article release: 0.7895450592041016

@@ -1,0 +1,19 @@
+Report: Nvidia GTX 1080 Ti No Longer In Production, Supply Running Low
+
+Nov 05, 2018, 06:42am EST
+
+If you've been wrestling with the decision of picking up Nvidia's new Turing-powered graphics card or the Pascal-based GTX 1080 Ti, Nvidia may have just forced your hand.  The best alternative to the GeForce RTX 2080 graphics card is reportedly no longer in production, and supply is running low.
+The report comes from GamersNexus, citing multiple industry sources. In a companion video detailing the news, GamersNexus EIC Steve Burke emphasized the site's belief in these claims, saying "we trust those sources greatly." Those sources also claim the 1080 Ti exited production some time ago.
+This move isn't entirely surprising, but it's certainly disappointing for consumers entertaining a GPU upgrade from the GTX 700 or 900 Series. One of the common criticisms leveled at both the RTX 2080 Ti and RTX 2080 by tech press is the poor value proposition presented by Nvidia's RTX cards, offering lower generation-over-generation performance improvements combined with higher prices.
+Ars Technica's review of the RTX 2080 echoed the sentiments of several other reviewers: "[...] the wait and additional cost of the RTX 2080 feels like a lot to ask for when the above benchmarks tell us that the 1080 Ti still pretty much packs the same punch."
+Considering the GTX 1080 Ti launched with an MSRP of $699 and the RTX 2080 can't be found for less than $789 (U.S pricing, Newegg and Amazon), that statement has weight. Eighteen months after the 1080 Ti launched, a GPU with equivalent performance in traditional gaming benchmarks (e.g. not ray tracing or DLSS since no games are on the market to test) costs more without delivering a substantial boost in framerates. That's unusual for Nvidia, and is the main source of disappointment.
+That disappointment is represented in at least one other metric. Though we don't see hard sales numbers for these GPUs, GamersNexus tracks its Amazon Affiliate sales, and in the video above Burke explains that when the GTX 2080 launched, he saw an unusually high spike in GTX 1080 Ti sales. That was likely the result of lackluster reviews and hard benchmark data.
+If this report is true, we're not likely to see a price drop on the RTX series anytime soon. What we can hope for is that game developers continue to adopt the pillars of RTX -- ray tracing and DLSS -- which will add value to Nvidia's RTX 20 Series over time. But I still think we should be patient and wait for RTX gen 2.
+If you're shopping for a used GTX 1080 Ti, be mindful of that fact that many of them were probably put into service for mining cryptocurrency 24/7.
+
+
+NVDA price 3 days before article release: 5.221390247344971
+
+NVDA price 1 day before article release: 5.322681427001953
+
+NVDA price the day of article release: 5.2446699142456055

@@ -1,0 +1,18 @@
+Nvidia Titan Xp Star Wars Collectors Edition Unboxing: Hands-On With The Jedi Order Card
+
+Nov 17, 2017, 06:54pm EST
+
+I'm going to admit it, I'm sort of obsessed with the Nvidia Titan. For me, this goes beyond gaming and into something else: video - but more on that later. But of course, the Titan Xp here is pretty special for all sorts of reasons. Mainly, of course for it's the Star Wars theme. There are two versions of the card, Jedi Order and Galactic Empire. The Former (the one I got) glows green, while the latter is finished with red LEDs. The Empire's card feels more polished, while the Jedi one has a scorched metal feel to it. It's amazing to look at.
+Watch my unboxing video below:
+So what's there to say about this card from the perspective of the special edition. Well, firstly, if you don't already have a Pascal-based Titan then the Star Wars edition won't actually cost you any more - the two cards are the same price. What you get though is some absolutely amazing packaging and something that will look amazing in your PC if you opt to showcase it.
+As a package, you can't fault what you get in terms of presentation. A beautiful box will make a great display piece if you want to show off your geek credentials, or if you're a YouTuber who wants nice boxes in your videos. A plastic lid gives the GPU an amazing showcase opportunity, but who is going to leave a card like this outside their PC? Of course one day, in perhaps five or so years, you could return this thing to its presentation box and show it off as a display piece.
+So who is spending $1,200 on a GPU? Well, it depends. Most people would assume this is for gamers - but I sort of dispute that. You can get a pretty amazing gaming card for less than half the price of the Titan. This card is for people who do a lot of things. For me then, it goes back to that video editing process that I spend a lot of time working on these days. GPUs with more Cuda cores mean more processing power for video. Because I'm using Adobe Premiere most days now this is actually an incredibly powerful tool.
+And there's also a real value point here too. If it took me 10 minutes to render a video on the 1070 I bought last year, but five on a Titan (these numbers are examples, I'll do a proper test when I've had some time with the card) then there's a legitimate business case to make for buying a Titan XP over anything else. You might struggle to get the "Jedi Order" bit past your purchasing department, but as these cards aren't more expensive than the normal Titan Xp there's really no big deal about choosing this one over the vanilla card. And it's a lot of fun.
+Nvidia's styling on these Titans is exceptional. These days I spend a lot of time videoing and reviewing phones, and while the iPhone and Note 8 are the pinnacle of good phone design they aren't as exciting as their early variants were 10 years ago. Here, with a graphics card, Nvidia has made me excited to open a box again, and even more excited to install the thing the box held in my PC.
+You can pre-order the Nvidia Titan Xp cards in their vanilla or Star Wars form via the official site. Like a lot of high-end cards these days, there's a limit of two per customer (so you can get both styles, I guess) which should keep those pesky cryptocurrency pests away.
+
+NVDA price 3 days before article release: 5.291213512420654
+
+NVDA price 1 day before article release: 5.227721691131592
+
+NVDA price the day of article release: 5.221545696258545

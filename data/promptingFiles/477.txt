@@ -1,0 +1,17 @@
+Nvidia RTX 4090 Ti Image Leak Reveals Shock New Cooler Design
+
+Jan 30, 2023, 02:13pm EST
+
+Nvidia's RTX 4090 is the undesputed king of the hill when it comes to gaming and is already a massive graphics card that can be tricky to fit in certain cases. However, if the latest leaked images are real, the RTX 4090 Ti could not only be bigger, but may have a radical new cooler design too.
+The vertical stack of ports is different to the horizontal stack with the RTX 4090, which suggests something different is going on with the actual heatsink and cooler design. For starters, this is a four-slot monster of a graphics card, with the RTX 4090 only requiring three slots as you can see below.
+Below, though, the cooler design appears to be completely different. This time, the cooler sits vertically on top of the graphics card's PCB, instead of sitting horizontally, This would suggest a narrower PCB, but this would also explain the four slots, allowing for a wider PCB to sit underneath.
+How the graphics card would sit in your case could go two ways. If the PCB is flat then sitting against the cooler above and having the PCI bracket at the end as in the first photo would require a case with a vertical graphics card mount, but without a need for a PCI-E riser cable - the graphics card would slot directly into the motherboard.
+However, the new rotated cooler arrangement could use a PCB with an angled connector sitting at right angles to the rest of the PCB and allowing the cooler to sit normally in the case - just with a funky vertical PCB instead of one that sits level with the ports and PCI bracket.
+Nvidia is certainly no stranger to thinking outside the box when it comes to cooler designs, especially with its Founders Edition cards like the RTX 4090 above. However, there's one important design feature that the new PCB mounting might allow - a better-placed power connector.
+The placement of the power connector has plagued its cards since the RTX 3000-series, with the side mount proving to be tricky to deal with in terms of cable tidying and building a clean-looking PC. as the PCB would sit next to the motherboard and if it has its own angled connector, could sit parallel to it, this might make hiding the power cables easier. At the very least it shows that Nvidia is considering a different PCB design, and with that, hopefully a better-placed power connector.
+
+NVDA price 3 days before article release: 19.302629470825195
+
+NVDA price 1 day before article release: 20.34353446960449
+
+NVDA price the day of article release: 19.14180374145508

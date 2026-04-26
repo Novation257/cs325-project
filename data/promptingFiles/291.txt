@@ -1,0 +1,35 @@
+The State Of The AI Super Cycle - NVIDIA, Apple, And The Overall Demand For AI
+
+Sep 05, 2024, 03:55pm EDT
+
+After a few tough days in the market to start off September, there is another wave of ramblings and musings as to whether the AI super cycle is over? And if not, what’s left and where do we go from here?
+Despite its recent pull backs and the challenging news cycle it has faced, I would argue so far it has only been an NVIDIA super cycle in terms of money being made, with adjacent winners in the chipmaking and design space like TSMC, Synopsys, Micron Technology, Arm, and a few others.
+Granted, we’ve seen some pops in companies like Dell Inc. and Super Micro Computer Inc. based on big upticks in AI optimized server sales, but those gains somewhat faded as margin pressure and the “buy up anything with AI” exuberance settled momentarily.
+Meanwhile, SaaS companies have had some good days here and there, but few are convinced these companies are going to get incremental growth from AI. And while software will be the ultimate AI consumption layer, it hasn’t yet proven its economics to the market in terms of incremental revenue and customer adoption—time will tell.
+We are seeing some promising numbers from consultants and systems integrators like IBM and Accenture on sprawling generative AI projects and some indicators from large financial services companies and healthcare/drug companies that AI is going to deliver efficiency and value to their businesses, but it hasn’t really shown in the numbers yet.
+Cloud companies and hyperscalers are investing in the future, as are the largest enterprises. While NVIDIA has seen its profits and revenue soar, companies like Advanced Micro Devices Inc. are next in line to benefit yet are really only making a small dent at the moment.
+Then there is a collection of companies just trying to find their place in the AI race. We know the AI device (handsets and PCs) cycle has been a bit slower and that incremental growth of SaaS from AI is showing signs of life from the likes of ServiceNow Inc., Salesforce Inc., and CrowdStrike Inc., who are proving AI can provide stickiness and drive growth on the top and bottom lines. Things have only just begun here.
+It all begs the question: Did the markets get ahead of themselves with AI and chips makers? And are those stocks overvalued?
+Clearly the market is coping with a digestion period for AI as we examine the bull thesis of cloud capex accelerating regardless of broader monetization. Contrast that against the background of AI proliferation and consumption being somewhat slower than some had hoped.
+We have seen recent earnings reports where companies like Walmart Inc. and Amazon.com Inc. are beginning to explain how AI is improving supply chains and reducing developer costs considerably. Seeing these types of AI consumption for business efficiency and productivity gains will offset some of the concerns about long-term value.
+Furthermore, chief executives of the largest NVIDIA customers, who represent more than 45% of its revenue, with a single customer allegedly at 19%, largely shrugged off concerns there is a bubble.
+This is where the digestion period becomes an important debate. Meta Platforms Inc. CEO Mark Zuckerberg, Microsoft Corp. CEO Satya Nadella, and Alphabet Inc. CEO Sundar Pichai all pointed out they have no plan to slow investments. And while that may frustrate those looking for more conservative capex, these companies are thinking long-term sustainability.
+For NVIDIA, this bodes well because competitiveness means moving from generation to generation, from a strong Hopper cycle to a stronger Blackwell cycle and Rubin after that.
+Market reaction to NVIDIA’s results in late August suggests the company did what was expected after bullish investors considered the buy side whisper numbers, which were bigger than the ultimate guide.
+So, let’s pivot a bit here and look at Apple. Is there any sort of “Super Wave” in tech when Apple doesn’t participate? At the very least, Apple will play a role as an accelerant for the trend toward AI and that may come in the form of products, partnerships, software and apps, and of course driving demand and sentiment from its massive user base. So, as we head into the big Apple event, what should investors and consumers expect from Apple’s AI offerings?
+First and foremost, Apple Siri will become usable. While Apple has been more methodical in its AI strategy, one of the biggest opportunities for the company was to re-introduce Siri and make it something the iPhone install base genuinely wants to use.
+Given the symbiotic relationship between people and their devices, delivering an OS level assistant that has high fidelity and robust ecosystem integration will be priceless in driving an upgrade cycle.
+What is more, delivering native AI in core productivity apps (+Siri) will be invaluable. Calendar and email come to mind. Being able to write thoughtful emails that sound in our voices transcribed from Siri or having it know which items across our messaging apps require prioritization will be important to expediting the next big super cycle for handsets.
+To be clear, it isn’t unique to Apple. These kinds of advanced functions being seamless from device to device should drive growth across the Apple portfolio and bode well for Qualcomm Inc., Android, and the broader OEMs making Copilot+PC, AI PC, and next-generation handsets.
+Which company/companies will “win” the AI race? Will it be a private one like OpenAI or will a mega-cap tech name surge ahead?
+There really isn’t one AI race being run.
+We have the infrastructure build-out race, which is fueled by NVIDIA and its ecosystem. Then we have the cloud development and services build out and this right now is a toss-up as Microsoft, Google, and AWS battle with the likes of Oracle Corp. and several AI cloud providers (CoreWeave, Lambda).
+There is a chip race that looks to capitalize on the inference pivot, but also vertical integration with Google, Microsoft, AWS, and Meta building their own chips. We have specialty AI chip companies as well.
+And we still must solve a power issue. That will come from efficient chip designs, thermal management and cooling technologies, and on-device capabilities to reduce strain on networks.
+So, while some may think that AI is overcooked, or that the very recent pull back on NVIDIA is a sign of AI fading or losing steam. And still others may think this alleged (and then not so much) antitrust probe from the DOJ is going to be a setback for not just NVIDIA but AI as a whole. To that, I would suggest it is really early for AI – for NVIDIA and even more so for AI opportunities beyond it.
+
+NVDA price 3 days before article release: 119.3124771118164
+
+NVDA price 1 day before article release: 106.1588134765625
+
+NVDA price the day of article release: 107.15833282470705

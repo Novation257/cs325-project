@@ -1,0 +1,24 @@
+Don’t Trust AI?  NVIDIA Guardrails May Lower Your Anxiety, And Save Your Job.
+
+Apr 25, 2023, 09:00am EDT
+
+A new Nemo Open-Source toolkit allow engineers to easily build a front-end to any Large Language Model to control topic range, safety, and security.
+We’ve all read about or experienced the major issue of the day when it comes to large language models (LLMs). “My LLM is hallucinating!”  “My LLM is responding with off-topic content!” And most importantly,  “How can I trust an LLM to responsibly deal with my customers as a service bot?”
+In a well-known example, a user asked GPT-3 to generate a recipe for "garlic bread," I mean, this should be easy, right?. However, instead of providing a typical recipe, GPT-3 produced a bizarre and unexpected set of instructions, which included cooking the bread with water and then soaking it in garlic oil for several hours. This example demonstrates the potential pitfalls of relying too heavily on LLMs without carefully controlling their output and address their limitations.
+NVIDIA may have a solution. They call it Nemo Guardrails, an open-source toolkit for easily developing safe and trustworthy LLM conversational systems. Since safety in generative AI is an industry-wide concern, NVIDIA designed NeMo Guardrails to work with all LLMs.  And virtually every software developer can use NeMo Guardrails — no need to be a machine learning expert or data scientist. They can create new rules quickly with a few lines of code. Nvidia provides a cookbook of recipes as examples of common problems and the guardrails that prevent them.
+The basic concept is that all user interactions go through the Nemo Guardrail services, which evaluates the query according to a pre-defined set of rules, and the if everything is ok, it passes the query to the AI. If, for example, the query is off limits, it tells the user it is unable to respond. When the LLM produces a response, it once again checks its list and takes appropriate action, sending the response to the user, or determining another action is more appropriate.
+The toolkit is powered by community-built toolkits such as LangChain which provides composable, easy-to-use templates and patterns to build LLM powered applications, by gluing LLMs, APIs, and other software packages together. And since it is open source, the community can share experiences and continuously improve guardrail definitions.
+There are three types of guardrails in Nemo:
+
+
+Interestingly, the safety guardrail helps prevent hallucinations by using a self-checking mechanism inspired by the SelfCheckGPT technique. The Guardrail services actually uses the LLM to check itself, by we asking the LLM to determine whether the most recent output is consistent with a piece of context. The LLM generates multiple additional completions to serve as the context. The assumption is that if the LLM produces multiple completions that are inconsistent with each other, the original completion is likely to be a hallucination.
+While other organizations such as Open.ai provide limited guardrail support for their LLM, NVIDIA is the first, to our knowledge, to provide an open, extensible and easy-to-use service to help control these crazy AI machines.
+While a great start, Nemo Guardrails are not a foolproof solution to the risks associated with LLMs. For example, there is a risk that guardrails could be too restrictive and limit the creativity and flexibility of LLMs. Additionally, guardrails could be circumvented or otherwise compromised by malicious actors, who could exploit weaknesses in the system to generate harmful or misleading information. Therefore, while guardrails can help to mitigate some of the risks associated with LLMs, they must be implemented carefully and with an understanding of their limitations.
+But NVIDIA has made a great start with Nemo.
+Disclosures: This article expresses the opinions of the authors, and is not to be taken as advice to purchase from nor invest in the companies mentioned. Cambrian AI Research is fortunate to have many, if not most, semiconductor firms as our clients, including Blaize, Cadence Design, Cerebras, D-Matrix, Eliyan, Esperanto, FuriosaAI, Graphcore, GML, IBM, Intel, Mythic, NVIDIA, Qualcomm Technologies, Si-Five, SiMa.ai, Synopsys, and Tenstorrent. We have no investment positions in any of the companies mentioned in this article and do not plan to initiate any in the near future. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 27.080028533935547
+
+NVDA price 1 day before article release: 27.018081665039062
+
+NVDA price the day of article release: 26.217788696289062

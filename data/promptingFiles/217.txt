@@ -1,0 +1,25 @@
+Nvidia’s RTX 5090 Is So Small It’s Compatible With Tiny PC Cases
+
+Jan 07, 2025, 01:54pm EST
+
+Believe it or not, Nvidia's $2,000 RTX 5090, which was revealed by Nvidia's CEO Jensen Huang in Monday’s keynote presentation, is so small that it's compatible with the smallest gaming PC cases out there, meaning you could build the world's fastest gaming system in something the size of a shoebox. So called small form factor (SFF) or mini ITX cases due the fact they use small mini ITX motherboards, have struggled to fit large graphics cards inside them, but the RTX 5090 Founders Edition is actually confirmed as being compatible with Nvidia's SFF-ready program.
+Launched last year, the idea behind it is to take the guesswork out of picking graphics cards for mini ITX cases, which often have fractions of an inch to spare. It's all too common for enthusiasts to buy a case only to find their graphics card doesn't fit. Nvidia's SFF ready program offers a compatibility tool where case and graphics card partners manufacturers can offer assurance that their products are compatible with each other.
+No, RTX 4090s and only a very select few RTX 4080 and 4080 Super graphics cards were compatible with Nvidia's SFF ready standard, which stipulates 151mm maximum height including power cable bend radius, 304 mm maximum length and 50mm or 2.5 slots maximum depth. The RTX 5090 Founders Edition is 304mm x 40mm, so well within those limits, while being 137mm wide.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+Nvidia has updated it SFF ready database to include a bunch of new RTX 5000 series models. So far the only SFF ready RTX 5090 is Nvidia's own Founders Edition model, but there are numerous partner card RTX 5080's listed, too, such as the Zotac Gaming GeForce RTX 5080 SOLID CORE, MSI GeForce RTX 5080 Ventus 3X OC White, INNO3D GeForce RTX 5080 X3, Gigabyte GeForce RTX 5080 AERO OC SFF and several cards from Asus, too, including the ProArt GeForce RTX 5080 and Prime GeForce RTX 5080.
+The RTX 5090 and RTX 5080 are slated for release later this month for $1,999 and $999, respectively, with the RTX 5090 getting 32GB of GDDR7 memory and RTX 5080 sticking with 16GB like its predecessor. The RTX 5070 Ti and RTX 5070 will follow in February for $749 and $549, respectively.
+The ability to build a gaming PC little bigger than a shoebox that has an RTX 5090 inside is remarkable, and thankfully AMD has announced the perfect processor to go with it, too, in the form of the Ryzen 9 9950X3D. It boasts 13% faster content creation performance than the Ryzen 9 7950X3D and 20% better gaming performance than Intel's Core Ultra 9 285K, making it the most sought-after processor of 2025 and likely a dream combination with an RTX 5090.
+I'll be covering the hardware launches in January as well as other announcements at CES this week, so follow me here on Forbes using the blue button below, Facebook or YouTube to get the latest news and reviews.
+
+NVDA price 3 days before article release: 138.2646942138672
+
+NVDA price 1 day before article release: 149.38104248046875
+
+NVDA price the day of article release: 140.09408569335938

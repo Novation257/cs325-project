@@ -1,0 +1,17 @@
+Nvidia Stock Endures $277 Billion Midday Selloff As AI Giant Falls Behind Microsoft
+
+Jun 20, 2024, 02:48pm EDT
+
+Nvidia stock suffered a rare tumble Thursday, relinquishing the artificial intelligence motor’s briefly held title as the most valuable public company on the planet and exhibiting broader stock indexes’ sensitivity to price movements from Nvidia.
+Nvidia’s stock sank by as much as 8% from its early morning all-time high to its afternoon nadir, with its share price down 3.5% on the day to $131 by close, reversing what was as much as a 4% gain shortly after Thursday’s open.
+The intraday swing erased $277 billion of Nvidia’s market value, which sank to $3.27 trillion, placing Nvidia behind MIcrosoft after exceeding the market capitalization of the more established technology firm Tuesday.
+There was no clear catalyst for the Nvidia selloff, indicating it was likely a matter of investors taking profits after the stock’s 170% rally year-to-date and 800% pop since the beginning of last year.
+Nvidia stock is still up 40% over the last month alone.
+Get Forbes Breaking News Text Alerts: We’re launching text message alerts so you'll always know the biggest stories shaping the day’s headlines. Text “Alerts” to (201) 335-0739 or sign up here.
+Critically, the Thursday dip demonstrated the broader market’s sensitivity to Nvidia stock’s performance, as the S&P 500 turned its peak 0.3% morning gain to a 0.6% loss by around 1:45 p.m., with almost all of the fall explained by Nvidia. Essentially, Nvidia’s intraday slide erased the equivalent of Coca-Cola, the S&P’s 27th most valuable company with a roughly $270 billion market cap, from the index.
+
+NVDA price 3 days before article release: 131.8164520263672
+
+NVDA price 1 day before article release: 135.5146484375
+
+NVDA price the day of article release: 130.71697998046875

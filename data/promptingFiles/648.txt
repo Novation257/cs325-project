@@ -1,0 +1,23 @@
+Nvidia's Botched RTX 20 Series Launch: 'You Can't Benchmark Goals'
+
+Sep 21, 2018, 04:03am EDT
+
+Linus Tech Tips' Linus Sebastian seems uncharacteristically and genuinely frustrated during his recent review of Nvidia's new RTX 2080 Ti and RTX 2080 cards. He spends several minutes hyping up his substantial audience by explaining the hallmarks of the Turing architecture -- features like ray tracing and DLSS (Deep Learning Super Sampling) and illustrating how revolutionary they could be. The midsection of the video, containing a few benchmark slides, zooms by in seconds. Normally we'd hear an exhaustive breakdown and analysis of benchmarks, value proposition, thermals and overclocking. It's as if this data is irrelevant.
+Then again, perhaps calling this a review is misleading. Don't worry, Sebastian won't be offended. In his own words: "This review is incomplete, just like the RTX 2000 Series."
+Sebastian explains that it's impossible to benchmark the cards today for what they're designed for because literally no games have launched that support DLSS or ray tracing (no, a custom version of the Final Fantasy XV benchmark doesn't count). But he didn't want to let his viewers down. Apparently he had secured an unnamed developer to show off a game currently in development that features both technologies -- but at the last minute they pulled out.
+"They graciously agreed to come over and show off their beta exclusively for you guys!" he says excitedly. "Originally they did, anyway." No explanation was offered for why this developer backed out.
+The second half of the video was reserved for some scathing criticism of Nvidia:
+"This is the kind of sh*t that gives PC gaming a bad name [...] That's what RTX is today -- it doesn't do anything. I can't benchmark goals. You're making it really hard to recommend this thing for the function that is right in the name of the product!"
+Sebastian isn't some outlier. The general consensus among tech press is that yes, the RTX 2080 Ti is the fastest GPU in the world (and you'll pay for the privilege of owning it), but the performance gains of the RTX 2080 are disappointing compared to prior generations. Pick a review, any review, and it will conclude that the RTX 2080 trades blows with a GTX 1080 Ti with reviewers expressing disappointment mixed with potential promise.
+Even the investment community is reacting. Here's what Morgan Stanley analyst Joseph Moore says in a note to clients, via CNBC:
+"As review embargoes broke for the new gaming products, performance improvements in older games is not the leap we had initially hoped for. We are surprised that the 2080 is only slightly better than the 1080ti, which has been available for over a year and is slightly less expensive. With higher clock speeds, higher core count, and 40% higher memory bandwidth, we had expected a bigger boost."
+Nvidia shares were down 2.1% on Thursday.
+Circling back to Linus Sebastian, the popular tech YouTuber thinks Nvidia rushed out the RTX too early. Which is puzzling since there isn't a shred of competition from AMD at the high end. Wouldn't it have made more sense to launch the RTX Series closer to the holiday period so reviewers could properly analyze the performance benefits of DLSS and the visual impact of ray tracing? So that they could give consumers a complete picture to inform their purchase?
+Perhaps. Then again, Nvidia will enjoy a completely fresh review cycle and a surge of new headlines when these games come to market. Whether or not these will cast the RTX 2080 Ti and RTX 2080 in a more positive light than initial reviews? That remains to be seen. For now, wait until the RTX series can deliver on what Nvidia promised.
+
+
+NVDA price 3 days before article release: 6.712047576904297
+
+NVDA price 1 day before article release: 6.594657897949219
+
+NVDA price the day of article release: 6.524570465087891

@@ -1,0 +1,15 @@
+Nvidia Hits $1 Trillion Market Value
+
+May 30, 2023, 09:38am EDT
+
+Nvidia’s market capitalization surged past $1 trillion for the first time in the chipmaker’s history Tuesday, as the Silicon Valley behemoth rides Wall Street’s artificial intelligence obsession to new heights.
+Shares of Nvidia rose 4% in early trading, representing a one-day gain of $40 billion and pushing the chipmaker's market value to a hair over $1 trillion.
+Nvidia is now the sixth public company in the world valued at over $1 trillion, joining Apple, Saudi Aramco, Microsoft, Alphabet and Amazon; the only other companies to ever cross the threshold are Tesla and Meta, which are each valued at less than $700 billion today, and Chinese oil giant PetroChina.
+Joining the $1 trillion club follows a dramatic rise thus far in 2023, with Nvidia's stock up more than 175% as Wall Street analysts say the Palo Alto-based company could be the firm best-positioned to profit off of the AI boom.
+Nvidia’s stock surged more than 10% following each of its earnings reports this year as investors’ imaginations for the company ran wild. The firm, which makes the chips powering generative AI computing in addition to a variety of software and hardware products, said last week it anticipates profits to be twice as high as expected during the current quarter thanks to AI-related sales. The stock’s dramatic rally year-to-date headlines a strong return for other mega-cap tech stocks, with each of Apple, Amazon, Microsoft, Meta and Tesla up 25% or more in 2023.
+
+NVDA price 3 days before article release: 30.510990142822266
+
+NVDA price 1 day before article release: 38.91155242919922
+
+NVDA price the day of article release: 40.07552719116211

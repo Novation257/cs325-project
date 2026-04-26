@@ -1,0 +1,35 @@
+AMD Radeon RX 5600 XT Versus Nvidia GeForce RTX 2060: What’s The Ultimate 1080p Gaming Card?
+
+Feb 28, 2020, 07:36am EST
+
+If you're a 1080p PC gamer and want to hit the highest high frame rates for $300 or less, then you currently have two options: Nvidia's GeForce RTX 2060 or AMD's Radeon RX 5600 XT. The latter might seem like an odd choice to compare against the Nvidia GPU seeing as only eight months ago we were comparing AMD's RX 5700 against it. Since then, though, Nvidia has lopped around $50 off the RTX 2060 depending on where you are, and this is mainly in response to the card I'm reviewing today - the RX 5600 XT.
+Now that prices have settled down and most of us have got our heads around the VBIOS update for the AMD GPU (all tests below were carried out with it in place), it's time to take a look in a smattering of games to see which card is worth your cash if you're looking to get maximum FPS at 1080p. If you're totally unaware of the VBIOS update, then the short story is that following Nvidia reducing the price of the RTX 2060, AMD decided to boost the specs of the RX 5600 XT to make it more attractive.
+By increasing the power limit, core and memory speeds (the Sapphire RX 5600 XT Pulse I used here saw its boost clock rise from 1,620MHz to 1,750MHz and memory speed from 12Gbps to 14 Gbps) AMD added up to 20% more performance. The down side is that most reviewer samples lacked the VBIOS and more importantly, so do many retail samples. Thankfully, it's extremely easy to do, with Sapphire's update process well documented on its website and was accomplished in a few clicks.
+Today, I'll be mostly be talking about the RTX 2060 FE and RX 5600 XT, but I've included a few other cards in the graphs too for comparison and I'm glad I did as the two cards performed so similarly in most tests that you'd be right to suspect my system was CPU limited.
+Test system
+MSI's Z390 Ace motherboard
+CPU: Intel Core i9-9900KS
+Motherboard: MSI MEG Z390 Ace (latest BIOS and CPU security microcode updates)
+Memory: Corsair 3466MHz Vengeance Pro RGB
+SSD: 1TB Intel 760p NVMe SSD
+PSU: Corsair RM850i
+Cooler: EK Waterblocks EK-MLC Phoenix
+OS: Windows 10 (November 2019 update)
+Nvidia driver: 442.19. AMD driver: 20.2.1
+Benchmarks
+I record 99th percentile frame times during a benchmark scene and than simply divide 1000 by this figure to get an equivalent frame rate. If you want to see the frame times for a particular result, divide 1000 by the frame rates below to get the 99th percentile frame times.
+The Ghost Recon benchmark at these settings uses more VRAM than the RX 5600 XT has, tipping the scales at around 6.5GB according to the pre-benchmark settings page and is why the 4GB version of the RX 5500 XT performs so poorly compared to its 8GB sibling. The fact the RX 5600 XT only has 6GB has been a regularly-voiced concern when I've read comments elsewhere, but Nvidia is in a similar boat with the RTX 2060. The difference here is tiny - you wouldn't pick one card over the other for raw performance, but you'll also see significant gains over other 1080p-focussed cards such as the GTX 1660, especially on the average 99th percentile.
+Metro Exodus is a tough game to run smoothly but the extra cash spent over the likes of the GTX 1660 and RX 5500 XT are very evident here. However, once again, the two cards could barely be more similar, offering up results within a frame of each other.
+Finally, in Far Cry New Dawn, there was a bit of a lead for AMD, especially when it came to the average 99th percentile frame rate. If you spend most of your time here the it's one of just two games I've tested that offers a compelling reason to go with the RX 5600 XT.
+Shadow of the Tomb Raider saw some significant gains over the cheaper GPUs on test with far more of a difference than in any other game with near double-digit gains over the RX 5500 XT 4GB. Again, though, there was next to no difference between the RX 5600 XT and RTX 2060.
+Finally, Division 2 was another title to give AMD a small lead, which approached 10 percent on the 99th percentile minimum, while both cards had averages approaching 100fps.
+Conclusion
+AMD's VBIOS shenanigans aside, what we have here are two similarly-priced, near identical-performing graphics cards when the latest drivers are used. You can pick up RTX 2060's for around $300-320 now quite easily, but AMD does have a slight lead with several models retailing for as little as $280. Admittedly, the Sapphire RX 5600 XT Pulse I used here will set you back the full $300 though, but this is still a sizeable saving over the RX 5700 plus I used a Founders Edition Nvidia card - not a stock speed model.
+Looking around at other benchmarks, it's clear that the Radeon RX 5700 doesn't offer significantly more performance elsewhere either, yet demands noticeably more cash, meaning that if you have around $300 to spend, the choice should be between these two cards if you're buying new.
+There's little to choose between them in terms of noise - my RTX 2060 FE was supremely quiet, but thanks to its large heatsink and dual fans, so was the Sapphire Radeon RX 5600 XT. This leaves just Ray Tracing and DLSS as Nvidia's trump cards, but that will come down to personal preference. Indeed, so does the final choice - get the card that performs best in the games you play because overall there's very little between them.
+
+NVDA price 3 days before article release: 6.521763801574707
+
+NVDA price 1 day before article release: 6.2903361320495605
+
+NVDA price the day of article release: 6.725381374359131

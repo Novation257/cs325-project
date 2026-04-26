@@ -1,0 +1,34 @@
+What’s So Great About Nvidia Blackwell?
+
+Nov 25, 2024, 12:21pm EST
+
+If you take a look at what people are saying about Nvidia right now, you’re likely to hear about a new kind of architecture supporting the company’s data center services and operations.
+It’s called Blackwell, and it’s brand new, as of March of this year, when Nvidia started using this design.
+Blackwell replaces the Lovelace architecture created in 2022, and according to the company, it delivers some pretty impressive performance increases as well as other improvements.
+Let’s look at specifically what’s in the Blackwell architecture, and why Nvidia is so proud of this technology.
+Nvidia spokespersons claim that the Blackwell architecture delivers a staggering 25 times the performance of the prior build, specifically, that the architecture “supports real-time generative AI on trillion-parameter LLMs, offering up to 25 times the performance and energy efficiency compared to its predecessor.”
+However, skeptical critics contend that it’s a little more complicated than that, and suggest that you have to use different metrics to really talk about logical performance and speed. Citing the use of disclaimers and asterisks to qualify grandiose claims, some redditors claim that Nvidia is prone to this type of hype.
+By contrast, Lovelace was said to be two times the performer over the prior Ampere architecture, just a couple of years ago when it came out.
+The company reportedly put this statement out at the time: "Ada Lovelace is the greatest generational leap we've ever achieved in performance." Presumably, they would want to revise that now.
+There’s also a new use of tensor cores in the Blackwell model.
+These types of cores help to handle matrix operations and expand the different data types that platforms are capable of dealing with efficiently.
+In this case, Blackwell is supposed to handle FP6 floating point data types with six-bit design. This in turn enables more efficient processing with less power.
+Then there’s the NV-High Bandwidth Interface (NV-HBI) that delivers a rate of 10 TB/s, by fostering efficient communication between dual GPU dies. This tech has a lot of potential for data center integration.
+Here’s where you have to go back a few years to acquisition of Mellanox, an Israeli company making different types of switching hardware and more. The deal was hailed at the time as one of the most important of its kind, when in 2019, Nvidia acquired Mellanox for $6.9 billion.
+It’s likely that the Mellanox deal has been significantly useful to Nvidia in creating the new HBI technology. In pursuing low-latency, high-bandwidth interconnects like InfiniBand and Ethernet solutions, the formerly independent company was setting the stage for the kinds of connections behind modern fabrics. Then there’s optimizing data flow at scale. There’s a reason that this deal was such a big headline when it happened.
+The new model also includes some security improvements, and that’s another feather in Nvidia’s cap, at a time when the corporate world is still getting over a major focus on data breaches as a source of liability.
+Nvidia explains:
+“When not adequately protected in use, AI models face the risk of exposing sensitive customer data, being manipulated, or being reverse-engineered. This can lead to incorrect results, loss of intellectual property, erosion of customer trust, and potential legal repercussions,” spokespersons write. “Data and AI IP are typically safeguarded through encryption and secure protocols when at rest (storage) or in transit over a network (transmission). But during use, such as when they are processed and executed, they become vulnerable to potential breaches due to unauthorized access or runtime attacks.”
+The Confidential Computing technology works by locating security operations in what the company calls a trusted execution environment (TEE) within the processor.
+Here’s how the company’s site explains the use of this feature:
+“The TEE acts like a locked box that safeguards the data and code within the processor from unauthorized access or tampering and proves that no one can view or manipulate it. This provides an added layer of security for organizations that must process sensitive data or IP.”
+That’s useful innovation to take care of major executive concerns, for example, around standards like HIPAA and the European GDPR.
+As we see the integration of this kind of iterative improvement, Nvidia continues to outperform on the stock market, with the stock price more than doubling over one year, and analysts suggesting five-year revenue growth of 44.8%.
+It’s still the biggest company of its kind by market cap, outstripping Apple’s $3.5 trillion value earlier this year (Nvidia’s at roughly $3.6 trillion.)
+That’s a little bit about what’s in the latest round of Innovations by Jensen Huang and company. Nvidia is one to watch as the AI space race between firms continues to heat up.
+
+NVDA price 3 days before article release: 145.83216857910156
+
+NVDA price 1 day before article release: 141.89373779296875
+
+NVDA price the day of article release: 135.96609497070312

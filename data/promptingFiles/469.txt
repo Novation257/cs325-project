@@ -1,0 +1,21 @@
+NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms
+
+Mar 23, 2023, 07:41am EDT
+
+At GTC 23, Jenson Huang, the CEO of NVIDIA, announced new partnerships with mainstream cloud providers to offer its accelerated computing and Omniverse platform services.
+Jenson called ChatGPT the iPhone moment of AI, with the bot attracting over 100 million users in just a few months. NVIDIA is increasing its focus on generative AI to enable developers and organizations to build intelligent applications based on large language models and visual content.
+The main focus of the GTC keynote has been on the new GPU branded as H100 NVL, an AI supercomputer, DGX H100, based on the new GPUs, and a set of cloud-based platform services.
+The new H100 GPU NVL, based on the Hopper architecture, delivers twice the performance of H100 PCIe GPUs while consuming almost the same power.  With an aggregate memory of 188GB of HBM3 memory, the GPU is optimized for the new generation of neural networks based on the transformer architecture. It is expected to ship during the second half of the year.
+NVIDIA is partnering with Oracle to offer OCI bare metal instances with H100 GPU. AWS is set to launch Amazon EC2 UltraClusters of the P5 family of instances that can scale up to 20,000 with interconnected H100 GPUs. Microsoft has announced a new family of Azure VMs under the ND H100 v5 category. NVIDIA claims that Meta has an H100-powered Grand Teton AI supercomputer internally for its AI production and research teams. OpenAI will be using H100s on its Azure supercomputer to power its continuing AI research.
+The DGX H100 AI supercomputer is powered by eight NVIDIA H100 GPUs linked together to work as one giant GPU, which becomes the blueprint for state-of-the-art AI models. Microsoft, Google, and Oracle are all set to offer DGX 100 through their existing IaaS offerings. This partnership enables access to NVIDIA AI Supercomputing and Software through a browser. According to NVIDIA, DGX Cloud instances start at $36,999 per instance per month.
+Machine learning PaaS providers including Google Cloud Vertex AI, Cirrascale, Lambda, CoreWeave, and Paperspace, will offer streamlined access to DGX H100 through their APIs. SDKs and tools. Apart from the public cloud providers, NVIDIA is working with OEMs such as Atos, Cisco, Dell Technologies, GIGABYTE, HPE, Lenovo and Supermicro to ship servers based on DGX H100.
+Besides the core infrastructure and platform services based on the H100 GPU and DGX H100 servers, NVIDIA makes its AI foundational services available in the cloud. Developers can access generative AI as a service powered by NVIDIA’s AI Foundations. NeMo will deliver the LLM capabilities, Picasso service will generate visual content, and BioNeMo is meant for life sciences and drug discovery. These services provide abstract APIs to simplify the process of training, fine-tuning, and consuming generative AI models.
+At GTC, NVIDIA has also announced the successor to its popular T4 GPU - the NVIDIA L4 Tensor Core GPU. It is typically used for inference and is highly optimized for generative AI and LLMs. Google Cloud is one of the first cloud service providers to offer L4 GPU to customers with the launch of its new G2 virtual machines, available in private preview today. Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS.
+Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform. It is committed to integrating Omniverse with some of its business applications, such as Teams, OneDrive and SharePoint. Azure IoT and Azure Digital Twins will also have tighter integration with Omniverse. The Omniverse Cloud, powered by NVIDIA OVX computing systems, will be available on Azure in the second half of the year.
+Most recent innovations from NVIDIA, such as H100 GPU, DGX H100, NVIDIA AI Foundations and Omniverse, will be available in the public cloud. GTC 23 will be remembered for the number of partnerships NVIDIA announced with mainstream public cloud providers, including Amazon, Microsoft, Google, and Oracle.
+
+NVDA price 3 days before article release: 25.877092361450195
+
+NVDA price 1 day before article release: 26.4445915222168
+
+NVDA price the day of article release: 27.166954040527344

@@ -1,0 +1,25 @@
+AMD And Nvidia Will Boil The Oceans
+
+Jan 19, 2024, 09:24am EST
+
+There is a lot of gibbering about AI destroying humanity and it’s an obvious reflex. The first published work of fiction I ever had published at the tender age of 19, in 1982, was about AI and was pretty much along those lines. We’ve all grown up with HAL, the Forbin Project, the Terminator and a host of other such Frankenstein stories. However, a metal Arnie or a soft voiced HAL is not the risk.
+The classic worry beyond extinction is redundancy: AI is going to put us all out of a job. But it is not.
+One of my loves is to metal detect for artefacts in fields. There are lots and people ask why. The answer is 95% of the population worked in the fields over the full length of history, minus the last couple of hundred years. Big empty fields of today were small fields peppered with cottages filled with workers living walking distance from their jobs. That was the status of all humanity until artificial muscle was invented and they all lost their jobs, their homes, their communities, their way of life. Imagine being there when that happened. Woe, thrice times woe. Yet here we are about as unkeen to milk cows, shovel pig poo and suffer 20% child mortality as can be. Thank you artificial muscle for that release.
+AI will do the same.
+The new jobs will be as far from our dull routines as cutting grass with scythes and wringing the necks of chickens and making blood sausage is to us in our current existence.
+The problem for us, was likely considered the problem for society then. Where are we going to get all that energy from? Because what is going to kick off is an explosion of energy consumption in a AI arms race with no natural ceiling.
+There is infinite demand for intelligence.
+For investors that is an infinite demand for AI hardware. This mean infinite stock prices for the AI players. My choice is AMD, which is valued at a fraction of Nvidia’s sales yet is definitely in contention with Nvidia in technology. You might put some chips down for IntelINTC , too.
+The point is that all things feeding AI will be in huge demand and that will back out to straight gigawatts. Just like crypto was going to boil the oceans, AI uses basically the same tech, which is energy in, hot air and numbers out… lots and lots of hot air. That process has a supply chain from raw energy, right up through commodities, to infrastructure, to computing and everything else feeding the AI ecosystem which will simply dwarf everything else. Our word is built on artificial muscle, yet even the new brainy companies like GoogleGOOG and AppleAAPL dominate. AI is the next level and it is a Gargantua fed by levels energy consumption which will eclipse what has gone before. Energy is the limiting case for this infinite demand. This is an investment thesis as well as a potential catastrophic curse.
+The customers for AI are not going to be me and you, or easily corralled corporations, it’s going to be governments and not just the nice ones. It’s also not going to be the fluffy tree counting, wildflower protecting parts of government that will be gobbling up AI resources, it’s going to be the bits of government that blow people up or try and stop those people blowing up their own folks. They will realize early, and they probably have already, that there is no second place in AI, only dominance. There is no good second place in a fight to the death.
+That is not a situation that is easily constrained when even today with all our sophistication and understanding, countries still can’t agree to all be friends and focus on making their subjects cozy and prosperous.
+Feel free to come up with a way of constraining AI in the world of geopolitics, the world needs that solution in a hurry, however without one on the horizon, what will follow is an AI arms race where everyone will try to become the smartest country on earth and thereby be able to artificially out-think everyone else.
+This could go horribly wrong, it could go horribly right, but one thing is for sure, the demand for AI and its supply chain is about to go as near infinite as economically possible. With it, with a bit of good luck, the global economy will expand at an incredible rate as AI drags us out of the primitive mud we don’t realize we live in and takes us to the next level of sophistication. Yet the dark side of risk will remain in the same way the progress of the industrial revolution was punctuated by the horrors of industrial warfare.
+This article took me about a week to think about and an hour to write. ChatGPT rewrote it faster than I could scroll the page.
+It could already replace me, but then when it does I and others in the future will be released to do things as miraculous to me as what I just did would be incredible to a 17th century ploughman.
+
+NVDA price 3 days before article release: 56.34755706787109
+
+NVDA price 1 day before article release: 57.07211685180664
+
+NVDA price the day of article release: 59.45465850830078

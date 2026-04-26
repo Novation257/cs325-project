@@ -1,0 +1,17 @@
+Nvidia Earnings: AI Giant Delivers Another Quarterly Sales Record Despite China Speed Bump
+
+May 28, 2025, 04:27pm EDT
+
+Artificial intelligence titan Nvidia took center stage Wednesday afternoon when the company shared financial results from its quarter ending last month, and though it was another stretch of record-setting sales amid the AI boom, Nvidia reported unusually weak bottom line growth as Washington regulations on the company’s China dealings took hold.
+Shares of Nvidia jumped 3% to $138 following the better-than-anticipated quarterly results.
+Nvidia reported $44.1 billion in revenue for the three-month period ending April 27, besting Wall Street forecasts of $43.3 billion in revenue, according to consensus analyst estimates compiled by FactSet.
+That equates to year-over-year top line growth of a robust 69%, smashing the $39.3 billion sales record set the prior quarter.
+Nvidia beat bottom line growth expectations as well, though by a more modest margin, as it brought in $0.83 adjusted diluted earnings per share and $19.9 billion net income, compared to respective projections of $0.73 diluted earnings and $18.3 billion net income, equating to an annual EPS increase of 33%.
+That’s a far cry from the more than 70% year-over-year earnings expansion Nvidia reported in each of the prior seven quarters.
+So why the ebbing growth as the global generative AI push remains in full force? It largely traces to the $4.5 billion charge the company took this quarter after the Trump administration curbed the company’s ability to export its H20 AI chips to China, which has a $50 billion market for Nvidia’s chips, according to Rosenblatt analysts.
+
+NVDA price 3 days before article release: 132.7987060546875
+
+NVDA price 1 day before article release: 135.4680633544922
+
+NVDA price the day of article release: 134.7782440185547

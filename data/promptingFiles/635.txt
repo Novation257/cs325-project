@@ -1,0 +1,28 @@
+Nvidia's CEO Has Earned My Trust
+
+Feb 15, 2019, 11:44am EST
+
+After hitting $289 in October, Nvidia has lost 45%. If you hold a stock for a few years, the chances are good that there will be at least one quarter that falls short of expectations.  These are the times when you see whether the CEO deserves your trust. Nvidia's CEO has earned mine.
+With investing and in life, when there is bad news, I prefer to get it straight. Don't beat around the bush. Don't spin the news. That just makes me think I would have to be an idiot to trust you.
+So when Nvidia's CEO told us two weeks ago that revenues would come in at $2.2 billion, instead of $2.7 billion, he gave us an opportunity to take his measure.
+Did he sandbag us by guiding to a number he was sure he could beat? Or, did he minimize the news by guiding to a number that doesn't reflect the true depth of the problem?
+With yesterday's announcement that revenues came in at $2.21 billion we now know that Nvidia's CEO gave us a pretty honest estimate, neither too high nor too low. I respect him more because of this.
+I don't expect businesses to grow in a straight line. Fast-growing businesses, in particular, are prone to hitting air pockets. Nvidia hit multiple air pockets last quarter.
+Gaming: Roughly 50% of Nvidia's revenue comes from products used to deliver high-resolution computer graphics prized by gamers. Nvidia's most recent generation of graphics cards, however, are not selling as well as expected. This could change as games are upgraded to take advantage of ray-tracing, a new technology that will require gamers to upgrade their graphics cards.
+China: It seems that the first big user of Nvidia's technology for artificial intelligence is China. Nvidia technology is powering Chinese efforts to mass-monitor its citizens. China used to account for 20% of revenue. However, as the Chinese economy has slowed, and the trade war has escalated, this source of revenue seems to have hit an air pocket.
+Datacenters: In the U.S. it looks like artificial intelligence applications are going to run in datacenters. The problem is that I don't see yet the first application that will justify a huge buildout on a similar scale to China. In addition, Google and Facebook, two companies I thought would be leading the way, have slowed their efforts due to privacy concerns.
+Crypto-Currency: When bitcoin ran from $900 to nearly $20,000 in 2017 a lot of people bought Nvidia graphics cards to mine for bitcoin. Now that bitcoin has fallen back to $3,600, the demand for Nvidia products for this purpose has plummeted.
+I am not a fan of bitcoin and all the other crypto-currencies. That Nvidia's products could be used to mine crypto-currencies has always been a side benefit, never the main reason to buy the stock.
+How To Play It
+At $160, Nvidia sells at a trailing price-to-earnings ratio of 20 -- roughly comparable to the S&P 500. This valuation is justified if you expect Nvidia's growth to be in line with the economy's.
+There is no question that Nvidia's growth has stalled, but I still think Nvidia's growth prospects are much better than the U.S. economy's.
+It may take a few quarters before the gamers, the Chinese, and the datacenters get back on track. If your investment horizon is long enough for this occur, this is a good time to buy Nvidia's stock.
+Shareholders have to rely on the CEO to make decisions and explain what's happening. When their backs are against the wall, CEOs reveal their true colors. I think Jen-Hsun Huang, Nvidia's CEO, has been straightforward with shareholders so I am willing to stick with him. Otherwise, I would not hesitate to sell the stock no matter what I thought of their growth prospects.
+If you would like to be notified when I write about stocks like Nvidia that you and I are both following, click here.
+A followup to this article has been published.
+
+NVDA price 3 days before article release: 3.747603893280029
+
+NVDA price 1 day before article release: 3.830900430679321
+
+NVDA price the day of article release: 3.900561809539795

@@ -1,0 +1,24 @@
+NVIDIA Ups The Ante In Edge Computing With Jetson Orin Nano Developer Kit
+
+Apr 10, 2023, 11:26am EDT
+
+NVIDIA continues to push the envelope of AI accelerators - both in the data center and at the edge. Last month, it announced the availability of the Jetson Orin Nano Developer Kit, the latest addition to the Jetson family of devices.
+Initially announced in September 2022, the Jetson Orin Nano system-on-module (SoM) delivers 80x the performance of the previous generation Jetson Nano device. The developer kit puts the power of the SoM in the hands of developers by making it accessible.
+Below is a snapshot of the benchmark that compares the performance of AI vision models on Jetson Nano and Jetson Orin Nano.
+Jetson Orin has a graphics processing unit (GPU) based on the NVIDIA Ampere architecture, an ARM CPU, next-generation accelerators for deep learning and vision, high-speed interfaces, fast memory bandwidth, and support for multiple types of sensors. The performance and flexibility enable customers to build products with in-built, advanced intelligence that seemed impossible before. With this device, developers can infuse AI into applications running at the edge, while makers and builders can leverage Robotics Operating System (ROS) to build intelligent machines.
+The Jetson Orin Nano 8 GB module has an NVIDIA Ampere architecture GPU with 1024 CUDA cores, 32 third-generation Tensor Cores, and a 6-core ARM CPU. This device allows multiple AI application pipelines to run simultaneously, delivering high-performance inference. The developer kit carrier board has a lot of connectors, including two MIPI CSI connectors that support camera modules with up to four lanes and allow for higher resolution and frame rates than before.
+The developer kit has a bootable microSD card and two M.2 Key-M NVMe sockets for additional storage needs. It comes with a Gigabit ethernet connector and a 40-pin expansion header to connect sensors and actuators.
+With generative AI getting all the attention, NVIDIA ensured that the latest SoM and developer kit could run transformer models. Transformer models such as GPT, BERT, and DALL-E learn the context by analyzing the relationships between various elements of sequential data, thus avoiding the need for massive labeled datasets.
+NVIDIA’s USP is the powerful combination of hardware and software for the AI accelerators. The Jetson Orin Nano Developer Kit runs the latest version of JetPack - v5.1.1 - which has everything from the operating system to the high-level APIs developers consume to build edge AI applications. It has CUDA-X accelerated computing stack targeting AI use cases for  industrial IoT, manufacturing and smart cities.
+NVIDIA now has a product line-up of SoMs that covers the entire spectrum of edge computing:
+Jetson Orin Nano 4GB and 8GB  - Priced at $259 and $499, these SoMs are the most affordable yet powerful edge computing devices delivering 40 TOPS or trillion operations per second of AI performance. Note that these modules need to be a part of the developer kit to develop and debug AI models and applications. The Jetson Orin Nano 8GB developer kit will be available soon for $499.
+Jetson Orin NX 8GB and 16GB - These modules deliver up to 100 TOPS of AI performance in the smallest Jetson form factor, with power configurable between 10W and 25W. The 16GB version of the SoM sells for $699, while the 8GB version costs $479.
+Jetson AGX Orin 32GB and 64GB - Delivering up to 275 TOPS of AI performance, this variant of Jetson Orin is the most potent version. The 32GB SoM costs $999.00, and the high-end 64GB version has a retail price of $1,799.00. The fully assembled, ready-to-use Jetson AGX Orin 64GB Developer Kit is sold at  $1,999.00.
+NVIDIA has partnered with various OEMs and hardware manufacturers to develop reference boards and developer kits for Jetson Orin Nano. Companies such as Advantech, Aetina, Auvidea and Seeed Studio have devices with varying form factors and features.
+When it comes to edge computing, NVIDIA continues to invest in hardware and software to empower developers to build next-generation AI-enabled applications. The Jetson Nano Orin Developer Kit puts the power of AI in the hands of developers, builders, and makers.
+
+NVDA price 3 days before article release: 27.4287166595459
+
+NVDA price 1 day before article release: 27.01308822631836
+
+NVDA price the day of article release: 27.55460548400879

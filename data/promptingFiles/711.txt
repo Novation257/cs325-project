@@ -1,0 +1,37 @@
+[Updated] AMD And Nvidia Users Reporting Serious Problems With PC Version Of 'Batman: Arkham Knight'
+
+Jun 22, 2015, 11:40pm EDT
+
+I first knew we were in for a roller coaster ride when Rocksteady updated their PC requirements today only hours before the release of Batman: Arkham Knight. Included in their revision was this warning: "there are some known issues with the performance of Batman: Arkham Knight for PC owners using AMD graphics cards."
+Here we go again.
+That statement raised a red flag in my head, as it was eerily reminiscent of the issues that AMD Radeon users were initially faced with in both Project Cars and The Witcher 3. Some strongly suspected foul play with regards to those titles and their implementation of 
+Nvidia's
+ GameWorks tech. Regardless which side of that argument you fell on, early testing of Rocksteady's Arkham Knight on PC seems to indicate that the game is currently a mess for both Nvidia and AMD customers.
+
+Oh, and there's a 30fps lock, which is only deactivated for the built-in benchmark. Yes, 24 hours after I reported that it would be ludicrous for Fallout 4 to ship in that state. It's editable in an INI file, but we live in 2015 now, right? Why would you force this on your less technically savvy users? Why would you force it on anyone?
+Back to the matter at hand: Early reports from the Steam Community are littered with complaints about stuttering, terrible optimization, crashes, and a variety of other issues. Several gamers are complaining about memory leaks and a framerate well below 30fps even with GameWorks options turned off, 1080p resolution, and components that exceed Rocksteady's recommended requirements. I've seen multiple customers claiming they can't maintain 60fps (after unlocking the framerate) at 1080p with flagship cards like Nvidia's $999 Titan X or the recently released 980 Ti.
+Another issue highlighted by users on NeoGaf: Nvidia's "Game Ready" 353.30 driver for Batman: Arkham Knight seems to contradict its own title within its release notes, since it's bad news for users with multiple Nvidia cards in SLI:
+Perhaps SLI support should have been pulled until it was ready? For Nvidia's most hardcore customers (e.g. the ones buying multiple video cards), this has to be disappointing. But at least the effort was made to implement support on Day 1. The latest AMD Radeon driver, released earlier today, doesn't have Crossfire support enabled.
+NeoGaf has a thread devoted to PC performance analysis, and it's pretty disheartening so far. The consensus there is that the game is underperforming, though there's no conclusion as to why. Some Radeon users reports the game dropping to single digit frame rates, for example. Nvidia users report stuttering, erratic frame rates, and suspect that smoke effects are crippling the performance. I've even seen videos of Batman gliding where the framerate comes to a complete stop (literally 0fps) for a full second.
+The game is powered by the incredibly mature Unreal Engine, which scales very well across a wide range of hardware. This just points to yet another poorly optimized console to PC port, in my opinion. I suppose there's a very outside chance that none of these early gamers are using the latest drivers. A very outside chance...
+These shoddy PC ports have to stop, or at least be qualified and tested more thoroughly before release. I'm not assigning blame here, but there's undoubtedly plenty to go around.
+Unfortunately I'm stuck on the West Coast and will have to wait several more hours until I can test Arkham Knight first hand. But there was such an onslaught of complaints from frustrated followers on 
+Twitter
+, that reporting on this felt like the right thing to do just in case you haven't pulled the trigger yet.
+I've reached out to Nvidia, AMD, and Warner Bros. Interactive for comment and will keep you posted. In the meantime, what's your experience with Arkham Knight been like?
+UPDATE 1: Rocksteady has posted this message via their community forum:
+Hi all
+We’re aware that some users are reporting performance issues with the PC version of Batman: Arkham Knight. This is something that Rocksteady takes very seriously. We are working closely with our external PC development partner to make sure these issues get resolved as quickly as possible.
+We’ll update this thread when we’ve got more info to share.
+Thanks
+   CODA
+UPDATE 2: It's been revealed that the PC version of Arkham Knight was handled by Iron Galaxy Studios, a small 12-person team primarily known for their console work. Among other projects, they assisted with Destiny's PS3 version and assisted with BioShock Infinite.
+UPDATE 3: The community admin for WB Games just posted a lengthy update on the status of Arkham Knight on PC, and you're not going to like it. Along with recommended graphics settings for variously specced systems, there's this gem: "The Recommended Spec is intended to deliver an experience on par with the current generation of gaming platforms."
+UPDATE 4: Warner Bros. Interactive has suspended sales of Arkham Knight on PC, with an improved version to be released at an unannounced time.
+  I'll just leave you with this:
+
+NVDA price 3 days before article release: 0.5221751928329468
+
+NVDA price 1 day before article release: 0.5291921496391296
+
+NVDA price the day of article release: 0.5270146131515503

@@ -1,0 +1,19 @@
+Why Nvidia's Project Shield is Disruptive to Game Consoles and Portable Game Devices
+
+Jan 07, 2013, 12:42pm EST
+
+NVIDIA tonight announced one of the most disruptive products in their history, called Project SHIELD, a portable gaming device that also signifies a vertical integration move.  Put simply, Project SHIELD is an NVIDIA-branded, Android-based portable game device with a 5” 1,280x720 display that can play Android and PC games.  It will be available in “Q2, 2013” at a “to be determined price.”
+Using NVIDIA’s latest and greatest mobile processor, Tegra 4, game players can display locally on their own 5" display or display wirelessly up to a 4K  HDTV.  The form factor isn’t rectangular like the PS Vita, Nintendo DS, or Apple iPod, but rather shaped more like an XBOX or Playstation controller with a fold-out display.
+The ability to play PC games is accomplished leveraging the same kind of technology that is used in NVIDIA’s commercial VDI (remote desktop) and cloud gaming technology, called NVIDIA VGX Technology.   Essentially the Kepler architecture-based technology renders a video of the gameplay as it is happening on the PC and wirelessly send it to the “Shield” or an HDTV.  With NVIDIA’s Kepler architecture, they significantly improved their technology so that the gaming latency would be minimized.  They do this many ways, one which is to bypass the CPU and do the rendering all on the GPU.  SHIELD sends gameplay commands wirelessly to the gaming PC.  It sounds complicated but all of that is in the background and the gamer just plays the game.
+The important piece of information we don’t know yet is the price, but they have a lot to work with.  You have to consider what it could replace and compete with:
+There are some big differences in the economics in the devices above.  Each of the devices, except the iPod Touch, is significantly subsidized by games that cost between $25-$70.  I expect NVIDIA to price SHIELD more like the iPod Touch, with an initial higher price point and I think they could garner $399-299 from gamers for the device.  I would expect games to be priced between $1-$20, like Android games are priced today.  Buyers can also play any games they may have previously purchased too, let’s say from their Android phones or tablets like the Google Nexus 7.
+
+Very important to stress, none of the competitive game devices can play PC games, and that will be very important to some gamers.  PC gamers don’t always enjoy sitting at the table or desk and like to be mobile, too.  It would be great if my son would leave the office where he is playing Pirate101 and Minecraft and come and join the family in the living room.
+NVIDIA sent a shock wave through the gaming industry tonight with its Project SHIELD announcement.  Yes, there are many unanswered questions, but regardless of those answers, this is a major disruption to portable game devices, game consoles and devices like the Apple iPod.  Nvidia didn't intend to target game console makers, but given SHIELD is a portable console, they have by proxy.  I give NVIDIA a lot of credit for this industry disruption as it could payoff big for them but also for gamers, too.
+Disclosure: I have a consulting relationship with NVIDIA.
+
+NVDA price 3 days before article release: 0.2934184074401855
+
+NVDA price 1 day before article release: 0.3033374547958374
+
+NVDA price the day of article release: 0.2945718169212341

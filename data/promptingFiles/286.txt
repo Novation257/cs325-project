@@ -1,0 +1,16 @@
+Nvidia Stock Pops 8% As CEO Huang Touts Demand For Chips
+
+Sep 11, 2024, 03:28pm EDT
+
+Demand for Nvidia’s high-tech products is “so great” its customers are “tense,” the artificial intelligence giant’s chief executive Jensen Huang said Wednesday, spurring a more than $200 billion jump in market value for the volatile Nvidia.
+“Everyone wants to be first and everyone wants to be most,” Huang said at a conference hosted by Goldman Sachs, according to Bloomberg, referring to the “more emotional customers” of Nvidia as the semiconductor products it designs for generative AI are treated like nothing short of 21st-century gold.
+“Demand is so great that delivery of our components, our technology, infrastructure, and software is really emotional for people,” explained Huang, reported Yahoo Finance, adding that Nvidia's technology “directly affects” the financial performance of its customers, which include Amazon, Facebook parent Meta, and Google parent Alphabet.
+After mostly trading down in morning trading, Nvidia shares steadily shot up following Huang’s comments, booking a 8% gain by close, almost single handedly turning broad market losses earlier Wednesday into solid gains.
+Huang’s touting of immense demand for his company’s technology comes after Wall Street was not quite swayed by Nvidia’s Aug. 28 earnings report, as shares fell more than 20% in the week after over concerns about Nvidia’s ability to sustain its near unprecedented revenue growth.
+The Silicon Valley-based Nvidia most famously designs graphics processing units (GPUs), systems which handle the immense data needed to power AI applications. As interest in machine learning began to peak in late 2022 with the release of the ChatGPT generative AI chatbot, so did Nvidia’s financial results. Analysts project Nvidia will report $126 billion in sales and $67 billion in net profits in its fiscal year ending January. 2025, eye popping growth from the $$27 billion in sales and $4 billion profit it booked in the fiscal year ending January 2023. Nvidia stock has skyrocketed as demand for its AI systems soared, with shares up about 700% over the last two years.
+
+NVDA price 3 days before article release: 102.78044128417967
+
+NVDA price 1 day before article release: 108.04788970947266
+
+NVDA price the day of article release: 116.85365295410156

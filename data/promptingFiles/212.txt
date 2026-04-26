@@ -1,0 +1,24 @@
+Nvidia’s RTX 5090 Twice As Fast As The RTX 4090, But There’s A Catch
+
+Jan 08, 2025, 03:30pm EST
+
+Nvidia has made some pretty bold performance claims for its new GeForce RTX 5090 and other models announced at CES this week. Chief among them is that the new models are twice as fast as previous ones, including the GeForce RTX 4090. That's quite remarkable if true, as we don't usually see much more than 10% to 30% more performance between generations, with new models generally performing as well as the model above from the previous generation. However, there is a big catch with these claims.
+Since the original RTX series launched in 2018, its use of AI, upscaling and even generating entire artificial frames to boost frame rates has become a growing part of how its graphics cards work. Remove all of that technical wizardry and you're left with pure rasterization, which is the traditional way of generating the frames and worlds we see in games, and all games work this way to some extent. Add the likes of Nvidia's DLSS into the mix, and suddenly games that support it can see massive increases in frame rates. The catch? Not all games support DLSS.
+Nvidia's revealed its new DLSS Multi Frame Generation at CES, and instead of generating single frames as before, up to three can now be added for every traditionally rendered frame, increasing performance by up to eight times compared to rasterization alone, Nvidia claims. To get that performance increase, though, which is where its twice-as-fast figures comes from, you need to turn on all the latest bells and whistles. Thanks to a new DLSS transformer model and other refinements to the RTX 5090 and other Blackwell architecture cards, the new models are better placed to take advantage of these new or enhanced features.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+This is where Nvidia's claims for the extra performance come from. But getting back to normal rasterization in games for a moment, these still make up the vast majority out there, both new and old. So playing games that lack support for Nvidia's DLSS tech means relying on the raw rasterization power, and this offers far smaller gains compared to the previous generation. According to Nvidia's own graphs, it appears there's around 20% to 40% increases for the RTX 5090 over the RTX 4090 — still good, but clearly nowhere near 100%, or twice as fast.
+The short story? Wait for benchmark results when the RTX 5090 is released later this month. By then we'll know just how fast on average it is across a broad spectrum of games and not just titles that support Nvidia's DLSS features. The jury is also out on what the visual quality will be using its new techniques such as Multi Frame Generation. Adding frames this way can have huge benefits in games that struggle to achieve high frame rates such as Microsoft Flight Simulator, but many are still dubious of the technology.
+The flip side is that Nvidia's ecosystem is growing and hasn't done what some thought it would at the start, and it’s failed to gain traction. Since 2018, over 700 titles now support Nvidia RTX features, such as ray tracing and DLSS, and over 40% of all Steam users in its Hardware Survey use desktop Nvidia RTX capable graphics cards alone before we consider laptop market share. The Nvidia RTX 5090 might be out of reach for many, but even the RTX 4090 has 1% market share, which is impressive, and Nvidia makes up over 75% of overall graphics cards that use Steam. Whether you like it or not, Nvidia's RTX features are here to stay.
+
+NVDA price 3 days before article release: 144.4226837158203
+
+NVDA price 1 day before article release: 140.09408569335938
+
+NVDA price the day of article release: 140.06410217285156

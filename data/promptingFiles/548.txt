@@ -1,0 +1,27 @@
+How NVIDIA And VMware Aim To Make Enterprise AI Easier With Joint Solutions
+
+Mar 23, 2021, 07:00am EDT
+
+Best-in-class companies are data-driven with insights that are increasingly AI-powered. Effectively competing in this new world requires application modernization and AI adoption. Neither task is easy. Organizations spend too much time designing and maintaining the infrastructure to support applications and AI. Companies need to spend more time creating new employee workflows, products and customer experiences to succeed in a highly competitive environment.
+
+Technology vendors play a crucial role in helping or hindering organizational transformation. Last year, NVIDIA and VMware discussed how they were creating an AI-Ready Enterprise platform.  This month NVIDIA and VMware announced the platform has entered general availability. As part of the partnership:
+
+
+
+
+Why does it matter?
+A set of predefined solutions, like what NVIDIA and VMware offered, simplify infrastructure purchases by helping IT leaders understand what products work together and what combination of components need to be purchased to run AI in their data centers. Everyone knows AI talent commands a premium. Rather than hiring specific talent to deploy and support AI-specific infrastructure, a certified solution allows companies to manage systems with existing core IT teams.
+
+The software stack provides foundational elements that help companies bootstrap efforts. For example, an organization can use its data with NVIDIA pre-trained AI vision models and transfer learning to compress its training cycle down to approximately eight weeks.  In the past, this process could have taken up to 80 weeks as an organization installed new infrastructure, hired new AI research talent, and created its deep learning model.
+
+Additionally, a multiple instance GPU infrastructure provides new levels of AI workload flexibility for VMware customers. NVIDIA announced a new architecture called the A100 that offers a multi-instance GPU last May. The NVIDIA-VMware solution fully exposes the A100 multi-instance GPU functionality to the vCenter control plane. The solution enables an organization to have seven virtual machines (VMs) share one piece of hardware in a secure and isolated way with guaranteed quality of service and response. It also offers the ability for the company to reaggregate the infrastructure into one big GPU for training performance.
+
+Let's look at what that means in action. For example, a financial firm running production AI models for credit card fraud detection could use a multi-instance GPU to scale inferencing to meet peak demand. During the evening, when the demand drops, the company can re-aggregate the multiple multi-instance GPU instances into a single GPU to run AI model training workloads at night. Effectively, it allows a company to use the same infrastructure for training and inference by changing the profile of how it uses the GPU throughout the day.
+
+Overall, it's clear that AI will transform every industry and we're just at the beginning of integrating this insight into enterprise applications. Companies need technology solutions that can speed the pace of deployment, help IT leaders add new insights into applications and create new products. It's good to see new products and collaborations coming to market to support this.
+
+NVDA price 3 days before article release: 12.690516471862791
+
+NVDA price 1 day before article release: 13.153099060058594
+
+NVDA price the day of article release: 13.037890434265137

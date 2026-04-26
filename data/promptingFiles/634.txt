@@ -1,0 +1,21 @@
+[Updated] AMD Drops Radeon Vega 56 To $279 To Fight Nvidia's GTX 1660 Ti
+
+Feb 21, 2019, 04:47pm EST
+
+AMD is treating the Radeon RX Vega 56 to a massive 30-percent price drop today, and that can only mean one thing: Nvidia's rumored launch of the GTX 1660 Ti is imminent.
+Multiple leaks -- including a quickly pulled Amazon listing and an actual unboxing -- have laid bare Nvidia's plans to release a more mainstream (read: affordable) Turing-based gaming graphics card, which likely means it will axe its real-time ray tracing technology present in the high-end RTX series. I'm willing to bet most consumers are OK with that decision, especially considering the GTX 1660 Ti is rumored to launch for $279.
+That puts it dead even in price with AMD's Vega 56, a solid (if power hungry) card that puts up a mostly winning fight against Nvidia's GTX 1070.
+PCGamesN pegs the GTX 1660 Ti's estimated performance at just above a GTX 1070, meaning we might see newfound interest in AMD's last-gen Vega. Nvidia will win the power efficiency battle, but AMD has the healthy FreeSync monitor ecosystem in its corner, as well as three free games (The Division 2, Resident Evil 2 and Devil May Cry 5) for anyone purchasing the Vega 56 or an eligible Vega 56-equipped PC.
+Nvidia's stealthy launch of the GTX 1660 Ti is interesting. What's more interesting is the question of where this puts AMD's RX 590 in the stack. The Vega 56 is a decidedly stronger performer than RX 590, often besting it by 35 percent or more at 1440p when average framerates are analyzed. But both are now $279. Pretty easy decision.
+So does AMD slash prices across the entire stack now, or concentrate on moving Vega 56 and drawing attention away from Nvidia's 1660 Ti? The sub-$300 GPU race is always an exciting one to watch, and by tomorrow we should have even more answers.
+UPDATE 1: AMD framed this as a price drop in their email to press, and that's how most press reported it. However, this tweet from the official AMD account concerns me:
+Our friends at @Newegg had a killer deal for Radeon RX Vega 56 at $279.99 ($249.99 after MIR) just earlier today. As you can imagine, it sold out quickly.
+I'm seeking clarity on whether this was a limited-time sale on one particular Vega 56 model, or indeed a price drop.
+UPDATE 2: A spokesperson for AMD provided a disappointing response, but at least we know where things stand:
+“Radeon RX Vega 56 has been heavily promoted since the holidays and into the new year as partners have been eager to make RX Vega 56 and it's forward looking 8GB of HBM2 available for more gamers. To clarify, the current Radeon RX Vega 56 promotion is not a price drop. Additionally, the RX Vega 56 graphics card will continue to be offered as part of AMD’s Raise the Game: Fully Loaded bundle with three of this year’s blockbuster titles.”
+
+NVDA price 3 days before article release: 3.900561809539795
+
+NVDA price 1 day before article release: 3.930558681488037
+
+NVDA price the day of article release: 3.861640453338623

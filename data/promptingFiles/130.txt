@@ -1,0 +1,20 @@
+Nvidia Dynamo And Storage Next Boost AI Storage, Performance And Lowers Costs
+
+May 07, 2025, 02:51pm EDT
+
+At the 2025 Nvidia GPU Technology Conference the company announced its AI Data Platform that included significant advances in enterprise digital storage to support corporate AI workloads.  However, the company’s KV cache in its Dynamo software and future looking efforts to connect storage and memory more directly with GPUs will drive digital storage and memory demand further, improve inference performance and lower AI costs.
+The AI Data Platform leverages Blackwell GPUs, BlueField DPUs and Spectrum-X networking to deliver 1.6X higher performance than CPU-based storage, reducing power consumption by up to 50% and providing more than three types higher performance per watt and accelerating storage traffic up to 48% compared to traditional Ethernet.  This roll out was done in conjunction with
+A number of digital storage companies as shown in the image from Jensen Huang’s GTC keynote below.
+In a recent conversation with Kevin Deierling from Nvidia we discussed another topic related to storage announcements at the 2025 GTC, that is the Key Value Cache in Nvidia’s Dynamo, see image below of Jensen announcing Dynamo.
+Jensen characterized Dynamo as the OS of the AI factory.   These key values are binary representations of the state of the AI model at a point in time.   This KV cache grows to become very large for large models.  But the KV cache allows faster user responses and avoids the need to recalculate model results and thus reduces costs and increases efficiency.
+Nvidia Dynamo is open-source high-throughput low-latency inference software that is intended to standardize model deployment and enables fast and scalable AI in production.  Because creating trained KV values for user requests is compute intensive and keeping them solely on GPU memory is expensive the Dynamo KV Cache Manager enables the offloading of older or less frequently access KV cache blocks to more cost-effective memory and storage such as CPU memory, local storage or networked object or file storage.
+This enables organizations to cost-effectively store petabytes of KV cache data by distributing KV cache blocks between a hierarchy of GPU accessed storage as shown below, depending upon frequency of use.  Such a hierarchy will include memory as well as SSDs and HDDs.  Dynamo can manage KV cache across multiple GPU nodes and supports both distributed and disaggregated inference serving with the hierarchical caching creating offloading strategies at multiple levels.
+There is another effort that Nvidia and several digital storage and memory companies are working on that has been called Storage Next.  This is an initiative within the Open Compute Project to create a new storage architecture for GPU computing hear memory for disaggregated data-protected, managed block storage using next generation NVMe over the PCIe generation 6 bus.  This is expected to provide lower total cost of ownership, higher IOPS, lower power consumption and less complex infrastructure and reduced impact from tail latencies.
+Kevin’s comment to me was that this will include computational storage for AI.  Nvidia plans to talk further about this effort at the 2025 FMS in August.
+Nvidia’s Dynamo enables faster and more efficient AI inference with scalable digital storage and memory hierarchical KV caching.  Work in development by the storage industry will allow even tighter integration of digital storage with GPUs.
+
+NVDA price 3 days before article release: 114.47303009033205
+
+NVDA price 1 day before article release: 113.51325988769533
+
+NVDA price the day of article release: 117.0324249267578

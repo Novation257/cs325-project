@@ -1,0 +1,17 @@
+Meta Enters The Token Business, Powered By Nvidia, Cerebras And Groq
+
+Apr 29, 2025, 04:07pm EDT
+
+Meta held its first-ever event for AI developers, LlamaCon, at the company’s headquarters in Menlo Park, where it announced that it was ready to compete with ChatGPT from OpenAI, as well as Google, AWS, and AI-as-a-service startups.
+This is really a big deal for Meta and the AI industry as the maker of the popular open-source Llama LLM seeks to directly monetize the incredible adoption Meta has realized. Developers just access the model from the cloud; no hardware or software to install.
+But it is also a big deal for Cerebras and Groq, the two startups selected by Meta for serving fast tokens, many times faster than a GPU.  (Nvidia,  Cerebras and Groq are all clients of Cambrian-AI Research.) Meta did not disclose pricing, as access to the API is currently in preview, and access to Groq and Cerebras is only available by request. This is the first time either startup has landed a foothold at a hyper-scale Cloud Service Provider (CSP). And Meta has made it super easy to use; developers just select Groq or Cerebras in the API call.
+“Cerebras is proud to make Llama API the fastest inference API in the world,” said Andrew Feldman, CEO and co-founder of Cerebras. “Developers building agentic and real-time apps need speed. With Cerebras on Llama API, they can build AI systems that are fundamentally out of reach for leading GPU-based inference clouds.”
+Andrew’s point is important. Obtaining inferences at some 100 tokens per second is faster than a human can read, so “one-shot” inference requests for a service like ChatGPT runs just fine on GPUs. But multi-model agents and reasoning models can increase computational requirements by some 100-fold, opening an opportunity for faster inference from companies like Cerebras, Groq. Meta did not mention the third fast-inference company, Samba Nova, but indicated that they are open to other compute options in the future.
+It will be interesting to see how well these two new options fare in the tokens-as-a-service world.
+Disclosures: This article expresses the opinions of the author and is not to be taken as advice to purchase from or invest in the companies mentioned. My firm, Cambrian-AI Research, is fortunate to have many semiconductor firms as our clients, including Baya Systems BrainChip, Cadence, Cerebras Systems, D-Matrix, Esperanto, Flex, Groq, IBM, Intel, Micron, NVIDIA, Qualcomm, Graphcore, SImA.ai, Synopsys, Tenstorrent, Ventana Microsystems, and scores of investors. I have no investment positions in any of the companies mentioned in this article. For more information, please visit our website at https://cambrian-AI.com.
+
+NVDA price 3 days before article release: 106.40492248535156
+
+NVDA price 1 day before article release: 108.7043914794922
+
+NVDA price the day of article release: 108.99431610107422

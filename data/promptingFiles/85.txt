@@ -1,0 +1,21 @@
+Nvidia’s Jensen Huang Convinced Trump That AI “Races” Are A Loser
+
+Jul 16, 2025, 11:30am EDT
+
+The Trump administration’s expressed desire to “beat” China in the AI race was the path to the U.S. falling hopelessly behind. That’s why the meeting Nvidia’s Jensen Huang had with President Trump last week was so important.
+Which requires a quick look back in time, specifically to Adam Smith’s 18th century visit to a pin factory. Smith observed for readers that while one man working alone in the factory could maybe produce one pin per day, several men working together in specialized fashion could produce tens of thousands.
+What Smith saw was a simple, but crucial lesson for today: workers aren’t a cost, evidence of jobs “taken,” or a sign of those not doing the work “falling behind,” rather they’re an input. The more workers the better. As in the more hands and machines at work in specialized fashion around the world, the exponentially faster the progress in any commercial endeavor.
+The Smith diversion is essential mainly because the business press have focused on Huang convincing Trump to allow Nvidia, AMD and other U.S. chipmakers to resume sales of their AI chips in China. About this change from the Trump administration, it’s a big deal as readers can guess in consideration of the massive size of the Chinese market for AI. As a recent report in the New York Times indicated, something like 50 percent of the world’s AI developers are based in China. Which speaks to the much bigger reason Huang’s meeting with Trump was so important.
+To see why, contemplate Smith’s pin factory yet again. Think about the massive productivity implications of work divided in the creation of something so prosaic.
+From there, it’s easy to see why the Trump administration’s reversal of policy is even bigger than the sales implications cited by the business press. It’s about wildly talented employees of Nvidia, AMD and others being freed to yet again work with the best of the AI best in China on the way to transformative advances that will propel work, health and global living standards to levels that will eventually make the present seem relatively primitive by comparison.
+This is what happens when work is divided. Those dividing it aren’t weakened by the increase of capable hands, they’re greatly strengthened by it simply because the division of labor is just another term for specialization. When we’re doing what elevates our individual talents the most, our pay soars simply because our productivity does.
+Looked at in a country sense, the federal government’s past restrictions on AI chip sales inside China were easily the biggest threat to American preeminence in the AI space. That’s because anything that limits our ability to divide up work with others as a rule limits our ability to excel.
+Which is a reminder that the restrictions lifted by the Trump administration were about far more than sales. In truth, they were existential.
+To the extent that the best of the AI best in the U.S. had the world walled off to them, they were being set up to slowly fall behind. Seriously, how to stay ahead if you’re not able to work alongside the individuals in a country populated by half of the world’s artificial intelligence developers?
+The brilliant, peaceful truth about the effects of Jensen Huang’s meeting with President Trump is that it led to the realization that the U.S. and China will progress much more slowly in the AI space if the talent and technology in each country can’t tessellate. In short, country-specific attempts to “win” the AI race are the path to failure.
+
+NVDA price 3 days before article release: 164.89259338378906
+
+NVDA price 1 day before article release: 170.671630859375
+
+NVDA price the day of article release: 171.34152221679688

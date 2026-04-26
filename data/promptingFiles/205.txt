@@ -1,0 +1,20 @@
+Nvidia RTX 5090 And RTX 5080 Review Dates Revealed?
+
+Jan 13, 2025, 01:46pm EST
+
+We already know from Nvidia's keynote presentation at CES last week that the RTX 5090 and RTX 5080 will be available from Jan. 30, but what we didn't know is when reviewers will get their hands on the graphics cards to be able to compare them side by side with others in games. The first embargo date, claimed by Videocardz today, will be Jan. 24, and that will be for the RTX 5090.
+The site hasn't listed a source, but neither does it list the post as rumor either so this suggests it either came from Nvidia itself or perhaps a retailer or board partner.  This means it's just 11 days till we'll know just how fast the RTX 5090 is compared to other models such as the RTX 4090 and AMD Radeon RX 7900XTX.
+The article goes on to say that the RTX 5080 will see reviews go live on Jan. 30, which is the same day as availability. The latter has caused speculation online as to why Nvidia would release the card on the same day as availability with some suggesting its performance is maybe less impressive than the RTX 5090 and it’s relying on would be owners to reach for their wallets before reading reviews.
+These dates have, according to Videocardz, been pushed back due to a late arriving BIOS for the new graphics cards, which meant that AIB or partner card manufacturers requested a delay to prepare their own models. The article also claims that both Nvidia's own Founders Edition models as well as AIB card models will see embargos lifted the same day.
+No other sources have confirmed these dates so for now it's better to consider them rumors, but we won't know exactly till the reviews go live as those sites will be under embargo not to reveal anything.
+The RTX 5090 will retail for $1,999 and will have 32GB of GDDR7 memory and Nvidia claims it's up to twice as fast as the RTX 4090. most likely when using DLSS4 and Multi Frame Generation. The RTX 5080 will cost $999 - the same as the RTX 4080 did at launch and have 16GB of GDDR7 memory.
+Interestingly, the Founders Edition cards will be much smaller than their predecessors, spanning only two slots instead of three with the RTX 4080 and 4090 Founders Edition cards. This means they'll have far fewer compatibility issues and will enjoy increased compatibility with small form factor mini-ITX cases.
+Meanwhile, AMD is also expected to release its new RDNA 4-based Radeon RX 9000 series, with the RX 9070 XT offering Performance between the RTX 4070 Ti Super and RTX 4080, even eclipsing the RTX 4080 Super in one test. Pricing has also been rumored to start at just $479 for the reference card and $600 including taxes for AIB or partner card models.
+For now you can read more about the new Nvidia graphics cards on its website.
+I'll be covering all the news about them as it lands plus my own reviews later this month.  follow me here on Forbes using the blue button below, Facebook or YouTube to get the latest news and reviews.
+
+NVDA price 3 days before article release: 140.09408569335938
+
+NVDA price 1 day before article release: 135.86549377441406
+
+NVDA price the day of article release: 133.1863555908203

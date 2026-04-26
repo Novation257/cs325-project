@@ -1,0 +1,44 @@
+NVIDIA Stock Looks Cheap Even After 40% Jump Since July
+
+Oct 20, 2015, 02:02pm EDT
+
+Operating in a highly competitive market can put a harsh spotlight on particular companies. Sometimes this spotlight is warranted; sometimes it is not. This week we’re recognizing a leader in the PC market and a company that has ample growth opportunities. These opportunities appear to be unrecognized by the market, and we see significant upside for the stock. This week’s long idea is NVIDIA Corporation (NVDA)
+Profit Growth is Ramping Up
+NVIDIA is estimated to have an 82% market share in its main product segment, graphic-processing units (GPU). This market leading position has allowed NVIDIA to build a highly profitable business, while investing in new technologies. NVIDIA has grown after-tax profit (NOPAT) to $713 million on a trailing twelve-month (TTM) basis, up from -$92 million in 2010. The downward blip in 2014 was largely caused by poor Tegra sales. The segment has since been expanded to focus on the more promising automotive market and saw 45% year-over-year revenue growth in 2015, which helped lead the bounce back in profits as seen in Figure 1.
+Figure 1: NVIDIA’s Profit Growth Is Strong
+
+While growing its market share of the GPU industry, NVIDIA has become much more profitable. NVIDIA’s return on invested capital (ROIC) has grown to a top quintile 34% from 18% in 2011. In addition, NOPAT margins have risen to 15% from 7% over this same time frame.
+A Leg Up On Competition
+NVIDIA faces competition from GPU producers as well as system-on-a-chip (SOC) makers. Luckily for NVDA investors, the company has a significant advantage over most of its competition, with the arguable exception of Qualcomm, a SOC provider we’ve been bullish on in previous reports. Figure 2 shows that NVIDIA operates at higher levels of profitability, giving it more operating flexibility and pricing power. Because over 82% of revenues are derived from the computer GPU segment, whereas Qualcomm is focused on mobile devices, its superior ROIC should not be alarming. Better yet, the difference between NVIDIA and Advanced Micro Devices points to the competitive strength NVIDIA has within its main market.
+Figure 2: NVIDIA Ranks Among The Most Profitable
+
+Bear Concerns Ignore NVIDIA’s Actual Business
+The biggest concern regarding NVIDIA is that they provide products for a PC industry that is by all accounts on the decline. This concern is unwarranted because of NVIDIA’s approach to the PC market. Rather than attempting to battle with behemoth Intel on low-end machines, NVIDIA chooses to focus on the high end PC gaming market, a move that has been extremely successful (see Figure 1).
+This niche focus appears to be an astute move, as PC gaming revenue is expected to surpass $35 billion by 2018, up from ~$15 billion in 2009. Additionally, the rise of Esports, or organized gaming competitions, only further increases NVIDIA’s opportunities for future growth. In 2014, more people watched the League of Legend’s championship than the NBA Finals game five. Better yet, Esports are becoming more mainstream, with ESPN airing recent championship matches and corporate sponsors such as Ford, American Express, and Coca-Cola joining in the fray.
+Another drag on the company has been their recent failures in smartphone processing market with its Tegra segment. As we’ve seen with Intel before, expanding successfully into mobile is no sure bet, but the way NVIDIA has dealt with the failure provides promise for the future. Recognizing that the company was losing traction in the phone space, NVIDIA has chosen to re-focus its Tegra segment towards, among other areas, the automotive industry. As it stands, NVIDA is partnered with over 50 companies, including Honda, Audi, and BMW, to provide infotainment systems and going forward, autonomous driving processing systems. While the growth in these fields has been excellent, up 85% year-over-year, it still represents a small portion of NVIDIA’s total operations. However, the ability to reposition its Tegra segment into what could be one of the largest shifts in automobiles is a promising sign for investors.
+Impact of Footnotes Adjustments and Forensic Accounting
+We have made several adjustments to NVIDIA’s 2015 10-K. The adjustments are:
+Income Statement: we made $248 million adjustments with a net effect of removing $63 million of unusual expenses. The largest adjustment was the removal of $59 million (1% of revenue) related to asset write-downs.
+Balance Sheet: we made $4.8 billion of balance sheet adjustments to calculate invested capital with a net decrease of $4.2 billion. The largest adjustment made was the removal of $4.4 billion due to excess cash. This adjustment represented 70% of reported net assets.
+Valuation: we made $6.2 billion of adjustments with a net effect of increasing shareholder value by $2.3 billion. The largest adjustment to shareholder value was the removal of $205 million due to off-balance sheet operating leases, which represents 2% of NVIDIA’s market cap.
+Stock Valuation Presents Great Buying Opportunity
+NVDA has seen shares soar over the past few months. However, we feel shares are still significantly undervalued and don’t receive the credit they are due. At its current price of $28/share, NVDA has a price to economic book value (PEBV) ratio of 1.1. This ratio implies that the market expects the company’s NOPAT to only grow by 10% from current levels over the remainder of its life. This expectation contradicts the 28% compounded annual NOPAT growth NVIDIA has achieved over the past four years, as well as the continued growth in the PC gaming industry.
+If NVIDIA can grow NOPAT by just 8% compounded annually for the next decade, the stock is worth $34/share – a 21% upside.
+NVDA Will Increase After Earnings Beats
+Most of the future growth opportunities, such as the automobile segment mentioned above, or even virtual reality gaming, may still be months or years away. As long-term investors though, we are confident in NVIDIA’s ability to grow into these markets due to the company’s past track record.
+With the continued decline of the PC market still dragging on shares, we believe that NVIDIA will be able to surpass low expectations and shares will greatly benefit. In the long-term, look for continued integration of its Tegra chips into infotainment systems, as well as the release of virtual reality gaming, expected to occur in 2016, as a potential catalyst for shares to push even higher.
+Insider Trends/Short Interest Raise No Alarms
+In the past year, there have been 1.6 million insider shares purchased and only 1.4 million insider shares sold for a net impact of 200,000 shares purchased. This represents less than 1% of shares outstanding. Short interest in NVDA stands at 35 million shares, or around 6% of shares outstanding.
+Executive Compensation Raises a Red Flag
+In the past year, NVIDIA has shifted their executive compensation to place more emphasis on “at risk” compensation. As such, only 12% of the CEO’s pay is in salary, and 30% of other executives pay is salary. The remaining stock units and cash bonuses are awarded based upon meeting a target non-GAAP operating income. Unfortunately, this metric excludes stock-based compensation, something we’d prefer to be included since its an expense. Up to now, despite executive compensation plans that do not award shareholder value creation, management has built a successful business model while continually creating shareholder value.
+Share Buyback Plans Are Aggressive and Provide High Yield
+Through 2015, NVIDIA has repurchased $452 million worth of common stock under the company’s share repurchase program. These repurchases represent 4% of NVIDIA’s market cap. This program has been continually extended since 2004 and NVIDIA is still authorized to repurchase up to $1.6 billion through 2018.
+Attractive Funds That Hold NVDA
+The following funds receive our Attractive-or-better rating and allocate significantly to NVIDIA Corporation.
+Disclosure: David Trainer and Kyle Guske II receive no compensation to write about any specific stock, style, or theme.
+
+NVDA price 3 days before article release: 0.6665211915969849
+
+NVDA price 1 day before article release: 0.6757547855377197
+
+NVDA price the day of article release: 0.674782931804657

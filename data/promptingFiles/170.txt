@@ -1,0 +1,20 @@
+Nvidia Earnings Signal Maturity Amid Market Uncertainty
+
+Feb 26, 2025, 07:45pm EST
+
+Nvidia, the chipmaker that fueled 22% of the S&P 500’s total returns in 2024 with a 171.25% stock surge, continues to ride the AI wave into 2025. Its latest quarterly earnings, released after market close Wednesday, showcase a company still firing on all cylinders—yet the market’s response hints at a maturing narrative.
+With the stock down 2.24% year-to-date entering earnings, investors are wrestling with whether Nvidia’s meteoric rise can sustain its momentum amid economic uncertainty and shifting tech priorities.
+Nvidia’s fourth-quarter fiscal 2025 results, covering the period ending January 26, 2025, smashed expectations. The company reported revenue of $39.3 billion, a 78% leap from $22.1 billion a year ago and a 12% increase from the prior quarter’s $35.1 billion, according to a press release issued by Nvidia.
+For the quarter, GAAP earnings per diluted share hit $0.89, up 82% year-over-year, while non-GAAP earnings per share matched at $0.89, a 71% annual gain. The data center segment, Nvidia’s AI powerhouse, soared to $35.6 billion, up 93% from last year, driven by booming demand for its Blackwell and Hopper GPU platforms.
+CEO Jensen Huang touted the results on the Q4 earnings call, saying, “Demand for Blackwell is amazing as reasoning AI adds another scaling law—increasing compute makes models smarter.” The Blackwell platform, ramping up to “massive-scale production,” contributed billions in sales this quarter alone, per Huang’s remarks.
+Since November 2024, Nvidia, Microsoft, and Apple have traded sideways, with all three posting negative year-to-date returns. The S&P 500, tethered to these giants, has stalled alongside them as the U.S. economy faces turbulence with incoming policy shifts—tariffs, tax changes, and deregulation—under a new administration.
+The two-year rally in Big Tech, propelled by artificial intelligence hype, could be hitting a ceiling as firms pivot from raw compute power to efficiency. Innovations like DeepSeek’s compute-light AI models suggest a future where Nvidia’s dominance might face pressure.
+Competitors such as AMD and Intel are developing alternatives to Nvidia’s AI offerings. AMD’s Instinct MI300 series has secured adoption in cloud computing environments. However, Nvidia’s ecosystem, supported by its CUDA software platform and established partnerships with major hyperscalers, continues to hold a leading position in the AI chip market.
+Optimists eyeing AI’s secular growth might see Nvidia’s dip as a buy signal, but broader exposure could be wiser. The Nasdaq and S&P 500—down 3.1% and 1.8% year-to-date, respectively, per today’s close, are laden with AI-adjacent firms, offering upside with less single-stock risk.
+Nvidia’s Q4 2024 earnings cement its AI supremacy—$130.5 billion in fiscal-year revenue, up 114%, speaks for itself. But as the market digests its maturity and braces for economic twists, the era of unchecked gains may be cooling. Investors should weigh diversification and patience in this volatile new chapter.
+
+NVDA price 3 days before article release: 134.38595581054688
+
+NVDA price 1 day before article release: 126.5885238647461
+
+NVDA price the day of article release: 131.23699951171875

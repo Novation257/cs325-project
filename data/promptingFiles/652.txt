@@ -1,0 +1,17 @@
+Nvidia Announces New Drive AGX Developer Kits For Automated Driving
+
+Sep 13, 2018, 11:56am EDT
+
+It’s hard to argue with calling Nvidia the market leader in providing integrated compute platforms for automated driving development. Since the launch of the original Drive PX system in 2015, Nvidia has continued cranking up the performance and capability of its development platform. This week at the companies GPU Technology Conference in Japan, CEO Jensen Huang announced the availability of the latest iteration, Drive AGX in two versions, the Xavier and the Pegasus.
+One of the key factors to Nvidia’s success in this space has been the integrated platform that includes a board with the processing chips and all of the necessary input/output for connecting sensors and communicating to other vehicle systems. This makes it a lot easier for developers to buy the system and connect it in the vehicle without having to assemble a bespoke solution from parts. Nvidia also provides an array of software frameworks for deep learning that enable developers to get started quickly.
+The first of the new Drive AGX systems is powered by Nvidia’s Xavier, a system on a chip that combines multiple different types of processing cores including general purpose CPU, advanced GPU and tensor processing units optimized for machine learning operations. The diversity of processing types allows different software to run on various cores providing both the diversity and redundancy required to bolster the safety and reliability of automated vehicles.
+Nvidia claims the Xavier can perform up to 30 trillion operations per second (TOPS) while consuming only 30 watts of power. That’s more than 16,000 times the performance of the computing system in the Carnegie Mellon Chevrolet Tahoe that won the DARPA Urban Challenge in 2007. It’s also about 15 times what is available in the latest generation Tesla AutoPilot system which is powered by earlier generation Nvidia chips. Even with that immense performance, it’s still considered only enough for so-called Level 4 automated systems that operate in limited, geofenced environments.
+To get to so-called Level 5 automation that is capable of operating in any environment at any time, Nvidia is now offering the Drive AGX Pegasus. First announced at GTC Europe last fall, Nvidia started shipping Pegasus samples to partners in late spring of 2018. The Pegasus system utilizes two Xaviers and two of the company’s next-generation GPUs to crank out 320 TOPS, another order of magnitude beyond Xavier.
+Both kits come with wiring harnesses and the Nvidia Drive Software 1.0 to help developers get up and running quickly with deep learning software frameworks and libraries. These libraries include image processing, path planning and more. Another of the features that Nvidia touts for its platform is scalability. All of the software built to run on any Drive PX platform will run directly on the latest hardware as well as its simulation platforms so it doesn’t have to be rebuilt. Existing efforts can be expanded as developers move to more powerful platforms.
+Nvidia is taking orders for the Drive AGX systems now and Xavier systems will start shipping on October 1.
+
+NVDA price 3 days before article release: 6.803929328918457
+
+NVDA price 1 day before article release: 6.642207622528076
+
+NVDA price the day of article release: 6.719974517822266

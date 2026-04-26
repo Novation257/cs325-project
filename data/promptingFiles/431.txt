@@ -1,0 +1,41 @@
+While AMD Lags NVIDIA In Generative AI, CEO Lisa Su Is Bullish
+
+Aug 02, 2023, 09:59am EDT
+
+In the race to tap the enormous market for Generative AI, Nvidia is the clear market leader and AMD is scrambling to catch up.
+After an August 1 report of expectations-beating results for 2023’s second quarter, AMD stock fell about 2% in early August 2 trading. To be fair, AMD stock is up 77% in 2023 — some 26% below its October 2021 all-time high.
+Will AMD’s Generative AI strategy give it the growth it needs to keep its stock climbing? Analysts have mixed view and I would wait before investing in the stock to see whether AMD can execute its strategy for competing with Nvidia.
+Santa Clara, Calif.-based AMD operates in four segments of the semiconductor industry with very different growth trajectories. For example,
+
+
+AMD has been getting smaller for the last two quarters. As Investor’s Business Daily reported, AMD suffered “four consecutive quarters of declining earnings. Sales have dropped for two straight quarters as it navigates a downturn in demand for personal computers and traditional servers.”
+On August 1, AMD reported expectations-beating results — featuring a plunge in revenue from the previous year and weaker-than-expected guidance for the third quarter.
+Here are the key numbers, according to CNBC:
+
+
+AMD expects its data center and embedded divisions to grow. Su said on a call with analysts, “We are expecting a large ramp in the second half for our Data Center business, weighted towards the fourth quarter and we are still looking at a ZIP code — let’s call it 50%, plus or minus, second half to first half.”
+AMD sees the most growth potential in its Client and Data Center segments. According to AMD’s Second Quarter 2023 Earnings Call Transcript, CFOCFO Jean Hu said, “Year over year, we expect revenue for the client segment to be up, data center segment to be flattish, and the gaming and embedded segments to decline. Sequentially, we expect the client and the data center segment to each grow by a double-digit percentage and the gaming and embedded segments to decline.”
+AMD is one of the few companies making high-end GPUs needed for artificial intelligence.
+With Generative AI expected grow at a 31% compound average annual rate to $152 billion in 2032, AMD could grow quickly if it could grab a larger share of that market.
+To do that, a company must be able to build, ship, and service a winning product. While AMD is investing more to do that well, it lags Nvidia which in May said it is prepared to supply those AI chips.
+As Nvidia CFO Colette Kress told investors on Nvidia’s Q1 2023 earnings call, “Strong demand [for our GPUs] has extended our data center visibility out a few quarters and we have procured substantially higher supply for the second half of the year.”
+Nvidia sees AI as the biggest thing since AppleAAPL introduced the iPhone in 2007. CEO Jensen Huang told the Wall Street Journal, “All the technology came together and helped everybody realize what an amazing product that can be and what capabilities it can have.”
+Meanwhile, operators of big data centers are retooling their computing infrastructure to capture AI’s growth opportunities. “A trillion dollars of installed global data center infrastructure will transition from general purpose to accelerated computing as companies race to apply generative AI into every product, service and business process,” Huang told the Journal.
+AMD sees opportunity in Generative AI. As Su told investors August 1, "Our AI engagements increased by more than seven times in the quarter as multiple customers initiated or expanded programs supporting future deployments of Instinct accelerators at scale.”
+Meanwhile AMD is spending more on AI-related research and development aiming to offer customers AI-specific chips and software development. Su said, “Our goal is to make this a significant growth driver for AMD. Going forward, we see AI as a significant PC demand driver as MicrosoftMSFT and other large software providers incorporate generative AI into their offerings.”
+AMD expects to launch chips aimed at competing with Nvidia in the fourth quarter of 2023. According to Reuters, AMD will “ramp up production of its flagship MI300 artificial-intelligence chips in the fourth quarter,” to compete with Nvidia’s H100 chips.
+AMD is seeing strong demand for its MI300 series chips. Reuters noted Su saw “very high demand” including from “top-tier cloud providers, large enterprises and numerous leading AI companies” during the third quarter.
+The market for AI chips in China is considerable, Sadly for AMD investors, its MI300s cannot be sold in China because they “exceed the performance limits for sale to China under export controls issued in October,” Reuters noted.
+Rivals — most notable Nvidia and Intel — have already created special chips to comply with those performance limits, Reuters reported. Su told investors August 1, “Our plan is to, of course, be fully compliant with U.S. export controls.”
+Analysts have mixed views on where AMD stock goes from here.
+Jenny Hardy, portfolio manager at GP Bullhound — which owns Nvidia and AMD stock — is bullish. As she said, Nvidia still faces supply constraints, leaving an opening for AMD's chip. “If AMD can ramp production and launch those MI300 chips in the fourth quarter, they will likely see strong demand because plenty of people cannot get their hands on Nvidia chips. So we would assume that AMD can effectively kind of fill some of that supply-demand gap,” Hardy wrote.
+Morningstar sees the potential for AMD to compete with Nvidia in Generative AI — but maintained its $130 price target after AMD’s second quarter earnings report.
+Senior Director Brian Colello, wrote “We’re most encouraged by the firm’s disclosure that its artificial intelligence customer engagements ‘grew by more than seven times sequentially,’ as the firm is poised for a strong ramp of AI graphics processing units starting in late 2023 and into 2024. We remain optimistic about Advanced Micro Devices’ chances to emerge as a second source to Nvidia in GPUs in AI training and inference.”
+TipRanks sees AMD stock rising about 19.8% based on 31 Wall Street analysts offering 12-month price targets averaging $139.26.
+With AMD’s disappointing guidance and its plans to catch up with Nvidia still to be proven, I would hold off on buying AMD.
+
+NVDA price 3 days before article release: 46.71348571777344
+
+NVDA price 1 day before article release: 46.47066879272461
+
+NVDA price the day of article release: 44.23442077636719

@@ -1,0 +1,29 @@
+Why Nvidia Earnings Matter More To Markets Than What The Fed Chair Said
+
+Aug 22, 2025, 12:49pm EDT
+
+Nvidia's upcoming Q2 earnings report is expected to move markets, even more than Fed Chair Jerome Powell's speech, given the chipmaker's S&P 500 weighting and options market expectations.Growing investor skepticism about the low returns from AI investments puts pressure on Nvidia to beat expectations and raise guidance.Failure to meet high expectations could lead to a significant Nvidia stock plunge, potentially triggering a broader tech selloff.
+Markets move on gaps between reality and expectations. I expect the gap that could emerge after Nvidia reports second-quarter earnings next Wednesday will move markets more than what Federal Reserve Chair Jerome Powell said on Friday in Jackson Hole, Wyoming.
+How so? Investors are growing worried about how much companies are investing in artificial intelligence and how few of them are getting a payoff. Unless Nvidia beats investor expectations and raises guidance, its stock could plunge. This drop would be exacerbated by investors who would view a bad report as a sign the AI bubble is bursting.
+In Jackson Hole on Friday, Powell shifted his primary concern from rising inflation to a weakening job market. “The balance of risks appears to be shifting,” Powell said, according to the Wall Street Journal.
+While labor markets appear to be stable, the Fed perceives the risks of worse-than-expected labor market outcomes to be rising. “If those risks materialize, they can do so quickly in the form of sharply higher layoffs and rising unemployment,” Powell said.
+Read on for a closer look at why Nvidia earnings are so market-moving and how investors will know whether the AI chip designer will beat and raise.
+Nvidia’s quarterly earnings reports have been market moving since May 2023, when the chip designer issued the revenue growth forecast heard around the world – prompting me to write my latest book, Brain Rush.
+Since then, Nvidia’s market capitalization has grown so much that changes in the company’s stock price drive the S&P 500. Indeed, Nvidia’s $4 trillion stock market capitalization accounts for 8% of the value of the index, according to the The Times.
+Moreover, the options market is expecting Nvidia’s earnings report to move markets more than Powell’s remarks. That’s because S&P 500 options are pricing a 0.8 percentage point move up or down after the Fed Chair speaks, whereas prices for Aug. 28 — the first chance for investors to trade on Nvidia’s report – imply a move of 0.9 percentage points up or down, according to The Times.
+In the last few weeks, investors have grown more skeptical of investing in AI companies. For example, Palantir, whose shares peaked a few weeks ago at $190, has recently lost 20% of its value despite an excellent second-quarter financial report, as I wrote in an Aug. 20 Forbes post.
+One reason for the drop, which was primarily due to a short seller’s estimate that the stock is 74% overvalued, is the abysmal payoff from companies’ investments in AI.
+Last September, generative AI was looking to me like a big dud. While people were using ChatGPT to help them draft emails and reports, there was no killer app – akin to what the iTunes store did for the iPod or the electronic spreadsheet did for personal computers, I wrote in the Boston Globe.
+This week, MIT reinforced this point with hard numbers.
+"Despite $30B-$40B in enterprise investment into generative AI, this report uncovers a surprising result in that 95% of organizations are getting zero return," according to a study from MIT’s NANDA Institute featured by SeekingAlpha. The study was based on 150 interviews with professionals, a survey of 350 employees, and an analysis of 300 public AI deployments.
+Will investors be worried this minimal payoff from AI will cause Nvidia to offer a less bullish growth forecast? If they do, Nvidia’s stock could fall and drive a significant tech selloff.
+This brings us to the question of what Nvidia is likely to say next Wednesday, when it provides investors with its second-quarter report. In May, the company forecast $45 billion in revenue for the second quarter – $920 million below investor expectations, but 50% higher than last year, according to Investor’s Business Daily.
+A week before the latest report, investors are expecting more from Nvidia. Specifically, analysts expect Nvidia to post revenue of $45.65 billion – a 52.4% increase from last year and a 47% boost in earnings per share to $1.00, according to MarketBeat.
+Investors are expecting Nvidia to forecast Q3 2026 revenue of $52.5 billion, according to The Motley Fool.
+If Nvidia exceeds these expectations and raises revenue guidance, its shares will likely rise. Otherwise, the drop in Nvidia could cascade to other AI stocks. Meanwhile, I anticipate the market’s reaction to Nvidia’s report could be more pronounced than its response to what Powell said Friday.
+
+NVDA price 3 days before article release: 175.61080932617188
+
+NVDA price 1 day before article release: 174.95091247558594
+
+NVDA price the day of article release: 177.96043395996094

@@ -1,0 +1,16 @@
+Here's Why There's A 'Silver Lining' For Nvidia After Trump’s China AI Chip Curb
+
+Apr 16, 2025, 11:24am EDT
+
+Artificial intelligence heavyweight Nvidia became the latest company entangled in President Donald Trump’s global trade war this week, though Wall Street analysts say it’s far from a disaster scenario for the chipmaker.
+Nvidia reported late Tuesday it expects to take a $5.5 billion hit this quarter due to the U.S.’ new severe restrictions on Nvidia exporting its H20 AI chips to China, curbs which pose an up to 10% earnings headwind for Nvidia this year, according to Bank of America analyst Vivek Arya.
+The H20 restrictions are an “unwelcome but somewhat expected, manageable risk” for Nvidia, explained Arya, leading a chorus of analysts largely interpreting the update as far from a worst-case scenario despite the brutal headline hit.
+It’s “not enormous in the grand scheme of things” as China accounted for the lowest proportion of Nvidia revenue in more than a decade last year at 13%, wrote Bernstein analyst Stacy Rasgon, while Rosenblatt analysts Kevin Cassidy and Kevin Garrigan predicted in a Wednesday note to clients.
+Nvidia can “make up most of this revenue” hit from China with sales of its latest graphics processing units (GPUs) outside of the Asian power.There’s a key “silver lining” to what is “effectively a ban” on Nvidia exporting its coveted AI technology to China, according to UBS analyst Timothy Arcuri: This may be a “concession” from the Silicon Valley firm to get the White House to “to effectively kill” the Biden administration’s most severe AI regulatory frameworks.
+Shares of Nvidia declined 7% Wednesday, wiping out nearly $200 billion in market capitalization. The losses for Nvidia, the most valuable company in the world other than Apple or Microsoft, dragged down the broader stock market, as the S&P 500 and Nasdaq dipped 1.2% and 1.9%, respectively. Hard hit were fellow semiconductor chip makers, as shares of Intel and TSMC both declined 3% and shares of Advanced Micro Devices tanked 6% after the company made a similar disclosure on losses tied to Chinese chip export curbs.
+
+NVDA price 3 days before article release: 110.90386199951172
+
+NVDA price 1 day before article release: 112.1735610961914
+
+NVDA price the day of article release: 104.46538543701172

@@ -1,0 +1,22 @@
+AMD Destroys Nvidia In 'Battlefield 5' Mainstream GPU Benchmarks
+
+Jul 04, 2018, 06:43am EDT
+
+AMD and DICE have had a close working relationship for years, enjoying a technology partnership for both Battlefield 4 and Battlefield 1. In a nutshell, this means that AMD engineers and DICE developers worked closely to optimize gameplay performance for Radeon graphics cards. The tide turned with Battlefield V, meaning the latest installment in the popular war FPS is now an Nvidia Geforce title. So you'd think that even in a closed alpha stage (which resembles more of a beta this close to launch) Nvidia GPUs would have a competitive advantage. That's apparently not the case.
+Over at PCGamesN, Dave James pitted two GPUs -- the GeForce GTX 1060 (6GB) and Radeon RX 580 (8GB) -- against each other during the recent Battlefield V closed alpha. While there's not a battery of benchmarks to study across the entire stack of Radeon and GeForce cards, this is a smart choice as it represents the company's sub-$300 mainstream offerings and speaks to a large slice of players gaming at 1080p and 1440p.
+These two cards typically go neck-and-neck, trading blows and claiming small victories depending on the game. But as the headline already spoiled the outcome, let's get to the detailed results and see how far ahead the Radeon RX 580 is.
+(Note that this is a single source, and there is a lone report of a "massive performance issue" on Radeon RX cards, though I haven't dug up concrete proof of that yet nor any details.)
+For the test, James used Asus STRIX models of the GTX 1060 and Radeon RX 580, setting the in-game quality settings to Ultra. He tested gameplay at both 1080p and 1440p, and ran with both DX11 and DX12.
+During the 1080p DX11 run, the GTX 1060 scored an average of 45 FPS while the RX 580 outperformed it by a whopping 51% with an average of 68 FPS. At 1440p the performance gap was slightly reduced, but the RX 580 still came away victorious with a 44% average FPS advantage.
+Curiously the DX12 test demonstrated that, at least with this alpha code, Nvidia and DICE have some work ahead of them. Nvidia's GTX 1060 suffered an 8% drop in average framerate at 1080p compared to DX11, while the RX 580 maintained the same framerate.
+I don't have any commentary on the DX12 situation, because we're looking at months-old code right now, and there's still ample time for DX12 optimizations to be implemented on both sides.
+What does stand out is just how well Polaris is doing against Pascal, at least with these mainstream GPU results. It's important to understand that when a GPU maker executes a technology partnership with a developer on a game, this almost always grants that GPU maker earlier access to code than its competitor. Furthermore, it's common to see Nvidia or AMD engineers (in this case Nvidia) embedded at the studio assisting with optimizations.
+Why? For a competitive win, of course. For strong technical marketing materials. To hold high a banner that screams "this huge awesome game runs better on our hardware."
+The Frostbite Engine has always performed admirably on AMD hardware, and I can assure you DICE is interested in their games running smoothly regardless of what name is stamped on the graphics card. I can't comment on the timing of game builds received by Nvidia or AMD in the case of Battlefield V, but this is an interesting development nonetheless.
+It'll be interesting to pay attention to performance results during the inevitable open beta, and then the final retail release to see if this massive AMD lead holds. It'll also be fascinating, for multiple reasons, to watch how Nvidia's oft-rumored GTX 11 series -- supposedly launching in Q3 -- compares to Pascal here.
+
+NVDA price 3 days before article release: 5.961848258972168
+
+NVDA price 1 day before article release: 5.996007919311523
+
+NVDA price the day of article release: 5.862343311309815

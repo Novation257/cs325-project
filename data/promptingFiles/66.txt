@@ -1,0 +1,16 @@
+Nvidia Earnings Beat Wall Street Expectations And Set Another Quarterly Sales Record
+
+Aug 27, 2025, 04:34pm EDT
+
+The world’s most valuable company reported second-quarter earnings Wednesday that beat Wall Street’s expectations yet again, with investors seeking clues into how Nvidia fared with challenges in the China market.
+Nvidia reported $46.7 billion in second-quarter revenue, surpassing the chip designer’s sales record of $44.1 billion in the previous quarter and besting economist forecasts of $46.05 billion, according to estimates compiled by FactSet.
+A bulk of Nvidia’s top-line came from nearly $41.1 billion in data center revenue, which Morgan Stanley analyst Joseph Moore wrote Monday would drive Nvidia’s business over the next year, behind predictions of $41.3 billion.
+The AI firm brought in adjusted earnings per share of $1.05 and $25.78 billion net income, besting Wall Street’s projections of $1.01 EPS and $24.7 billion, respectively.
+Nvidia’s top- and bottom-line figures account for annual increases of 6% and 42%, respectively trumping the year-earlier totals of $30 billion and $0.67 EPS.
+Nvidia shares briefly fell 4% in after-hours trading following the release of the company’s earnings report. The stock hit an intraday high of $184.12 earlier this month, while Nvidia shares traded around $181 before market close Wednesday.
+
+NVDA price 3 days before article release: 177.96043395996094
+
+NVDA price 1 day before article release: 181.7397918701172
+
+NVDA price the day of article release: 181.56982421875

@@ -1,0 +1,62 @@
+Nvidia GeForce GTX 1660 Review: A Worthy Successor To The GTX 1060?
+
+Mar 14, 2019, 09:00am EDT
+
+Today Nvidia is launching its GeForce GTX 1660 -  the long-awaited successor to its massively popular GTX 1060, which still sits at the top of the Steam Hardware Survey as the most popular graphics card.  Hot on the heels of the GTX 1660 Ti, the new cheaper model, Nvidia has told me, will be available for around $219 and that's around the same price as the GTX 1060 3GB plus some of the cheaper GTX 1060 6GB models floating around, which is great news.
+In this article, I'll be taking a look at how the GTX 1660 performs against its nearest rivals as well as its predecessor plus checking out a GTX 1660-based PC from popular UK system builder Scan to see how capable a sub $1,000/£750 PC stacks up for 1080p gaming using Nvidia's latest GPU.
+Looking more closely at the pricing and the GTX 1660 sits between the launch prices of the GTX 1060 3GB and 1060 6GB, so while the RTX series has certainly received some less favorable press concerning its pricing, that's certainly not the case here, assuming cards hit shelves at the stated $219/£199 of course. There is also the issue that pricing for all versions of the GTX 1060 is obviously lower than at launch now and I've added some of the cheaper examples to the above table. The GTX 1060 3GB can be had for just $184/£164 and the 6GB card for $209/£190, the latter being practically the same as the GTX 1660.
+This means that the GTX 1660 needs to add some decent margins over the GTX 1060 6GB. As usual, it will be worth watching pricing of the older Pascal-based cards over the next few weeks as there are likely to be some bargains out there.
+Both the GeForce GTX 1660 Ti and 1660 use Nvidia's TU166 Turing GPU, with the caveat that it doesn't support RTX features such as DLSS and ray tracing like the RTX 2060. However, it does sport Nvidia's new streaming multiprocessor that offers numerous performance-enhancing tweaks and upgrades such as enhanced caches and improved bandwidth that Nvidia claims offers dramatic improvements over the equivalent tech in GP106 Pascal-based GPUs.
+The GTX 1660 Ti and GTX 1660 are roughly similar in terms of clock speeds - in fact the latter offers higher base and boost frequencies. However, the more expensive card offers more Cuda cores as well as faster GDDR6 as opposed to GDDR5 memory, meaning the GTX 1660 trails in memory bandwidth at 192.1GB/sec compared to 288.1GB/sec. With a promised 15% performance boost over the GTX 1060 6GB and up to 30% over the similarly-priced 3GB model of that card, the GTX 1660 still has what it takes to be an excellent 1080p HD gaming card, on paper at least.
+Testing
+My test system includes an Intel Core i9-7900X, 32GB Corsair Vengeance RGB Pro 3,200MHz memory, an Asus ROG Strix X299 Gaming motherboard, a 500GB Samsung 960 Pro SSD, NZXT Kraken X42 cooler and Corsair RM850i PSU. I'm also using a fully up-to-date install of Windows 10 with all security patches including those for Spectre and Meltdown vulnerabilities plus the latest AMD and Nvidia drivers as of the date of this article.
+Shadow of the Tomb Raider
+At 1,920 x 1,080, the GTX 1660 was a huge amount faster than the GTX 1060 6GB, offering a near 30% speed boost to the minimum frame rate. While there was a big step up on the minimum from the RX 590, the latter was only 2fps behind on the average frame rate. Given the price difference between it and the GTX 1660 Ti, the pricing here is pretty much spot on too, with the more expensive Turing card adding around 15% on top of the GTX 1660's performance.
+Stepping up to 2,560 x 1,440 and there's very little difference between the RX 590 and GTX 1660, with just a small bump in the minimum frame rate for the Nvidia card. A minimum frame rate of 37fps is a great result here given this is a mid-range resolution at some fairly high settings in this game, although I'd be tempted to opt for the GTX 1660 Ti for a little more headroom. Once again, there's a huge near 30% step up from the GTX 1060 6GB, meaning that you'd probably consider the new card a worthwhile upgrade.
+World of Tanks
+Still a popular free-to-play MMO, World of Tanks isn't particularly taxing, but you still see big increases in frame rates with the new Core graphics engine as you rise up the GPU scale. At 1,920 x 1,080, the GTX 1060 has the measure of the RX 590 and adds 14% to the minimum and 10% to the average frame rates of the GTX 1060 6GB. Clearly not a worthwhile upgrade - you'd need to step up to the GTX 1660 Ti for that. At 1440p, the GTX 1660 switched places with the RX 590, but was still getting on for 10% quicker than the GTX 1060 6GB in maintaining a minimum frame rate of 67fps.
+Forza Horizon 4
+Another relatively easy game to run if you have a mid-range graphics card, AMD's RX 590 was particularly strong here, bettering even the GTX 1660 Ti. The latter wasn't that much quicker than the GTX 1660 either, with the lower three Nvidia cards bunching up at the bottom of the graph. Stepping up to 1440p, though, and the graph looks very different. The GTX 1660 Ti performed excellently and was well ahead of the RX 590, leaving the GTX 1660 snapping at the AMD card's heels. However, it still offered a 20% boost over the GTX 1060 6GB.
+Far Cry 5
+There was some more bunching going on in Far Cry 5, with not a great deal of difference between the GTX 1660 and GTX 1660 Ti, with both cards managing a minimum frame rate around 70fps, with the pricier card offering a higher average frame rate. Nvidia's claimed boost over the GTX 1060 6GB was spot on here with a 15% advantage in minimum frame rate courtesy of the GTX 1660.
+Stepping up to 1440p and the GTX 1660 Ti extended its lead over the cheaper Turing card and only the RTX 2060 managed to reach over 60fps consistently. The RX 590 and GTX 1660 were practically identical while the latter offered a 21% boost over the GTX 1060 6GB's minimum frame rate and 19% over the average frame rate.
+Deus Ex: Mankind Divided
+An aging but still tough game to deal with, Deus Ex saw the RX 590 outperform the GTX 1660 at both resolutions and here the GTX 1660 Ti's advantages in Cuda cores and memory bandwidth really came into their own too as it offered a huge leap over the cheaper Turin card, again at both resolutions. There was between 10-15% between the GTX 1660 and GTX 1060 6GB too - again Nvidia was right on the money here.
+UL VRMark
+A virtual reality benchmark developed to test HTC Vive and Oculus Rift performance, Nvidia fared well here in general, but the Turing cards were particularly potent, with the GTX 1660 bettering the RX 590 by a healthy margin and offering a 21% boost over the GTX 1060 6GB.
+Despite the higher performance than the GTX 1060 6GB in every test, sometimes significantly so, the GTX 1660 used very little extra power - just 2W under load and with a similar idle power draw too. The Pascal range of cards prided itself on its efficiency and with near  30% more performance here on occasions, Turing is clearly doing the same.
+Now we take a look at the GTX 1660-based system from Scan, which alongside an EVGA GTX 1660, with a slight boost to its frequencies, sports the following specification:
+Scan Gamer system (£749.99)
+Case Corsair Carbide SPEC Delta RGB Tempered Glass
+PSU 550W Corsair VS, 80PLUS
+Motherboard Asus EX-A320M Gaming
+CPU AMD Ryzen 5 2600
+Memory 8GB (2x 4GB) Corsair Vengeance DDR4 2666MHz
+Graphics Cards 6GB EVGA GeForce GTX 1660 XC Black Gaming
+SSD 250GB Seagate Barracuda
+HDD 1TB Seagate Barracuda
+Operating System Microsoft Windows 10 Home 64-bit
+Warranty 2 Years RTB (Parts and Labour)
+Finally, then, we're seeing the possibility of sub £750/$1000 PCs with much-improved performance compared to the usual GTX 1060-based system and with an AMD Ryzen 5 2600 here too, the Scan Gamer promises to be a potent content creation PC as well as gaming PC.
+Despite using a much cheaper CPU than my test system, there was no difference in the frame rates in Shadow of the Tomb Raider, with the Scan Gamer PC managing a healthy minimum frame rate of 54fps.
+Dues Ex was a similar story at 1080p, with the scan PC managing a minimum of 48fps and average of 59fps
+Far Cry 5 was tiny bit slower on the Scan PC than on my own test system, but only by a couple of frames per second, with the Pc maintaining a minimum frame rate of at least 67fps, with clear scope for gaming at higher resolutions.
+Aside from competitors within AMD's own ranks, a likely alternative is Intel's Core i5-9600K, at least until cheaper 9th generation CPUs appear. Despite the huge price hike for this CPU over the Ryzen 5 2600, it only offered a small boost to the Adobe Premier Pro export time.
+The PC Mark 10 image editing test went in AMD's favor with a huge lead over the Core i5-9600K in this multi-threaded test thanks to the additional threads offered by the Ryzen 5 2600.
+handBrake also benefitted here in this 4K video transcode test and despite the Intel CPU costing a vast amount more, it was slower here.
+Cinebench was yet another win for Scan's AMD system, with an even bigger lead over the Core i5-9600K thanks to its extra threads.
+Finally, there's power consumption and with both the CPU and GPU under full load, the system drew a maximum of 255W, but remained very quiet despite using the Wraith Stealth cooler that came with the AMD CPU.
+Conclusions
+Scan Gamer PC:
+Starting with the Scan PC, and what we have in an excellent affordable PC that's bolstered by the fact that Nvidia's GTX 1660 is much quicker than the GTX 1060 6GB, but costs about the same as the cheapest examples of the latter out there at the moment. Coupled with some affordable but powerful AMD Ryzen-based hardware and what we have is a capable gaming machine that offered decent performance in content creation too. It also looks great in Corsair's Carbide SPEC Delta RGB Tempered Glass and has a sensible storage arrangement of a 250GB SSD and 1TB hard disk.
+Nvidia GTX 1660:
+
+What we have in the GTX 1660 is a very welcome, if somewhat predictable graphics card which slots in almost perfectly in amongst other mid-range cards out there. Nvidia's statement that performance is around 15% better than the GTX 1060 6GB is maybe even underselling the GTX 1660's performance. I did test with the older GDDR5 rather than GDDR5X version of the GTX 1060 6GB, but even so, the performance improvements were close to 30% on occasions, which means that the GTX 1660 isn't just an incremental step up, but a worthwhile upgrade if you own a GTX 1060 6GB. This isn't true everywhere, but I saw decent gains in almost every game I tested.
+Compared to the RX 590, things are less clear cut. Both cards look set to retail at similar prices once the GTX 1660 hits the shelves. Overall the Nvidia card is faster, but there are some titles where the difference is negligible and others where the AMD card is faster. This also flipped moving between resolutions in some games too. Ultimately the GTX 1660 is exactly what it needs to be - much quicker than the GTX 1060 6GB, a match for the RX 590 and a huge step up from the GTX 1060 3GB, which unless you're picking it up for less than $160/£150, really isn't worth it now.
+In fact, even a $180/£160 GTX 1060 6GB doesn't make much sense when for an extra $40/£40, you're getting up to 30% more performance. It's a good time for the consumer then as we're likely going to see cut-price Pascal cards, but as it stands the GTX 1660 is definitely worth the cash and if you're a 1080p gamer, it offers plenty of headroom too.
+
+NVDA price 3 days before article release: 3.9988834857940674
+
+NVDA price 1 day before article release: 4.184508323669434
+
+NVDA price the day of article release: 4.108572483062744

@@ -1,0 +1,20 @@
+China Market Update: Nvidia’s RTX6000D Not Banned, Just “Not That Good”
+
+Sep 18, 2025, 10:16am EDT
+
+Asia stocks were mixed overnight as the US dollar strengthened, Japan, Taiwan, and South Korea outperformed, while Mainland China and Hong Kong underperformed.
+Both markets gave up morning gains as weakness in robotics spread to other growth stocks and sub-sectors. The selling momentum garnered speed, leading to a stampede of profit taking, with few buyers stepping in as decliners vastly outnumbered advancers on high volumes. Reminds me of The Economist cartoon below.
+Yesterday, we voiced skepticism of the Financial Times article stating the Chinese government internet regulator had banned companies from buying Nvidia’s RTX Pro 6000D Chip, according to “people familiar with the matter”. Today, a reporter asked the Ministry of Foreign Affairs spokesperson Lin Jian if this was true. The response was “We have always opposed discriminatory practices against specific countries on economic and technological issues …. RTX6000D is mainly designed for AI inference tasks, but due to its limited function,” the response from Chinese buyers was “cold”. Additionally, “the performance of domestic self-developed chips is getting better and better.” In contrast, the Nvidia chip is expensive and “its performance lags behind the RTX5090 graphics card, which is prohibited from exporting to China”. There you have it! Expensive and not very good, so Chinese companies didn’t buy it.
+On the topic, Huawei announced production for its Ascend AI chips and AI infrastructure node called TaiShan950 SuperPoD, comprised of 8,192 computing cards, will launch in Q4 of this year. Mainland and Hong Kong-listed chip makers, along with Mainland tech hardware and Hong Kong pharmaceuticals, were one of the few areas of strength. Mainland investors were buyers of the Hong Kong dip via Southbound Stock Connect, with $808mm of net buying, with Alibaba seeing its 20th straight day of net buying.
+Over the last ten years, though, the increase in charging stations from 53.5% YoY to 17.348mm is impressive. One funding source for the technology push will come from China’s asset management industry, as another round of fourteen tech bond funds was launched in China, raising RMB 407 billion. According to the Ministry of Science and Technology, there is not a large number compared to the RMB 3.6 trillion of social R&D in 2024. Markets took a breather, though I’m sure headlines will make it appear like the world is ending. Tomorrow will be a big trading day for passive funds, as the S&P, Russell & FTSE indices rebalance. Hong Kong and China are small net sellers, but nothing to be worried about, in my opinion.
+In yesterday’s tax revenue announcement, securities stamp tax revenue increased +226% YoY to RMB 25.1B from August 2024’s RMB 7.7B. Is this a way to gauge investor participation? At the peak of the 2015 bubble, stamp revenue was RMB 39 billion, though stamp tax revenue exceeded RMB 30 billion a month twice in 2021, which was hardly a banner year, with the Shanghai Composite up +4.8%. The charts do move together, though, so it's worth watching. There is more work to be done, but one could conclude that the re-rating/bull market has plenty of runway.
+New Content
+Read our latest article:
+Labubus: How Pop Mart’s Newest Craze Reflects Chinese Cultural Influence in the U.S.
+Please click here to read
+
+NVDA price 3 days before article release: 177.73049926757812
+
+NVDA price 1 day before article release: 170.27130126953125
+
+NVDA price the day of article release: 176.2206573486328

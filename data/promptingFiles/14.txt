@@ -1,0 +1,21 @@
+Broadcom Vs Nvidia: Which Stock Could Rally?
+
+Oct 30, 2025, 09:58am EDT
+
+Despite Broadcom climbing 13% in the last week, its competitor Nvidia might be a more attractive option. Regularly assessing alternatives is fundamental to a solid investment strategy. Nvidia (NVDA) stock displays better revenue growth over significant periods, greater profitability, and a relatively lower valuation compared to Broadcom (AVGO) stock, indicating that investing in NVDA may be advantageous.
+Nvidia’s vertically integrated platform, including its cutting-edge Blackwell GPUs, NVLink interconnects, and proprietary CUDA software stack make it indispensable for AI data centers needing massive parallel processing power. In comparison, Broadcom’s custom silicon (ASICs) and AI networking solutions serve specific client needs through long-term contracts, representing a potentially lower long term growth model.
+Quiz time: Over the past 5 years, which index do you believe the Trefis High Quality Portfolio outperformed—the S&P 500, S&P 1500 Equal Weighted, or both? The answer might surprise you. Discover how our advisory framework increases your chances of success.
+AVGO designs and provides semiconductor devices and infrastructure software, offering solutions such as set-top box system-on-chips, cable, DSL, and passive optical networking. NVDA delivers graphics, computing, and networking solutions for gaming, visualization, data centers, and automotive markets.
+Valuation & Performance Overview
+Note: For “Last 3 Year Return” metric, the preferred stock is the one with higher returns unless the returns are exceedingly high (>300%), which poses a risk of sell-off.
+See more revenue details: AVGO Revenue Comparison | NVDA Revenue ComparisonSee more margin details: AVGO Operating Income Comparison | NVDA Operating Income Comparison But do these figures capture the complete picture? Read Buy or Sell NVDA Stock to determine whether NVIDIA’s advantage holds under scrutiny or if Broadcom still has a role to play (see Buy or Sell AVGO Stock).
+Historical Market Performance
+
+[1] Cumulative total returns since the beginning of 2020[2] 2025 data is for the year up to 10/29/2025 (YTD)[3] Win Rate = % of calendar months in which monthly returns were positive[4] Max drawdown represents maximum peak-to-trough decline within a year Regardless of how strong the numbers suggest, investing in stocks is rarely without volatility. There is a risk that needs consideration. Read NVDA Dip Buyer Analysis and AVGO Dip Buyer Analysis to learn how these stocks have dropped and recovered in the past.
+
+
+NVDA price 3 days before article release: 191.46897888183597
+
+NVDA price 1 day before article release: 207.01727294921875
+
+NVDA price the day of article release: 202.8677215576172

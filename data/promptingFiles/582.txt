@@ -1,0 +1,46 @@
+Intel, Nvidia, Et Al., And American Semiconductor Hegemony
+
+Aug 02, 2020, 11:29am EDT
+
+One thread in the fabric of alarmist political/economic commentary on American Decline has to do with the state of the semiconductor industry. Supposedly the U.S. is losing/could lose/has already lost leadership in this “critical” field of technology, the understructure of the digital economy, a loss which puts at risk practically everything we might care about – life (“Semiconductors are essential to modern life”), liberty (“American leadership in semiconductors also is vital to the technological superiority of the U.S. military”), and presumably happiness as well (Facebook, Youtube, Instagram and Netflix all run on silicon)…
+Politicians, journalists and think tank analysts have been pushing this dire story year after year, decade after decade, administration after administration.
+
+
+The threat is (of course) China. According to The Boston Consulting Group, the game is probably already over:
+
+
+Reversals, cascades, spirals, “the annihilation of the American industry,” – signs of imperial atrophy…?
+
+The story is all wrong. It is based on a crude misunderstanding of the structure of the industry. In fact, the U.S. is in firm control of the high ground in the semiconductor business, which dominates the rest of the industry (with one quasi-exception).
+Chip-making comprises several technological processes: design; precision manufacturing of the integrated circuits; and “packaging” (which includes assembly of the integrated circuits into durable “chips”). The original business model of the industry combined all three. Such companies are known as the Integrated Device Manufacturers (IDMs). A few firms still employ this model, notably IntelINTC, the overall industry leader (by revenue).
+Beginning in the 1980s, a new trend developed, based on the disarticulation of these functions. Some companies, known as foundries, focused strictly on the manufacturing business. Others specialized in design, and contracted out to the foundries to manufacture chips based on their designs. These become known as “Fabless” semiconductor companies. Other companies focused on packaging and are known as Outsourced Assembly and Test (OSAT) segment.
+
+(Firms in the OSAT segment are comparatively small; the business is crowded, competitive, low margin, and very cyclical, with weak pricing power compared to IDMs. A fourth segment, the suppliers of the capital equipment used by foundries and IDMs in the fabrication process, is highly profitable and economically powerful. It stands apart from the rest of the industry, and is a story for another column.)
+The difference between the Fabless and Foundry models is based on the economics of IC fabrication, which are staggering. A new IC fab plant can cost up to $20 Bn – about twice the cost of a Nimitz class aircraft carrier, three times the cost of a nuclear power plant – and an IC fab may have a useful lifetime of just a few years before it becomes technologically obsolete. The implications of this are significant, and mostly negative from a strategic standpoint. It is a scale-based business (as all heavy-capex industries are) and it is dominated today by one firm: Taiwan Semiconductor Manufacturing Company (TSMC).
+The Fabless model is “asset-lite.” They do not need to buy a new aircraft carrier every year, so to speak. Instead, they can invest in design talent and functional innovation.
+IDMs like Intel still do both. But the capital expenditure demands weigh heavily. Over time, a number of IDMs have surrendered to the economic logic and have split themselves into two pieces – a Fabless design firm and a foundry – to go their separate ways. AMD was an IDM until 2009, when they spun off their foundry business into a new company, Global Foundries. Even Intel has flirted with the idea of a split.
+The confusion of these business models under the non-discriminating category “semiconductor companies” is surprisingly common. For example, the Wall Street Journal recently listed the “Top Semiconductor Companies by Sales” in a chart I have redrawn here (adding a few other prominent semiconductor companies not included in the WSJ chart):
+
+
+This is a heterogeneous mishmash. Intel and Samsung are IDMs. TSMC is a pure foundry. Qualcomm, Nvidia, AMD are Fabless IC firms. Texas Instruments is an IDM of a special sort, focusing on what are called analog and mixed signal chips (not the digital processors and memory chips that most of the industry produces). Analog chip manufacturing has different and possibly more favorable economics (lower capital costs). In short, these companies are very different, with very different cost structures, and are valued very differently by investors. Throwing them together under one label is like grouping Ford and General Motors with Hertz and Uberas “automotive companies.”
+The first flag that the “Decline thesis” is invalid is the fact that 10 of the 14 firms listed here are American. One is Taiwanese, two are Korean. Only Hi-Silicon – a Fabless IC designer – is based in mainland China. HiSilicon is a fully owned subsidiary of Huawei, which puts them in the middle of the risky geopolitical chess game I have discussed elsewhere. Huawei takes about 90% of HiSilicon’s output – “output” which HiSilicon does not and cannot manufacture, but outsources to Taiwan’s TSMC (and perhaps others now).
+All in all, the American position, even by this crude tabulation, is strong.
+But if we divide the firms into their true categories, the picture clarifies. Compare them on the basis of the capital investment required — property, plant and equipment, “capex” — and the distinction between the foundries and IDMs on one hand, and the Fabless and mixed signal firms on the other is striking. Nvidia – which has a market value $60 billion higher than Intel – creates this value with 25 times less capital investment.
+Then consider how many dollars of revenue a company generates from each dollar of capital investment.
+
+Which would you rather own? The company that can take your investment dollar and generate 75 cents of sales, or the company that can take that same dollar and generate $8 of sales?
+The market sees and respects this difference.
+
+The Fabless model creates 2 to 4 times more shareholder value per dollar of earnings-per-share than the asset-heavy foundries and IDMs.
+Now notice the national clustering. The high-valued firms (high P/E), and the highly efficient business models (high dollars of revenue per dollar of investment) are all U.S. companies.
+Let’s recap:
+
+
+In short, the U.S. controls the semiconductor world, and controls the direction of technological innovation. China is starting at the bottom, and it will be tough hill to climb. In the 21st-century economy, value accrues to companies that control the “intangible” assets like design, brand, human capital (talent), loyal customers, and intellectual property. Traditional 19th-century style “assets” like factories, machinery, inventories, accounts receivable, and even excess accumulations of cash begin to seem more like, well, liabilities. U.S. companies – in many segments of the economy, not just semiconductors — have figured this out. Except for Huawei – troubled Huawei – China is mostly still stuck in the industrial age.
+George Calhoun's new book is Price & Value: A Guide to Equity Market Valuation Metrics (Springer 2020). Prof. Calhoun can be contacted at gcalhoun@stevens.edu
+
+NVDA price 3 days before article release: 10.180246353149414
+
+NVDA price 1 day before article release: 10.577370643615724
+
+NVDA price the day of article release: 10.578116416931152

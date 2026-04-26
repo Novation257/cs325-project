@@ -1,0 +1,26 @@
+Nvidia GeForce RTX 4070 Ti Super Review: Best Graphics Card Of 2024?
+
+Jan 23, 2024, 09:01am EST
+
+
+The Nvidia (NASDAQ: NVDA) GeForce RTX 4070 Ti Super is the second of three new RTX 40-series Super cards launching this month, and the RTX 4080 Super is arriving on January 31.  However, it's arguably the RTX 4070 Ti Super that's the most interesting as it's the only one that gets a memory upgrade, rising from 12GB with the 4070 Ti to 16GB with the new card, which also benefits from a wider 256-bit memory bus.
+Update 01/26/23 - the performance issues with this particular model have been resolved and new results are available in the graphics below showing any performance improvements. These are not significant enough to change the original conclusion or to change the RTX 4070 Ti Super's position amongst the competition.*
+You can see the  full specifications below, but in addition, the RTX 4070 Ti Super also gets more CUDA, Tensor and RT cores as well as more ROPs. This should mean it's significantly faster than the RTX 4070 Ti and should sit much closer to the performance of the RTX 4080, which will be replaced by the RTX 408o Super at the end of this month. Thankfully, the price hasn't increased. It's launching at the same $799 as the RTX 4070 Ti.
+My test system uses a stock speed water-cooled Intel Core i9-12900K with 32GB of Kingston Fury 6000MHz DDR5 memory, a Solidigm P41 Plus SSD and Asus ROG Maximus Z790 Hero motherboard. I also used the latest drivers for each graphics card (Forceware 551.15 for Nvidia cards)plus the latest versions of each game as both improve performance over time so results gathered a few months ago could have totally changed as software becomes more optimised and this was certainly the case with several games here.
+Unfortunately, MSI and Nvidia discovered an issue with the Ventus 3X card I was using here, which apparently reduces performance by up to five percent. A fix was provided that improved this to a three percent deficit, but a complete fix wasn't provided in time to alter the findings of this review and meet todays embargo. I'll be updating this article as necessary with updated performance data.
+I've included high-end cards at 1440p and above as I saw no point testing the likes of the RTX 4090 at 1080p since I wouldn't recommend buying that card for such a low resolution. As a result only mid-range cards appear in the 1080p tests.
+
+
+
+
+
+Firstly, the performance issues with this card seem to have been resolved with the latest firmware but I will be revisiting them once I've sourced another sample to compare frame rates.
+The Nvidia GeForce RTX 4070 Ti Super sits between the RTX 4070 Ti and RTX 4080, but as the results above show  it usually sits closer to the 4070 Ti and the RTX 4080 has a commanding lead. That said, there were several instances of the RTX 4070 Ti Super offering well over 10 percent improvement over the RTX 4070 Ti - Watch Dogs: Legion for instance - where it was also faster than the Radeon RX 7900 XT. It's undoubtedly the card to go for out of it and it's predecessor, which explains why the RTX 4070 Ti Super is replacing the older card and not sitting along side it.
+The competition from AMD comes in the form of the Radeon RX 7900 XT, which was faster in quite a few areas and recent price cuts mean that card can now be found regularly for below the $799 launch price of the RTX 4070 Ti Super. However, there are plenty of instances where the Nvidia card is faster - Watch Dogs: Legion, Metro Exodus and Halo Infinite for example.
+For now it seems it's a fight between those two cards, with Nvidia winning a lot more when DLSS is enabled even when FSR is too as is evident in Forza Horizon 5 and Microsoft Flight Simulator. If DLSS is a consideration for you, then the RTX 4070 Ti Super is a very attractive package, but otherwise it's worth noting the Radeon RX 7900 XT is faster in some games meaning its far from a clean sweep for the RTX 4070 Ti Super.
+
+NVDA price 3 days before article release: 57.07211685180664
+
+NVDA price 1 day before article release: 59.617557525634766
+
+NVDA price the day of article release: 59.836421966552734

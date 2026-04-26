@@ -1,0 +1,22 @@
+Nvidia GeForce RTX 5000: Everything You Need To Know
+
+Dec 31, 2024, 07:34am EST
+
+The Nvidia GeForce RTX 5000 series graphics cards such as the RTX 5080 and RTX 5090 are expected to be announced in January's Consumer Electronics Show in Las Vegas, which runs Jan 7th-11th and, while performance leaks and concrete specification data are still somewhat scarce, there's still plenty of reliable information about the products that will replace the RTX 4000 and 4000 Super series. Here's what we know so far.
+The Nvidia GeForce RTX 5000 series hasn't been officially announced, but specifications have leaked from both partner card manufacturers as well as regular and well-regarded leakers. All RTX 5000 cards will be PCIe 5.0 compatible and use GDDR7 VRAM, but capacity is always a hot topic and here the RTX 5090 gets an 8GB bump to 32GB compared to 24GB for the RTX 4090, but the RTX 5080 stays the same at 16GB - the same as the RTX 4080 and RTX 4080 Super.
+The RTX 5070 Ti will maintain the same 16GB as the RTX 4070 Ti Super, but this is a 4GB bump compared to the 4070 Ti and 4070. The RTX 5070 will apparently come with 12GB - the same as the RTX 4070, while the RTX 5060 Ti offers the same options of 16GB and 8GB as the RTX 4060 Ti. At the bottom of the stack, the RTX 5060 maintains the same 8GB as the RTX 4060, which has resulted in some criticism given some current games make use of more than this. We'll have to wait and see what the final specifications are.
+Very little information has been revealed on the pricing of the Nvidia GeForce RTX 5000 series, but what has been rumored and discussed so far may be an indicator of a nasty surprise. Some websites reported pricing for the RTX 5090 to be between $2,000 and $2,500, the RTX 5080 from $1,200 to $1,500 and the RTX 5070 from $599 to $700. These are all significant increases over their predecessors and the fact that AMD has stated it will not be competing with Nvidia's top-end cards may be the reason for this. These figures are only rumors, but this is perhaps going to be the most keenly-awaited bit of news in January.
+Several images have leaked showing a huge PCB and GPU die with the latter measuring 744mm2 compared to 608mm2 for RTX 4000 GPUs - a significant increase.
+However, several tech commentators have raised concerns about the physical size of the PCB and resulting graphics card including the cooler and if compatibility with current cases might be affected, especially on the small form factor/mini-ITX side.
+The width of the card seems to be the main point of concern, which would definitely impact compatibility, especially as the power connector has also been on the side, further adding to the clearance needed.
+The 12VPWR 16-pin connector has been in the news quite a bit since it first appeared and never for good reasons. This time it's double trouble as rumors were rife a few months ago claiming that the RTX 5090 had not one but two of them to handle its supposed 600W power draw.
+However, more recent information contradicts those rumors, with Videocardz reporting on a comment from Chinese PSU manufacturer Segotep, who stated the RTX 5090 would not use dual power connectors and seemed to imply a standard 600W 12VPWR connector would suffice.
+The naming scheme will remain the same and there are six models launching, although we don't have exact time frames and in the past Nvidia has had a wide window of availability with several months between the initial launch and the final models being released. This was certainly the case with the RTX 4060, which was available many months after the RTX 4090's arrival in October 2022.
+Based on this time scale, with the Nvidia GeForce RTX 5000 being announced in January 2025, reviews for the first launch wave that will likely include the RTX 5090 (or RTX 5080) will follow at the end of January or beginning of February with availability around the same time. With the RTX 4080, it followed a month later, so if this is the case for the RTX 5080, it would be February/March and again based on the previous launch schedule, a month after that the RTX 5070 Ti, followed by the RTX 5070, RTX 5060 Ti and RTX 5060 nearer the middle of 2025.
+I'll be covering the hardware launches in January so follow me here on Forbes using the blue button below, Facebook or YouTube to get the latest news and reviews.
+
+NVDA price 3 days before article release: 139.88417053222656
+
+NVDA price 1 day before article release: 137.4449462890625
+
+NVDA price the day of article release: 134.2460174560547

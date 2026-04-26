@@ -1,0 +1,15 @@
+Nvidia Brings G-Sync Support To FreeSync Gaming Monitors But There's One Massive Problem
+
+Jan 09, 2019, 07:00am EST
+
+Nvidia has announced it will be releasing a driver that will enable its version of variable refresh rate technology - G-Sync - to work on monitors that have until now only supported its rival AMD's version, called FreeSync. With it comes a problem, though - it's found that the vast majority of FreeSync monitors aren't up to its high standards for image quality, with many exhibiting visual issues such as flickering and artifacts.
+This is part of the reason why Nvidia CEO Jensen Huang said the company would be testing hundreds of FreeSync monitors to check they're compatible with G-Sync, with those deemed good enough baring the G-Sync compatible logo.  The trouble is, Nvidia told me, that only 12 of 400 monitors have passed its stringent checklist so far, which range from having the correct settings enabled in the screen's OSD menu as standard to not suffering from the above visual issues.
+The 12 monitors that have passed the test so far are:
+G-Sync will likely work on any FreeSync monitor, but some of the problems I saw first hand at Nvidia's booth at CES mean that while it works, it would be quite unpleasant to use. Nvidia pointed the finger at FreeSync, claiming it lacked the high standards of G-Sync, but ultimately the issue rests with monitor manufacturers. Clearly, having a monitor that is both FreeSync and G-Sync certified would be much more attractive, so monitor manufacturers are undoubtedly working with Nvidia closely to solve these issues with future models.
+The move comes as Nvidia looks to expand the number of G-Sync compatible monitors, which are traditionally more expensive and less numerous than FreeSync-enabled ones thanks to a costlier implementation. FreeSync has been a strong selling point for AMD's graphics cards because of this - something Nvidia is keen to address, especially with AMD expected to launch its 7nm Navi-based graphics cards in the very near future.
+
+NVDA price 3 days before article release: 3.376239538192749
+
+NVDA price 1 day before article release: 3.466477632522583
+
+NVDA price the day of article release: 3.5346522331237797

@@ -1,0 +1,34 @@
+NVIDIA Reveals Xavier SOC Details
+
+Aug 24, 2018, 02:17pm EDT
+
+NVIDIA
+ has been hinting about Xavier for a couple of years now, and it finally revealed significant details at the recent HotChips’ 30th annual conference in Cupertino, California. This device is a huge System-On-a-Chip (SOC) designed to support a wide variety of complex AI inference processing in real-time, for drones, robotics, and autonomous driving. Frankly, I’d been a little confused about Xavier until this presentation; I wanted to share what I learned about this platform, which forms the foundation for NVIDIA’s vision-guided systems
+The Xavier SOC
+While 
+Tesla
+ has opted for designing its own silicon platform for autonomous driving, after seeing what this platform offers, I cannot believe that decision was based on inadequate performance or flexibility of the NVIDIA DrivePX Pegasus. This SOC has the latest technology on one die, and the company claims it is the most complex SOC ever invented. It includes a wide range of specialized processors for the myriad of tasks that must be handled in vision-guided systems—all the way up to fully autonomous vehicles. These include:
+The Volta GPUs have been slimmed down to fit on the SOC and to reduce power, omitting features such as HB2 memory and 32/64bit floating point (which are not needed in AI inference work). Also, the SOC includes an NVLink port to enable the SOC to access 2 discrete full-fledged Volta GPUs—for the more demanding work such as Level 5 fully autonomous driving.
+So, why so would NVIDIA put so many different types of processors and accelerators on this complex chip? The autonomous market is quite nascent, and the software and datasets needed are still in development. With Xavier, NVIDIA has built a general-purpose and extensible architecture for a fast-moving market. NVIDIA wants to make sure that it supports a superset of the likely OEM requirements that may arise as the designers build their software to capture, fuse, and process sensor input from RADAR, LIDAR, and video sources.
+Let’s return to my thoughts with respect to Tesla. When the electric car company explained why it was moving away from NVIDIA to its own ASIC, the performance comparisons used were based on NVIDIA technology that was two generations back (Maxwell). As you can see in Figure 3, NVIDIA claims that Xavier is roughly an order of magnitude faster than the 2016 era PASCAL-based Parker SOC it replaced. So why did Tesla bail out on NVIDIA? It may be that it simply did not want to base its premium vehicles on the same technology as, say, a Toyota Camry. Or perhaps it decided that Xavier-based Drive-PX (see the next section) was too expensive; NVIDIA has not yet disclosed pricing.
+Different boards for different folks
+NVIDIA will productize the Xavier SOC in at least three form factors: The Jetson Xavier for drones and robots, the Drive Xavier for apps such as Level 3-4 driving assistance, and the flagship Drive Pegasus, with dual Xavier SOCs and 2 Volta GPUs to support fully autonomous Level 5 vehicles. It is clear that NVIDIA knows how to build high performance and scalable platforms for vision-guided autonomous devices and is still in the pole position to capitalize on the coming boom in this market. What remains unclear is the competitive field NVIDIA will face in the next couple of years as startups, 
+Intel
+, 
+Google
+, and other in-house development teams bring their AI wares to market.
+Conclusions
+NVIDIA knows how to do AI silicon and software just as well, if not better than anyone. The new details revealed on the Xavier SOC demonstrate that NVIDIA is not shying away from the tough computational challenges of autonomous vision-guided systems. It is doling out different parts of the pipeline to specific silicon tailored to that job, including GPUs, Vector Processors, and ASICs. I also want to note that the company’s recently announced Turing GPUs can deliver real-time ray tracing. This capability enables the creation of photo-realistic virtual environments, which will be needed by the driving simulators to test and validate the hardware and software needed for safe autonomous or assisted driving. NVIDIA’s challenge will be to ensure that it stays close to the vehicle design teams to understand their hardware, software, and pricing requirements. This will be necessary to turn its early leadership position into revenue and market share as autonomous driving begins to go mainstream.
+Disclosure: Moor Insights & Strategy, like all research and analyst firms, provides or has provided research, analysis, advising and/or consulting to many high-tech companies in the industry, including some of those mentioned in this article, including 
+Intel
+, 
+Google
+, and 
+NVIDIA
+. The author does not have any investment positions in the companies named in this article.
+
+NVDA price 3 days before article release: 6.270262241363525
+
+NVDA price 1 day before article release: 6.604913711547852
+
+NVDA price the day of article release: 6.738080978393555

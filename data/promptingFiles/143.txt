@@ -1,0 +1,43 @@
+Forbes Daily: Nvidia Chooses Texas As Its U.S. Supercomputer Base
+
+Apr 15, 2025, 07:59am EDT
+
+andForbes Daily,
+Forbes Staff.
+With a record 3,028 people around the globe on Forbes’ most recent World’s Billionaires List—with a collective worth of $16.1 trillion—it’s clear that the richest people in the world are wealthier and more influential than ever.
+This week, Forbes will host a members-exclusive conversation, “Behind The Billions: Inside The Forbes Billionaires List,” diving into what we can learn from the super-rich and why tracking how the world’s wealthiest amass their fortunes is more important than ever.
+Join executive editor Luisa Kroll, assistant managing editor Kerry A. Dolan and senior editor Chase Peterson-Withorn for a member-exclusive discussion Wednesday at 1 p.m. ET. Don’t forget to sign up here.
+Nvidia is working with Taiwanese electronics manufacturers Foxconn and Wistron to build two supercomputer factories in Houston and Dallas, the company announced Monday. Nvidia expects the investment to result in “hundreds of thousands of jobs,” and said that “mass production at both plants is expected to ramp up in the next 12-15 months.”
+U.S. automakers saw stock pops Monday after President Donald Trump hinted at short-term tariff relief, saying that car companies “need a little bit of time” to source parts domestically. Imported cars have had a 25% tariff since early April, and auto parts are set to face similar 25% tariffs no later than May 3. Shares of Ford, General Motors and Stellantis were up about 4%, 3.5% and 5.6%, respectively.
+Boeing’s shares slid sharply in premarket trading early Tuesday, after Bloomberg reported that the Chinese government had ordered the country’s airlines to stop taking deliveries of new aircraft from the American plane maker. The move, which also orders Chinese airline companies to stop buying aircraft parts from Boeing, is reportedly part of China’s retaliation against President Donald Trump’s 145% tariff rate on nearly all Chinese-made goods.
+Trump appeared to take a victory lap Monday, celebrating what he called “the largest gain in the stock market in history on every single category last week,” though last Wednesday’s gain was not the biggest jump ever on a percentage basis, a more commonly-cited measure of stock movements. All three major indexes remain down at least 4% since Election Day, and 7% since Inauguration Day.
+After the massive crypto washout of 2022 and 2023, most industry-leading crypto lenders like BlockFi and Celsius imploded, but a new report suggests a resurrection is underway: Tether, Galaxy and Ledn have emerged as the dominant players in centralized finance lending, holding a combined $9.9 billion in outstanding loans at the end of 2024. That’s nearly 90% of the CeFi market, according to Galaxy Digital.
+Shares of Apple jumped Monday as the world’s largest company received a bump from the White House’s tariff exemptions on smartphone imports. The tech giant’s stock price finished the day at about $202, roughly a 17% jump from its $172 close a week ago—its lowest level since last May. The tariff exemption also signaled good news for prospective iPhone buyers, as prices are less likely to see an immediate hike.
+In an Oval Office meeting between President Donald Trump and El Salvadoran President Nayib Bukele on Monday, White House advisor Stephen Miller said that bringing a Maryland father who was mistakenly deported back to the U.S. would amount to “kidnapping,” because he is now in the custody of El Salvador. The Trump Administration admitted that Kilmar Abrego Garcia was deported due to a “clerical error,” but has refused to comply with a district court order to “facilitate” his return, which was partially upheld by the Supreme Court last week.
+Amid a recent wave of private equity firms purchasing stakes in professional sports teams, New York-based Velocity Capital Management will go a different route and announce today that it has agreed to make a strategic investment in Unique Sports Group, a soccer talent agency headquartered in London that represents more than 350 soccer players. The agency will use the capital to fuel its growth strategy and open new lines of business, such as entering women’s sports.
+Residential solar developers already tend to have complicated financial statements, but a recently revealed hidden spreadsheet from troubled firm Sunnova Energy suggests the company was manipulating its public disclosures, according to short sellers. As vultures circle Sunnova, allegations that it had been overstating its solar system statistics “to fabricate larger amounts of federal investment tax credits” aren’t likely to help.
+The honorees on the 2025 Forbes 30 Under 30 Europe list are building virtual worlds, revolutionizing fertility, reinventing retail and dominating the entertainment game—all while navigating a global trade war, a live war in Ukraine and the whiplash that comes with the constant evolution of generative AI.
+A number of listmakers are harnessing AI’s power to tackle important problems. Felicia von Reden, 29, is the cofounder of Ovom Care, a fertility clinic using AI to take the guesswork out of the IVF process. The company uses machine learning to identify the most viable eggs and sperm for a patient, and since opening its first clinic in 2024, the startup has helped 350 women on their IVF journeys—while raising some $8 million in funding at a $22 million valuation.
+Others are betting artificial technology will transform how we advertise and shop. Flore Lestrade, 26, Tristan François, 26, and Christian Kotait, 25, are building Veeton, a tool that allows clothing sellers to show their items using hyperrealistic AI fashion models. Their tech lets clothing companies show off a wide variety of sizes and styles—and for a whole lot cheaper.
+And then there’s Frederic Boesel and Jonas Muller, who are building text-to-image AI technology with their startup Black Forest Labs. The pair has raised $31 million in seed money from Andreessen Horowitz and is already partnering with corporations like German telecom titan Deutsche Telekom to help them generate all their marketing images with Forest Labs’ model, Flux. All in all, the 2025 Under 30 Europe companies have raised more than $800 million in funding.
+WHY IT MATTERS To identify this standout group, Forbes editors worked with expert judges to review more than 10,000 candidates, evaluating them on impact, financials, and creativity. The result: 300 young leaders steering the future of Europe and harnessing a moment of global uncertainty to build the future’s next great companies.
+MORE How We Make The Forbes 30 Under 30 List
+Harvard University said Monday it will not accept an agreement with the Trump Administration, which asked the institution to make major changes to its governance, admissions and hiring processes:
+$9 billion: The amount of Harvard’s government contracts that are under review by various agencies, including the Education Department
+$2.2 billion: How much of Harvard’s federal funding that the Trump Administration froze on Monday, following the university’s refusal
+“No government … should dictate what private universities can teach.” Harvard President Alan Garber, responding to the administration’s recent list of demands
+If you’re reading this, we hope you’ve already filed your federal taxes for 2024, in which case you’re probably deserving of a Tax Day treat! Here’s a list of a few national retailers and chains with special promotions happening today. (If you haven’t filed yet, procrastinators are certainly also eligible for a Tax Day treat, but you might want to file for an extension.)
+
+Competition between big box retailers is as fierce as ever, and the CEO of a major company said last week that he intends to open 15 new locations each year “for the foreseeable future.” Which retailer is it?
+A. Sam’s Club
+B. Costco
+C. Target
+D. IKEA
+Check your answer.
+Thanks for reading! This edition of Forbes Daily was edited by Sarah Whitmire and Caroline Howard.
+
+NVDA price 3 days before article release: 107.5446548461914
+
+NVDA price 1 day before article release: 110.68391418457033
+
+NVDA price the day of article release: 112.1735610961914

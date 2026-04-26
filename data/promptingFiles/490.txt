@@ -1,0 +1,19 @@
+NVIDIA’s GeForce RTX 4090 Brings Big Game But It Can Create And Crunch Too
+
+Oct 11, 2022, 03:58pm EDT
+
+When NVIDIA stepped out with its new GeForce RTX 40 series graphics cards and Ada Lovelace GPU architecture back in September, it was widely anticipated that these next-gen GeForce cards would bring newfound levels of performance for PC gamers. And indeed that’s exactly what we’ve seen. My colleague Marco’s GeForce RTX 4090 review at HotHardware shows how NVIDIA has laid down the gauntlet, delivering a huge uplift in gaming performance across the board, sometimes by as much as 2 or 3X. However, GPUs aren’t just great for gaming workloads, and NVIDIA’s new GeForce RTX 4090 is also one beastly content creation machine with serious GPU-compute chops as well.
+I’ve previously covered the GeForce RTX 40 Series and Ada Lovelace GPUs here on Forbes, so I’d invite you to check that out if you’d like a quick-take refresh on what comprises NVIDIA’s Ada architecture. These new cutting-edge GPUs and software bring real innovation for PC gamers, from DLSS 3 upscaling to advancements in ray tracing acceleration.
+And of course, the new $1599.99 GeForce RTX 4090 also brings a ton of brute force silicon and clock speed-derived performance gains in gaming as well...
+Beyond gaming, however, NVIDIA’s new flagship Founders Edition graphics card also brings massive gains in rendering and GPU compute-accelerated content creation. For example, when you look at the very popular open source 3D creation and rendering suite, Blender, the results are stark and stunning...
+Blender harnesses RT (ray tracing) cores on board GeForce cards and the NVIDIA OptiX framework that further accelerates these workloads, hence why AMD is so far behind here. However, when you compare the gen-on-gen performance, we’re treated to over a 2X gain versus NVIDIA’s fastest GeForce RTX 30 series card, the RTX 3090 Ti.
+LuxMark is an OpenCL accelerated 3D rendering benchmark as well. The LuxRender rendering engine, that’s available as a free license plugin for software suites like Maya and 3DS Max, supports high dynamic range (HDR) lighting and various material types for photo-realistic scenery and artwork. As you scan see here, the competition is a little tighter between NVIDIA and AMD, except for when it comes to the GeForce RTX 4090 scores, which leave all the others in the dust.
+Finally, what’s perhaps most impressive to me is that NVIDIA’s new AD102 GPU that powers the GeForce RTX 4090 is comprised of roughly 2.7X the number of transistors (28 billion in Ampere GA102 vs 76 billion in Ada AD102) but yet still has a physically smaller die size (608mm2 vs 628mm2) on TSMC’s 4N process node. And it delivers these major performance gains at less average power consumption than the previous-gen GeForce RTX 3090 Ti, despite its voracious need for 3 or 4 8-pin PCIe power connectors feeding its 12-pin PCIe 5 power dongle connector.
+This to me is the mark of true design elegance and process optimization. I’m looking forward to testing the more mainstream GeForce RTX 4080 series cards as well, to see what kind of performance-per-watt gains they bring.
+The next testing battleground will be to see what NVIDIA’s new GeForce RTX 40 series can do versus AMD’s next-gen RDNA 3-based Radeon RX 7000 series. It’s sure to be a slugfest in the trenches that’s for sure, but we’ll have to see if Team Radeon can measure up to the kind of GPU brains and brawn NVIDIA has delivered today.
+
+NVDA price 3 days before article release: 13.112804412841797
+
+NVDA price 1 day before article release: 11.65471649169922
+
+NVDA price the day of article release: 11.57082748413086

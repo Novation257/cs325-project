@@ -1,0 +1,42 @@
+'Grand Theft Auto V' PC Version Benchmarked Across 14 Nvidia And AMD Graphics Cards
+
+Apr 15, 2015, 10:22pm EDT
+
+After 18 months and releases on four other platforms, Rockstar's Grand Theft Auto V finally arrived on PC this week. After extensively benchmarking GTA V on 14 different AMD and Nvidia graphics cards, across multiple resolutions and settings, I'm thrilled to say Rockstar has done a terrific job optimizing the game for our favorite gaming platform. And let's be honest with each other, we don't get to say that on a regular basis.
+Yes, folks, this port is much better than GTA IV.
+The PC version of GTA V also introduces a ton of visual and technical upgrades over the console versions. Stuff like denser traffic, increased draw distance, a new foliage system, enhanced weather effects, and the Rockstar Editor, allowing players to record, create, and publish video clips of their open world shenanigans.
+GTA V is also getting strong support from Nvidia and AMD, with SLI and CrossFire supported out of the gate (although the CrossFire configs I tested exhibit stuttering during benchmarks), and Nvidia's "Percentage-Closer Soft Shadows" tech. That's a fancy way of saying that all manner of shadows look true-to-life, softening shadows realistically, and softening them more the further away a shadow gets from its source . They're softer and more dynamic, versus typical shadows that resemble stencils. That kind of detail isn't present in nature.
+The game also happens to look stunning in 4K.
+But let's get to why you're here: Benchmarks. I spent several hours testing a wide variety of AMD and Nvidia hardware to give you an idea of how your system might perform with various settings under multiple resolutions. The results you'll see are meant to be approximate, not exact. Certain cards aren't reference versions and may have a slight factory overclock. In the interest of time these weren't downclocked, and there's a lot of variation out there. Still, it's a great performance snapshot.
+Graphics Cards Tested:
+Benchmark Settings & Test System
+Benchmarking was carried out on my X99 test bench, which is admittedly overkill for gaming, but also eliminates the possibility of the CPU being a bottleneck. The system boasts an 
+Intel
+ Core i7-5960x and 16GB of G.Skill DDR4 memory. This system will slightly elevate results compared to a Core i7-4770K rig with DDR3 memory, but the differences are marginal.
+Let's talk about the test itself. Rockstar's built in benchmark routine for Grand Theft Auto V runs 5 different scenes, and it's a strong representation of gameplay and engine demands. Camera fly-throughs test environment rendering, lighting, day/night cycles, and weather effects, while a lengthy driving sequence pushes the hardware by throwing chaos like gunfire, crashes, and major explosions into the mix. You can view your own results in My Documents/Rockstar Games/GTA V/benchmarks.
+Rockstar has also implemented a huge number of graphics quality settings allowing you to tweak to your heart's content. Best of all, a meter tracks estimated Video RAM usage as you cycle through various settings. Beyond helping you simply find the sweet spot between framerate and graphical fidelity, it's a minor teaching tool that illustrates which properties have the strongest impact on your VRAM. For example, Population Variety and Anti-aliasing. If you're struggling to hit your desired framerate, reduce these first, as well as Tessellation.
+Watch The GTA V Benchmark
+You can see the settings and the benchmark routine in the video I recorded below.
+So, to arrive at an average framerate, I calculated the median framerate across all 5 scenes. As I mentioned, there are a bunch of dials to turn, and probably as many testing methodologies. Therefore I've divided the 1080p and 1440 benchmarks into two sets: "High" and "Very High" based on the card's specs and a target of at least 40fps for playability. So cards like the GTX 750Ti and Radeon 260x are tested with overall "High" quality settings, while higher end and enthusiast cards like the GTX 970/980 and Radeon 290x/295x2 are tested with "Very High" quality settings.
+Near the end, we'll see what AMD and Nvidia's most expensive cards can do with GTA V's graphics maxed out (Ultra) at 4K!
+1080p & 1440p High Quality Benchmarks
+At this stage, graphics settings are on all high, with FXAA turned on, Anisotropic Filtering x8, Shadows set to Soft, and Population Variety turned down to 50%. Tessellation, Ambient Occlusion, Reflection MSAA and MSAA are turned off. This is personal preference, and since there's no "Master" setting to sync all sliders to a quality level, I decided this was a good balance between performance and graphical fidelity.
+The results are about what you'd expect, but I'll give props to the GTX 650Ti, turning in a solid 60fps. It gives me hope that older cards will yield a very playable experience -- although I couldn't extract much from my Radeon 6670 at 1080p. But how about that $109 Radeon 260x turning in High quality 1080p/60fps? As you can see, GTA V is well optimized for lower end hardware.
+1080p & 1440p Very High Quality Benchmarks
+For this series of tests, I cranked the quality sliders to Very High (the highest setting, with the exception of a couple isolated Ultra options) and left the remaining options the same as the "High" quality tests above.
+What's really interesting here is Nvidia's GTX 970. I mean, look at it! It's neck and neck with the GTX 980, and the 970 I'm using has reference clocks. It takes 2x Radeon 290x in CrossFire (or the Radeon 295x2) to hit those same numbers. Granted, this benchmark has some variance from run to run, but it's a strong argument for the price/performance value of the 970 (and a not so strong argument for AMD's scaling potential with this particular game, with only a 13% scaling uplift with 290x).
+Not shown, but even more impressive, is the 970's 4K performance. I set the quality levels to "Normal" and it cranked out a smooth 67.5fps at 3840x2160.
+Let's give AMD some credit though. Aside from some stuttering in CrossFire configurations (for more on that, check out Guru3D's analysis), performance is fantastic, and cards like the 280x turn in incredible numbers given the asking price.
+4K: Maxed Out Ultra Benchmark Edition!
+I also wanted to know what would happen if I took the Titan X, 295x2, and dual GPU configurations of the 290x and 980, and threw completely maxed out/ultra settings at them in 4K. And this test wasn't like the rest. Quality sliders get maxed out, and now I'm activating Tessellation and Ambient Occlusion and maxing them out as well, which makes a huge difference in performance. Population sliders? Maxed. I still left MSAA off because it's not really necessary at 4K resolution.
+The results with Nvidia GTX 2x 980 SLI back up Rockstar's decision to use that very configuration when demoing the PC version of GTA V. And AMD's dual 290x option provides a compelling value proposition, though they need work on their frame pacing issues in this particular title. I didn't notice any stuttering while using Nvidia SLI configs.
+And sure, the Titan X may be lagging behind, but it's still ridiculously impressive for being the only single GPU in this bunch.
+As you might be able to extrapolate from these specific results -- especially given the settings -- 4K play is a reasonable expectation even with a single GTX 970/980 or Radeon 280x/290x. Bump the sliders down a bit (especially things like grass quality and MSAA) and you'll have 40 to 60fps at 4K with these cards.
+  All told, I've walked away very impressed with GTA V's PC performance. Rockstar has given the user full control over every aspect of their graphical experience, and they've done some great optimization for both low-end and high-end hardware.
+Here's to hoping that with Grand Theft Auto VI, Rockstar puts the PC version front and center day and date with console launches.
+
+NVDA price 3 days before article release: 0.5481904149055481
+
+NVDA price 1 day before article release: 0.538555920124054
+
+NVDA price the day of article release: 0.5450594425201416

@@ -1,0 +1,45 @@
+Nvidia Stock Is Up 150% And 3 Key Advantages Could Keep It Rising
+
+Jun 28, 2024, 01:59pm EDT
+
+Nvidia stock shares rose 150% in the first half of 2024 — outpacing the S&P 500’s 15% increase by a factor of 10, according to the Wall Street Journal.
+Can Nvidia stock keep rising? The answer depends on whether the AI chip designer can keep beating investors’ high expectations and forecast faster-than-anticipated growth.
+To accomplish that, overall demand for AI chips must remain torrid and Nvidia must maintain or grow its dominant market share. The balance in favor of both trends persisting is strong. Here is why:
+Although companies are still seeking high returns on their investment in generative AI, analysts expect companies’ urge to build AI chatbots to drive rapid growth in demand for GPUs for the next several years.
+Despite challenges from rivals, according to CNBC, Nvidia’s market share is growing even larger due to three competitive advantages:
+
+
+The S&P 500 has rewarded investors in companies that have capitalized on generative AI through unexpectedly high revenue growth. For instance, Nvidia — which enjoyed 262% revenue growth and a 57.1% net margin in the April 2024-ending quarter — accounted for 30% of the S&P 500’s total return in the first half, noted the Journal.
+Those revenues are coming from a huge market for AI chips. The business is expected to double from $200 billion in 2023, according to Grand View Research, to “$400 billion per year by 2027,” according to The Economist.
+By including Alphabet, Microsoft, Meta Platforms and Amazon, these five AI beneficiaries, accounted for “well over half of the broad U.S. stock index’s return,” the Journal wrote.
+“Clearly, artificial intelligence has been a big boost to a number of the larger tech companies,” Holly MacDonald, chief investment officer at Bessemer Trust, told the Journal. “What’s been occurring there is not just buzz around AI, but we’re actually seeing it affecting results.”
+The other four companies are benefiting from their positions in the generative AI value network, which I describe in my new book, Brain Rush. Microsoft beat analysts’ sales expectations — as AI drove demand for the company’s software and cloud services, the Journal reported.
+Amazon’s market capitalization topped $2 trillion after CEO Andy Jassy focused the company on AI innovations; Meta launched AI tools for advertisers; and AI is powering Google’s search engine responses, noted the Journal.
+Many investors see the promise of a transformative technology that could fuel leaps in productivity and growth. “It’s early innings, we think, of a multiyear secular bull phase in AI,” Mona Mahajan, senior investment strategist at Edward Jones, told the Journal.
+Nevertheless, companies buying the cloud services and software to build AI chatbots are looking for the high payoff uses of the technology. Based on my interviews with dozens of business leaders, generative AI in companies is caught in a bipolar battle.
+Peer pressure can force CEOs to tell Wall Street how generative AI will transform their business. That pressure is reflected in a record level of mentions of the term AI in investor conference calls.
+At the same time, CEOs may fear that generative AI hallucinations could threaten their company’s reputation.
+This inconsistent battle has significant implications for business. Of 200 to 300 generative AI experiments the typical large company is undertaking, a mere 10 to 15 have been rolled out internally, and perhaps one or two have been released to customers.
+That’s according to Liran Hason, CEO of Aporia, a startup offering guardrails to protect companies from AI hallucinations who spoke with me in a June 3 interview.
+Despite the risk companies may struggle to earn high payoffs from their generative AI-powered chatbots, I think Mahajan’s “early innings” comment is right.
+Nvidia faces competition from large rivals including AMD and Intel; a variety of startups and operators of data centers — notably Amazon and Meta — who are trying to develop their own GPUs, according to the New York Times.
+Despite the competition, Nvidia’s share of the GPU market has increased substantially in the most recent quarter. In order to win share from Nvidia, rivals must overcome three of the company’s powerful competitive advantages.
+Nvidia is aware of its rivals and expressed confidence in its ability to maintain its market position. At a June 26 shareholder meeting, Nvidia CEO Jensen Huang responded to a question about the competition by outlining how a decade ago, the company made investments to change focus from gaming to data centers, reported CNBC.
+Nvidia is also investing in applications for other markets. For example, the company is partnering “with every computer maker and cloud provider” to build market share in industrial robotics, CNBC wrote.
+The wide availability of Nvidia’s platforms  — through every cloud provider and computer maker — sustains a flywheel that leads to greater market share. How so? The company’s large installed base creates an attractive market opportunity for developers to “make the improvements needed to attract even more users,” Huang said.
+Nvidia’s share of the GPU market increased considerably in the first quarter of 2024.
+Specifically, Nvidia’s GPU market share rose from 80% in the fourth quarter of 2023 to 88% in Q1 2024, according to a Jon Peddie Research report featured by Techradar. Meanwhile, AMD’s share of the GPU market fell from 19% to 12% while Intel’s share declined from 1% to “negligible,” noted Techradar.
+Companies win or lose market share based on how well they perform on the criteria customers use to choose among alternative suppliers. Delivering what customers perceive as more value, enables the winning supplier to charge a higher price.
+Such a differentiation strategy contributes to Nvidia’s high profitability. Due to their better performance and lower cost to run, Huang said the company’s AI chips more than offset their higher price by providing customers the “lowest total cost of ownership,” CNBC reported.
+For an objective perspective, I interviewed an industry expert who explained how Nvidia prevails over rivals. GPU buyers evaluate vendors based on price, overall cost, product quality, software, economic payoff, and other criteria, according to a June 27 email from researcher Jon Peddie.
+GPU purchase criteria include “all the above, as well as size of the vendor,” Peddie wrote. “Big companies like dealing with big companies that have staying power. Software compatibility is a very big decision point. Software is fragile and tricky to get right, and the old saying — if it ain’t broke – don’t fix it, applies,” he added.
+Nvidia is way ahead of its rivals when it comes to satisfying customers’ purchase criteria for GPUs. Here are the three sources of competitive advantage that enable Nvidia to prevail on these CPC:
+
+
+If demand for AI continues to grow and rivals cannot match Nvidia’s competitive advantages, the company’s stock is likely to continue its rapid rise.
+
+NVDA price 3 days before article release: 126.02923583984376
+
+NVDA price 1 day before article release: 123.93025207519533
+
+NVDA price the day of article release: 123.48046112060548

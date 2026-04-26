@@ -1,0 +1,18 @@
+Luminar Surges On Plan To Supply Laser Sensors For Nvidia’s Self-Driving Car Platform
+
+Nov 09, 2021, 04:30am EST
+
+Laser lidar startup Luminar, founded and led by the youngest self-made billionaire tracked by Forbes, will supply its sensors to Nvidia for a new autonomous vehicle technology platform that the chip and computing powerhouse is developing for automakers to install in consumer cars and trucks. The news pushed Luminar’s shares up in Tuesday trading.
+Nvidia aims to supply the DRIVE Hyperion system, powered by its Orin “systems on a chip”computing hardware, AI-enabled software and Luminar’s long-range Iris lidar, to automakers starting in 2024, Luminar said at Santa Clara, California-based Nvidia’s annual GTC conference. The platform, which also integrates cameras and radar for additional sensing capability, includes everything needed for mass-production vehicles to operate autonomously in highway driving, Nvidia said earlier this year.
+“The goal is to be able to do hands-off, eyes-off driving under select conditions—specifically, on highways and freeways,” Luminar CEO and founder Austin Russell tells Forbes. The DRIVE Hyperion system will also enable better assisted driving and “is absolutely going to be an opportunity as a huge growth driver” for Luminar, he said.
+Russell didn’t share financial details of the new supply agreement with Nvidia.
+Lidar, which allows autonomous vehicles to “see” their surroundings in 3D, in daylight or at night, has become a critical technology for self-driving tech developers. In contrast to early industry leader Velodyne, which pioneered spinning, multi-laser lidar sensors to create detailed “point cloud” maps, Luminar’s approach is a lower-cost single laser system that the company says requires less energy to operate. Luminar says its Iris sensor detects objects 250 meters ahead of a vehicle that’s traveling at highway speed, and will cost between $500 and $1,000 per vehicle, depending on production volume.
+Luminar rose 15% to close at $20.12 in Nasdaq trading Tuesday after surging by more than 22% earlier in the day. Nvidia fell 0.5% to $306.56.
+Nvidia’s DRIVE Hyperion system will integrate one forward-facing Luminar Iris lidar per vehicle. Luminar also has deals to supply its technology to vehicle makers including Volvo Cars, China’s SAIC and Daimler Truck, as well as Intel’s Mobileye, Pony.ai and Airbus’s UpNext unit.
+“Having Nvidia as a customer is great, but this is a lot broader than any kind of traditional deal that we would do,” Russell says. “This is a platform that now can extend across multiple different automakers. Basically whoever Nvidia is targeting we're now part of that team and the charge there to make this happen.”
+
+NVDA price 3 days before article release: 29.738130569458008
+
+NVDA price 1 day before article release: 30.7390193939209
+
+NVDA price the day of article release: 30.59232521057129

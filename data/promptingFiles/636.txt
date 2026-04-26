@@ -1,0 +1,21 @@
+NVIDIA Gears Up For An Even Larger GTC 2019
+
+Feb 07, 2019, 10:30am EST
+
+It’s that time of year again. Every spring NVIDIA kicks off its annual series of GPU Technology Conferences (GTC) with a real “humdinger” of an event held in San Jose. Last year, I wrote that GTC 2018 was the place to be if you are in any way involved in AI or machine learning. That story holds true for this year’s event (held March 17-21), with NVIDIA promising to shine a spotlight on all the impactful applications of AI, including robotics and autonomous vehicles with a larger keynote area and more exhibitors. This conference always hosts a smorgasbord of informative keynotes, exhibitors, and hands-on sessions, on a wide variety of topics. I attend nearly 75 events a year, and it is a don’t miss. Let’s take a look at what all this year’s conference has in store for the industry.
+Who’s attending
+This year’s conference speaker roster features a who’s who in AI and deep learning, with experts from industry leaders such as Amazon, Alibaba, Google, NASA, Oak Ridge National Labs, IBM, Verizon, Volvo, PayPal, and many, many more. Over 600 sessions will be held, with over 160 technical posters. Over 220 different exhibitors will be on site (a 30% increase from last year), with expanded exhibit hours. NVIDIA promises more  Deep Learning Institute (DLI) coverage this year, with six all-day workshops (including developer certification), and over 100 DLI sessions all said and told.
+This year’s event retains all of its major sponsors from last year such as Google and Microsoft, as well as a dozen new ones such as Samsung Electronics and Micron. NVIDIA’s tech rock star CEO Jensen Huang will be delivering his keynote (no doubt in his signature leather jacket) on Monday afternoon, at the San Jose State event center, which seats 5,000 (2,000 more than last year’s venue). In short, GTC 2019 is shaping up to be bigger and better than ever before.
+The topics du jour
+As I mentioned earlier, NVIDIA will focus heavily on AI applications, such as autonomous vehicles and robotics, at the conference. Here’s an automotive fun fact: GTC will host as many autonomous driving concept cars as some of the largest auto shows. The conference will also focus on up-and-coming fields such as finance, healthcare, and telco. NVIDIA says 9 of the world’s top 12 telco companies will be attending and presenting at this year’s GTC, as well as 4 of the top 5 medical research universities and 5 of the top 7 radiology departments.
+Of course, there will also be plenty to chew on in the areas NVIDIA is traditionally known for—HPC and graphics—including sessions on ray-tracing, VR, and game development. NVIDIA points out, and I agree, that there really aren’t many conferences out there that cover such a wide range of topics. Again—this is the place to be if you and your organization have anything, even tangentially, to do with AI and ML.
+One thing that caught my eye in the lead-up to the event is that NVIDIA has scheduled an all-day program dedicated specifically to women developers for Sunday the 17th. In a field that is disproportionately male-dominated, it’s great to see NVIDIA focusing on and creating space for women in AI. The program will include a women-led panel session, women-only DLI sessions, and a networking reception.
+Wrapping up
+It looks like it’s going to be another banner GTC for NVIDIA, full of the latest in AI, ML, HPC, graphics, and much, much more. The conference continues to expand, with more sessions, more exhibitors, and more emergent topics of discussion (healthcare, telco, finance, etc.). I look forward to attending and taking in all the announcements and information. I encourage you to attend too.  If you register now here you’ll get a 25% discount by using the code “NVMLIM”.
+Stay tuned for further coverage on the event itself.
+
+NVDA price 3 days before article release: 3.698270797729492
+
+NVDA price 1 day before article release: 3.7929701805114746
+
+NVDA price the day of article release: 3.6546390056610103

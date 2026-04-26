@@ -1,0 +1,79 @@
+Nvidia Titan X Graphics Card Review: Future-Proofing The 4K Game
+
+Mar 21, 2015, 02:12pm EDT
+
+As we've already concluded, Nvidia's 
+Titan
+ X is the best single-GPU graphics card on the market. Of course, there exists a myriad of talking points and nuanced analysis that must be explored before the majority of us even consider plunking down $1000 for any addition to our rig. Over the course of this review we'll focus on things like synthetic and gaming benchmarks at 1440p and 4K (3840 x 2160) resolution, aesthetics, the competitive landscape, performance uplift over cards like the GTX 980, and the advantages and disadvantages of single and dual (SLI/CrossFire) GPU graphics solutions. That's all necessary because despite it being the best single-GPU card in existence, there's no simple, blanket answer to the question: "Is the Titan X worth my money?"
+A Brief History of the Titan
+
+Nvidia introduced the original Titan in February 2013 with a monster price tag ($999) and monster gaming performance. It was marketed as the ultimate gaming card, but also catered to researchers, engineers, and developers who wanted an entry-level compute card as opposed to the much more expensive Tesla.
+In our PC gaming world, the Titan helped popularize the concept of micro-tower gaming powerhouses like Falcon Northwest's Tiki. I still remember being utterly stunned at the benchmarks it cranked out. In May 2013 I lived in a world where a rig with a cubic volume of only 715 inches could produce results like 60fps on Crysis 3 -- on High, and at 1080p! It wasn't just the performance, it was the fact that a $1000 card with 6GB of VRAM could crank that out in a case the size of an Xbox One without sounding like a leaf blower or melting your face off.
+The 2014 followup, Titan Black, suffered a bit of an identity problem. It was effectively a GTX 780Ti with double the VRAM (from 3GB to 6GB) and double-precision computer enabled for the aforementioned researcher/engineer/developer crowd. It retained its $999 price tag, making it several hundred dollars more expensive than the 780Ti. Nvidia didn't even send press samples of the Titan Black to major tech outlets, probably because for gamers, it didn't justify its price tag.
+Enter Titan-Z, the red-headed but superhuman stepchild of the Titan family. It featured 5,760 cores, 12GB (6GB x2) of 7Gb/s GDDR5 memory, and a heart-stopping price tag of $3000. It was heavy, it needed to exhaust a ton of waste heat, and it set my hardware lust into overdrive. Shockingly, Falcon Northwest engineered another miracle by cramming this dual-GPU Titan into the Tiki once again. You can read my review of that here. It was a life-changing and kinda life-affirming moment, but its asking price was insane, especially 
+next
+ to AMD's Radeon 295x2, a direct competitor that was liquid cooled and cost half as much.
+Meet The Titan X
+Back to 2015, and the Titan X completely restores the Titan's identity. It's built on Nvidia's proven Maxwell architecture and doubles the GDDR5 Video RAM to an astounding 12GB. Nvidia is marketing it directly at the "ultra enthusiast," the person who wants to game at 4K resolution and still enjoy playable framerates without compromising on graphics quality.
+Most of my readers tend to care less about the billions of transistors or memory bandwidth speed and more about performance and a certain level of future-proofing. Especially with a $1000 investment, right? We'll get to performance shortly, but it needs to be said: The Titan X isn't going to be obsolete anytime soon. Any fears you could possibly have about higher resolutions and extreme textures defeating this card's 12GB framebuffer? Throw them away. In an admittedly ridiculous experiment, I ran Crysis 3 maxed out, Tomb Raider maxed out, Heaven 4.0 on maximum settings, and 3DMark's Fire Strike Ultra test. All at 4K. Simultaneously. I got it up to 9.6GB. I think we're safe.
+
+The Competitive Landscape
+The obvious competitor to the Titan Z -- based on performance and price -- is AMD's Radeon 295x2, a liquid-cooled dual GPU card that found AMD rectifying some of their thermal mistakes and delivering a compelling price/performance ratio. Even when it launched at $1499, it stood alone. Now it's hovering around $700.
+Yesterday I suggested that if cost is no obstacle and you want the best single-GPU card on the market, that you should buy the Titan X. I'll twist that argument here to one of pure performance. Because the Radeon 295x2 still beats the Titan X overall. And it does so for roughly $279 less. Then again, it's a dual-GPU product that requires more space than Titan X, as well as the installation (albeit a simple one) of an included radiator.
+Nvidia's own GTX 980 (starting at $549) certainly figures into this discussion depending on your needs and wants. Same for AMD's Radeon 290x, which is far and away the card offering the best performance per dollar right now.
+So again, those nuances become important in the overall recommendation. We'll explore those further in a moment, but let's get to the benchmarks!
+3DMark Fire Strike
+2015 marks my transition to 
+Intel's
+ X99 platform for all of my hardware testing, so here's the system all of these benchmarks were carried out on:
+3DMark's Fire Strike is an excellent benchmark that tests a system's ideal graphics capabilities, but it's not a replacement for real-world gaming results. Still, it tends to provide a fairly accurate snapshot of the competitive advantage one card can have over another. You can't hand down a conclusion based solely on this test, but it's a solid indicator of performance.
+What we're seeing at 1440p is the Titan X exhibiting a 24% improvement over Nvidia's 980. But AMD's Radeon 295x2 turns in a 14% lead over Titan X. When we crank things up to 4K, the 295x2 extends its lead, cruising to a 22% better score than Titan X, while the Titan X's lead over a 980 decreases ever so slightly from 24% to 22%.
+If you're strictly interested in the best performance for your dollars, let's do the math: AMD's Radeon 295x2 will cost approximately 35% less than Titan X while offering 22% or better overall performance. Then again, if performance is your sole consideration (not heat, dual-GPU complications, or space and power), it's clear that dropping $1100 on two GTX 980s in SLI is the way to go.
+Remember, though, that one of Titan X's big draws is its massive 12GB framebuffer. VRAM requirements for PC games are rapidly climbing. It's a fact that you'll exhaust the 980's VRAM eventually in 4K. Maybe not this year, but very soon. That's not going to happen with Titan X. Nvidia thinks you'll pay a premium for that (hey, 
+Apple
+ gets away with charging several hundred dollars just for storage capacity increases!), and I think the market will bear it.
+Gaming Benchmarks @ 1440p
+
+
+
+
+Some of these results at 1440p -- especially with two 980s in SLI -- are going to be sheer overkill, but I wanted to give you a complete picture. All of these combinations are going to hold their own for 1440p/60fps gaming, no question there. What we see with BioShock Infinite, Shadow of Mordor, Metro Last Light Redux, and Tomb Raider is a common performance curve. Titan X clearly beats the single card flagships (290x and 980) -- and goes toe to toe with our Radeon 290x CrossFire setup. Here again, AMD's 295x2 and Nvidia's dual 980 SLI setups trump the Titan X.
+But consider for a moment that even with an AMD-optimized game like Tomb Raider, the Radeon 295x2 is only turning in 23% better performance with two embedded GPUs (and liquid cooling), compared to the single GPU on the air-cooled Titan X. This is where its appeal comes front and center. Let's take a look at a few more 1440p results.
+The Single-GPU Argument: Exhibit A
+
+Ok, those Battlefield 4 numbers stack up, though it's interesting to see the Radeon 290x so far behind the GTX 980. Again Titan X proves its the best single-GPU card in existence. But that isn't what's annoying me.
+Have a look at Far Cry 4, and you'll see Exhibit A of why I vastly prefer single-GPU setups whenever possible. See how my 2nd 290x is rendered impotent? Just after I finished my testing for this review, AMD implemented a CrossFire profile for Ubisoft's Far Cry 4. For those keeping score at home, that's four months after the game released in November 2014. But I'm not going to go easy on Nvidia here, either. The scaling with 980 SLI 2x is pretty atrocious. 13 extra frames per second?
+The hard truth of the matter, though, is that when PC game developers are faced with time and/or budget constraints, they're going to cater to the largest audience first -- single card users -- and ask forgiveness from CrossFire and SLI gamers later. The fault isn't always with AMD or Nvidia. Regardless, it's the reality of the situation. This is why when faced when paying a bit more for a single-card solution, I'll fork over that money 100% of the time.
+Next, we'll look at 4K performance, since that's where the Titan X truly shines.
+Gaming Benchmarks @ 4K
+
+Let's kick off our 4K gaming analysis with Crysis 3, a game that is still unfairly punishing even the highest-end PC hardware. Mind you I'm running 16GB of DDR4 RAM, a $1000 Intel CPU, and a $1000 Titan X. On High Quality, I'm still only eeking out an average 30fps at 4K! On more modest systems you'll need to turn off anti-aliasing to achieve this (to be fair, it's not necessary at 4K but these are intentionally brutal tests). But can any other single-GPU card manage a playable framerate? Nope.
+Fortunately, this is our most extreme example, as every other game in my benchmarking suite fares far better. Crysis 3 is just cruel.
+
+Metro: Last Light (Redux), the other system punisher. On the game's High Quality settings, we see a familiar performance curve with Titan X the only single-GPU card approaching 4K/60fps, while of course the 295x2 and 980 SLI configurations eclipse it. I remember a time when it took three original Titans to get Metro playable at 4K. It's incredible how fast technology advances.
+Here's a look at the rest of our 4K gaming benchmarks:
+
+
+
+
+
+
+Across the board we're seeing playable framerates at 4K without exception, and without compromising graphical bells and whistles. In fact you can achieve better results by turning off anti-aliasing in these titles and playing on a G-Sync monitor, which dramatically improves overall smoothness and eliminates screen tearing and stutter.
+This feels like a watershed moment for 4K gaming. The Titan X lowers the barrier to entry -- not necessarily in cost (4K gaming isn't cheap no matter how you slice it), but in convenience -- and allows small form factor systems not much larger than an Xbox One to be perfectly capable of kicking out playable 4K experiences. It also eliminates the headaches SLI and CrossFire users have, not to mention the waiting game they're often forced to play.
+Power, Heat, and Noise (or: The Single-GPU Argument, Exhibit B)
+Performance isn't everything, and many users equally value the power efficiency, thermals, and acoustics of their chosen graphics cards. I'm one of them. Which means the first thing you need to know is that the air-cooled GTX Titan X is quieter than the water-cooled Radeon 295x2 under load by an average 20 decibels. It's Nvidia's tried-and-true reference cooler, the same one present on Titan and Titan Black. While I still love the Radeon 295x2 (it's in my personal rig, but that may be changing with the Titan X release) and respect what they accomplished on all fronts with that dual-GPU monster, the Titan X remains the quieter, more elegant solution.
+Cooler, however, it is not. Under torturous load the Titan X lands at about 86C, hotter than the GTX 980 but given its specs, this is understandable. Overclocking it about 10% (surprisingly easy, by the way), it only maxed out at 87C. Perfectly acceptable for a beastly GPU on air? Absolutely. Though seeing what Nvidia's partners -- particularly Asus, MSI, and PNY -- can do with their cooling solutions makes me wish for a board partner version of the Titan X, though I doubt we'll see it. By contrast, the Radeon 295x2 sits around 60C to 62C under load. But it's water cooled, so it's not a fair fight.
+Now for power consumption. I wasn't able to test all of the cards listed above, but I did directly compare the Titan X and Radeon 295x2 since they're the closest competitors in price and performance. Unsurprisingly, Maxwell's power efficiency is center stage here, with the Titan X idling at about 10W while the Radeon 295x2 does about 15W. Make no mistake, at idle these are both pretty impressive given their specs.
+The game changes considerably under stress. And I mean considerably. I measured the Titan X's power consumption under full load at about 248W. The Radeon 295x2? 450W. For those with high energy rates, know that the 295x2 is consuming 80% more power in this situation.
+And this brings me around to my secondary argument for a single-GPU system. If the Titan X can stay quieter and consume considerably less power under load, that's an important factor to me personally. Combined with the single-GPU elegance and immediate support for new game releases, I'm comfortable paying a bit more and taking a performance hit. Your mileage may vary, and that's perfectly reasonable.
+  The only criticism I have of the Titan X, honestly, is its price. But with the original Titan and Titan Black, Nvidia proved that the market would accept and pay $999. Otherwise we'd see those prices drop dramatically like the Radeon 295x2 did (it's 50% less than when it launched only a year ago).
+Conclusion
+With the Titan X, a blanket recommendation would be misleading. And impossible, to be honest. If you're striving for pure performance at a value, the Radeon 295x2 is your solution. However, heed my warning about rapidly climbing VRAM requirements for games. And be aware that AMD allegedly has the 390x right around the corner. But without an official announcement or hands-on testing, I can't include it in this conversation.
+If you're not concerned about price or VRAM ceilings, pick up a pair of GTX 980s and go nuts.
+Personally, I'm gravitating toward including the Titan in my personal 4K rig because it's an elegant, power efficient solution that I can rely on to deliver playable 4K games at high quality. When and if I'm blessed with a sudden windfall of cash, I won't be concerned with hitting that VRAM ceiling by adding a second or third Titan X and geeking out in Surround 4K. That's an extreme example. But this is an extreme card.
+
+NVDA price 3 days before article release: 0.5599923729896545
+
+NVDA price 1 day before article release: 0.5592700839042664
+
+NVDA price the day of article release: 0.5652912855148315

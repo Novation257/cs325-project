@@ -1,0 +1,16 @@
+Nvidia Stock Falls To 2-Month Low—Down 25% From Peak Amid $800 Billion Swoon
+
+Jul 30, 2024, 11:59am EDT
+
+Nvidia stock faltered again Tuesday, continuing the artificial intelligence king’s summertime blues as the stock delves further into correction territory.
+Nvidia stock fell 7% to $104, outpacing the Nasdaq Composite index’ s1.3% decline as the tech stock slump extended.
+Notching its lowest closing share price since May 23, Nvidia stock is now down 26% from its June intraday peak of over $140 per share, well beyond a 10% correction for the semiconductor chip designer which dominates the market for the advanced technology powering generative artificial intelligence programs.
+The 16% July decline would be Nvidia’s worst monthly performance since September 2022, when its stock traded at a split-adjusted price of below $15.
+At about $2.55 trillion, Nvidia’s market capitalization is down about $785 billion from its record $3.34 trillion valuation as of June 18’s market close, erasing more than the equivalent of Tesla in a span of six weeks.
+There isn’t a singular event that caused Nvidia’s Wall Street woes this month, but rather several smaller trends that added up. It’s routine for a stock to decline after a period of extended gains as investors and fund managers cash in on their profits and adjust their portfolios—Nvidia stock is still up 110% year-to-date and 610% dating back to the end of 2022, delivering truly eye-popping returns for a company of its size. And stock prices of course go down if more people are selling than buying. Nvidia also was hurt by a slump across semiconductor stocks as investors digested former President Donald Trump’s hawkish commentary on trade and defense policies in East Asia, a region crucial for American chip makers for manufacturing and sales. And Nvidia is perhaps the clearest victim of the broader market’s rotation out of big technology companies and into lagging smaller firms as investors prepare for the first interest rate cuts since 2020. Shares of Apple, Microsoft and Google parent Alphabet, the three other companies valued at over $2 trillion, are each down more than 7% apiece from their respective all-time highs set earlier this month.
+
+NVDA price 3 days before article release: 112.22589111328124
+
+NVDA price 1 day before article release: 111.53621673583984
+
+NVDA price the day of article release: 103.68000793457033

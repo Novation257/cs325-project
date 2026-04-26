@@ -1,0 +1,16 @@
+Trump Says He’ll Allow China-Nvidia Deals Except For ‘Most Advanced’ Blackwell Chips
+
+Nov 03, 2025, 05:57am EST
+
+President Donald Trump on Sunday said he will allow Nvidia and Beijing to make deals on AI chips, but said he will not allow Nvidia’s most advanced semiconductors to be sold to China, in a comment that comes days after he signaled willingness to discuss export controls on Nvidia’s flagship Blackwell chips.
+In a “60 Minutes” interview that aired on CBS on Sunday night, Trump was asked about China's interest in buying “the world's most advanced semiconductors,” especially Nvidia's flagship Blackwell AI chips.
+Without mentioning Blackwell by name, interviewer Norah O’Donnell asked Trump if he would allow Nvidia to sell “their most advanced chips to China” and the president replied: “No, we won't do that.”
+However, Trump said he will let Beijing “deal with Nvidia,” noting that the American AI chipmaker is the “prime company in the world for that” and added: “We will let them deal with Nvidia, but not in terms of the most advanced.”
+“The most advanced, we will not let anybody have them other than the United States,” the president said.
+Nvidia’s shares rose 1.4% to $205.31 in premarket trading early on Monday. Last week, Nvidia became the first company to breach a $5 trillion market cap after Trump signaled he would be open to discussing export controls on Nvidia's advanced chips aimed at China during his meeting with Chinese counterpart Xi Jinping.
+
+NVDA price 3 days before article release: 207.01727294921875
+
+NVDA price 1 day before article release: 202.4677734375
+
+NVDA price the day of article release: 206.85728454589844

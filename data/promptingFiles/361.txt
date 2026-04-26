@@ -1,0 +1,54 @@
+Why Nvidia, Meta, Microsoft And Amazon Stock Are Outpacing Apple And Tesla
+
+Apr 02, 2024, 02:38pm EDT
+
+What makes stock prices go up and down? My guess is it all depends on how a company performs compared to investor expectations.
+When it comes to the the seven biggest tech stocks propelling the S&P 500, this hypothesis holds up well when examining their performance in the first three months of 2024.
+The so-called fab four — Nvidia, Meta PlatformsFB, MicrosoftMSFT, and AmazonAMZN — outpaced the market after reporting expectations-beating growth. Shares of two of the other three — Apple and Tesla — have lost ground in the first quarter, according to the Wall Street Journal.
+Here’s how those four stocks performed in the first quarter compared to the S&P 500 which rose 10.7%:
+
+
+The other two lost ground. (I am leaving out Alphabet, the seventh company). Here is how poorly they fared:
+
+
+There seems to be a relationship between how each of these companies performed relative to expectations in their most recent financial report and their stock price trajectories.
+Consider buying companies from these lists you think will exceed expectations and raise their guidance when they next report quarterly results. Conversely, consider selling shares of the companies you expect to fall short of investor expectations.
+Nvidia, Meta, Amazon, and Microsoft did better than expectations. The relative performance of their stock prices in the first quarter seems to sync with their revenue growth.
+Nvidia defied the pessimists when it reported results for the quarter ending January 2024, I wrote in a February 2024 Forbes post.
+After reporting faster-than-expected growth in the previous quarter and raising guidance for the current one, investors sent Nvidia stock up more than 14% in off-hours trading on February 21.
+Here are the key numbers:
+
+
+Nvidia’s stock continued to rise for the rest of the first quarter of 2024. When it reports results in May, the stock could come crashing down unless the chip maker exceeds that 300% growth forecast.
+Meta — with a 29% net margin in 2023 — grew faster and offered better guidance than Amazon did. Meta also initiated a 50 cents per share dividend, I wrote in a February 2024 Forbes post comparing the performance of the two tech giants.
+Here are the key numbers for Meta:
+
+
+Amazon — which generated a 17% net margin last year — is growing more slowly, but catching up in Generative AI, I wrote in the same February 2024 Forbes post mentioned above.
+The highlights of Amazon’s report included:
+
+
+Both companies cut costs. Meta cut 22% of its people — ending 2023 with 67,317 employees, noted IBD. Amazon laid off roughly 27,000 employees a year ago — ending 2023 slightly below the year-earlier level of 1.53 million, according to the Wall Street Journal.
+Microsoft’s guidance for the current quarter fell short even as the company beat earnings expectations due to rapid growth in its Azure unit, according to CNBC. Results were also helped by Microsoft’s acquisition of video game publisher ActivisionATVI Blizzard, I wrote in a January 2024 Forbes post.
+Here are the key numbers:
+
+
+Apple and Tesla delivered disappointing results for investors and their share prices fell.
+As I wrote in a January 2024 Forbes post, Tesla issued a weak fourth quarter report and delivered below-expectations guidance for 2024.
+While Tesla’s revenue was up, the vehicle maker fell short of expectations while its operating margin dropped significantly and the company forecast lower growth. Here are the key numbers:
+
+
+The drumbeat of bad Tesla news persisted with the company’s April 2 report of weak first quarter deliveries of 386,810 vehicles, “which was substantially below analyst consensus estimate of 449,080,” noted an email from investment manager, Louis Navellier.
+Competition from BYD and Li Auto meant both companies captured Chinese market share from Tesla. With Tesla’s Model 3 and Model Y accounting for 96% of Tesla’s first-quarter deliveries, pressure on Tesla to introduce its Model 2 became “imperative,” noted Navellier.
+Meanwhile, a Wall Street analyst forecast Apple revenue could drop for the first time since 2016 when it reports in May. Ananda Baruah, an analyst at Loop Capital, cut his earnings estimates for the iPhone-maker, reported Quartz.
+Baruah forecasts Apple’s iPhone revenue for the March 2024-ending quarter will total $44 billion while estimating the company’s total revenue to fall $3.2 billion below Wall Street’s forecast of $91 billion, Quartz noted.
+Underlying Baruah’s bearish forecast were low iPhone unit shipments due to declining organic demand and stronger competition along with flattening average selling prices. With Apple depending heavily on the Chinese smartphone market, the company was hurt by the 7% decline in demand in China and the resurgence of rival Huawei which released a new series of smartphones, reported Quartz.
+If Baruah is correct, Apple would fall way short of Wall Street expectations. He wrote that Wall Street forecasts for iPhone unit sales and revenue could be 20% too high while Wall Street expectations for the company’s overall revenue and earnings per share could be 10% higher than what Apple he expects to achieve, per the Quartz report.
+The lesson for investors is simple in concept: Bet on companies that grow the fastest by getting the most innovative products to market before their rivals do.
+The hard part is that some of the fastest-growing companies have raised investor expectations so high that their shares could plunge if they cannot keep setting the bar ever higher.
+
+NVDA price 3 days before article release: 90.1990966796875
+
+NVDA price 1 day before article release: 90.3120346069336
+
+NVDA price the day of article release: 89.40154266357422

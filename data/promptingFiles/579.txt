@@ -1,0 +1,15 @@
+Nvidia Leak Reveals RTX 3090 Annihilating RTX 2080 Ti In Games
+
+Aug 31, 2020, 04:11pm EDT
+
+If the slides below are to be believed, Nvidia's upcoming RTX 3000-series 'Ampere' graphics cards could be more than twice as fast in some games than the RTX 2000-series, with the performance of the RTX 3090 smashing the RTX 2080 Ti - it's current 2000-series flagship.
+The benchmark results, revealed by Twitter user @yuten0x, show that in Control, the new Ampere card was more than twice as fast as the RTX 2080 Ti with RTX features such as DLSS turned on at 4K resolution. It was exactly twice as rapid in Minecraft RTX and somewhere around 1.8x as fast in Wolfenstein: Youngblood.
+The next slide to be supposedly leaked suggests the RTX 3090 could have a massive 24GB memory, 5,2848 cores and memory bandwidth of 19.5Gbps. Various rumors have pointed at prices around $1400, but many in the community have suggested that's too low for the specification.
+
+Nvidia is set to hold an online event on Tuesday where it is widely expected to reveal its 3000-series Ampere GPUs. I'll be reporting live as the event unfolds with my take and I'll be covering all the news and rumors surrounding next-gen CPUs and graphics cards too so follow me here on Forbes, YouTube, Twitter, Facebook, Instagram  or Reddit for more PC hardware news and reviews.
+
+NVDA price 3 days before article release: 12.728921890258787
+
+NVDA price 1 day before article release: 13.10237979888916
+
+NVDA price the day of article release: 13.328346252441406

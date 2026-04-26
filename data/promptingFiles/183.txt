@@ -1,0 +1,28 @@
+Maingear Now Offers Gaming Rigs With Nvidia RTX 5080 And 5090 GPUs
+
+Jan 30, 2025, 04:33pm EST
+
+It’s officially GPU season again, because starting today, several of Nvidia’s newest 50-series graphics cards are hitting physical and digital store shelves, and apparently, just as quickly flying off them. Also, the beastly GPUs are now available inside Maingear’s line of premium pre-built PCs.
+As a side note, it’s always impressive seeing such expensive tech items sell out so quickly, although we’re undoubtedly witnessing at least some scalping. I’ve even read that this could be what’s referred to as a ‘paper launch’, which is when a product initially releases with little to no retail stock and is only sent to reviewers. The shortage could also be the result of a previously noted Blackwell design flaw that slowed down manufacturing, at least according to IGN.
+If you’re buying à la carte, the GeForce RTX 5080 retails for $999, while the top-of-the-line GeForce RTX 5090 will set you back $1,999. But if you don’t feel like battling the eBay scalpers for resold scraps, it seems Maingear has secured enough stock of Nvidia’s latest graphics cards to provide a relatively hassle-free purchasing experience. That said, you’ll pay dearly for the convenience and simple availability; adding a 5080 to any build will run you an extra $1,287, while adding a coveted 5090 will be another $2,887 on top of any base price. So the upcharge is real, but hey, supply and demand.
+When building a Maingear system, you can include a 5080 or 5090 inside the following chassis options:
+I reviewed one of Maingear’s 4090 MG-1 configurations back in 2023 and found it stylish, powerful, well-built and more than capable to run AAA games reliably in 4K and at max settings. Furthermore, I covered one of Maingear’s gaming laptops this past September and had very few complaints.
+For the most part, system integrators are all using the same (or similar) internal components, so these companies really live and die by their attention to detail, as well as the overt care they exhibit when building, testing and shipping these hulking machines. To that point, every Maingear PC I’ve gotten to review has been rather phenomenal, and I’m looking forward to seeing how Wallace Santos and team integrate these 50-series cards into their existing systems. Especially the power-hungry 5090.
+FEATURED | Frase ByForbes™
+Unscramble The Anagram To Reveal The Phrase
+Pinpoint By Linkedin
+Guess The Category
+Queens By Linkedin
+Crown Each Region
+Crossclimb By Linkedin
+Unlock A Trivia Ladder
+Today’s news undoubtedly shows that if you want to be on the cutting edge of graphics technology, PC is where it’s at, no question. Plus, a lot of console games that were previously exclusives are making their way to PC these days, in some cases completely eliminating the need to own one of Sony’s or Microsoft’s streamlined living room boxes. Xbox titles have long been PC-friendly, and the company is basically going multiplatform at the moment, so no walled garden there. And to its credit, PlayStation has been porting many of its first-party titles to PC for a good while now, so the divide between PC and consoles only continues to blur.
+Still, the release of these pricey 50-series GPUs is a stark reminder: You’ll pay an astronomical price to participate in the ongoing visual revolution. Affordable gaming consoles, such as the PS5 Pro or the upcoming Switch 2, are important options for gamers who can’t or won’t invest thousands of dollars in heavy, RGB-laden, do-everything boxes.
+GeForce Now additionally puts a dent in the expensive physical hardware argument, wherein you can pay a subscription fee to play games on Nvidia’s remote rigs, and the footage is then streamed to your display. No word on when 50-series performance will be added to the service, though, and game streaming is still very much a ‘your mileage may vary’ sort of situation.
+If you can afford one of Maingear’s refreshed builds, I’m sure you won’t be disappointed. Granted, as of this writing, going the system integrator route might be the surest way to obtain a 5080 or 5090 in the near future, but it’s certainly not the most cost efficient strategy.
+
+NVDA price 3 days before article release: 118.38121032714844
+
+NVDA price 1 day before article release: 123.65947723388672
+
+NVDA price the day of article release: 124.60918426513672

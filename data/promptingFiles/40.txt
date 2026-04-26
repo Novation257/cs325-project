@@ -1,0 +1,17 @@
+Nvidia/OpenAI Deal: Chipmaker Investing 100 Billion In ChatGPT Maker
+
+Sep 22, 2025, 02:31pm EDT
+
+Chip designer Nvidia will invest up to $100 billion in OpenAI, the companies announced Monday, creating a partnership that will focus on the development of artificial intelligence data centers and AI superintelligence.
+OpenAI will use at least 10 gigawatts worth of Nvidia systems for infrastructure used to train AI models (comparatively, 10 gigawatts could roughly power five Hoover Dams).
+As the Nvidia systems are deployed, the chip designer will invest $100 billion into OpenAI, with the first gigawatt of Nvidia’s tech slated to go online in the second half of 2026.
+Nvidia CEO Jensen Huang told investors last month the construction of one gigawatt of data center capacity costs between $50 billion and $60 billion, with Nvidia’s chips and systems accounting for about $35 billion of that cost.
+Nvidia shares are up 3.6% to $41.89 as of Monday afternoon, nearing their highest point of the year.
+Get Forbes Breaking News Text Alerts: We’re launching text message alerts so you'll always know the biggest stories shaping the day’s headlines. Text “Alerts” to (201) 335-0739 or sign up here.
+$500 billion. That is how much OpenAI could be valued following an upcoming $6 billion secondary share selloff, which could make the AI darling the world’s most valuable private company.
+
+NVDA price 3 days before article release: 170.27130126953125
+
+NVDA price 1 day before article release: 176.6505889892578
+
+NVDA price the day of article release: 183.58984375

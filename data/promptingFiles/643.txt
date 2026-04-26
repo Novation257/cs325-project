@@ -1,0 +1,21 @@
+NVIDIA Brings The Power Of GPU To Data Processing Pipelines
+
+Nov 05, 2018, 11:19pm EST
+
+NVIDIA has launched an open source project called Real-time Acceleration Platform for Integrated Data Science (RAPIDS) that aims to deliver end-to-end data science infrastructure based on GPUs.
+GPU-backed machines play an essential role in generating machine learning models. Data scientists run training jobs that are computationally intensive on GPUs. Massive datasets that are converted into complex matrices of numbers are used as an input for machine learning and deep learning models. During the training process, these matrices are added, multiplied and subtracted from other complex matrices. These computations are delegated to GPUs that parallelize the complex calculations across multiple cores of GPUs which accelerate the machine learning training jobs. CPUs are not capable of tackling these intense calculations in parallel. A job that takes a few days on most powerful CPUs may be done in just a few hours by a couple of GPUs.
+There are multiple phases involved in data science. Training a machine learning model is just one of them which relies on GPUs. Other steps such as data preparation, exploration, visualizations are done on machines with CPUs. Even though GPUs are capable of accelerating the data preparation phase, the frameworks available today are not designed to take advantage of the infrastructure. In contrast, machine learning and deep learning toolkits such as TensorFlow, Caffe2, PyTorch, Apache MXNet, and Microsoft CNTK are built from the ground up keeping GPU execution in mind. Data scientists feed the fully prepared dataset to one of the machine learning frameworks to kick off the training job that exploits GPUs.
+NVIDIA wants to fill the gaps that exist in the machine learning pipeline through RAPIDS. This open source project is supported by key industry players including Anaconda, Databricks, IBM, H2O.ai, Uber and others. The project comes with tailor-made data preparation tools that can take advantage of GPUs. Though this initiative, data scientists can move the majority of the tasks to a consistent platform powered by GPUs. From data preparation to exploration to visualization to training, RAPIDS delivers a unified platform.
+The RAPIDS suite of software libraries give data scientists the freedom to execute end-to-end data science and analytics pipelines entirely on GPUs. It is built on the solid foundation of NVIDIA CUDA that delivers high-performance GPU execution, exposing that GPU parallelism and high memory bandwidth through user-friendly Python interfaces.
+Behind the scenes, RAPIDS is based on Apache Arrow, a columnar, in-memory data structure that delivers efficient and fast data interchange with the flexibility to support complex data models.
+In 2017 a group of companies including NVIDIA, OmniSci, Graphistry, H20.ai and others announced the GPU Open Analytics Initiative (GOAI). RAPIDS is the result of contributions from the machine learning community and GOAI partners. The project was initiated with the goal of accelerating end-to-end analytics and data science pipelines on GPUs.
+GOAI created the GPU DataFrame based on Apache Arrow data structures which is one of the building blocks of RAPIDS.
+Data scientists and developers can use familiar Jupyter Notebooks with RAPIDS to perform data preparation and exploration. The platform comes with native tools for DataFrame manipulation, GPU-accelerated machine learning libraries, graph analytics libraries and deep learning frameworks. RAPIDS will eventually include tightly integrated data visualization libraries based on Apache Arrow.
+GPUs are no more confined to training ML models. With NVIDIA RAPIDS, they can be used for almost all the stages involved in data science.
+Data scientists use over a dozen different tools during the lifecycle of a machine learning model. While RAPIDS is a step in the right direction, it adds another toolkit to the ML ecosystem that is suffering from heavy fragmentation.
+
+NVDA price 3 days before article release: 5.221390247344971
+
+NVDA price 1 day before article release: 5.322681427001953
+
+NVDA price the day of article release: 5.2446699142456055

@@ -1,0 +1,16 @@
+Why Nvidia May Become The 6th Company Worth $1 Trillion
+
+May 26, 2023, 05:02pm EDT
+
+As Nvidia’s market valuation approaches $1 trillion, experts credit its participation in the AI boom through its graphic processing units.
+Nvidia’s earnings report estimated $11 billion in sales for the second quarter, more than 50% higher than analysts’ predictions—it also reported $7.19 billion in revenue in the first quarter, $67 million higher than expected and up 19% from the previous quarter.
+According to Reuters, the company’s shares have risen over 160% this year, adding $586 billion in market value and making it the fifth most valuable U.S. company.
+Nvidia’s market capital is closing in on $1 trillion, a feat that only five other companies have accomplished: Apple, Amazon, Google’s parent company Alphabet, Microsoft and Saudi Aramco
+The company creates graphics processing units (GPU), and it’s estimated Nvidia owns 95% of that market.
+Nvidia was founded in 1993 and had its start making video game GPUs, which are cards gamers typically plug into computers to help handle graphics-related tasks, like effects and videos. However, it was discovered GPUs can also be used in deep learning AI. Deep learning is a component of AI that teaches computers to process data in a complex way inspired by how the human brain works. This includes recognizing intricate patterns, sounds, pictures, text and other data to create accurate insights and predictions. Soon, tech giants like Amazon, Google, Meta and Microsoft began buying Nvidia’s chips for their processing data, and institutions like Massachusetts General Hospital started using Nvidia chips to spot anomalies in medical images like CT scans. Tesla even unveiled its supercomputer that uses Nvidia’s chips to power its autonomous vehicles in 2021. On Wednesday, Nvidia revealed a new class of GPUs that reportedly run at twice the speed of the previous ones. This, along with the company’s impressive market performance, led Bank of America analysts to call Nvidia an “unquestionable AI leader” in a recent report.
+
+NVDA price 3 days before article release: 30.66085624694824
+
+NVDA price 1 day before article release: 37.946407318115234
+
+NVDA price the day of article release: 38.91155242919922

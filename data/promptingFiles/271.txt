@@ -1,0 +1,23 @@
+AMD Launches MI325 AI Accelerator To Challenge Nvidia. Stock Fell 4.5%
+
+Oct 11, 2024, 12:38pm EDT
+
+Chasing Nvidia is hard; Team Green simultaneously countered with new software that can triple AI performance.  Consequently, AMD’s performance claims are already out of date. And AMD compared it against the older Hopper, not Blackwell which will ship long before the MI325.
+AMD continues to make excellent progress on the hardware and software front for advancing AI.  However, AMD’s performance claims are unrealistic since they again did not use Nvidia’s optimization software. Nonetheless,  the MI325 is fast and boasts a huge amount of HBM3E (288GB).
+Before we dive into the AI accelerator, let’s look at the new 5th-gen EPYC CPU or Turin they just announced to see if they are maintaining their lead over Intel Xeon.  The fifth-generation EPYC CPU offers up to 192 efficiency cores for web apps and up to 192 cores for performance-demanding apps.  However, we note that AMD again chose to forgo on-chip AI  acceleration, which Intel added to Xeon for the last two generations. It seems strange, but I suspect this is what the hyperscalers told AMD they preferred. Nonetheless, we expect AMD to continue increasing its market share in data center CPUs.
+AMD CEO Dr. Lisa Su kicked off the AI portion of the event by updating the company’s projected market size for AI accelerators in the data center to $500B by 2028.  At last December’s launch for the MI300, she predicted the market would exceed $400 billion by 2027, so its not clear that this is much of an increase. But while AMD investors sold, driving down AMD’s price by over 4.5%,  Nvidia reached a near record high, up over 1%.
+The primary difference between the MI300 and MI325 is the amount of HBM3, which we assume are stacked 12 DDR chips high. The 256GB of HBM is 80% more memory than on the Nvidia H100 and 50% more than the H200.  This additional memory can matter a lot, as models get larger. Meta said on stage that 100% of their inference processing on Llama 405B is being serviced by the MI300X. I wonder if that will remain the case now that Nvidia announced on the same day that they increased performance of Llama 405B on the H200 by another 50%.
+How fast is the new MI325X?  AMD claimed (without providing details like what software was used and the size of the input sequence) that the 325 is 40% faster than the soon-to-be-old H200 for certain inference workloads. If history is a guide,  we can be certain this benchmark did not use Nvidia’s optimizing software which can easily increase performance by 2-4 times.
+AMD also touted their ROCm 6.2 software which essentially replaces Nvidia’s CUDA libraries.  Surprisingly. AMD did not update ROCm with anything like TensorRT LLM, which can again increase performance dramatically.
+And AMD teased next years MI350 series, which they claim will have better performance, and will support FP4, which is not supported on MI325 but is supported on Blackwell.
+If you don’t think a developer would use Nvidia’s optimization software to increase performance by 2-4X (and I gotta meet this guy!), then one can conclude the MI325 is faster than the H200.  If you use AMD’s optimizations in ROCm.
+The larger HBM will attract a lot of  users, however, like Meta. We will have to wait to see how much the MI350 can improve the contrast with Blackwell, which AMD ignored in the event.
+Like I said at the start, competing with Nvidia is hard. VERY hard.
+Disclosures: This article expresses the opinions of the author and is not to be taken as advice to purchase from or invest in the companies mentioned. My firm, Cambrian-AI Research, is fortunate to have many semiconductor firms as our clients, including BrainChip, Cadence, Cerebras Systems, D-Matrix, Esperanto, Groq, IBM, Intel, Micron, NVIDIA, Qualcomm, Graphcore, SImA.ai, Synopsys, Tenstorrent, Ventana Microsystems, and scores of investors. I have no investment positions in any of the companies mentioned in this article. For more information, please visit our website at https://cambrian-AI.com.
+
+
+NVDA price 3 days before article release: 132.83731079101562
+
+NVDA price 1 day before article release: 134.75656127929688
+
+NVDA price the day of article release: 134.74656677246094

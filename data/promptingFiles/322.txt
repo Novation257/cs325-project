@@ -1,0 +1,17 @@
+Nvidia Jumps Back Above $3 Trillion Valuation As Stock Gains Following Massive Selloff
+
+Jun 25, 2024, 04:29pm EDT
+
+Nvidia’s stock slightly recovered Tuesday following a massive three-day selloff, closing up more than 6% and resecuring a more than $3 trillion market cap following the slide that ended its brief standing as the world’s most valuable public company.
+Nvidia’s stock closed up more than 6% at $126.09, recovering from a Monday share dip that brought its price down to $118.11.
+Nvidia’s market cap reached $3.1 trillion after closing at $2.9 trillion Monday—the only day it traded below $3 trillion since June 11.
+Nvidia shares still have a ways to go before returning to its pre-selloff price ($135.58), which briefly made the chipmaker the most valuable company in the world, ahead of Microsoft and Apple.
+The chipmaker’s market cap still trails behind Apple ($3.2 trillion) and Microsoft ($3.3 trillion), shares of which closed up a fraction of a percent Tuesday.
+Get Forbes Breaking News Text Alerts: We’re launching text message alerts so you'll always know the biggest stories shaping the day’s headlines. Text “Alerts” to (201) 335-0739 or sign up here.
+Nvidia’s recent drop in share price did not have a clear catalyst, though it did materialize after a wildly strong year-to-date rally. Despite the decline, Nvidia shares are up more than 150% since the start of the year, when they traded for around $48. The company’s stock traded at $1,210 per share before a 10-for-1 stock split brought it down to $120 per share. Nvidia’s rise has been fueled by an artificial intelligence craze that has triggered wild demand for the company’s chips and graphics processing units, namely from fellow juggernaut tech companies like Microsoft, Meta and Amazon.
+
+NVDA price 3 days before article release: 130.71697998046875
+
+NVDA price 1 day before article release: 118.05307006835938
+
+NVDA price the day of article release: 126.02923583984376

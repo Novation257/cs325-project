@@ -1,0 +1,25 @@
+Nvidia GeForce RTX 4060 Vs AMD Radeon RX 7600: Which Should You Buy?
+
+Jun 28, 2023, 09:00am EDT
+
+Today Nvidia is launching the GeForce RTX 4060 - it's cheapest RTX 40-series graphics card to date, which is set to retail for $299 and below we'll compare its gaming performance against other graphics cards such as AMD's similarly-priced Radeon RX 7600.
+You can see a video review below.
+The GeForce RTX 4060 has 8GB of GDDR6 memory, which is the same as AMD's Radeon RX 7600, so here at least AMD doesn't enjoy a memory advantage like it does further up the stack. Cards such as the RX 6750 XT with 12GB of memory sit only $70 above the $299 asking price of the GeForce RTX 4600.
+Nvidia's frame rate-boosting DLSS is all very well and does work brilliantly in many titles, but if you play a wide range of games that aren't DLSS compliant, this key feature of the RTX 4060 might not be that useful. As well as comparing the Radeon RX 7600, the Radeon RX 6750 XT as well as older Nvidia models such as the RTX 3060 Ti and RTX 3070 are also in the graphs to see whether spending a little more is worth it for those that need all-round performance.
+Of course there are other benefits to the GeForce RTX 4060 too. It has exceptionally low power consumption with a TDP of 115W and in reality, Nvidia claims the RTX 4060 draws less power than the RTX 3060. We have no reason to doubt this either as the RTX 4060 Ti and RTX 4070 were also exceptionally power-frugal and cool-running. This means you won't need to boost your PCs cooling or upgrade your power supply as it's unlikely the RTX 4060 will draw more power or run hotter than previous low to mid-range graphics cards.
+In fact, Nvidia claims the RTX 4060 draws up to 60W less than some models of the RTX 3060, which can save you up to $57 over four years in the US at currently electricity prices if you game 10-20 hours per week, or up to $130 in Europe. That's close to half the cost of the RTX 4060.
+I used an Intel Core i9-12900K, 32GB of Kingston Fury 6400MHz DDR5 memory strapped to an NZXT N7 Z790 motherboard along with the latest drivers and Windows 11 updates. As the GeForce RTX 4060 is primarily a mid-range model facing 1080p and 1440p resolutions, I've focussed on these in the graphs but have included 4K performance with DLSS enabled on occasions to show its benefits. I've used the latest drivers and Windows 11 updates and BAR/Smart Access Memory is enabled. I've carried out 1080 testing on a select number of cards, but where possible, included results for high-end models for comparison at higher resolutions.
+
+
+
+
+Nvidia is finally offering new graphics cards around the $300 price bracket and the RTX 4060 is the cheapest RTX 40-series card yet. It seems to consistently outperform the Raden RX 7600 except for one or two situations and also offers a decent upgrade over the RTX 3060 too in most situations.
+The RTX 3060 Ti is faster in some situations, but its price of around $350 means it's rarely offering more bang for your buck, leaving the RTX 4060 in a decent position against older Nvidia cards at their current prices. Its main nemesis comes from older AMD cards. The Radeon RX 6750 XT for example, is much faster in games such as Halo Infinite, Forza Horizon 5, Far Cry 6 and Rainbow Six Extraction and costs just $60 more as well as being equipped with 50 percent more memory.
+Then of course you have two real trump cards for the RTX 4060 - its power efficiency and DLSS. The former means you won't need to upgrade your PC to use it as it runs cool and uses less power than an RTX 3060. It also has a standard 8-pin power connector. DLSS comes into its own where supported and the addition of frame generation means you'll see frame rates in games such as Microsoft Flight Simulator that see it knocking on the doors of much more expensive cards
+It's not likely to achieve legendary status such as the Steam Hardware Survey-toping GTX 1060, GTX 1650 or RTX 3060, but the RTX 4060 has done enough to represent a decent upgrade from those and similar calibre graphics cards in addition to its excellent power efficiency and DLSS support.
+
+NVDA price 3 days before article release: 42.17603302001953
+
+NVDA price 1 day before article release: 41.84328842163086
+
+NVDA price the day of article release: 41.08488464355469

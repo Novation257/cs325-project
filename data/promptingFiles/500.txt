@@ -1,0 +1,18 @@
+Cathie Wood’s Ark Invest Buys $60 Million In Nvidia Stock After Chipmaker’s $40 Billion Plunge
+
+Aug 09, 2022, 09:30am EDT
+
+Cathie Wood’s Ark Invest splurged on shares of Nvidia on Monday after the gaming-focused chipmaker warned it likely missed revenue projections last quarter—doubling down on a lofty investment even as a growing number of semiconductor stocks warn that weakening economic conditions will likely lead to revenue shortfalls this year.
+According to Ark’s daily transaction reports, three of the firm’s funds, including its flagship Ark Innovation ETF, bought a combined 366,982 shares of Nvidia on Monday, representing a stake worth about $65 million based on the stock’s closing price.
+The transactions came on the same day Nvidia issued a preliminary earnings report saying it expects revenue fell 19% to $6.7 billion last quarter, far below a projection of $8.1 billion shared in May, due to “macroeconomic headwinds” and “challenging market conditions that are expected to  persist into the third quarter.”
+Shares of Silicon Valley-based Nvidia plunged 6.3% to about $178 after the release, wiping more than $40 billion in market value and pushing the stock down 41% for the year, compared to a 20% decline for the tech-heavy Nasdaq.
+Ark now holds 763,867 shares of Nvidia worth nearly $136 million in its flagship fund, putting it among its top 25 most valuable holdings.
+Another chipmaker has since come forward with a negative earnings update: On Tuesday morning, Idaho-based Micron Technology warned its upcoming quarterly revenue “may come in at or below the low end” of projections issued on June 30, as a result of lingering supply chain constraints and macroeconomic factors.
+In emailed comments, analyst Adam Crisafulli of Vital Knowledge said the announcements point to economic conditions that are "continuing to weaken," noting Micron said it expects the pain will persist through next quarter and adding that companies selling their chips to computer- and smartphone-makers are suffering in particular, as consumers dial back on spending.
+Wood’s fund, which Ark says focuses on “disruptive innovation,” has struggled as tech stocks plunge in value. The firm’s flagship Innovation ETF has collapsed 59% over the past year, with top holdings like Zoom Video Communications and Roku cratering as much as 80%. "What we do see in these earnings results is that we are in a recession," Wood told CNBC last week, adding that her fund should once again outperform the market once the economic pain subsides.
+
+NVDA price 3 days before article release: 19.18413543701172
+
+NVDA price 1 day before article release: 17.76441764831543
+
+NVDA price the day of article release: 17.058549880981445
